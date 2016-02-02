@@ -39,7 +39,12 @@ class prtrList {
     public function extractPageNum($c) {
         $parts = explode('"hidTotalItemCount" value="', $c);
         $pos = strpos($parts[1], '"');
-        return intval(substr($parts[1], 0, $pos));
+        $itemCount = intval(substr($parts[1], 0, $pos));
+        $pageCount = $itemCount / 10;
+        if($itemCount % 10 !== 0) {
+            ++$pageCount;
+        }
+        return $pageCount;
     }
 
     public function extractLines($c) {
