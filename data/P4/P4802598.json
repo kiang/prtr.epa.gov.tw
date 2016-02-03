@@ -1,0 +1,80 @@
+{
+    "info": {
+        "地址": "雲林縣虎尾鎮惠來里２０１號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "P4802598",
+        "行業別": "殯葬服務業(殯葬服務業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.7291409671006",
+        "longitude": "120.485121082748",
+        "name": "虎尾鎮立殯儀館暨火葬場管理所"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [
+            {
+                "REGISTRATIONNO": "P4802598",
+                "EMICHIMNEY": "P002",
+                "EXAMODIFYDATE": "2015\/10\/05",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.003",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "定期檢測合格",
+                "UPDATETIME": "2015\/12\/26 01:00",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "P4802598",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2015\/08\/06",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.015",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "稽查合格",
+                "UPDATETIME": "2015\/12\/26 01:00",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "P4802598",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2012\/05\/23",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.03",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2013\/12\/17 10:10",
+                "RPT_TYPE": "METAL"
+            }
+        ],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "P4802598",
+                "FACILITYNAME": "虎尾鎮立殯儀館暨火葬場管理所",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "20-104-090004",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/09\/03",
+                "TRANSGRESSDATE": "2013\/01\/01",
+                "TRANSGRESSLAW": "空氣污染防制法第22條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-10-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

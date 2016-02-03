@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "彰化縣埔鹽鄉新水村大新路２０號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "N2207403",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.9927832645982",
+        "longitude": "120.44848381175",
+        "name": "華新塑膠企業社"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "N2207403",
+                "FACILITYNAME": "華新塑膠企業社",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-101-090013",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/25",
+                "TRANSGRESSDATE": "2012\/09\/05",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 160000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "自行撤銷",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "華新塑膠企業社",
+                "TRANSGRESSCONTROLID": "N2207403"
+            },
+            {
+                "REGISTRATIONNO": "N2207403",
+                "FACILITYNAME": "華新塑膠企業社",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-101-100011",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/10\/18",
+                "TRANSGRESSDATE": "2012\/08\/09",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，水污染防治法第14條第1項",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-11-09",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "華新塑膠企業社",
+                "TRANSGRESSCONTROLID": "N2207403"
+            }
+        ]
+    }
+}

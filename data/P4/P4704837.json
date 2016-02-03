@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "雲林縣斗南鎮國道一號STA、二二六k+三○○至STA、二二八k+九○○",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "P4704837",
+        "行業別": "其他專門營造業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.6931478419806",
+        "longitude": "120.471541053991",
+        "name": "交通部台灣區國道高速公路局拓建工程處"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "P4704837",
+                "FACILITYNAME": "交通部台灣區國道高速公路局拓建工程處",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "23-101-020001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/02\/13",
+                "TRANSGRESSDATE": "2011\/12\/28",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-02-29",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "萬鼎工程服務股份有限公司-國道1號增設頭屋交流道工程(國道1號第425標)道路",
+                "TRANSGRESSCONTROLID": "K79097000479"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "新竹市海濱路二四○號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "O1745313",
+        "行業別": "公共行政業(政府機關)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.8346481437669",
+        "longitude": "120.919784960928",
+        "name": "新竹市環境保護局"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "O1745313",
+                "FACILITYNAME": "新竹市環境保護局",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "41-101-020552",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/02\/29",
+                "TRANSGRESSDATE": "2011\/11\/25",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1項第1款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "新竹市環境保護局",
+                "TRANSGRESSCONTROLID": "O1745313"
+            }
+        ]
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "info": {
+        "地址": "彰化縣二林鎮竹圍段一二○之二、一二Ｏ之三、一二Ｏ之四地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "N1400213",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "金勵飼養場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [
+            {
+                "REGISTRATIONNO": "N1400213",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/01\/01",
+                "EMIENDDATE": "2012\/06\/30",
+                "EMIWATER": "24",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "452",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "N1400213",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/01\/01",
+                "EMIENDDATE": "2012\/06\/30",
+                "EMIWATER": "24",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "128",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "N1400213",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/01\/01",
+                "EMIENDDATE": "2012\/06\/30",
+                "EMIWATER": "24",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "63.10",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            }
+        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

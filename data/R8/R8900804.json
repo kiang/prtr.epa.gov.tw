@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺南市新化區新和庄１０之３號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "R8900804",
+        "行業別": "其他金屬製品製造業(未分類其他金屬製品製造業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.0442465021125",
+        "longitude": "120.315382218703",
+        "name": "豪金鐵線股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "R8900804",
+                "FACILITYNAME": "豪金鐵線股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-102-100003",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/10\/02",
+                "TRANSGRESSDATE": "2013\/07\/16",
+                "TRANSGRESSLAW": "交通工具空氣污染物排放標準第5條，空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-11-01",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "豪金鐵線股份有限公司",
+                "TRANSGRESSCONTROLID": "R8900804"
+            },
+            {
+                "REGISTRATIONNO": "R8900804",
+                "FACILITYNAME": "豪金鐵線股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-100-120065",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/12\/16",
+                "TRANSGRESSDATE": "2011\/09\/20",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2012-01-06",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "豪金鐵線股份有限公司",
+                "TRANSGRESSCONTROLID": "R8900804"
+            }
+        ]
+    }
+}

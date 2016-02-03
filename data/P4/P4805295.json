@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "雲林縣虎尾鎮下溪里溪底四號行政路六號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "P4805295",
+        "行業別": "廢棄物處理業(無害廢棄物處理業)",
+        "列管類別": "水污染;廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "雲林縣虎尾鎮垃圾衛生掩埋場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "P4805295",
+                "FACILITYNAME": "雲林縣虎尾鎮垃圾衛生掩埋場",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "30-103-110004",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/11\/07",
+                "TRANSGRESSDATE": "2013\/09\/02",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "陳情撤銷",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "雲林縣虎尾鎮垃圾衛生掩埋場",
+                "TRANSGRESSCONTROLID": "P4805295"
+            },
+            {
+                "REGISTRATIONNO": "P4805295",
+                "FACILITYNAME": "雲林縣虎尾鎮垃圾衛生掩埋場",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "30-102-120023",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/12\/18",
+                "TRANSGRESSDATE": "2013\/09\/02",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 210000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "環保署訴願會",
+                "PETITIONRESULTS": "撤銷並另立裁處書",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "2013-10-01",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "雲林縣虎尾鎮垃圾衛生掩埋場",
+                "TRANSGRESSCONTROLID": "P4805295"
+            }
+        ]
+    }
+}

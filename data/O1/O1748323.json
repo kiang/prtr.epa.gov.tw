@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新竹市長春段一○二三、一○二四、一○二五、一○二六、一○二八地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "O1748323",
+        "行業別": "業務及辦公室支援服務業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "觀璞社區"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "O17097024040",
+                "FACILITYNAME": "觀璞社區管理委員會",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "30-101-050001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/05\/08",
+                "TRANSGRESSDATE": "2012\/03\/21",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 70000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-05-16",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "觀璞社區",
+                "TRANSGRESSCONTROLID": "O1748323"
+            },
+            {
+                "REGISTRATIONNO": "O17097024040",
+                "FACILITYNAME": "觀璞社區管理委員會",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "30-101-010001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/01\/12",
+                "TRANSGRESSDATE": "2011\/12\/07",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第50條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2011-12-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "觀璞社區",
+                "TRANSGRESSCONTROLID": "O1748323"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新竹市光復路一段一一四號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "O1795144",
+        "行業別": "廢棄物清除業(有害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.7814680178556",
+        "longitude": "121.023769000003",
+        "name": "竹中廢棄物清除有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "O1795144",
+                "FACILITYNAME": "竹中廢棄物清除有限公司",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "44-101-060004",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/06\/25",
+                "TRANSGRESSDATE": "2012\/05\/30",
+                "TRANSGRESSLAW": "廢棄物清理法第36條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "竹中廢棄物清除有限公司",
+                "TRANSGRESSCONTROLID": "O1795144"
+            },
+            {
+                "REGISTRATIONNO": "O1713320",
+                "FACILITYNAME": "光復廢棄物清除有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "44-101-110002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/11\/05",
+                "TRANSGRESSDATE": "2012\/04\/09",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第17條，廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "竹中廢棄物清除有限公司",
+                "TRANSGRESSCONTROLID": "O1795144"
+            }
+        ]
+    }
+}

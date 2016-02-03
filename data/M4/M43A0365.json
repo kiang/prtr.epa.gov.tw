@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "南投縣水里鄉龜子頭段２８８之３７、３６０之１地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "M43A0365",
+        "行業別": "其他礦業及土石採取業",
+        "列管類別": "空氣污染;水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "長鎰砂石有限公司-龜子頭段臨時堆置場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "M43A0365",
+                "FACILITYNAME": "長鎰砂石有限公司-龜子頭段臨時堆置場",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "30-100-070007",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/07\/18",
+                "TRANSGRESSDATE": "2011\/04\/21",
+                "TRANSGRESSLAW": "水污染防治法第18條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-06-10",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "長鎰砂石有限公司-龜子頭段臨時堆置場",
+                "TRANSGRESSCONTROLID": "M43A0365"
+            },
+            {
+                "REGISTRATIONNO": "M43A0365",
+                "FACILITYNAME": "長鎰砂石有限公司-龜子頭段臨時堆置場",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "20-100-040001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/04\/14",
+                "TRANSGRESSDATE": "2011\/01\/25",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第1項，空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-07-29",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "長鎰砂石有限公司-龜子頭段臨時堆置場",
+                "TRANSGRESSCONTROLID": "M43097000523"
+            }
+        ]
+    }
+}

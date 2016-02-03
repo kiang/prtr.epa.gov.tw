@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "彰化縣永靖鄉瑚璉村中山路二段１２７號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "N2406433",
+        "行業別": "石油化工原料製造業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.921433546388",
+        "longitude": "120.54976520353",
+        "name": "裕源化工原料有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "N2406433",
+                "FACILITYNAME": "裕源化工原料有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "34-102-040001",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/04\/08",
+                "TRANSGRESSDATE": "2013\/03\/19",
+                "TRANSGRESSLAW": "毒性化學物質管理法第7條第4項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕源化工原料有限公司",
+                "TRANSGRESSCONTROLID": "N24097000416"
+            },
+            {
+                "REGISTRATIONNO": "N2406433",
+                "FACILITYNAME": "裕源化工原料有限公司",
+                "COUNTY": "嘉義市",
+                "COUNTYCODE": "6",
+                "DOCUMENTNO": "21-100-110025",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/11\/21",
+                "TRANSGRESSDATE": "2011\/08\/24",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕源化工原料有限公司",
+                "TRANSGRESSCONTROLID": "N24097000416"
+            }
+        ]
+    }
+}

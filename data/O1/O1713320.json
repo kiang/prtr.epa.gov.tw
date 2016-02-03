@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新竹市大學路一號三樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "O1713320",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.7907000178707",
+        "longitude": "121.004545",
+        "name": "光復廢棄物清除有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "O1713320",
+                "FACILITYNAME": "光復廢棄物清除有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "44-101-110002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/11\/05",
+                "TRANSGRESSDATE": "2012\/04\/09",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第17條，廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "竹中廢棄物清除有限公司",
+                "TRANSGRESSCONTROLID": "O1795144"
+            },
+            {
+                "REGISTRATIONNO": "O1713320",
+                "FACILITYNAME": "光復廢棄物清除有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "40-101-070007",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/07\/24",
+                "TRANSGRESSDATE": "2012\/02\/22",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第17條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

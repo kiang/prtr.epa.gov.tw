@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "南投縣埔里鎮籃城段１７９、１８１、２２２、２２３、２２４、２２５、２２６、２２８、２２９、２３０、２３１、２３２、２６９、２７０、２７１、２７６、２７７、２７８、２７９、２８３、２８４、２８５、２９２、２９３、２９４、２９５、２９６、２９７、２７５地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "M3406514",
+        "行業別": "其他礦業及土石採取業",
+        "列管類別": "空氣污染;水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "裕田砂石有限公司-籃城段臨時堆置場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "M3406514",
+                "FACILITYNAME": "裕田砂石有限公司-籃城段臨時堆置場",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "20-100-070002",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/07\/05",
+                "TRANSGRESSDATE": "2011\/05\/23",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第1項，空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-11-30",
+                "INSPECTIONCONDITION": "改善完成",
+                "TRANSGRESSNAME": "裕田砂石有限公司-籃城段臨時堆置場",
+                "TRANSGRESSCONTROLID": "M3406514"
+            },
+            {
+                "REGISTRATIONNO": "M3406514",
+                "FACILITYNAME": "裕田砂石有限公司-籃城段臨時堆置場",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "30-100-050004",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/05\/27",
+                "TRANSGRESSDATE": "2011\/04\/25",
+                "TRANSGRESSLAW": "水污染防治法第18條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-06-05",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕田砂石有限公司-籃城段臨時堆置場",
+                "TRANSGRESSCONTROLID": "M3406514"
+            }
+        ]
+    }
+}

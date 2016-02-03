@@ -1,0 +1,95 @@
+{
+    "info": {
+        "地址": "雲林縣土庫鎮秀潭九之五八號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "P5005422",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.6618923029562",
+        "longitude": "120.346046227901",
+        "name": "興茂(二)畜牧場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [
+            {
+                "REGISTRATIONNO": "P5005422",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "6878",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "519",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "P5005422",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "6878",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "122",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "P5005422",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "6878",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "73",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            }
+        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "P5005422",
+                "FACILITYNAME": "興茂(二)畜牧場",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "30-103-120016",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/12\/31",
+                "TRANSGRESSDATE": "2014\/11\/12",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2015-01-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興茂(二)畜牧場",
+                "TRANSGRESSCONTROLID": "P5005422"
+            }
+        ]
+    }
+}

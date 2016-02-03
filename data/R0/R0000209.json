@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺南市七股區三股里１４７號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "R0000209",
+        "行業別": "業務及辦公室支援服務業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.1046160129163",
+        "longitude": "120.123063835951",
+        "name": "國軍退除役官兵輔導委員會佳里榮譽國民之家"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "R0000209",
+                "FACILITYNAME": "國軍退除役官兵輔導委員會佳里榮譽國民之家",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-104-100013",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/10\/07",
+                "TRANSGRESSDATE": "2015\/08\/25",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "2015-11-18",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "行政院國軍退除役官兵輔導委員會佳里榮譽國民之家",
+                "TRANSGRESSCONTROLID": "R0000209"
+            }
+        ]
+    }
+}

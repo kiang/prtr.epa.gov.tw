@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "雲林縣斗南鎮小東里德業路３３巷６號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "P4701185",
+        "行業別": "肉類處理保藏及其製品製造業(屠宰業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.6975896177325",
+        "longitude": "120.475673388963",
+        "name": "鑫鋒冷凍有限公司"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "P4701185",
+                "QUARTER": "2",
+                "STARTDATE": "2010\/04\/01",
+                "ENDDATE": "2010\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/04\/30",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "P4701185",
+                "QUARTER": "2",
+                "STARTDATE": "2010\/04\/01",
+                "ENDDATE": "2010\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.045,
+                "EMIITEM4": 0.569
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

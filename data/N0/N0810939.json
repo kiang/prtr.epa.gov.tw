@@ -1,0 +1,109 @@
+{
+    "info": {
+        "地址": "彰化縣鹿港鎮詔安里田洋巷一之六號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "N0810939",
+        "行業別": "廢（污）水處理業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.0572364611997",
+        "longitude": "120.434987434818",
+        "name": "安陽企業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "N0810939",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "2",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "N0810939",
+                "QUARTER": "1",
+                "STARTDATE": "2014\/01\/01",
+                "ENDDATE": "2014\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "3.10",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/10\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "N0810939",
+                "QUARTER": "2",
+                "STARTDATE": "2013\/04\/01",
+                "ENDDATE": "2013\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "1",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "N0810939",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "1",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "N0810939",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "2",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "N0810939",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "16502               ",
+                "TOXICNAME": "壬基酚聚乙氧基醇",
+                "TOXICENGNAME": "Nonylphenol polyethylene glycol ether ",
+                "EMIVALUE": "5.40",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

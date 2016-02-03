@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "雲林縣西螺鎮大同路四號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "P4904319",
+        "行業別": "職業學校(職業學校)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.7945601639669",
+        "longitude": "120.470992458948",
+        "name": "國立西螺高級農工職業學校"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "P4904319",
+                "FACILITYNAME": "國立西螺高級農工職業學校",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "23-102-010003",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/01\/24",
+                "TRANSGRESSDATE": "2012\/01\/18",
+                "TRANSGRESSLAW": "空氣污染防制法第16條第2項",
+                "PENALTYMONEY": 1500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-02-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "P4904319",
+                "FACILITYNAME": "國立西螺高級農工職業學校",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "23-100-120001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/12\/14",
+                "TRANSGRESSDATE": "2011\/09\/24",
+                "TRANSGRESSLAW": "空氣污染防制法第16條第2項",
+                "PENALTYMONEY": 1500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-12-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "info": {
+        "地址": "彰化縣埤頭鄉崙腳村興工路６２號",
+        "所屬工業區": "埤頭工業區",
+        "管制編號": "N2806906",
+        "行業別": "未分類其他製造業(其他未分類製造業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.8767320160834",
+        "longitude": "120.463145963237",
+        "name": "宏昇能源科技股份有限公司工廠"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "N2806906",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "核算確認中",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0.317,
+                "EMIITEM3": 0.626,
+                "EMIITEM4": 3.338
+            },
+            {
+                "REGISTRATIONNO": "N2806906",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.598,
+                "EMIITEM4": 3.187
+            },
+            {
+                "REGISTRATIONNO": "N2806906",
+                "QUARTER": "1",
+                "STARTDATE": "2015\/01\/01",
+                "ENDDATE": "2015\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.065,
+                "EMIITEM4": 1.445
+            },
+            {
+                "REGISTRATIONNO": "N2806906",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.073,
+                "EMIITEM4": 1.617
+            },
+            {
+                "REGISTRATIONNO": "N2806906",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "核算確認中",
+                "UPDATETIME": "2015\/05\/03",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [
+            {
+                "REGISTRATIONNO": "N2806906",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2015\/02\/10",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.096",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "定期檢測合格",
+                "UPDATETIME": "2015\/12\/26 01:00",
+                "RPT_TYPE": "METAL"
+            }
+        ],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "N2806906",
+                "FACILITYNAME": "宏昇能源科技股份有限公司工廠",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "20-103-110001",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/11\/21",
+                "TRANSGRESSDATE": "2014\/05\/02",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-11-21",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

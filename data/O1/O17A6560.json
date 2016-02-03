@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新竹市東區力行五路３號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "O17A6560",
+        "行業別": "半導體製造業(積體電路製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.7642100178277",
+        "longitude": "121.020032000002",
+        "name": "頎邦科技股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "O17A6560",
+                "FACILITYNAME": "頎邦科技股份有限公司",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "30-102-070004",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/07\/24",
+                "TRANSGRESSDATE": "2013\/06\/13",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治法第7條第1項",
+                "PENALTYMONEY": 130000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-06-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "頎邦科技股份有限公司展業廠",
+                "TRANSGRESSCONTROLID": "O1747924"
+            },
+            {
+                "REGISTRATIONNO": "O17A6560",
+                "FACILITYNAME": "頎邦科技股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "40-101-110004",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/11\/01",
+                "TRANSGRESSDATE": "2012\/10\/11",
+                "TRANSGRESSLAW": "廢棄物清理法第36條，事業廢棄物貯存清除處理方法及設施標準第7條第1項第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "頎邦科技股份有限公司研發廠",
+                "TRANSGRESSCONTROLID": "J63A1432"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "台南市六甲區龜港里龜子港二四八號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "R9600027",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.2497890012774",
+        "longitude": "120.313806920961",
+        "name": "嘉南加油站實業有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "R9600027",
+                "FACILITYNAME": "嘉南加油站實業有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-103-110016",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/11\/11",
+                "TRANSGRESSDATE": "2014\/09\/29",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "嘉南加油站實業有限公司-嘉南加油站實業有限公司自辦嘉南加油站實業有限公司加油站站屋、店舖住宅拆除工程",
+                "TRANSGRESSCONTROLID": "D9600362"
+            },
+            {
+                "REGISTRATIONNO": "R9600027",
+                "FACILITYNAME": "嘉南加油站實業有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "32-101-090001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/28",
+                "TRANSGRESSDATE": "2012\/08\/07",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第22條第1項",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "嘉南加油站實業有限公司",
+                "TRANSGRESSCONTROLID": "R9600027"
+            }
+        ]
+    }
+}

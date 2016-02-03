@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "南投縣草屯鎮土城里中正路１２９之１號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "M3501381",
+        "行業別": "其他礦業及土石採取業",
+        "列管類別": "空氣污染;水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.9807816718977",
+        "longitude": "120.754612709461",
+        "name": "福熹企業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "M3501381",
+                "FACILITYNAME": "福熹企業股份有限公司",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "20-102-070004",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/07\/23",
+                "TRANSGRESSDATE": "2013\/05\/28",
+                "TRANSGRESSLAW": "固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第6條，固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第8條，空氣污染防制法第23條第2項，固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第4條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-08-31",
+                "INSPECTIONCONDITION": "改善完成",
+                "TRANSGRESSNAME": "福熹企業股份有限公司",
+                "TRANSGRESSCONTROLID": "M3501381"
+            },
+            {
+                "REGISTRATIONNO": "M3501381",
+                "FACILITYNAME": "福熹企業股份有限公司",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "30-102-010005",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/01\/22",
+                "TRANSGRESSDATE": "2012\/08\/29",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，水污染防治法第14條第1項",
+                "PENALTYMONEY": 220000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "福熹企業股份有限公司",
+                "TRANSGRESSCONTROLID": "M3501381"
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺南市新市區中山路６７號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "R0300124",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.0780370015885",
+        "longitude": "120.302855014594",
+        "name": "全國新市加油站"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B23097000579",
+                "FACILITYNAME": "全國加油站股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "32-102-070001",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/07\/02",
+                "TRANSGRESSDATE": "2013\/03\/11",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第41條第3項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "全國新市加油站",
+                "TRANSGRESSCONTROLID": "R0300124"
+            }
+        ]
+    }
+}

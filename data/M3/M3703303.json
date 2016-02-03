@@ -1,0 +1,47 @@
+{
+    "info": {
+        "地址": "南投縣集集鎮富山里油坑巷１１之１１號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "M3703303",
+        "行業別": "宗教組織",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.828462003815",
+        "longitude": "120.786606214107",
+        "name": "慈德寺"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [
+            {
+                "REGISTRATIONNO": "M3703303",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2015\/09\/17",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.019",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "定期檢測合格",
+                "UPDATETIME": "2015\/12\/26 01:00",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "M3703303",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2013\/09\/26",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.027",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2014\/05\/29 01:00",
+                "RPT_TYPE": "METAL"
+            }
+        ],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

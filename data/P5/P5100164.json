@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "雲林縣北港鎮民樂路４６５號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "P5100164",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.5864153683601",
+        "longitude": "120.288714939788",
+        "name": "國濱加油站有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "P5100164",
+                "FACILITYNAME": "國濱加油站有限公司",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "20-101-110007",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/11\/19",
+                "TRANSGRESSDATE": "2012\/08\/14",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項，加油站油氣回收設施管理辦法第8條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-11-19",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "國濱加油站有限公司",
+                "TRANSGRESSCONTROLID": "P5100164"
+            }
+        ]
+    }
+}

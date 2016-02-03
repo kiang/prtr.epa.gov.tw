@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市岡山區岡山北路２４６號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "S1600073",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.8190836280769",
+        "longitude": "120.272099514433",
+        "name": "北嶺加油站有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S1600073",
+                "FACILITYNAME": "北嶺加油站有限公司",
+                "COUNTY": "環保署",
+                "COUNTYCODE": "0",
+                "DOCUMENTNO": "32-104-100003",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/10\/12",
+                "TRANSGRESSDATE": "2014\/06\/03",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第12條第3項，土壤及地下水污染整治法第40條第3項",
+                "PENALTYMONEY": 150000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "北嶺加油站有限公司",
+                "TRANSGRESSCONTROLID": "S1600073"
+            },
+            {
+                "REGISTRATIONNO": "S1600073",
+                "FACILITYNAME": "北嶺加油站有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "32-103-090005",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/09\/25",
+                "TRANSGRESSDATE": "2013\/12\/07",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第7條第5項",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "北嶺加油站",
+                "TRANSGRESSCONTROLID": "S1600073"
+            }
+        ]
+    }
+}

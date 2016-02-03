@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新竹市牛埔東路一號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "O1751535",
+        "行業別": "廢（污）水處理業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.7993290178845",
+        "longitude": "120.924939999903",
+        "name": "未來二一社區污水下水道系統"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "O17097036693",
+                "FACILITYNAME": "未來21社區公寓大廈管理委員會",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "30-104-090007",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/09\/30",
+                "TRANSGRESSDATE": "2015\/08\/18",
+                "TRANSGRESSLAW": "水污染防治法第21條第2項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "2015-09-28",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "未來二一社區污水下水道系統",
+                "TRANSGRESSCONTROLID": "O1751535"
+            },
+            {
+                "REGISTRATIONNO": "O1751535",
+                "FACILITYNAME": "未來二一社區污水下水道系統",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "30-100-050003",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/05\/06",
+                "TRANSGRESSDATE": "2011\/03\/28",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 80000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-05-19",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "未來二一社區污水下水道系統",
+                "TRANSGRESSCONTROLID": "O1751535"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "南投縣集集鎮柴橋頭段洞角小段九八八、九八九、九九一地號及文昌段九三八地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "M3703367",
+        "行業別": "其他非金屬礦物製品製造業(未分類其他非金屬礦物製品製造業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "全谷砂石行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "M3703367",
+                "FACILITYNAME": "全谷砂石行",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "30-100-080001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/08\/02",
+                "TRANSGRESSDATE": "2011\/05\/24",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-05-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "全谷砂石行",
+                "TRANSGRESSCONTROLID": "M3703367"
+            },
+            {
+                "REGISTRATIONNO": "M3703367",
+                "FACILITYNAME": "全谷砂石行",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "30-100-050001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/05\/05",
+                "TRANSGRESSDATE": "2011\/03\/04",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 190000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-04-12",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}
