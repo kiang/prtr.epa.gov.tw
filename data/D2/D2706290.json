@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺南市東區崇明路１９０號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "D2706290",
+        "行業別": "其他專門營造業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.9790386214996",
+        "longitude": "120.217872104207",
+        "name": "國軍退除役官兵輔導委員會臺南榮譽國民之家"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "D2706290",
+                "FACILITYNAME": "國軍退除役官兵輔導委員會臺南榮譽國民之家",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-101-050054",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/05\/18",
+                "TRANSGRESSDATE": "2012\/04\/25",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-06-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "行政院國軍退除役官兵輔導委員會台南榮譽國民之家",
+                "TRANSGRESSCONTROLID": "D2706290"
+            }
+        ]
+    }
+}

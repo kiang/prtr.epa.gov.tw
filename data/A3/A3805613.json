@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "台北市大同區延平北路四段一○○號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A3805613",
+        "行業別": "資源回收處理業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.071528382265",
+        "longitude": "121.510749054049",
+        "name": "南僑化學工業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3805613",
+                "FACILITYNAME": "南僑化學工業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "40-103-100007",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/10\/06",
+                "TRANSGRESSDATE": "2014\/07\/01",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "南僑化學工業股份有限公司",
+                "TRANSGRESSCONTROLID": "A3805613"
+            },
+            {
+                "REGISTRATIONNO": "A3805613",
+                "FACILITYNAME": "南僑化學工業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "34-101-070002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/07\/09",
+                "TRANSGRESSDATE": "2012\/05\/11",
+                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "資料鍵入錯誤",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "南僑化學工業股份有限公司",
+                "TRANSGRESSCONTROLID": "A3805613"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺北市內湖區內湖路三段６０巷５０弄８號１樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A42B1036",
+        "行業別": "其他專門營造業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0891599278192",
+        "longitude": "121.592894352417",
+        "name": "寶坤室內裝修工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A42B1036",
+                "FACILITYNAME": "寶坤室內裝修工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-101-050001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/05\/01",
+                "TRANSGRESSDATE": "2012\/04\/20",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第15條第1項第1款，廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "A42B1036",
+                "FACILITYNAME": "寶坤室內裝修工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-100-030004",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/03\/07",
+                "TRANSGRESSDATE": "2011\/03\/02",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

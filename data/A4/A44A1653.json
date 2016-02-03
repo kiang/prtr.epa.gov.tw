@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺北市北投區永興路一段４３號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A44A1653",
+        "行業別": "塑膠製品製造業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.1393967000021",
+        "longitude": "121.500301148473",
+        "name": "鴻富企業行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A44A1653",
+                "FACILITYNAME": "鴻富企業行",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-104-040008",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/04\/30",
+                "TRANSGRESSDATE": "2015\/03\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第42條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鴻富企業行",
+                "TRANSGRESSCONTROLID": "A44A1653"
+            },
+            {
+                "REGISTRATIONNO": "A44A1653",
+                "FACILITYNAME": "鴻富企業行",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-100-070002",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/07\/04",
+                "TRANSGRESSDATE": "2011\/06\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺北市大安區信義路三段１４３號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A35A3046",
+        "行業別": "中學(中學)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0336570776788",
+        "longitude": "121.540378046414",
+        "name": "國立台灣師範大學附屬高級中學"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A35A3046",
+                "FACILITYNAME": "國立台灣師範大學附屬高級中學",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "41-104-020908",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/02\/12",
+                "TRANSGRESSDATE": "2014\/11\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "駁回",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "國立台灣師範大學附屬高級中學",
+                "TRANSGRESSCONTROLID": "A35A3046"
+            },
+            {
+                "REGISTRATIONNO": "A35A3046",
+                "FACILITYNAME": "國立台灣師範大學附屬高級中學",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "41-103-030576",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/03\/07",
+                "TRANSGRESSDATE": "2014\/02\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "國立台灣師範大學附屬高級中學",
+                "TRANSGRESSCONTROLID": "A35A3046"
+            }
+        ]
+    }
+}

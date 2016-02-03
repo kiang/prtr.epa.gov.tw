@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "基隆市安樂區武訓路四○號一樓",
+        "所屬工業區": "大武崙工業區",
+        "管制編號": "C1500317",
+        "行業別": "玻璃及其製品製造業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.1445580226103",
+        "longitude": "121.701284999336",
+        "name": "元璋玻璃股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "C1500317",
+                "FACILITYNAME": "元璋玻璃股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "21-102-010181",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/01\/16",
+                "TRANSGRESSDATE": "2012\/05\/16",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "元璋玻璃股份有限公司",
+                "TRANSGRESSCONTROLID": "C1500317"
+            },
+            {
+                "REGISTRATIONNO": "C1500317",
+                "FACILITYNAME": "元璋玻璃股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "21-101-070296",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/07\/30",
+                "TRANSGRESSDATE": "2012\/05\/16",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "撤銷並另立裁處書",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "元璋玻璃股份有限公司",
+                "TRANSGRESSCONTROLID": "C1500317"
+            }
+        ]
+    }
+}

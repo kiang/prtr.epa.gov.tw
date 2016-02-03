@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺北市北投區中央北路一段一五二號一樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A4404343",
+        "行業別": "建築工程業(建築工程業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.1354781112878",
+        "longitude": "121.498591874816",
+        "name": "金晟發建材企業有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A4404343",
+                "FACILITYNAME": "金晟發建材企業有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-103-020121",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/02\/20",
+                "TRANSGRESSDATE": "2013\/12\/21",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "金晟發建材企業有限公司",
+                "TRANSGRESSCONTROLID": "A4404343"
+            },
+            {
+                "REGISTRATIONNO": "A4404343",
+                "FACILITYNAME": "金晟發建材企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-100-110004",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/11\/28",
+                "TRANSGRESSDATE": "2011\/11\/17",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第15條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

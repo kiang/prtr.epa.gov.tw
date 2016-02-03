@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺北市萬華區寶興街１４０巷１０號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "A37A3264",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0246056989164",
+        "longitude": "121.494559413947",
+        "name": "福邑清潔工程行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A37A3264",
+                "FACILITYNAME": "福邑清潔工程行",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-102-120010",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/12\/18",
+                "TRANSGRESSDATE": "2013\/12\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "福邑清潔工程行",
+                "TRANSGRESSCONTROLID": "A37A3264"
+            }
+        ]
+    }
+}

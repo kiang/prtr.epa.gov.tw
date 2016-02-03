@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺南市永康區二王里南工街２２６巷３弄１０號５樓之１",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "D1405025",
+        "行業別": "石油化工原料製造業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.0134210014936",
+        "longitude": "120.238696891739",
+        "name": "重鼎企業社"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "D1405025",
+                "FACILITYNAME": "重鼎企業社",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-103-060073",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/06\/13",
+                "TRANSGRESSDATE": "2014\/05\/15",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 3000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-07-11",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "重鼎企業社",
+                "TRANSGRESSCONTROLID": "D1405025"
+            }
+        ]
+    }
+}

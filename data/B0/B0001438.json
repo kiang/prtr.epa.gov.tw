@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺中市烏日區九德里中華路３５８號５樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "B0001438",
+        "行業別": "清潔服務業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.1115422077853",
+        "longitude": "120.63748721821",
+        "name": "包您通清潔衛生行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B0001438",
+                "FACILITYNAME": "包您通清潔衛生行",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "44-103-080008",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/08\/27",
+                "TRANSGRESSDATE": "2014\/07\/02",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第20條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "包您通清潔衛生行",
+                "TRANSGRESSCONTROLID": "B0001438"
+            }
+        ]
+    }
+}

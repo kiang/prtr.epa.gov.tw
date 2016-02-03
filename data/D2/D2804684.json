@@ -1,0 +1,168 @@
+{
+    "info": {
+        "地址": "臺南市南區新都路一四五巷四二號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "D2804684",
+        "行業別": "殯葬服務業(殯葬服務業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.9705450770727",
+        "longitude": "120.203684498281",
+        "name": "臺南市火化場"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "D2804684",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.001,
+                "EMIITEM4": 0.169
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.216
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "QUARTER": "1",
+                "STARTDATE": "2015\/01\/01",
+                "ENDDATE": "2015\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.216
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.001,
+                "EMIITEM4": 0.192
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "核算確認中",
+                "UPDATETIME": "2015\/05\/03",
+                "EMIITEM1": 0.001,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "QUARTER": "3",
+                "STARTDATE": "2014\/07\/01",
+                "ENDDATE": "2014\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/03",
+                "EMIITEM1": 0.001,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "QUARTER": "3",
+                "STARTDATE": "2014\/07\/01",
+                "ENDDATE": "2014\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.216
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [
+            {
+                "REGISTRATIONNO": "D2804684",
+                "EMICHIMNEY": "P007",
+                "EXAMODIFYDATE": "2014\/11\/28",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.048",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2015\/09\/24 01:01",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "EMICHIMNEY": "P011",
+                "EXAMODIFYDATE": "2014\/11\/19",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.002",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2015\/09\/24 01:01",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "EMICHIMNEY": "P008",
+                "EXAMODIFYDATE": "2012\/11\/21",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.029",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2013\/12\/17 10:10",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "D2804684",
+                "EMICHIMNEY": "P010",
+                "EXAMODIFYDATE": "2012\/07\/20",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.02",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2013\/12\/17 10:10",
+                "RPT_TYPE": "METAL"
+            }
+        ],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

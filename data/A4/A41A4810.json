@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺北市南港區三重路３９號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A41A4810",
+        "行業別": "塗料、染料及顏料製造業(塗料、染料及顏料製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0595256254416",
+        "longitude": "121.614075667479",
+        "name": "華山塗料工業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A41A4810",
+                "FACILITYNAME": "華山塗料工業股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "34-102-110001",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/11\/14",
+                "TRANSGRESSDATE": "2011\/12\/21",
+                "TRANSGRESSLAW": "毒性化學物質管理法第23條",
+                "PENALTYMONEY": 110000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "台中市太平區光興路一三五二巷三七號一樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "B0402720",
+        "行業別": "金屬加工處理業(金屬鍛造業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.1163662757615",
+        "longitude": "120.733326730544",
+        "name": "淳梓股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B0402720",
+                "FACILITYNAME": "淳梓股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-102-060010",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/06\/20",
+                "TRANSGRESSDATE": "2013\/05\/16",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，水污染防治法第14條第1項",
+                "PENALTYMONEY": 150000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "淳梓股份有限公司",
+                "TRANSGRESSCONTROLID": "B04100001716"
+            }
+        ]
+    }
+}

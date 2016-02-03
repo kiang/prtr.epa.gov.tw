@@ -1,0 +1,41 @@
+{
+    "info": {
+        "地址": "臺中市北屯區東山路二段１５１之２號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "B2501066",
+        "行業別": "娛樂及休閒服務業(遊樂園及主題樂園)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.1985076547123",
+        "longitude": "120.76417884773",
+        "name": "東峰育樂事業有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [
+            {
+                "REGISTRATIONNO": "B2501066",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/07\/01",
+                "EMIENDDATE": "2012\/12\/31",
+                "EMIWATER": "84",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "水量(CMH)",
+                "EMIITEMVALUE": "46",
+                "EMIITEMUNIT": "CMH",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            }
+        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

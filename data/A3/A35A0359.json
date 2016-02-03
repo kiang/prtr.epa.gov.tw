@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "台北市大安區敦化南路二段二○七號三六樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A35A0359",
+        "行業別": "農作物栽培業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0259921855212",
+        "longitude": "121.549235800301",
+        "name": "遠東新世紀股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A35A0359",
+                "FACILITYNAME": "遠東新世紀股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-103-070004",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/07\/04",
+                "TRANSGRESSDATE": "2014\/05\/08",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 110000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-07-22",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "遠東新世紀股份有限公司化學纖維總廠",
+                "TRANSGRESSCONTROLID": "J5700222"
+            },
+            {
+                "REGISTRATIONNO": "A35A0359",
+                "FACILITYNAME": "遠東新世紀股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "20-100-110001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/11\/01",
+                "TRANSGRESSDATE": "2011\/08\/11",
+                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "資料鍵入錯誤",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-11-22",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "遠東新世紀股份有限公司化學纖維總廠",
+                "TRANSGRESSCONTROLID": "J5700222"
+            }
+        ]
+    }
+}

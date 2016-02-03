@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺中市南屯區萬和路一段二四之三號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "B2408113",
+        "行業別": "廢（污）水處理業(廢（污）水處理業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.1323012588275",
+        "longitude": "120.63671629595",
+        "name": "三通衛生工程行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B2408113",
+                "FACILITYNAME": "三通衛生工程行",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "21-101-020024",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/02\/13",
+                "TRANSGRESSDATE": "2012\/01\/12",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "三通衛生工程行",
+                "TRANSGRESSCONTROLID": "B2408113"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "台中市西屯區協和里工業區四十路六一之一號",
+        "所屬工業區": "台中工業區第三期",
+        "管制編號": "B23A7384",
+        "行業別": "其他醫療保健服務業(醫學檢驗服務業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.1732611827146",
+        "longitude": "120.586889601663",
+        "name": "瑩芳有限公司台中廠"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "B23A7384",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "C-0507",
+                "EMIITEMNAME": "實驗室廢棄物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/16 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B23A7384",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "12",
+                "EMIITEMID": "C-0507",
+                "EMIITEMNAME": "實驗室廢棄物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/06\/02 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺南市東區裕農路５１１號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "D2700145",
+        "行業別": "紡紗業(其他紡紗業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.988282271191",
+        "longitude": "120.232794324534",
+        "name": "臺南紡織股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "D2700145",
+                "FACILITYNAME": "臺南紡織股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "20-103-050010",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/05\/21",
+                "TRANSGRESSDATE": "2014\/02\/19",
+                "TRANSGRESSLAW": "空氣污染防制法第23條，揮發性有機物空氣污染管制及排放標準第36條第2項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-06-13",
+                "INSPECTIONCONDITION": "改善完成",
+                "TRANSGRESSNAME": "臺南紡織股份有限公司仁德廠",
+                "TRANSGRESSCONTROLID": "R1001719"
+            },
+            {
+                "REGISTRATIONNO": "D2700145",
+                "FACILITYNAME": "臺南紡織股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "20-103-050009",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/05\/21",
+                "TRANSGRESSDATE": "2014\/02\/19",
+                "TRANSGRESSLAW": "空氣污染防制法第23條，揮發性有機物空氣污染管制及排放標準第36條第2項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-06-13",
+                "INSPECTIONCONDITION": "改善完成",
+                "TRANSGRESSNAME": "台南紡織股份有限公司太子廠",
+                "TRANSGRESSCONTROLID": "R1001791"
+            }
+        ]
+    }
+}

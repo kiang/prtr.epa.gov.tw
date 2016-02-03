@@ -1,0 +1,123 @@
+{
+    "info": {
+        "地址": "臺中市烏日區站區二路８號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "B0002426",
+        "行業別": "餐館業(餐館業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.1118030166934",
+        "longitude": "120.615375986581",
+        "name": "樂雅樂食品股份有限公司台中高鐵分公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "B0002426",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R03",
+                "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
+                "EMIITEMVALUE": "0.1870",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002426",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R03",
+                "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
+                "EMIITEMVALUE": "0.1190",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/26 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002426",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R03",
+                "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
+                "EMIITEMVALUE": "0.17",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002426",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R03",
+                "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
+                "EMIITEMVALUE": "0.2040",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002426",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "3",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R03",
+                "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
+                "EMIITEMVALUE": "0.1275",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002426",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R03",
+                "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
+                "EMIITEMVALUE": "0.1190",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002426",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R03",
+                "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
+                "EMIITEMVALUE": "0.0765",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

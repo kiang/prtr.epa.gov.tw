@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺北市大安區忠孝東路四段３０號６樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "A35C3644",
+        "行業別": "診所(診所)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.04140201794",
+        "longitude": "121.544536036971",
+        "name": "君綺忠孝診所"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A35C3644",
+                "FACILITYNAME": "君綺忠孝診所",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-104-120183",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/12\/23",
+                "TRANSGRESSDATE": "2015\/10\/22",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第8條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "君綺忠孝診所",
+                "TRANSGRESSCONTROLID": "A35C3644"
+            }
+        ]
+    }
+}

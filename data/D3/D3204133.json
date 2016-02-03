@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺南市安南區郡安路五段一九二巷五號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "D3204133",
+        "行業別": "建築工程業(建築工程業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.0291058451404",
+        "longitude": "120.194255497463",
+        "name": "永群環保工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "D3204133",
+                "FACILITYNAME": "永群環保工程有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-102-050144",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/05\/23",
+                "TRANSGRESSDATE": "2013\/04\/09",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-06-17",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永群環保工程有限公司",
+                "TRANSGRESSCONTROLID": "D3204133"
+            }
+        ]
+    }
+}

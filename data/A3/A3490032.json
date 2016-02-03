@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺北市內湖區瑞湖街八八號四樓之一",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A3490032",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0723004455845",
+        "longitude": "121.576007673425",
+        "name": "全日清企業有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3490032",
+                "FACILITYNAME": "全日清企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-101-090008",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/24",
+                "TRANSGRESSDATE": "2012\/09\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "A3490032",
+                "FACILITYNAME": "全日清企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-101-090003",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/18",
+                "TRANSGRESSDATE": "2012\/09\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第3款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

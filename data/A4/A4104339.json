@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺北市大安區忠孝東路四段１４８號７樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A4104339",
+        "行業別": "專門設計服務業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0583625060298",
+        "longitude": "121.593082166505",
+        "name": "晟濠有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A4104339",
+                "FACILITYNAME": "晟濠有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-103-060004",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/06\/17",
+                "TRANSGRESSDATE": "2014\/06\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "A4104339",
+                "FACILITYNAME": "晟濠有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "21-103-070020",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/07\/16",
+                "TRANSGRESSDATE": "2014\/02\/24",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "晟濠有限公司",
+                "TRANSGRESSCONTROLID": "A4104339"
+            }
+        ]
+    }
+}

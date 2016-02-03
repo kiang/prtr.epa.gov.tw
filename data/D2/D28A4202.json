@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺南市南區健康路一段２９７號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "D28A4202",
+        "行業別": "農事及畜牧服務業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.9807430134602",
+        "longitude": "120.204684877178",
+        "name": "臺鹽實業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "D28A4202",
+                "FACILITYNAME": "臺鹽實業股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "40-104-110012",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/19",
+                "TRANSGRESSDATE": "2015\/09\/15",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款，廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 66000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "臺鹽實業股份有限公司通霄精鹽廠",
+                "TRANSGRESSCONTROLID": "K7000504"
+            },
+            {
+                "REGISTRATIONNO": "D28A4202",
+                "FACILITYNAME": "臺鹽實業股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "34-102-040006",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/04\/22",
+                "TRANSGRESSDATE": "2012\/12\/27",
+                "TRANSGRESSLAW": "毒性化學物質管理法第7條第4項，毒性化學物質管理法施行細則第4條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "臺鹽實業股份有限公司通霄精鹽廠",
+                "TRANSGRESSCONTROLID": "K7000504"
+            }
+        ]
+    }
+}

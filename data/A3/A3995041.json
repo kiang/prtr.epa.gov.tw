@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺北市中山區吉林路四三三巷一五號一樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "A3995041",
+        "行業別": "廢棄物清除業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0670094333953",
+        "longitude": "121.531239509425",
+        "name": "守威企業有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3995041",
+                "FACILITYNAME": "守威企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-102-110006",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/11\/19",
+                "TRANSGRESSDATE": "2013\/11\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "A3995041",
+                "FACILITYNAME": "守威企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "22-101-060052",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/06\/19",
+                "TRANSGRESSDATE": "2012\/05\/21",
+                "TRANSGRESSLAW": "噪音管制法第8條第4款",
+                "PENALTYMONEY": 3000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "合眾建築經理股份有限公司-中正區城中段集合住宅新建工程",
+                "TRANSGRESSCONTROLID": "A36A7627"
+            }
+        ]
+    }
+}

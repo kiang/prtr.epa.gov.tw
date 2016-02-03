@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "基隆市暖暖區暖碇路３８巷８１號８樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "C1290003",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0928849273897",
+        "longitude": "121.738417135375",
+        "name": "潔城環保工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "C1290003",
+                "FACILITYNAME": "潔城環保工程有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-104-080004",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/08\/21",
+                "TRANSGRESSDATE": "2015\/07\/13",
+                "TRANSGRESSLAW": "廢棄物清理法第36條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-08-28",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "潔城環保工程有限公司",
+                "TRANSGRESSCONTROLID": "C1290003"
+            },
+            {
+                "REGISTRATIONNO": "C1290003",
+                "FACILITYNAME": "潔城環保工程有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-102-060003",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/06\/06",
+                "TRANSGRESSDATE": "2013\/05\/10",
+                "TRANSGRESSLAW": "廢棄物清理法第31條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "潔城環保工程有限公司",
+                "TRANSGRESSCONTROLID": "C1290003"
+            }
+        ]
+    }
+}

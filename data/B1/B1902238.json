@@ -1,0 +1,109 @@
+{
+    "info": {
+        "地址": "臺中市東區樂成里東光園路３４５號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "B1902238",
+        "行業別": "碾榖、磨粉及澱粉製品製造業(磨粉製品製造業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.1337706572654",
+        "longitude": "120.697263200572",
+        "name": "大豐麵粉廠股份有限公司"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "B1902238",
+                "QUARTER": "3",
+                "STARTDATE": "2008\/07\/01",
+                "ENDDATE": "2008\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成年申報審查",
+                "UPDATETIME": "2015\/05\/04",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "B1902238",
+                "QUARTER": "3",
+                "STARTDATE": "2008\/07\/01",
+                "ENDDATE": "2008\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成年申報審查",
+                "UPDATETIME": "2016\/01\/27",
+                "EMIITEM1": null,
+                "EMIITEM2": 0.012,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            },
+            {
+                "REGISTRATIONNO": "B1902238",
+                "QUARTER": "2",
+                "STARTDATE": "2008\/04\/01",
+                "ENDDATE": "2008\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成年申報審查",
+                "UPDATETIME": "2015\/05\/04",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "B1902238",
+                "QUARTER": "2",
+                "STARTDATE": "2008\/04\/01",
+                "ENDDATE": "2008\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成年申報審查",
+                "UPDATETIME": "2016\/01\/27",
+                "EMIITEM1": null,
+                "EMIITEM2": 0.012,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            },
+            {
+                "REGISTRATIONNO": "B1902238",
+                "QUARTER": "1",
+                "STARTDATE": "2008\/01\/01",
+                "ENDDATE": "2008\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成年申報審查",
+                "UPDATETIME": "2015\/05\/04",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "B1902238",
+                "QUARTER": "1",
+                "STARTDATE": "2008\/01\/01",
+                "ENDDATE": "2008\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成年申報審查",
+                "UPDATETIME": "2016\/01\/27",
+                "EMIITEM1": null,
+                "EMIITEM2": 0.016,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}
