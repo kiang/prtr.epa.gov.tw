@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市中和區華新街１０９巷２８號１樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F04B4287",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9804147447613",
+        "longitude": "121.509135884383",
+        "name": "清山環保有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F04B4287",
+                "FACILITYNAME": "清山環保有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-104-110015",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/10",
+                "TRANSGRESSDATE": "2015\/10\/05",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "F04B4287",
+                "FACILITYNAME": "清山環保有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-103-070022",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/07\/08",
+                "TRANSGRESSDATE": "2014\/05\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "清山環保有限公司",
+                "TRANSGRESSCONTROLID": "F04B4287"
+            }
+        ]
+    }
+}

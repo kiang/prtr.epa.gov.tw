@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市林口區中山路１４３號２樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F17A5108",
+        "行業別": "清潔服務業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0789397408861",
+        "longitude": "121.387884216535",
+        "name": "鼎鐧環保有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F17A5108",
+                "FACILITYNAME": "鼎?環保有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-104-080023",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/08\/25",
+                "TRANSGRESSDATE": "2015\/05\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "F17A5108",
+                "FACILITYNAME": "鼎?環保有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-101-120001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/12\/03",
+                "TRANSGRESSDATE": "2012\/10\/17",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鼎鐧環保有限公司",
+                "TRANSGRESSCONTROLID": "F17A5108"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市板橋區中正路２７５巷８３號１樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F01A7605",
+        "行業別": "廢棄物清除業(有害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.018132675046",
+        "longitude": "121.451892649246",
+        "name": "金舜興有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F01A7605",
+                "FACILITYNAME": "金舜興有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-103-100002",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/10\/03",
+                "TRANSGRESSDATE": "2014\/07\/10",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "金舜興有限公司",
+                "TRANSGRESSCONTROLID": "F01A7605"
+            },
+            {
+                "REGISTRATIONNO": "F01A7605",
+                "FACILITYNAME": "金舜興有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-102-010012",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/01\/11",
+                "TRANSGRESSDATE": "2012\/12\/03",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

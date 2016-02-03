@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "新北市中和區中正路七二六號地下B二",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F04B4722",
+        "行業別": "暫無分類",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9975560179929",
+        "longitude": "121.485562026249",
+        "name": "遠東世紀廣場第一期管理委員會"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F04B4722",
+                "FACILITYNAME": "遠東世紀廣場第一期管理委員會",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "31-103-120001",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/12\/04",
+                "TRANSGRESSDATE": "2014\/09\/24",
+                "TRANSGRESSLAW": "飲用水管理條例第9條，飲用水連續供水固定設備使用及維護管理辦法第6條第2項",
+                "PENALTYMONEY": 20000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2015-01-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

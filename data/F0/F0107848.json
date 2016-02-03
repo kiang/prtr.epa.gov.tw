@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市板橋區篤行路三段玉平巷４３之１號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F0107848",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9868939869888",
+        "longitude": "121.428758868797",
+        "name": "宏洲工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0107848",
+                "FACILITYNAME": "宏洲工程有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-103-020013",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/02\/12",
+                "TRANSGRESSDATE": "2013\/10\/02",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第18條第1項，廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宏洲工程有限公司",
+                "TRANSGRESSCONTROLID": "F0107848"
+            },
+            {
+                "REGISTRATIONNO": "F0107848",
+                "FACILITYNAME": "宏洲工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "21-100-110270",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/11\/17",
+                "TRANSGRESSDATE": "2011\/10\/05",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宏洲工程有限公司",
+                "TRANSGRESSCONTROLID": "F0107848"
+            }
+        ]
+    }
+}

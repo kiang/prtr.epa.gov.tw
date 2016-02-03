@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市鳳山區過昌街４４號５樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E1501641",
+        "行業別": "石油化工原料製造業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.5863537639665",
+        "longitude": "120.361154298154",
+        "name": "維亨企業社"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E1501641",
+                "FACILITYNAME": "維亨企業社",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-103-110008",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/11\/24",
+                "TRANSGRESSDATE": "2014\/09\/10",
+                "TRANSGRESSLAW": "廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "維亨企業社",
+                "TRANSGRESSCONTROLID": "E1501641"
+            },
+            {
+                "REGISTRATIONNO": "E1501641",
+                "FACILITYNAME": "維亨企業社",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "44-102-070003",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/07\/08",
+                "TRANSGRESSDATE": "2013\/06\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "維亨企業社",
+                "TRANSGRESSCONTROLID": "E1501641"
+            }
+        ]
+    }
+}

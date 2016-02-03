@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "桃園市楊梅區楊湖段１５３８地號等１筆",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H45B2634",
+        "行業別": "其他專門營造業(其他專門營造業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9086850180615",
+        "longitude": "121.109047000297",
+        "name": "峰港營造有限公司-臺灣石門農田水利會-104年度富岡站區土牛溝灌排水路改善工程(第二工段)"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "H45B2634",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H45B2634",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

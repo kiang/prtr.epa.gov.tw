@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "桃園市蘆竹區新興里中興一街一九號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H46A1872",
+        "行業別": "其他基本金屬製造業(未分類其他基本金屬製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0155836119601",
+        "longitude": "121.267674034645",
+        "name": "臺灣萬騰榮先進科技材料股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "H46A1872",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "03701               ",
+                "TOXICNAME": "鎘",
+                "TOXICENGNAME": "Cadmium",
+                "EMIVALUE": "0.0010",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "H46A1872",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "03704               ",
+                "TOXICNAME": "硫化鎘",
+                "TOXICENGNAME": "Cadmium sulfide",
+                "EMIVALUE": "0.0030",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "新北市林口區嘉寶里四○號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F1701626",
+        "行業別": "其他礦業及土石採取業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.1010710183234",
+        "longitude": "121.340728009038",
+        "name": "久八九開發有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F1701626",
+                "FACILITYNAME": "久八九開發有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-100-030001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/03\/03",
+                "TRANSGRESSDATE": "2011\/01\/25",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項，水污染防治法第7條第1項，水污染防治法第55條",
+                "PENALTYMONEY": 600000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "久八九有限公司(羅坤偉)",
+                "TRANSGRESSCONTROLID": "F1701626"
+            }
+        ]
+    }
+}

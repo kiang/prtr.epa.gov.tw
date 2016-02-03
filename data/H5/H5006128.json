@@ -1,0 +1,110 @@
+{
+    "info": {
+        "地址": "桃園市龍潭區高平里高楊北路８１號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H5006128",
+        "行業別": "藥品及醫用化學製品製造業(中藥製造業)",
+        "列管類別": "水污染;廢棄物;毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.8402300179439",
+        "longitude": "121.207040002044",
+        "name": "中天生物科技股份有限公司龍潭廠"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "H5006128",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.167,
+                "EMIITEM4": 0.116
+            }
+        ],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "H5006128",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "R-0601",
+                "EMIITEMNAME": "廢紙",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H5006128",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H5006128",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-2409",
+                "EMIITEMNAME": "廢藥品(人體或動物使用者)",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H5006128",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H5006128",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1506",
+                "EMIITEMNAME": "廢(污)水pH值介於6.0-9.0",
+                "CLEANCODE": "Y21",
+                "CLEANNAME": "以管線、溝渠廠內輸送",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

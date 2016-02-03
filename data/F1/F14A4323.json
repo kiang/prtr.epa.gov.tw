@@ -1,0 +1,95 @@
+{
+    "info": {
+        "地址": "新北市蘆洲區復興路３２３巷１８之４號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F14A4323",
+        "行業別": "金屬手工具及模具製造業(金屬手工具製造業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0935160181563",
+        "longitude": "121.481534025521",
+        "name": "美之嵐機械工業有限公司第二廠"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "F14A4323",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1504",
+                "EMIITEMNAME": "非有害有機廢液或廢溶劑",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.06",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F14A4323",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-1504",
+                "EMIITEMNAME": "非有害有機廢液或廢溶劑",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.1440",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/22 09:10",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F14A4323",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-1504",
+                "EMIITEMNAME": "非有害有機廢液或廢溶劑",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.1560",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/22 09:05",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F14A4323",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-1504",
+                "EMIITEMNAME": "非有害有機廢液或廢溶劑",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/22 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F14A4323",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-1504",
+                "EMIITEMNAME": "非有害有機廢液或廢溶劑",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/22 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

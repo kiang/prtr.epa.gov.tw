@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市淡水區沙崙路２６號１１樓之１",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F1008059",
+        "行業別": "其他專門營造業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.1812914087931",
+        "longitude": "121.421534597256",
+        "name": "大川環保工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F1008059",
+                "FACILITYNAME": "大川環保工程有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-104-080086",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/08\/24",
+                "TRANSGRESSDATE": "2015\/07\/01",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "大川環保工程有限公司",
+                "TRANSGRESSCONTROLID": "F1008059"
+            },
+            {
+                "REGISTRATIONNO": "F1008059",
+                "FACILITYNAME": "大川環保工程有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "21-100-060152",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/06\/30",
+                "TRANSGRESSDATE": "2011\/03\/18",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "大川環保工程有限公司",
+                "TRANSGRESSCONTROLID": "F1008059"
+            }
+        ]
+    }
+}

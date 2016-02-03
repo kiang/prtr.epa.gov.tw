@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "高雄市前鎮區三多三路２１３號１２樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E54A6540",
+        "行業別": "餐館業(餐館業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6144490135473",
+        "longitude": "120.306647917742",
+        "name": "天蔥國際股份有限公司-高雄三多店"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "E54A6540",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.0540",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "E54A6540",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.0510",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/22 09:10",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

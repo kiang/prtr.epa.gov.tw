@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "新北市永和區永和路一段２２８號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F0310434",
+        "行業別": "餐館業(餐館業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0098400179571",
+        "longitude": "121.514549031225",
+        "name": "康鼎國際餐飲有限公司永和分公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "F0310434",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "X99",
+                "CLEANNAME": "其他最終處理方式",
+                "EMIITEMVALUE": "0.22",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F0310434",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "X99",
+                "CLEANNAME": "其他最終處理方式",
+                "EMIITEMVALUE": "0.03",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/22 09:10",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新竹縣湖口鄉波羅村千禧路二九巷一弄二號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "J5905772",
+        "行業別": "廢（污）水處理業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.8845981961333",
+        "longitude": "121.027212301261",
+        "name": "全民歡享社區污水下水道系統"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "J59097001959",
+                "FACILITYNAME": "全民歡享社區管理委員會",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-104-030002",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/03\/13",
+                "TRANSGRESSDATE": "2014\/10\/22",
+                "TRANSGRESSLAW": "水污染防治法第19條，水污染防治法第14條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-04-02",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "全民歡享社區污水下水道系統",
+                "TRANSGRESSCONTROLID": "J5905772"
+            },
+            {
+                "REGISTRATIONNO": "J5905772",
+                "FACILITYNAME": "全民歡享社區污水下水道系統",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-102-100003",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/10\/22",
+                "TRANSGRESSDATE": "2013\/04\/12",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，水污染防治法第19條",
+                "PENALTYMONEY": 210000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "全民歡享社區污水下水道系統",
+                "TRANSGRESSCONTROLID": "J5905772"
+            }
+        ]
+    }
+}

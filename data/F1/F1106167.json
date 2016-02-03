@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "新北市汐止區大同路三段一八八號六樓之一",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F1106167",
+        "行業別": "醫療器材及用品製造業(其他醫療器材及用品製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0737639586679",
+        "longitude": "121.674683031704",
+        "name": "可康寧科技股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "F1106167",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "02201               ",
+                "TOXICNAME": "汞",
+                "TOXICENGNAME": "Mercury",
+                "EMIVALUE": "1.6575",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1106167",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "02201               ",
+                "TOXICNAME": "汞",
+                "TOXICENGNAME": "Mercury",
+                "EMIVALUE": "1.6575",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

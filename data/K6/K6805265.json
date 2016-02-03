@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "苗栗縣苗栗市青苗里１鄰中正路７０４號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "K6805265",
+        "行業別": "汽車貨運業(汽車貨運業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.5548905916521",
+        "longitude": "120.818732026735",
+        "name": "苗栗汽車貨運股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "K6805265",
+                "FACILITYNAME": "苗栗汽車貨運股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "40-101-010010",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/01\/11",
+                "TRANSGRESSDATE": "2011\/02\/19",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "苗栗汽車貨運股份有限公司",
+                "TRANSGRESSCONTROLID": "K6805265"
+            },
+            {
+                "REGISTRATIONNO": "K6805265",
+                "FACILITYNAME": "苗栗汽車貨運股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-100-080827",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/08\/17",
+                "TRANSGRESSDATE": "2011\/05\/26",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "環保署訴願會",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "2011-09-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市中和區國光街６巷７之ㄧ號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F0419129",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0005760026587",
+        "longitude": "121.471974023192",
+        "name": "台茂環保有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0419129",
+                "FACILITYNAME": "台茂環保有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-102-110002",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/11\/07",
+                "TRANSGRESSDATE": "2013\/08\/29",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第18條第1項，廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台茂環保有限公司",
+                "TRANSGRESSCONTROLID": "F0419129"
+            },
+            {
+                "REGISTRATIONNO": "F0419129",
+                "FACILITYNAME": "台茂環保有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-101-110002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/11\/06",
+                "TRANSGRESSDATE": "2012\/10\/05",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第6條第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台茂環保有限公司",
+                "TRANSGRESSCONTROLID": "F0419129"
+            }
+        ]
+    }
+}

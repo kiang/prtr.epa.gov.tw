@@ -1,0 +1,89 @@
+{
+    "info": {
+        "地址": "高雄市路竹區社南里大同路四八三號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E2900808",
+        "行業別": "動物飼料配製業(動物飼料配製業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.8563413608493",
+        "longitude": "120.267745028129",
+        "name": "台榮產業股份有限公司高雄飼料廠分廠"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "E2900808",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.092
+            },
+            {
+                "REGISTRATIONNO": "E2900808",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.072
+            },
+            {
+                "REGISTRATIONNO": "E2900808",
+                "QUARTER": "1",
+                "STARTDATE": "2015\/01\/01",
+                "ENDDATE": "2015\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.049
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E2900808",
+                "FACILITYNAME": "台榮產業股份有限公司高雄飼料廠分廠",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "20-104-070025",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/07\/10",
+                "TRANSGRESSDATE": "2015\/05\/27",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台榮產業股份有限公司高雄飼料廠分廠",
+                "TRANSGRESSCONTROLID": "E2900808"
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "info": {
+        "地址": "桃園市龍潭區烏林里工五路二二八號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H50A3802",
+        "行業別": "金屬加工處理業(其他金屬加工處理業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.889139978139",
+        "longitude": "121.205771685337",
+        "name": "金鼎冠科技股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "H50A3802",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-1305",
+                "EMIITEMNAME": "廢錫",
+                "CLEANCODE": "Y00",
+                "CLEANNAME": "該項廢棄物無需清除者",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/09\/26 10:31",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H50A3802",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/09\/26 10:31",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H50A3802",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/06\/27 01:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H50A3802",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-1305",
+                "EMIITEMNAME": "廢錫",
+                "CLEANCODE": "Y00",
+                "CLEANNAME": "該項廢棄物無需清除者",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/06\/27 01:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H50A3802",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H50A3802",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "4",
+                "EMIITEMID": "R-1305",
+                "EMIITEMNAME": "廢錫",
+                "CLEANCODE": "Y00",
+                "CLEANNAME": "該項廢棄物無需清除者",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

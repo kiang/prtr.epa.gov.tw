@@ -1,0 +1,81 @@
+{
+    "info": {
+        "地址": "桃園市平鎮區東勢段東勢小段八七之一七地號等二筆",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H51A6257",
+        "行業別": "其他專門營造業(其他專門營造業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "豐譽營造股份有限公司-榮勝有限公司-工廠新建工程"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "H51A6257",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "11.34",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/12\/30 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H51A6257",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "3.95",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/12\/30 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H51A6257",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "2.93",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/12\/30 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H51A6257",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "5.46",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/12\/30 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

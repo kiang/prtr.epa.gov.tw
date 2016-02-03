@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "高雄市三民區天祥一路１９５號１樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E50A1976",
+        "行業別": "廢棄物清除業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6676903161077",
+        "longitude": "120.318016665193",
+        "name": "立群企業行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E50A1976",
+                "FACILITYNAME": "立群企業行",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-100-050001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/05\/02",
+                "TRANSGRESSDATE": "2011\/03\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第15條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

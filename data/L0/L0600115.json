@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺中市和平區梨山里中正路９１號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "L0600115",
+        "行業別": "短期住宿服務業(短期住宿服務業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.2542990785038",
+        "longitude": "121.251560863516",
+        "name": "褔壽山農場服務中心"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "L0600115",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.025
+            },
+            {
+                "REGISTRATIONNO": "L0600115",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.03
+            },
+            {
+                "REGISTRATIONNO": "L0600115",
+                "QUARTER": "1",
+                "STARTDATE": "2015\/01\/01",
+                "ENDDATE": "2015\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.003,
+                "EMIITEM4": 0.036
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

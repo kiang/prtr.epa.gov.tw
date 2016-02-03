@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "新北市永和區保福路二段１５７號１樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F0303368",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0146119273868",
+        "longitude": "121.509388802668",
+        "name": "豐安建材行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0303368",
+                "FACILITYNAME": "豐安建材行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-102-030008",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/03\/27",
+                "TRANSGRESSDATE": "2012\/10\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第16條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "豐安建材行",
+                "TRANSGRESSCONTROLID": "F0303368"
+            }
+        ]
+    }
+}

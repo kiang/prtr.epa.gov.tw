@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市中和區中山路三段１２２號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F0418695",
+        "行業別": "醫療器材及用品製造業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0060771533568",
+        "longitude": "121.475688863889",
+        "name": "環球購物中心股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0418695",
+                "FACILITYNAME": "環球購物中心股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-101-050004",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/05\/03",
+                "TRANSGRESSDATE": "2012\/03\/01",
+                "TRANSGRESSLAW": "放流水標準第2條，水污染防治法第7條第1項",
+                "PENALTYMONEY": 90000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-01-27",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "環球購物中心股份有限公司",
+                "TRANSGRESSCONTROLID": "F0418695"
+            },
+            {
+                "REGISTRATIONNO": "F0418695",
+                "FACILITYNAME": "環球購物中心股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-101-020003",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/02\/11",
+                "TRANSGRESSDATE": "2011\/09\/14",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-01-27",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "環球購物中心股份有限公司",
+                "TRANSGRESSCONTROLID": "F0418695"
+            }
+        ]
+    }
+}

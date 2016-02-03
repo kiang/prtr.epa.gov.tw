@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "臺中市龍井區忠和里臨港路二段５４號",
+        "所屬工業區": "台中港關連工業區",
+        "管制編號": "L0200580",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.2169167575331",
+        "longitude": "120.509483042427",
+        "name": "台灣加油站中港站"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "L0200580",
+                "FACILITYNAME": "台灣加油站中港站",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-100-090005",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/09\/26",
+                "TRANSGRESSDATE": "2011\/08\/10",
+                "TRANSGRESSLAW": "加油站油氣回收設施管理辦法第8條，空氣污染防制法第23條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "資料鍵入錯誤",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-10-10",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣加油站中港站",
+                "TRANSGRESSCONTROLID": "L0200580"
+            }
+        ]
+    }
+}

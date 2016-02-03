@@ -1,0 +1,81 @@
+{
+    "info": {
+        "地址": "新北市土城區中央路三段１２６巷１弄５號",
+        "所屬工業區": "其他工業區",
+        "管制編號": "F13A6760",
+        "行業別": "電線及配線器材製造業(電線及電纜製造業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9664150180188",
+        "longitude": "121.434622018843",
+        "name": "良陞電線電纜股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "F13A6760",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "0.10",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F13A6760",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "0.32",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/26 09:05",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F13A6760",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/25 09:16",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F13A6760",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/25 09:16",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

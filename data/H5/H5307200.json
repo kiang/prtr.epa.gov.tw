@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市觀音區樹林里經建四路四二號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H5307200",
+        "行業別": "農藥及環境用藥製造業(農藥及環境用藥製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0619211272997",
+        "longitude": "121.123318706413",
+        "name": "薇薾登股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H5307200",
+                "FACILITYNAME": "薇薾登股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "42-100-070001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/07\/25",
+                "TRANSGRESSDATE": "2011\/05\/25",
+                "TRANSGRESSLAW": "環境用藥管理法第33條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "薇薾登股份有限公司",
+                "TRANSGRESSCONTROLID": "H5307200"
+            },
+            {
+                "REGISTRATIONNO": "H5307200",
+                "FACILITYNAME": "薇薾登股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "34-100-060010",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/06\/22",
+                "TRANSGRESSDATE": "2011\/01\/10",
+                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項，毒性化學物質運作及釋放量紀錄管理辦法第5條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-07-11",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "薇薾登股份有限公司觀音廠",
+                "TRANSGRESSCONTROLID": "H5305608"
+            }
+        ]
+    }
+}

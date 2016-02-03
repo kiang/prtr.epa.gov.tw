@@ -1,0 +1,82 @@
+{
+    "info": {
+        "地址": "新北市樹林區武林街４之１號",
+        "所屬工業區": "樹林工業區",
+        "管制編號": "F07A6449",
+        "行業別": "印染整理業(印染整理業)",
+        "列管類別": "空氣污染;水污染;廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0011433900669",
+        "longitude": "121.41710562041",
+        "name": "定慶企業股份有限公司"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "F07A6449",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0.296,
+                "EMIITEM3": 1,
+                "EMIITEM4": 1.401
+            },
+            {
+                "REGISTRATIONNO": "F07A6449",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0.04,
+                "EMIITEM3": 0.319,
+                "EMIITEM4": 0.357
+            }
+        ],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "F07A6449",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1106",
+                "EMIITEMNAME": "燃煤飛灰",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "5.19",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F07A6449",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1107",
+                "EMIITEMNAME": "燃煤底灰(或含燃煤飛灰之底灰)",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "20.78",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

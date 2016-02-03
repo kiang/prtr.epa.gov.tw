@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "新竹縣湖口鄉鳳山村鳳山崎路６之６號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "J5900099",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.8614780179855",
+        "longitude": "121.017446000001",
+        "name": "台亞石油湖口南下加油站"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A34097000955",
+                "FACILITYNAME": "台亞石油股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "32-104-070001",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/07\/15",
+                "TRANSGRESSDATE": "2015\/06\/09",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第38條第2項第3款",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-08-07",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台亞石油湖口南下加油站",
+                "TRANSGRESSCONTROLID": "J5900099"
+            }
+        ]
+    }
+}

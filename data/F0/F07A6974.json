@@ -1,0 +1,81 @@
+{
+    "info": {
+        "地址": "新北市樹林區佳園路二段５９之３號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F07A6974",
+        "行業別": "其他化學製品製造業(其他化學製品製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9612800180573",
+        "longitude": "121.391474013771",
+        "name": "融鋒興業有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "F07A6974",
+                "QUARTER": "4",
+                "STARTDATE": "2015\/10\/01",
+                "ENDDATE": "2015\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09701               ",
+                "TOXICNAME": "吡啶",
+                "TOXICENGNAME": "Pyridine",
+                "EMIVALUE": "0.0080",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F07A6974",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.531440",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F07A6974",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05401               ",
+                "TOXICNAME": "三氯甲烷",
+                "TOXICENGNAME": "Chloroform",
+                "EMIVALUE": "1.419840",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F07A6974",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09001               ",
+                "TOXICNAME": "氯苯",
+                "TOXICENGNAME": "Chlorobenzene",
+                "EMIVALUE": "0.3330",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

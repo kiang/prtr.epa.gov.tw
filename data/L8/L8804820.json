@@ -1,0 +1,81 @@
+{
+    "info": {
+        "地址": "臺中市大甲區日南里工十路３號",
+        "所屬工業區": "台中幼獅工業區",
+        "管制編號": "L8804820",
+        "行業別": "鋼鐵製造業(鋼鐵鑄造業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.3981463633469",
+        "longitude": "120.65167850398",
+        "name": "岠燁工業股份有限公司"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "L8804820",
+                "QUARTER": "2",
+                "STARTDATE": "2008\/04\/01",
+                "ENDDATE": "2008\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/05",
+                "EMIITEM1": 0.025,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "L8804820",
+                "QUARTER": "2",
+                "STARTDATE": "2008\/04\/01",
+                "ENDDATE": "2008\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/27",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.395,
+                "EMIITEM4": 0.274
+            },
+            {
+                "REGISTRATIONNO": "L8804820",
+                "QUARTER": "1",
+                "STARTDATE": "2008\/01\/01",
+                "ENDDATE": "2008\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/05",
+                "EMIITEM1": 0.019,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "L8804820",
+                "QUARTER": "1",
+                "STARTDATE": "2008\/01\/01",
+                "ENDDATE": "2008\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/27",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.25,
+                "EMIITEM4": 0.174
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

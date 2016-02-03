@@ -1,0 +1,123 @@
+{
+    "info": {
+        "地址": "高雄市楠梓區新建南路一號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E49A1808",
+        "行業別": "電腦、通訊傳播設備及電子產品修理業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.7229418137321",
+        "longitude": "120.310401219327",
+        "name": "台灣雙葉電子股份有限公司G廠"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "E49A1808",
+                "QUARTER": "3",
+                "STARTDATE": "2013\/07\/01",
+                "ENDDATE": "2013\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.0315",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E49A1808",
+                "QUARTER": "2",
+                "STARTDATE": "2013\/04\/01",
+                "ENDDATE": "2013\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.0240",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E49A1808",
+                "QUARTER": "1",
+                "STARTDATE": "2013\/01\/01",
+                "ENDDATE": "2013\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.01",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E49A1808",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.0120",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E49A1808",
+                "QUARTER": "3",
+                "STARTDATE": "2012\/07\/01",
+                "ENDDATE": "2012\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.03",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/10\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E49A1808",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.01",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E49A1808",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.04",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

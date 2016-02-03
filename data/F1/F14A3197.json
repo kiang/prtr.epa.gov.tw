@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市蘆洲區水湳街２８９號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F14A3197",
+        "行業別": "建材批發業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0931883078663",
+        "longitude": "121.46940472103",
+        "name": "富倫建材行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F14A3197",
+                "FACILITYNAME": "富倫建材行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-103-110011",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/11\/19",
+                "TRANSGRESSDATE": "2014\/10\/30",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "F14A3197",
+                "FACILITYNAME": "富倫建材行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-103-020063",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/02\/12",
+                "TRANSGRESSDATE": "2013\/12\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "富倫建材行",
+                "TRANSGRESSCONTROLID": "F14A3197"
+            }
+        ]
+    }
+}

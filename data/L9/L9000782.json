@@ -1,0 +1,109 @@
+{
+    "info": {
+        "地址": "臺中市沙鹿區洛泉里日新街９２號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "L9000782",
+        "行業別": "短期住宿服務業(短期住宿服務業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.2370237343855",
+        "longitude": "120.561476216023",
+        "name": "統一大飯店"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "L9000782",
+                "QUARTER": "3",
+                "STARTDATE": "2012\/07\/01",
+                "ENDDATE": "2012\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/01",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "L9000782",
+                "QUARTER": "3",
+                "STARTDATE": "2012\/07\/01",
+                "ENDDATE": "2012\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            },
+            {
+                "REGISTRATIONNO": "L9000782",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/01",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "L9000782",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            },
+            {
+                "REGISTRATIONNO": "L9000782",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/01",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "L9000782",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

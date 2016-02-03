@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "新北市淡水區林子段二地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F1007776",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.1969372030544",
+        "longitude": "121.437047118656",
+        "name": "興旺畜牧場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F1007776",
+                "FACILITYNAME": "興旺畜牧場",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "20-104-040005",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/04\/08",
+                "TRANSGRESSDATE": "2014\/11\/18",
+                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第1款，空氣污染行為管制執行準則第6條第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "陳木鍊(興旺畜牧場)",
+                "TRANSGRESSCONTROLID": "F1007776"
+            }
+        ]
+    }
+}

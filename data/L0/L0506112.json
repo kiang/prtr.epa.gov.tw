@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺中市大里區國中二路１６號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "L0506112",
+        "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.09488122703",
+        "longitude": "120.68293633543",
+        "name": "大豐泡綿股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "L0506112",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "24.87",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "L0506112",
+                "QUARTER": "1",
+                "STARTDATE": "2014\/01\/01",
+                "ENDDATE": "2014\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "49.75",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/10\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "L0506112",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "20",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

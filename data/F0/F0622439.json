@@ -1,0 +1,82 @@
+{
+    "info": {
+        "地址": "新北市新莊區中正路５４４之２０號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F0622439",
+        "行業別": "醫療器材及用品製造業(其他醫療器材及用品製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0321420181319",
+        "longitude": "121.429627018161",
+        "name": "醫立股份有限公司新莊廠"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "F0622439",
+                "QUARTER": "3",
+                "STARTDATE": "2012\/07\/01",
+                "ENDDATE": "2012\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "06101               ",
+                "TOXICNAME": "環氧乙烷",
+                "TOXICENGNAME": "Ethylene oxide",
+                "EMIVALUE": "0.48",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/10\/22 01:02",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0622439",
+                "FACILITYNAME": "醫立股份有限公司新莊廠",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "34-102-110001",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/11\/22",
+                "TRANSGRESSDATE": "2013\/10\/18",
+                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項，毒性化學物質運作及釋放量紀錄管理辦法第3條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-12-02",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "醫立股份有限公司新莊廠",
+                "TRANSGRESSCONTROLID": "F0622439"
+            },
+            {
+                "REGISTRATIONNO": "F0622439",
+                "FACILITYNAME": "醫立股份有限公司新莊廠",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "34-101-100005",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/10\/25",
+                "TRANSGRESSDATE": "2012\/09\/19",
+                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項，毒性化學物質運作及釋放量紀錄管理辦法第5條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-11-05",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "醫立股份有限公司新莊廠",
+                "TRANSGRESSCONTROLID": "F0622439"
+            }
+        ]
+    }
+}

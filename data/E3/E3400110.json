@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "高雄市梓官區赤慈段４７４地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E3400110",
+        "行業別": "其他專門營造業(其他專門營造業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.760693001359",
+        "longitude": "120.266899602763",
+        "name": "全冠達營造業有限公司-集源建設股份有限公司之梓官區赤慈段四七四地號等一筆"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "E3400110",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "12.92",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "E3400110",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-0104",
+                "EMIITEMNAME": "水肥或糞尿等廢棄物",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.35",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

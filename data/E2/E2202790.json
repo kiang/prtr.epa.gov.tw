@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市仁武區竹後里水管路１００號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E2202790",
+        "行業別": "塑膠製品製造業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.7057111075938",
+        "longitude": "120.33507817973",
+        "name": "臺灣塑膠工業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E2202790",
+                "FACILITYNAME": "臺灣塑膠工業股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-104-030039",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/03\/31",
+                "TRANSGRESSDATE": "2015\/03\/02",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 140000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣塑膠工業股份有限公司仁武廠",
+                "TRANSGRESSCONTROLID": "S2201109"
+            },
+            {
+                "REGISTRATIONNO": "E2202790",
+                "FACILITYNAME": "臺灣塑膠工業股份有限公司",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "34-104-030001",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/03\/02",
+                "TRANSGRESSDATE": "2014\/09\/25",
+                "TRANSGRESSLAW": "毒性化學物質管理法第23條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣塑膠工業股份有限公司麥寮廠",
+                "TRANSGRESSCONTROLID": "P5801602"
+            }
+        ]
+    }
+}

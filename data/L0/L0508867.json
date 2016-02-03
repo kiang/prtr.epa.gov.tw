@@ -1,0 +1,95 @@
+{
+    "info": {
+        "地址": "臺中市大里區國光路二段五○○號一樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "L0508867",
+        "行業別": "居住型照顧服務業(居住型護理照顧服務業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.1101744605975",
+        "longitude": "120.6798591203",
+        "name": "葡萄園護理之家"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "L0508867",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "10",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0192",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "L0508867",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "9",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0145",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "L0508867",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "8",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "14.50",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "L0508867",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "7",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "10.40",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "L0508867",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "12.60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

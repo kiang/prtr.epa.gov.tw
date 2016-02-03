@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市蘆竹區長興里南崁路二段２２２號６樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H46A7246",
+        "行業別": "其他化學製品製造業(其他化學製品製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.059358643478",
+        "longitude": "121.274497821032",
+        "name": "關東鑫林科技股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H46A7246",
+                "FACILITYNAME": "關東鑫林科技股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "34-101-090002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/06",
+                "TRANSGRESSDATE": "2012\/06\/14",
+                "TRANSGRESSLAW": "毒性化學物質管理法第13條第4項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "H46A7246",
+                "FACILITYNAME": "關東鑫林科技股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "34-101-090001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/05",
+                "TRANSGRESSDATE": "2012\/06\/14",
+                "TRANSGRESSLAW": "毒性化學物質管理法第7條第4項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

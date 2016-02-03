@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "苗栗縣苗栗市中正路１２９７巷１號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "K6805658",
+        "行業別": "廢（污）水處理業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.5428665133658",
+        "longitude": "120.816984811172",
+        "name": "台糖苗栗學苑污水下水道系統"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "K6805587",
+                "FACILITYNAME": "台糖診所",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "30-103-010012",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/01\/21",
+                "TRANSGRESSDATE": "2013\/04\/22",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項，水污染防治法第7條第1項",
+                "PENALTYMONEY": 150000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "環保署訴願會",
+                "PETITIONRESULTS": "原處分撤銷",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台糖苗栗學苑污水下水道系統",
+                "TRANSGRESSCONTROLID": "K6805658"
+            },
+            {
+                "REGISTRATIONNO": "K6805587",
+                "FACILITYNAME": "台糖診所",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "30-102-070011",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/07\/25",
+                "TRANSGRESSDATE": "2013\/04\/22",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "陳情撤銷",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台糖苗栗學苑污水下水道系統",
+                "TRANSGRESSCONTROLID": "K6805658"
+            }
+        ]
+    }
+}

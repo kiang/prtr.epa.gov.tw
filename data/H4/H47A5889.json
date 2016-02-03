@@ -1,0 +1,96 @@
+{
+    "info": {
+        "地址": "桃園市大園區內海里民生路一一七號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H47A5889",
+        "行業別": "其他個人服務業(其他個人服務業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0760330653152",
+        "longitude": "121.191365882332",
+        "name": "桃園縣大園鄉內海村民生路117號廠區土地之廢棄物處置計畫-富旺國際開發股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "H47A5889",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-0999",
+                "EMIITEMNAME": "污泥混合物",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "266.28",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/12\/30 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H47A5889",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "404.55",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/12\/30 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H47A5889",
+                "FACILITYNAME": "桃園縣大園鄉內海村民生路117號廠區土地之廢棄物處置計畫-富旺國際開發股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "30-101-090015",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/11",
+                "TRANSGRESSDATE": "2012\/08\/02",
+                "TRANSGRESSLAW": "水污染防治法第18條，事業或污水下水道系統廢(污)水檢測申報管理辦法第21條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "H47A5889",
+                "FACILITYNAME": "桃園縣大園鄉內海村民生路117號廠區土地之廢棄物處置計畫-富旺國際開發股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "337",
+                "DOCUMENTNO": "41-101-080001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/08\/14",
+                "TRANSGRESSDATE": "2012\/05\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 12000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "桃園縣大園鄉內海村民生路117號廠區土地之廢棄物處置計畫-富旺國際開發股份有限公司",
+                "TRANSGRESSCONTROLID": "H47A5889"
+            }
+        ]
+    }
+}

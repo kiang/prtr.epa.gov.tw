@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市茄萣區嘉賜里茄萣路二段１４６號１樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E3100035",
+        "行業別": "廢棄物清除業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.899671687158",
+        "longitude": "120.183246084434",
+        "name": "功得土木包工業"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E3100035",
+                "FACILITYNAME": "功得土木包工業",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-102-100107",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/10\/17",
+                "TRANSGRESSDATE": "2013\/08\/28",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-11-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "功得土木包工業",
+                "TRANSGRESSCONTROLID": "E3100035"
+            },
+            {
+                "REGISTRATIONNO": "E3100035",
+                "FACILITYNAME": "功得土木包工業",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-102-080197",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/08\/22",
+                "TRANSGRESSDATE": "2013\/07\/19",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-09-16",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "功得土木包工業",
+                "TRANSGRESSCONTROLID": "E3100035"
+            }
+        ]
+    }
+}

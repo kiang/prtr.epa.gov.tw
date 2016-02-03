@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市八德區竹園里長興路四七○號一樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H49A3695",
+        "行業別": "汽車貨運業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9324983017344",
+        "longitude": "121.273627072572",
+        "name": "松山汽車貨運行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H49A3695",
+                "FACILITYNAME": "松山汽車貨運行",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "337",
+                "DOCUMENTNO": "41-100-100001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/10\/04",
+                "TRANSGRESSDATE": "2011\/09\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "松山汽車貨運行",
+                "TRANSGRESSCONTROLID": "H49A3695"
+            },
+            {
+                "REGISTRATIONNO": "H49A3695",
+                "FACILITYNAME": "松山汽車貨運行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-100-080001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/08\/01",
+                "TRANSGRESSDATE": "2011\/06\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "松山汽車貨運行",
+                "TRANSGRESSCONTROLID": "H49A3695"
+            }
+        ]
+    }
+}

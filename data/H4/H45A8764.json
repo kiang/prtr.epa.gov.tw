@@ -1,0 +1,109 @@
+{
+    "info": {
+        "地址": "桃園市楊梅區高榮里電研路一九○巷二六八號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H45A8764",
+        "行業別": "其他食品製造業(未分類其他食品製造業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "鴻福食品工廠有限公司楊梅廠"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "H45A8764",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.019
+            },
+            {
+                "REGISTRATIONNO": "H45A8764",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.015
+            },
+            {
+                "REGISTRATIONNO": "H45A8764",
+                "QUARTER": "1",
+                "STARTDATE": "2015\/01\/01",
+                "ENDDATE": "2015\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.022
+            },
+            {
+                "REGISTRATIONNO": "H45A8764",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.026
+            },
+            {
+                "REGISTRATIONNO": "H45A8764",
+                "QUARTER": "3",
+                "STARTDATE": "2014\/07\/01",
+                "ENDDATE": "2014\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.015
+            },
+            {
+                "REGISTRATIONNO": "H45A8764",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.017
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

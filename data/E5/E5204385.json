@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市前金區中正四路２３５號１１樓之２",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E5204385",
+        "行業別": "廢棄物清除業(有害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6280617754333",
+        "longitude": "120.292762584714",
+        "name": "悠技實業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E5204385",
+                "FACILITYNAME": "悠技實業股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "40-100-120003",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/12\/02",
+                "TRANSGRESSDATE": "2011\/06\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第49條第1項第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "悠技實業股份有限公司",
+                "TRANSGRESSCONTROLID": "E5204385"
+            },
+            {
+                "REGISTRATIONNO": "E5204385",
+                "FACILITYNAME": "悠技實業股份有限公司",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "21-100-030031",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/03\/25",
+                "TRANSGRESSDATE": "2010\/08\/03",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "悠技實業股份有限公司",
+                "TRANSGRESSCONTROLID": "E5204385"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市三峽區中山路２７７巷２３號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F0905004",
+        "行業別": "廢棄物清除業(有害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9366134729875",
+        "longitude": "121.361833034109",
+        "name": "時芳環保工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0905004",
+                "FACILITYNAME": "時芳環保工程有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-102-010016",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/01\/22",
+                "TRANSGRESSDATE": "2012\/07\/25",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第17條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "時芳環保工程有限公司",
+                "TRANSGRESSCONTROLID": "F0905004"
+            },
+            {
+                "REGISTRATIONNO": "F0905004",
+                "FACILITYNAME": "時芳環保工程有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-101-080002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/08\/24",
+                "TRANSGRESSDATE": "2012\/07\/25",
+                "TRANSGRESSLAW": "廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "撤銷並另立裁處書",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "2012-08-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "時芳環保工程有限公司",
+                "TRANSGRESSCONTROLID": "F0905004"
+            }
+        ]
+    }
+}

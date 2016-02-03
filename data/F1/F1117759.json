@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "新北市汐止區汐萬路二段２７５巷１弄５號４樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F1117759",
+        "行業別": "廢棄物清除業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0887048885606",
+        "longitude": "121.645837834396",
+        "name": "財華行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F1117759",
+                "FACILITYNAME": "財華行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "20-104-030018",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/03\/26",
+                "TRANSGRESSDATE": "2015\/01\/02",
+                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第1款，空氣污染行為管制執行準則第6條第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願不受理",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "財華行",
+                "TRANSGRESSCONTROLID": "F1117759"
+            }
+        ]
+    }
+}

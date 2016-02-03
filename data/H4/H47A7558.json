@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市大園區內海里民生路一九九號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H47A7558",
+        "行業別": "貨運承攬業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0816720183393",
+        "longitude": "121.182471001388",
+        "name": "振穩交通有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H47A7558",
+                "FACILITYNAME": "振穩交通有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-104-030057",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/03\/10",
+                "TRANSGRESSDATE": "2015\/02\/16",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第2項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "H47A7558",
+                "FACILITYNAME": "振穩交通有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "41-102-090703",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/09\/26",
+                "TRANSGRESSDATE": "2013\/09\/03",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "振穩交通有限公司",
+                "TRANSGRESSCONTROLID": "H47097003907"
+            }
+        ]
+    }
+}

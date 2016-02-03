@@ -1,0 +1,89 @@
+{
+    "info": {
+        "地址": "桃園市大溪區員林段一六八地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H4405252",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "昭輝畜牧場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [
+            {
+                "REGISTRATIONNO": "H4405252",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2013\/01\/01",
+                "EMIENDDATE": "2013\/06\/30",
+                "EMIWATER": "30",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "356",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "H4405252",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2013\/01\/01",
+                "EMIENDDATE": "2013\/06\/30",
+                "EMIWATER": "30",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "120",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "H4405252",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/01\/01",
+                "EMIENDDATE": "2012\/06\/30",
+                "EMIWATER": "40",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "63.60",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/26 14:14",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "H4405252",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/01\/01",
+                "EMIENDDATE": "2012\/06\/30",
+                "EMIWATER": "40",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "96.60",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/26 14:14",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            }
+        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

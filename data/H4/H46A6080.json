@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市蘆竹區長興里南崁路二段１４２巷５５號１樓",
+        "所屬工業區": "南崁工業區",
+        "管制編號": "H46A6080",
+        "行業別": "廢棄物清除業(有害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0636133932266",
+        "longitude": "121.275856212837",
+        "name": "地球村環保工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H46A6080",
+                "FACILITYNAME": "地球村環保工程有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "44-102-050020",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/05\/08",
+                "TRANSGRESSDATE": "2012\/12\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "地球村環保工程有限公司",
+                "TRANSGRESSCONTROLID": "H46A6080"
+            },
+            {
+                "REGISTRATIONNO": "H46A6080",
+                "FACILITYNAME": "地球村環保工程有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "44-101-050005",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/05\/23",
+                "TRANSGRESSDATE": "2011\/10\/12",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第15條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "地球村環保工程有限公司",
+                "TRANSGRESSCONTROLID": "H46A6080"
+            }
+        ]
+    }
+}

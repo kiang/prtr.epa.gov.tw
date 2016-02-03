@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市中壢區後寮里環中東路二段三九九巷一四六號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H43B0034",
+        "行業別": "廢棄物清除業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9451317861572",
+        "longitude": "121.235519133167",
+        "name": "廣容綠化有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H43B0034",
+                "FACILITYNAME": "廣容綠化有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-103-010034",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/01\/07",
+                "TRANSGRESSDATE": "2013\/11\/27",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 3000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "H43B0034",
+                "FACILITYNAME": "廣容綠化有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-100-110719",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/11\/15",
+                "TRANSGRESSDATE": "2011\/09\/14",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-12-19",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

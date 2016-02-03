@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市龜山區大崗里頂湖九街５號",
+        "所屬工業區": "林口特定工業區(工四)",
+        "管制編號": "H48A0834",
+        "行業別": "其他化學製品製造業(其他化學製品製造業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0379619401008",
+        "longitude": "121.367383901601",
+        "name": "登威股份有限公司林口廠"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H48A0834",
+                "FACILITYNAME": "登威股份有限公司林口廠",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "30-104-050057",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/05\/26",
+                "TRANSGRESSDATE": "2015\/04\/20",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項，水污染防治法第7條第1項",
+                "PENALTYMONEY": 90000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "登威股份有限公司林口廠",
+                "TRANSGRESSCONTROLID": "H48A0834"
+            },
+            {
+                "REGISTRATIONNO": "H48A0834",
+                "FACILITYNAME": "登威股份有限公司林口廠",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "30-104-050013",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/05\/06",
+                "TRANSGRESSDATE": "2015\/04\/20",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 0,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "登威股份有限公司林口廠",
+                "TRANSGRESSCONTROLID": "H48A0834"
+            }
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市汐止區八連里八連路一段九八號一樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F11A7045",
+        "行業別": "暫無分類",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0800280176797",
+        "longitude": "121.644019061086",
+        "name": "華山工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F11A7045",
+                "FACILITYNAME": "華山工程有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-104-080001",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/08\/06",
+                "TRANSGRESSDATE": "2015\/06\/16",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "F11A7045",
+                "FACILITYNAME": "華山工程有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-102-100104",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/10\/16",
+                "TRANSGRESSDATE": "2013\/08\/05",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "華山工程有限公司",
+                "TRANSGRESSCONTROLID": "F11097008917"
+            }
+        ]
+    }
+}

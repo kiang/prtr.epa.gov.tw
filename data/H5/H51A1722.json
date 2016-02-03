@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "桃園市平鎮區平鎮工業區工業一一路三號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H51A1722",
+        "行業別": "塑膠製品製造業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9169125734145",
+        "longitude": "121.218217065684",
+        "name": "安捷企業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H51A1722",
+                "FACILITYNAME": "安捷企業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "20-104-050037",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/05\/22",
+                "TRANSGRESSDATE": "2015\/04\/01",
+                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第1款，空氣污染行為管制執行準則第6條第2款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "安捷企業股份有限公司",
+                "TRANSGRESSCONTROLID": "H51A1722"
+            }
+        ]
+    }
+}

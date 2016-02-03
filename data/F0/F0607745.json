@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市新莊區新樹路２９４號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F0607745",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0069224162499",
+        "longitude": "121.432765306827",
+        "name": "鯨世界國際股份有限公司新安加油站"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0607745",
+                "FACILITYNAME": "鯨世界國際股份有限公司新安加油站",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-101-070008",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/07\/06",
+                "TRANSGRESSDATE": "2012\/04\/10",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "自行撤銷",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鯨世界國際股份有限公司新安加油站",
+                "TRANSGRESSCONTROLID": "F0607745"
+            },
+            {
+                "REGISTRATIONNO": "F0607745",
+                "FACILITYNAME": "鯨世界國際股份有限公司新安加油站",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "41-100-092247",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/09\/23",
+                "TRANSGRESSDATE": "2011\/08\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第11條第1款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鯨世界國際股份有限公司新安加油站",
+                "TRANSGRESSCONTROLID": "F0607745"
+            }
+        ]
+    }
+}

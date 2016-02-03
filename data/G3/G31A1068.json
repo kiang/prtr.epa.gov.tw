@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "宜蘭縣羅東鎮東安里站東路３５４號１樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "G31A1068",
+        "行業別": "汽車貨運業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.6800882762203",
+        "longitude": "121.775020026987",
+        "name": "力翔物流有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "G31A1068",
+                "FACILITYNAME": "力翔物流有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-103-030008",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/03\/03",
+                "TRANSGRESSDATE": "2014\/01\/23",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-04-07",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "G31A1068",
+                "FACILITYNAME": "力翔物流有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "21-102-030210",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/03\/18",
+                "TRANSGRESSDATE": "2013\/02\/01",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "力翔物流有限公司",
+                "TRANSGRESSCONTROLID": "G31A1068"
+            }
+        ]
+    }
+}

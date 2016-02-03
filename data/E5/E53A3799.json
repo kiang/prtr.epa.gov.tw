@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市苓雅區四維四路１６７號７樓之３",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E53A3799",
+        "行業別": "汽車貨運業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6139477433619",
+        "longitude": "120.295117690859",
+        "name": "祥勝汽車貨運有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E53A3799",
+                "FACILITYNAME": "祥勝汽車貨運有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-104-050119",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/05\/26",
+                "TRANSGRESSDATE": "2015\/05\/07",
+                "TRANSGRESSLAW": "交通工具排放空氣污染物罰鍰標準第5條，空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-06-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "祥勝汽車貨運有限公司",
+                "TRANSGRESSCONTROLID": "E53A3799"
+            },
+            {
+                "REGISTRATIONNO": "E53A3799",
+                "FACILITYNAME": "祥勝汽車貨運有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "21-102-060001",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/06\/04",
+                "TRANSGRESSDATE": "2013\/05\/13",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "祥勝汽車貨運有限公司",
+                "TRANSGRESSCONTROLID": "E53A3799"
+            }
+        ]
+    }
+}

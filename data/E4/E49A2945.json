@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市楠梓區楠梓新路２６１巷１９弄２號１樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E49A2945",
+        "行業別": "汽車貨運業(汽車貨運業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.728707013814",
+        "longitude": "120.325410924494",
+        "name": "高啟通運有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E49A2945",
+                "FACILITYNAME": "高啟通運有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "41-102-044583",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/04\/17",
+                "TRANSGRESSDATE": "2013\/01\/25",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1項第2款",
+                "PENALTYMONEY": 2400,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "高啟通運有限公司",
+                "TRANSGRESSCONTROLID": "E49A2945"
+            },
+            {
+                "REGISTRATIONNO": "E49A2945",
+                "FACILITYNAME": "高啟通運有限公司",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "21-101-110070",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/11\/28",
+                "TRANSGRESSDATE": "2012\/11\/08",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-12-17",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "高啟通運有限公司",
+                "TRANSGRESSCONTROLID": "E49A2945"
+            }
+        ]
+    }
+}

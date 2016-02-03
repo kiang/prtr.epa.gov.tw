@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "苗栗縣竹南鎮公館里公館仔１００號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "K71A6162",
+        "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.6598440176578",
+        "longitude": "120.874611999544",
+        "name": "民景企業股份有限公司公館廠"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "K71A6162",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0.806,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.148
+            },
+            {
+                "REGISTRATIONNO": "K71A6162",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0.504,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.052
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

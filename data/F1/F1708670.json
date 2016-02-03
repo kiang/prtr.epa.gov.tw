@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市林口區粉寮路二段四五七之二七號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F1708670",
+        "行業別": "金屬加工處理業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0991641933321",
+        "longitude": "121.403372985298",
+        "name": "聯合億有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F01097024582",
+                "FACILITYNAME": "聯合億有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-103-040008",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/04\/03",
+                "TRANSGRESSDATE": "2014\/01\/02",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 220000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "聯合億有限公司",
+                "TRANSGRESSCONTROLID": "F1708670"
+            },
+            {
+                "REGISTRATIONNO": "F01097024582",
+                "FACILITYNAME": "聯合億有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-102-070048",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/07\/27",
+                "TRANSGRESSDATE": "2013\/05\/27",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項，水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "聯合億有限公司",
+                "TRANSGRESSCONTROLID": "F1708670"
+            }
+        ]
+    }
+}

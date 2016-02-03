@@ -1,0 +1,109 @@
+{
+    "info": {
+        "地址": "桃園市中壢區復興段六三九地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H43C4756",
+        "行業別": "最後修整工程業(最後修整工程業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "永松發室內裝修工程有限公司-桃園縣立內壢國民中學-103校舍油漆工程採購案"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "H43C4756",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0270",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "H43C4756",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0030",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "H43C4756",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0030",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H43C4756",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0270",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H43C4756",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0030",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H43C4756",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0270",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/08\/11 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市土城區慶祥街６７號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F13A2857",
+        "行業別": "金屬加工處理業(金屬表面處理業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9724829924754",
+        "longitude": "121.435463602471",
+        "name": "金鑫成企業有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F13A2857",
+                "FACILITYNAME": "金鑫成企業有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "34-104-110005",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/24",
+                "TRANSGRESSDATE": "2015\/10\/15",
+                "TRANSGRESSLAW": "毒性化學物質管理法第13條第4項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "2015-12-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "金鑫成企業有限公司",
+                "TRANSGRESSCONTROLID": "F13A2857"
+            },
+            {
+                "REGISTRATIONNO": "F13A2857",
+                "FACILITYNAME": "金鑫成企業有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-104-120001",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/12\/01",
+                "TRANSGRESSDATE": "2015\/10\/14",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "金鑫成企業有限公司土城廠",
+                "TRANSGRESSCONTROLID": "F1312718"
+            }
+        ]
+    }
+}

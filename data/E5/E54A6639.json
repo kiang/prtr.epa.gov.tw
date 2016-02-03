@@ -1,0 +1,81 @@
+{
+    "info": {
+        "地址": "高雄市前鎮區興邦段１６２之５地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E54A6639",
+        "行業別": "暫無分類",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6116700136394",
+        "longitude": "120.326313924539",
+        "name": "台灣糖業股份有限公司高雄區處高雄市多功能經貿區第11區及49區土地廢棄物清理作業(第49區)"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "E54A6639",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "C-0110",
+                "EMIITEMNAME": "銅及其化合物(總銅)(僅限廢觸媒、集塵灰、廢液、污泥、濾材、焚化飛灰或底渣)",
+                "CLEANCODE": "Z07",
+                "CLEANNAME": "固化處理",
+                "EMIITEMVALUE": "21.60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "E54A6639",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "6.11",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "E54A6639",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1299",
+                "EMIITEMNAME": "爐石(碴)或礦渣混合物",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "14.81",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "E54A6639",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1103",
+                "EMIITEMNAME": "焚化爐底渣",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "127.29",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

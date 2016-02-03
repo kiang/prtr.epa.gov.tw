@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "高雄市三民區河北一路九八號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E5008383",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6356196046503",
+        "longitude": "120.315448626199",
+        "name": "一一衛生企業行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E5008383",
+                "FACILITYNAME": "一一衛生企業行",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-103-040004",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/04\/15",
+                "TRANSGRESSDATE": "2014\/03\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第13條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "一一衛生企業行",
+                "TRANSGRESSCONTROLID": "E5008383"
+            }
+        ]
+    }
+}

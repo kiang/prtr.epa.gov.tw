@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "高雄市前鎮區金福路一四號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E5401679",
+        "行業別": "其他化學製品製造業(其他化學製品製造業)",
+        "列管類別": "空氣污染;毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.5687828917391",
+        "longitude": "120.324246416758",
+        "name": "全元化學有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E5401679",
+                "FACILITYNAME": "全元化學有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "34-102-020001",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/02\/06",
+                "TRANSGRESSDATE": "2012\/09\/21",
+                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "環保署訴願會",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

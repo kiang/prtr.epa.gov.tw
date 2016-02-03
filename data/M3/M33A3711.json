@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "南投縣南投市福山里八卦路６８６巷６３弄１１號１樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "M33A3711",
+        "行業別": "清潔服務業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.9154927083356",
+        "longitude": "120.639666197232",
+        "name": "鈺升環保有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "M33A3711",
+                "FACILITYNAME": "鈺升環保有限公司",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "44-100-110001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/11\/28",
+                "TRANSGRESSDATE": "2011\/11\/02",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第17條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鈺升環保有限公司",
+                "TRANSGRESSCONTROLID": "M33A3711"
+            },
+            {
+                "REGISTRATIONNO": "M33A3711",
+                "FACILITYNAME": "鈺升環保有限公司",
+                "COUNTY": "南投縣",
+                "COUNTYCODE": "15",
+                "DOCUMENTNO": "44-100-100007",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/10\/17",
+                "TRANSGRESSDATE": "2011\/09\/28",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鈺升環保有限公司",
+                "TRANSGRESSCONTROLID": "M33A3711"
+            }
+        ]
+    }
+}

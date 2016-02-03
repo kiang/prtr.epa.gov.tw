@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市小港區中安路４３８號４樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E56A6798",
+        "行業別": "廢棄物清除業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.5847025048806",
+        "longitude": "120.350194897225",
+        "name": "發志企業行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E56A6798",
+                "FACILITYNAME": "發志企業行",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-104-100012",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/10\/19",
+                "TRANSGRESSDATE": "2015\/09\/09",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第16條第1項第1款，廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "E56A6798",
+                "FACILITYNAME": "發志企業行",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "21-102-120016",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/12\/17",
+                "TRANSGRESSDATE": "2013\/11\/07",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "發志企業行",
+                "TRANSGRESSCONTROLID": "E56A6798"
+            }
+        ]
+    }
+}

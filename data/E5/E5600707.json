@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "高雄市小港區永春街二三號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E5600707",
+        "行業別": "金屬結構及建築組件製造業(金屬結構製造業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.5473616781634",
+        "longitude": "120.378333156119",
+        "name": "經濟實業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E5600707",
+                "FACILITYNAME": "經濟實業股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "23-104-070009",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/07\/31",
+                "TRANSGRESSDATE": "2014\/03\/03",
+                "TRANSGRESSLAW": "空氣污染防制法第16條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "新北市泰山區明志路三段１４５巷６１號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F1600580",
+        "行業別": "印染整理業(印染整理業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0391300051979",
+        "longitude": "121.427200914698",
+        "name": "至隆企業股份有限公司"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "F1600580",
+                "QUARTER": "1",
+                "STARTDATE": "2008\/01\/01",
+                "ENDDATE": "2008\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/04",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "F1600580",
+                "QUARTER": "1",
+                "STARTDATE": "2008\/01\/01",
+                "ENDDATE": "2008\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/27",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.028,
+                "EMIITEM4": 0.02
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

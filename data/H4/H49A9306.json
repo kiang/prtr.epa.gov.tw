@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市八德區大順里介壽路二段五八三巷一四五弄四號一樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H49A9306",
+        "行業別": "暫無分類",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9441241274046",
+        "longitude": "121.300327218278",
+        "name": "名富園藝社"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H49A9306",
+                "FACILITYNAME": "名富園藝社",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "44-104-090002",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/09\/02",
+                "TRANSGRESSDATE": "2015\/07\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第16條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "名富園藝社",
+                "TRANSGRESSCONTROLID": "H49A9306"
+            },
+            {
+                "REGISTRATIONNO": "H49A9306",
+                "FACILITYNAME": "名富園藝社",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "40-103-030001",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/03\/03",
+                "TRANSGRESSDATE": "2013\/11\/13",
+                "TRANSGRESSLAW": "廢棄物清理法第49條第1項第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

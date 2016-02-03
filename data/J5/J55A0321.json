@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "新竹縣竹北市勝利七街一段一六○號一樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "J55A0321",
+        "行業別": "倉儲業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.8261661869336",
+        "longitude": "121.030808232113",
+        "name": "戀戀臺大"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "J55097012814",
+                "FACILITYNAME": "戀戀台大管理委員會",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-104-120016",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/12\/28",
+                "TRANSGRESSDATE": "2015\/09\/16",
+                "TRANSGRESSLAW": "水污染防治法第18條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "戀戀臺大",
+                "TRANSGRESSCONTROLID": "J55A0321"
+            }
+        ]
+    }
+}

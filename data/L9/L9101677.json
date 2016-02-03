@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "臺中市梧棲區大村里立德路２８７號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "L9101677",
+        "行業別": "非金屬家具製造業(木製家具製造業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.2429706028714",
+        "longitude": "120.54031287674",
+        "name": "喬光企業社"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "L9101677",
+                "QUARTER": "1",
+                "STARTDATE": "2008\/01\/01",
+                "ENDDATE": "2008\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/04",
+                "EMIITEM1": 0,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "L9101677",
+                "QUARTER": "1",
+                "STARTDATE": "2008\/01\/01",
+                "ENDDATE": "2008\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/27",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

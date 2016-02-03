@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市五股區民義路一段２４０號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F15A1671",
+        "行業別": "其他基本金屬製造業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0918656345705",
+        "longitude": "121.427370025804",
+        "name": "聖龍金屬表面處理有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F15A1671",
+                "FACILITYNAME": "聖龍金屬表面處理有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-104-080003",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/08\/10",
+                "TRANSGRESSDATE": "2015\/05\/25",
+                "TRANSGRESSLAW": "環境保護專責單位或人員設置及管理辦法第12條第1項，水污染防治法第21條第2項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "聖龍金屬表面處理有限公司五股廠",
+                "TRANSGRESSCONTROLID": "F1512290"
+            },
+            {
+                "REGISTRATIONNO": "F15A1671",
+                "FACILITYNAME": "聖龍金屬表面處理有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-104-070012",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/07\/15",
+                "TRANSGRESSDATE": "2014\/05\/26",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 80000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "聖龍金屬表面處理有限公司",
+                "TRANSGRESSCONTROLID": "F15A1671"
+            }
+        ]
+    }
+}

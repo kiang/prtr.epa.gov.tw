@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "桃園市楊梅區青山里獅一路７號２樓",
+        "所屬工業區": "桃園幼獅擴大工業用地",
+        "管制編號": "H4509433",
+        "行業別": "倉儲業(普通倉儲業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9231989636715",
+        "longitude": "121.175145624253",
+        "name": "世聯倉運股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H4509433",
+                "FACILITYNAME": "世聯倉運股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "21-102-040273",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/04\/24",
+                "TRANSGRESSDATE": "2013\/03\/11",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "世聯倉運股份有限公司",
+                "TRANSGRESSCONTROLID": "H4509433"
+            },
+            {
+                "REGISTRATIONNO": "H4509433",
+                "FACILITYNAME": "世聯倉運股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-100-091418",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/09\/30",
+                "TRANSGRESSDATE": "2011\/08\/17",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-10-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

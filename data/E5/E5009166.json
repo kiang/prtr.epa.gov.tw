@@ -1,0 +1,69 @@
+{
+    "info": {
+        "地址": "高雄市三民區本館路６００巷２０號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E5009166",
+        "行業別": "公共行政業(政府機關)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6611015249491",
+        "longitude": "120.33397109955",
+        "name": "高雄市政府民政局殯葬管理所"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [
+            {
+                "REGISTRATIONNO": "E5009166",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2013\/06\/25",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "1.54",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "超標，已告發處分",
+                "UPDATETIME": "2013\/12\/17 10:10",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "E5009166",
+                "EMICHIMNEY": "P002",
+                "EXAMODIFYDATE": "2012\/04\/02",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.024",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2013\/12\/17 10:10",
+                "RPT_TYPE": "METAL"
+            }
+        ],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E50097004893",
+                "FACILITYNAME": "高雄市殯葬管理處",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "20-103-100012",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/10\/09",
+                "TRANSGRESSDATE": "2013\/06\/25",
+                "TRANSGRESSLAW": "固定污染源戴奧辛排放標準第5條，空氣污染防制法第20條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2015-01-02",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "高雄市政府民政局殯葬管理所",
+                "TRANSGRESSCONTROLID": "E5009166"
+            }
+        ]
+    }
+}

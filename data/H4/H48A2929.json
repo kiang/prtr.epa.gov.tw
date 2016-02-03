@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "桃園市龜山區山頂里興邦路３１之１號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H48A2929",
+        "行業別": "其他電子零組件製造業(未分類其他電子零組件製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.9851010181437",
+        "longitude": "121.324536007839",
+        "name": "台達電子工業股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H48A2929",
+                "FACILITYNAME": "台達電子工業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "23-103-070003",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/07\/09",
+                "TRANSGRESSDATE": "2014\/06\/13",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項，營建工程空氣污染防制設施管理辦法第17條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-06-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "利晉工程股份有限公司-台達電子工業股份有限公司-廠房增建工程",
+                "TRANSGRESSCONTROLID": "H48A8858"
+            }
+        ]
+    }
+}

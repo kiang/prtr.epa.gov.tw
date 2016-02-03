@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "新北市三芝區忠孝街１７７號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "F21A0706",
+        "行業別": "建材批發業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.2616768229399",
+        "longitude": "121.505416815616",
+        "name": "正益建材行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F21A0706",
+                "FACILITYNAME": "正益建材行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-104-080104",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/08\/25",
+                "TRANSGRESSDATE": "2015\/04\/21",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "正益建材行",
+                "TRANSGRESSCONTROLID": "F21A0706"
+            },
+            {
+                "REGISTRATIONNO": "F21A0706",
+                "FACILITYNAME": "正益建材行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-103-030135",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/03\/18",
+                "TRANSGRESSDATE": "2014\/01\/02",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "正益建材行",
+                "TRANSGRESSCONTROLID": "F21A0706"
+            }
+        ]
+    }
+}

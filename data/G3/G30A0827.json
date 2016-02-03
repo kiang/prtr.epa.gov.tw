@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "宜蘭縣宜蘭市梅洲里梅洲二路１７號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "G30A0827",
+        "行業別": "紙容器製造業(紙容器製造業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.7800050167071",
+        "longitude": "121.738820093134",
+        "name": "榮德紙器股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "G30A0827",
+                "FACILITYNAME": "榮德紙器股份有限公司",
+                "COUNTY": "宜蘭縣",
+                "COUNTYCODE": "9",
+                "DOCUMENTNO": "30-100-030003",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/03\/22",
+                "TRANSGRESSDATE": "2010\/10\/19",
+                "TRANSGRESSLAW": "水污染防治法第32條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2010-10-19",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "榮德紙器股份有限公司",
+                "TRANSGRESSCONTROLID": "G30A0827"
+            },
+            {
+                "REGISTRATIONNO": "G30A0827",
+                "FACILITYNAME": "榮德紙器股份有限公司",
+                "COUNTY": "宜蘭縣",
+                "COUNTYCODE": "9",
+                "DOCUMENTNO": "30-100-020001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/02\/14",
+                "TRANSGRESSDATE": "2010\/10\/19",
+                "TRANSGRESSLAW": "水污染防治法第28條第1項",
+                "PENALTYMONEY": 210000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2010-10-19",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "榮德紙器股份有限公司",
+                "TRANSGRESSCONTROLID": "G30A0827"
+            }
+        ]
+    }
+}

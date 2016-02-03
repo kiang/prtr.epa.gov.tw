@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市前鎮區成功二路８８號２２樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E54A4207",
+        "行業別": "其他非金屬礦物製品製造業(未分類其他非金屬礦物製品製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6047858455326",
+        "longitude": "120.301884469151",
+        "name": "中聯資源股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E54A4207",
+                "FACILITYNAME": "中聯資源股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "10-104-110001",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/16",
+                "TRANSGRESSDATE": "2015\/08\/17",
+                "TRANSGRESSLAW": "環境影響評估法第17條",
+                "PENALTYMONEY": 300000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中聯資源股份有限公司",
+                "TRANSGRESSCONTROLID": "E54A4207"
+            },
+            {
+                "REGISTRATIONNO": "E54A4207",
+                "FACILITYNAME": "中聯資源股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "40-104-120037",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/12\/23",
+                "TRANSGRESSDATE": "2015\/03\/31",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第21條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中聯資源股份有限公司",
+                "TRANSGRESSCONTROLID": "E54A4207"
+            }
+        ]
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "info": {
+        "地址": "新北市新莊區五權二路２６號６樓之４",
+        "所屬工業區": "五股工業區",
+        "管制編號": "F06B1273",
+        "行業別": "化學材料及其製品批發業(化學製品批發業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0682708694703",
+        "longitude": "121.459049047463",
+        "name": "鉦羽有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "F06B1273",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "06401               ",
+                "TOXICNAME": "三氯乙烯",
+                "TOXICENGNAME": "Trichloroethylene",
+                "EMIVALUE": "0.007310",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F06B1273",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05401               ",
+                "TOXICNAME": "三氯甲烷",
+                "TOXICENGNAME": "Chloroform",
+                "EMIVALUE": "0.029840",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F06B1273",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09701               ",
+                "TOXICNAME": "吡啶",
+                "TOXICENGNAME": "Pyridine",
+                "EMIVALUE": "0.004890",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F06B1273",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05201               ",
+                "TOXICNAME": "苯",
+                "TOXICENGNAME": "Benzene",
+                "EMIVALUE": "0.002185",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F06B1273",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05401               ",
+                "TOXICNAME": "三氯甲烷",
+                "TOXICENGNAME": "Chloroform",
+                "EMIVALUE": "0.029840",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "苗栗縣銅鑼鄉中平村中平１３１之２號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "K77A0253",
+        "行業別": "金屬加工處理業(粉末冶金業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.4869911303288",
+        "longitude": "120.787836578428",
+        "name": "磁鍊企業社"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "K77A0253",
+                "FACILITYNAME": "磁鍊企業社",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "20-100-060004",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/06\/10",
+                "TRANSGRESSDATE": "2011\/05\/26",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-08-05",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "磁鍊企業社",
+                "TRANSGRESSCONTROLID": "K77A0253"
+            }
+        ]
+    }
+}

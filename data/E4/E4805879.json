@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市左營區太華街６８號１樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E4805879",
+        "行業別": "汽車貨運業(汽車貨運業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6576274604525",
+        "longitude": "120.30691090159",
+        "name": "亞大貨運有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E4805879",
+                "FACILITYNAME": "亞大貨運有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "21-101-100022",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/10\/16",
+                "TRANSGRESSDATE": "2012\/08\/01",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "亞大貨運有限公司",
+                "TRANSGRESSCONTROLID": "E4805879"
+            },
+            {
+                "REGISTRATIONNO": "E4805879",
+                "FACILITYNAME": "亞大貨運有限公司",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "21-100-070051",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/07\/20",
+                "TRANSGRESSDATE": "2011\/07\/07",
+                "TRANSGRESSLAW": "空氣污染防制法第34條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "亞大貨運有限公司",
+                "TRANSGRESSCONTROLID": "E4805879"
+            }
+        ]
+    }
+}

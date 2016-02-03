@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "高雄市仁武區大正路３３５號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "E2203573",
+        "行業別": "技術檢測及分析服務業(其他技術檢測及分析服務業)",
+        "列管類別": "廢棄物;毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6758770138016",
+        "longitude": "120.340433929318",
+        "name": "震遠檢驗科技有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E1504759",
+                "FACILITYNAME": "震遠檢驗科技有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "34-104-080002",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/08\/27",
+                "TRANSGRESSDATE": "2015\/07\/27",
+                "TRANSGRESSLAW": "毒性化學物質管理法第13條第4項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "震遠檢驗科技有限公司",
+                "TRANSGRESSCONTROLID": "E2203573"
+            }
+        ]
+    }
+}

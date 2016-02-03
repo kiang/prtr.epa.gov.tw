@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "桃園市觀音區工業二路二八號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "H5307291",
+        "行業別": "商品經紀業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0688002068133",
+        "longitude": "121.123458518365",
+        "name": "永聖貿易股份有限公司觀音倉庫"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "H5307291",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "0.0010",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "H5307291",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "0.02",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:00",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

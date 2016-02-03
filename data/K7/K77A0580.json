@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "苗栗縣銅鑼鄉中平村瑞興北街６號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "K77A0580",
+        "行業別": "資料儲存媒體製造業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.4995970542466",
+        "longitude": "120.797852307306",
+        "name": "巨擘先進股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "K77A0580",
+                "FACILITYNAME": "巨擘先進股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "30-103-040011",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/04\/29",
+                "TRANSGRESSDATE": "2014\/02\/26",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 170000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "巨擘先進股份有限公司中興廠",
+                "TRANSGRESSCONTROLID": "K7701604"
+            },
+            {
+                "REGISTRATIONNO": "K77A0580",
+                "FACILITYNAME": "巨擘先進股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "40-101-080007",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/08\/09",
+                "TRANSGRESSDATE": "2012\/07\/03",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第6條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-08-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "巨擘先進股份有限公司中興廠",
+                "TRANSGRESSCONTROLID": "K7701604"
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "info": {
+        "地址": "桃園市觀音區成功路一段二一七之一號",
+        "所屬工業區": "觀音工業區",
+        "管制編號": "H53A6435",
+        "行業別": "暫無分類",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "25.0536430182962",
+        "longitude": "121.145551000705",
+        "name": "桃園縣觀音鄉成功路一段217-1號-林朝明"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "H53A6435",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "1025.81",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/17 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H53A6435",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "2223.47",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/16 09:52",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H53A6435",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "83.41",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/05\/26 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H53A6435",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-0299",
+                "EMIITEMNAME": "廢塑膠混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "20.58",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/05\/26 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H53A6435",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "9135.99",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/05\/26 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "H53A6435",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "6790.86",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/02\/23 09:06",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}
