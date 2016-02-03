@@ -88,11 +88,16 @@ class prtrDetail {
             }
         }
         $pos = strpos($c, '<input type="hidden" id="hidLat" value="');
-        $posEnd = strpos($c, '" ', $pos + 40);
-        $result['latitude'] = substr(substr($c, $pos, $posEnd - $pos), 40);
+        $result['latitude'] = $result['longitude'] = null;
+        if (false !== $pos) {
+            $posEnd = strpos($c, '" ', $pos + 40);
+            $result['latitude'] = substr(substr($c, $pos, $posEnd - $pos), 40);
+        }
         $pos = strpos($c, '<input type="hidden" id="hidLon" value="');
-        $posEnd = strpos($c, '" ', $pos + 40);
-        $result['longitude'] = substr(substr($c, $pos, $posEnd - $pos), 40);
+        if (false !== $pos) {
+            $posEnd = strpos($c, '" ', $pos + 40);
+            $result['longitude'] = substr(substr($c, $pos, $posEnd - $pos), 40);
+        }
         return $result;
     }
 
