@@ -1,0 +1,58 @@
+{
+    "info": {
+        "地址": "屏東縣枋寮鄉玉泉村青山路１３３號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T57A0486",
+        "行業別": "殯葬服務業",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.437747768211",
+        "longitude": "120.599999852492",
+        "name": "枋寮鄉殯葬管理所火化場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [
+            {
+                "REGISTRATIONNO": "T57A0486",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2014\/10\/22",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.74",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2015\/09\/24 01:01",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "T57A0486",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/10\/16",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.015",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2015\/09\/24 01:01",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "T57A0486",
+                "EMICHIMNEY": "P002",
+                "EXAMODIFYDATE": "2012\/09\/10",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.043",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2013\/12\/17 10:10",
+                "RPT_TYPE": "METAL"
+            }
+        ],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

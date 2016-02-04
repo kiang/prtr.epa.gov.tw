@@ -1,0 +1,47 @@
+{
+    "info": {
+        "地址": "屏東縣高樹鄉東興村和豐巷２４之１號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T52A0461",
+        "行業別": "殯葬服務業",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.8264235624945",
+        "longitude": "120.600756698063",
+        "name": "高樹鄉公所火化場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [
+            {
+                "REGISTRATIONNO": "T52A0461",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/07",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.006",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2015\/09\/24 01:01",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "T52A0461",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2012\/06\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.02",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2013\/12\/17 10:10",
+                "RPT_TYPE": "METAL"
+            }
+        ],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

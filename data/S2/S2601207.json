@@ -1,0 +1,110 @@
+{
+    "info": {
+        "地址": "高雄市燕巢區安招里成功路一號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "S2601207",
+        "行業別": "居住型照顧服務業(居住型老人照顧服務業)",
+        "列管類別": "水污染;廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.7863207247625",
+        "longitude": "120.362098995906",
+        "name": "國軍退除役官兵輔導委員會岡山榮譽國民之家"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "S2601207",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "0.14",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "S2601207",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "0.12",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "S2601207",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "X01",
+                "CLEANNAME": "掩埋",
+                "EMIITEMVALUE": "0.09",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2601207",
+                "FACILITYNAME": "國軍退除役官兵輔導委員會岡山榮譽國民之家",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-101-010020",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/01\/16",
+                "TRANSGRESSDATE": "2011\/03\/31",
+                "TRANSGRESSLAW": "環境保護專責單位或人員設置及管理辦法第13條第2項，水污染防治法第21條第2項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "S2601207",
+                "FACILITYNAME": "國軍退除役官兵輔導委員會岡山榮譽國民之家",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-100-050015",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/05\/30",
+                "TRANSGRESSDATE": "2011\/03\/31",
+                "TRANSGRESSLAW": "水污染防治法第19條，水污染防治法第21條第2項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "環保署訴願會",
+                "PETITIONRESULTS": "撤銷並另立裁處書",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

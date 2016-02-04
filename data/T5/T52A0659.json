@@ -1,0 +1,90 @@
+{
+    "info": {
+        "地址": "屏東縣高樹鄉建興村大山路３７號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T52A0659",
+        "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
+        "列管類別": "水污染;廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.8281990146849",
+        "longitude": "120.623972986963",
+        "name": "嘉晟資源環保科技有限公司"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "T52A0659",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "核算確認中",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            },
+            {
+                "REGISTRATIONNO": "T52A0659",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "核算確認中",
+                "UPDATETIME": "2016\/01\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            }
+        ],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "T52A0659",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "3680",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "T52A0659",
+                "FACILITYNAME": "嘉晟資源環保科技有限公司",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "40-104-110004",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/12",
+                "TRANSGRESSDATE": "2015\/10\/22",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "嘉晟資源環保科技有限公司",
+                "TRANSGRESSCONTROLID": "T52A0659"
+            }
+        ]
+    }
+}

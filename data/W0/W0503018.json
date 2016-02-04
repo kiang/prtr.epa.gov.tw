@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "金門縣金城鎮光前路一二三號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "W0503018",
+        "行業別": "廢棄物清除業",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.434332331118",
+        "longitude": "118.313890016965",
+        "name": "金榮廢品收購站"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "W0503018",
+                "FACILITYNAME": "金榮廢品收購站",
+                "COUNTY": "金門縣",
+                "COUNTYCODE": "24",
+                "DOCUMENTNO": "44-103-020002",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/02\/24",
+                "TRANSGRESSDATE": "2014\/02\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第12條第1項，一般廢棄物回收清除處理辦法第3條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "W0503018",
+                "FACILITYNAME": "金榮廢品收購站",
+                "COUNTY": "金門縣",
+                "COUNTYCODE": "24",
+                "DOCUMENTNO": "45-100-070001",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/07\/25",
+                "TRANSGRESSDATE": "2011\/05\/13",
+                "TRANSGRESSLAW": "廢棄物清理法第12條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "金榮廢品收購站",
+                "TRANSGRESSCONTROLID": "W0503018"
+            }
+        ]
+    }
+}

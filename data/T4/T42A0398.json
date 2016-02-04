@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "屏東縣屏東市溝美里公安街四號一樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T42A0398",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6827823554716",
+        "longitude": "120.494609912568",
+        "name": "和成衛生工程行"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "T42A0398",
+                "FACILITYNAME": "和成衛生工程行",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "40-101-090003",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/11",
+                "TRANSGRESSDATE": "2012\/08\/31",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "和成衛生工程行",
+                "TRANSGRESSCONTROLID": "T42A0398"
+            }
+        ]
+    }
+}

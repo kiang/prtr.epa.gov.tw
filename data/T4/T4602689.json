@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "屏東縣萬丹鄉濫庄三二之一號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T4602689",
+        "行業別": "廢棄物清除業",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.5893734633563",
+        "longitude": "120.485012917389",
+        "name": "弘億企業社"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "T4602689",
+                "FACILITYNAME": "弘億企業社",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "30-102-050012",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/05\/10",
+                "TRANSGRESSDATE": "2013\/03\/08",
+                "TRANSGRESSLAW": "水污染防治法第7條，水污染防治法第14條",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "弘億企業社",
+                "TRANSGRESSCONTROLID": "T4602689"
+            },
+            {
+                "REGISTRATIONNO": "T4602689",
+                "FACILITYNAME": "弘億企業社",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "40-102-030007",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/03\/27",
+                "TRANSGRESSDATE": "2013\/01\/31",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "弘億企業社",
+                "TRANSGRESSCONTROLID": "T4602689"
+            }
+        ]
+    }
+}

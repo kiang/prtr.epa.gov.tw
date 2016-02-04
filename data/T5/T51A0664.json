@@ -1,0 +1,73 @@
+{
+    "info": {
+        "地址": "屏東縣鹽埔鄉彭南段七三八地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T51A0664",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "洪文雄牧場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [
+            {
+                "REGISTRATIONNO": "T51A0664",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3777",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "506",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "T51A0664",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3777",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "84",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "T51A0664",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3777",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "72.90",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            }
+        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

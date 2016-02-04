@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市仁武區後安里永宏巷１２弄３２號",
+        "所屬工業區": "仁武工業區",
+        "管制編號": "S2211543",
+        "行業別": "其他金屬製品製造業(未分類其他金屬製品製造業)",
+        "列管類別": "水污染;廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.713818013863",
+        "longitude": "120.341210929646",
+        "name": "錩駿企業有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2211543",
+                "FACILITYNAME": "錩駿企業有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "40-104-120036",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/12\/23",
+                "TRANSGRESSDATE": "2015\/09\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "錩駿企業有限公司",
+                "TRANSGRESSCONTROLID": "S2211543"
+            },
+            {
+                "REGISTRATIONNO": "S2211543",
+                "FACILITYNAME": "錩駿企業有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-104-020037",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/02\/13",
+                "TRANSGRESSDATE": "2014\/10\/02",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "錩駿企業有限公司",
+                "TRANSGRESSCONTROLID": "S2211543"
+            }
+        ]
+    }
+}

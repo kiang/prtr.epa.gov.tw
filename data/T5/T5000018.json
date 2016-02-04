@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "屏東縣里港鄉三廓村三和路１２０之８號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T5000018",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "偉利興業股份有限公司里港土庫加油站"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "T5000018",
+                "FACILITYNAME": "偉利興業股份有限公司里港土庫加油站",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "32-104-020001",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/02\/03",
+                "TRANSGRESSDATE": "2014\/10\/07",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第8條第1項，土壤及地下水污染整治法第9條第1項第5款",
+                "PENALTYMONEY": 300000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-04-30",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "T5000018",
+                "FACILITYNAME": "偉利興業股份有限公司里港土庫加油站",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "32-103-070001",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/07\/14",
+                "TRANSGRESSDATE": "2014\/06\/13",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第8條第1項，土壤及地下水污染整治法第9條第1項第5款",
+                "PENALTYMONEY": 300000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-10-06",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

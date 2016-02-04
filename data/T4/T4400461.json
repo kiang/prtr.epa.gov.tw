@@ -1,0 +1,46 @@
+{
+    "info": {
+        "地址": "屏東縣東港鎮龍帝段八地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T4400461",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "金吻畜牧場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "T4400461",
+                "FACILITYNAME": "金吻畜牧場",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "30-102-080005",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/07\/23",
+                "TRANSGRESSDATE": "2013\/07\/04",
+                "TRANSGRESSLAW": "水污染防治法第18條",
+                "PENALTYMONEY": 120000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            }
+        ]
+    }
+}

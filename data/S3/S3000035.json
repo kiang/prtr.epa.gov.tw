@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市湖內區海山里和平路５號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "S3000035",
+        "行業別": "燃料零售業(加油（氣）站業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.8738342011098",
+        "longitude": "120.224493597559",
+        "name": "興達加油站股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S3000035",
+                "FACILITYNAME": "興達加油站股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "32-104-060003",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/06\/11",
+                "TRANSGRESSDATE": "2015\/04\/29",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第12條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "S3000035",
+                "FACILITYNAME": "興達加油站股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "32-103-080004",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/08\/20",
+                "TRANSGRESSDATE": "2013\/12\/06",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第7條第5項",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興達加油站股份有限公司",
+                "TRANSGRESSCONTROLID": "S3000035"
+            }
+        ]
+    }
+}

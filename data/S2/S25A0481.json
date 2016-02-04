@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市橋頭區芋寮里芋寮路３１７號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "S25A0481",
+        "行業別": "基本化學材料製造業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.7635504842619",
+        "longitude": "120.275103976588",
+        "name": "中鴻鋼鐵股份有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S25A0481",
+                "FACILITYNAME": "中鴻鋼鐵股份有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "23-101-060006",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/06\/25",
+                "TRANSGRESSDATE": "2012\/05\/08",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-07-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "聯鋼營造工程股份有限公司-中鴻鋼鐵股份有限公司雜項新建工程",
+                "TRANSGRESSCONTROLID": "N08A4200"
+            },
+            {
+                "REGISTRATIONNO": "S25A0481",
+                "FACILITYNAME": "中鴻鋼鐵股份有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "23-101-060005",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/06\/25",
+                "TRANSGRESSDATE": "2012\/05\/08",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "案件廢止",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "聯鋼營造工程股份有限公司-中鴻鋼鐵股份有限公司雜項新建工程",
+                "TRANSGRESSCONTROLID": "N08A4200"
+            }
+        ]
+    }
+}

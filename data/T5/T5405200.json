@@ -1,0 +1,53 @@
+{
+    "info": {
+        "地址": "屏東縣內埔鄉豐田村建國路２６號",
+        "所屬工業區": "內埔工業區",
+        "管制編號": "T5405200",
+        "行業別": "水泥及其製品製造業(水泥製品製造業)",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6399750143052",
+        "longitude": "120.542909976452",
+        "name": "璦快得建材有限公司"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "T5405200",
+                "QUARTER": "2",
+                "STARTDATE": "2010\/04\/01",
+                "ENDDATE": "2010\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成年申報審查",
+                "UPDATETIME": "2015\/04\/30",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "T5405200",
+                "QUARTER": "2",
+                "STARTDATE": "2010\/04\/01",
+                "ENDDATE": "2010\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成年申報審查",
+                "UPDATETIME": "2016\/01\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

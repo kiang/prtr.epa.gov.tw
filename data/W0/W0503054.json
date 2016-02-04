@@ -1,0 +1,73 @@
+{
+    "info": {
+        "地址": "金門縣金城鎮中興路一七三巷二十三號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "W0503054",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.4341475726778",
+        "longitude": "118.319178874766",
+        "name": "慶安畜牧場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [
+            {
+                "REGISTRATIONNO": "W0503054",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "420",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "24.60",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "W0503054",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "420",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "11.80",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "W0503054",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "420",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "4.20",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/27 09:03",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            }
+        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

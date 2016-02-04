@@ -1,0 +1,109 @@
+{
+    "info": {
+        "地址": "金門縣金寧鄉金門郵政九○六七七附四四○號信箱",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "W0604565",
+        "行業別": "國防事務業",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "24.4424272502378",
+        "longitude": "118.333825313209",
+        "name": "金門地區支援指揮部金門彈藥庫整修所昔果山"
+    },
+    "reports": {
+        "AIR": [
+            {
+                "REGISTRATIONNO": "W0604565",
+                "QUARTER": "2",
+                "STARTDATE": "2011\/04\/01",
+                "ENDDATE": "2011\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/04\/30",
+                "EMIITEM1": 0,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "W0604565",
+                "QUARTER": "2",
+                "STARTDATE": "2011\/04\/01",
+                "ENDDATE": "2011\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            },
+            {
+                "REGISTRATIONNO": "W0604565",
+                "QUARTER": "1",
+                "STARTDATE": "2011\/01\/01",
+                "ENDDATE": "2011\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/04\/30",
+                "EMIITEM1": 0,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "W0604565",
+                "QUARTER": "1",
+                "STARTDATE": "2011\/01\/01",
+                "ENDDATE": "2011\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            },
+            {
+                "REGISTRATIONNO": "W0604565",
+                "QUARTER": "4",
+                "STARTDATE": "2010\/10\/01",
+                "ENDDATE": "2010\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/04\/30",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "W0604565",
+                "QUARTER": "4",
+                "STARTDATE": "2010\/10\/01",
+                "ENDDATE": "2010\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/01\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            }
+        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
+    }
+}

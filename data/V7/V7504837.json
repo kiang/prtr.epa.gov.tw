@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "臺東縣臺東市強國街二三八號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "V7504837",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.7610641932169",
+        "longitude": "121.156084583019",
+        "name": "快樂汽車貨運有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "V7504837",
+                "FACILITYNAME": "快樂汽車貨運有限公司",
+                "COUNTY": "臺東縣",
+                "COUNTYCODE": "21",
+                "DOCUMENTNO": "40-101-110004",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/11\/12",
+                "TRANSGRESSDATE": "2012\/10\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "快樂汽車貨運有限公司",
+                "TRANSGRESSCONTROLID": "V7504837"
+            },
+            {
+                "REGISTRATIONNO": "V7504837",
+                "FACILITYNAME": "快樂汽車貨運有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-100-070003",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/07\/01",
+                "TRANSGRESSDATE": "2011\/04\/19",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-07-22",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "快樂汽車貨運有限公司",
+                "TRANSGRESSCONTROLID": "V7504837"
+            }
+        ]
+    }
+}

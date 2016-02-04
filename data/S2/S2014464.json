@@ -1,0 +1,110 @@
+{
+    "info": {
+        "地址": "高雄市大寮區後庄里民成街４８號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "S2014464",
+        "行業別": "皮革、毛皮及其製品製造業(皮革、毛皮整製業)",
+        "列管類別": "空氣污染;廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6415680139385",
+        "longitude": "120.388414943593",
+        "name": "連順皮革股份有限公司二廠"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "S2014464",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1599",
+                "EMIITEMNAME": "非有害性混合廢液",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/16 09:48",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "S2014464",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/16 09:48",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "S2014464",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1699",
+                "EMIITEMNAME": "廢皮革、皮革屑混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/16 09:48",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2014464",
+                "FACILITYNAME": "連順皮革股份有限公司二廠",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "40-104-040022",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/04\/10",
+                "TRANSGRESSDATE": "2014\/11\/20",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "連順皮革股份有限公司二廠",
+                "TRANSGRESSCONTROLID": "S2014464"
+            },
+            {
+                "REGISTRATIONNO": "S2014464",
+                "FACILITYNAME": "連順皮革股份有限公司二廠",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-104-040009",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/04\/20",
+                "TRANSGRESSDATE": "2014\/11\/20",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "連順皮革股份有限公司二廠",
+                "TRANSGRESSCONTROLID": "S2014464"
+            }
+        ]
+    }
+}

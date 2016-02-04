@@ -1,0 +1,61 @@
+{
+    "info": {
+        "地址": "花蓮縣花蓮市民權路四二號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "U9106667",
+        "行業別": "中學",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.9867211786645",
+        "longitude": "121.625937466749",
+        "name": "國立花蓮高級中學"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [
+            {
+                "REGISTRATIONNO": "U9106667",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05401               ",
+                "TOXICNAME": "三氯甲烷",
+                "TOXICENGNAME": "Chloroform",
+                "EMIVALUE": "0.000735",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            }
+        ],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "U9106667",
+                "FACILITYNAME": "國立花蓮高級中學",
+                "COUNTY": "花蓮縣",
+                "COUNTYCODE": "22",
+                "DOCUMENTNO": "41-104-100022",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/03",
+                "TRANSGRESSDATE": "2015\/10\/07",
+                "TRANSGRESSLAW": "花蓮縣空地空屋管理暨環境清潔維護自治條例第4條第1項第1款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "國立花蓮高級中學",
+                "TRANSGRESSCONTROLID": "U9106667"
+            }
+        ]
+    }
+}

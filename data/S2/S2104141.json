@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "高雄市大樹區中興南路新興巷２１號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "S2104141",
+        "行業別": "廢棄物清除業(有害廢棄物清除業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "22.6884144016846",
+        "longitude": "120.43120034551",
+        "name": "進安環保有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2104141",
+                "FACILITYNAME": "進安環保有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-104-040005",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/04\/08",
+                "TRANSGRESSDATE": "2015\/02\/22",
+                "TRANSGRESSLAW": "廢棄物清理法第36條，事業廢棄物貯存清除處理方法及設施標準第13條第1項",
+                "PENALTYMONEY": 18000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "進安環保工程有限公司",
+                "TRANSGRESSCONTROLID": "S2104141"
+            },
+            {
+                "REGISTRATIONNO": "S2104141",
+                "FACILITYNAME": "進安環保有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-103-040003",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/04\/14",
+                "TRANSGRESSDATE": "2014\/03\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第36條，事業廢棄物貯存清除處理方法及設施標準第13條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "進安環保工程有限公司",
+                "TRANSGRESSCONTROLID": "S2104141"
+            }
+        ]
+    }
+}

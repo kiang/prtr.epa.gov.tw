@@ -1,0 +1,67 @@
+{
+    "info": {
+        "地址": "花蓮縣花蓮市民國路三八號五樓之一",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "U9195173",
+        "行業別": "清潔服務業(清潔服務業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "23.9790721722211",
+        "longitude": "121.606214687823",
+        "name": "有岳環境工程有限公司"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "U9195173",
+                "FACILITYNAME": "有岳環境工程有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "20-101-030002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/03\/07",
+                "TRANSGRESSDATE": "2011\/09\/23",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-06-06",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "雅富物流有限公司",
+                "TRANSGRESSCONTROLID": "U91097003990"
+            },
+            {
+                "REGISTRATIONNO": "U9195173",
+                "FACILITYNAME": "有岳環境工程有限公司",
+                "COUNTY": "花蓮縣",
+                "COUNTYCODE": "22",
+                "DOCUMENTNO": "44-100-030004",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/03\/18",
+                "TRANSGRESSDATE": "2011\/02\/11",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "有岳環境工程有限公司",
+                "TRANSGRESSCONTROLID": "U9195173"
+            }
+        ]
+    }
+}

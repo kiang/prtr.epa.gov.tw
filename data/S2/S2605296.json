@@ -1,0 +1,95 @@
+{
+    "info": {
+        "地址": "高雄市燕巢區南燕里燕東段四六五及四六七及四六八至四七五地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "S2605296",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/02\/02",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "latitude": "0",
+        "longitude": "0",
+        "name": "陳武雄畜牧場"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [
+            {
+                "REGISTRATIONNO": "S2605296",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/01\/01",
+                "EMIENDDATE": "2012\/06\/30",
+                "EMIWATER": "2700",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "354",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "S2605296",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/01\/01",
+                "EMIENDDATE": "2012\/06\/30",
+                "EMIWATER": "2700",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "46",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "S2605296",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2012\/01\/01",
+                "EMIENDDATE": "2012\/06\/30",
+                "EMIWATER": "2700",
+                "EMIWATERITEMUNIT": "立方公尺\/6個月",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "47.50",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2013\/12\/17 10:12",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            }
+        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2605296",
+                "FACILITYNAME": "陳武雄畜牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-102-110017",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/11\/27",
+                "TRANSGRESSDATE": "2013\/08\/28",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "陳武雄畜牧場",
+                "TRANSGRESSCONTROLID": "S2605296"
+            }
+        ]
+    }
+}
