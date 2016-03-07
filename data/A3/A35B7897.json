@@ -5,11 +5,11 @@
         "管制編號": "A35B7897",
         "行業別": "建築工程業(建築工程業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0194886002337",
         "longitude": "121.549627357858",
+        "latitude": "25.0194886002337",
         "name": "瑞助營造股份有限公司-102建字第0317號新建工程"
     },
     "reports": {
@@ -40,7 +40,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "37.72",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +54,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "17.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +68,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "81.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -511,6 +511,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A36097026102",
+                "FACILITYNAME": "瑞助營造股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-020039",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/02",
+                "TRANSGRESSDATE": "2016\/01\/26",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "瑞助營造股份有限公司-102建字第0317號新建工程",
+                "TRANSGRESSCONTROLID": "A35B7897"
+            },
             {
                 "REGISTRATIONNO": "A36097026102",
                 "FACILITYNAME": "瑞助營造股份有限公司",

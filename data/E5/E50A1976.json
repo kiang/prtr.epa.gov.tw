@@ -5,11 +5,11 @@
         "管制編號": "E50A1976",
         "行業別": "廢棄物清除業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.6676903161077",
         "longitude": "120.318016665193",
+        "latitude": "22.6676903161077",
         "name": "立群企業行"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "E50A1976",
+                "FACILITYNAME": "立群企業行",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-010011",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/26",
+                "TRANSGRESSDATE": "2015\/11\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第16條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "立群企業行",
+                "TRANSGRESSCONTROLID": "E50A1976"
+            },
             {
                 "REGISTRATIONNO": "E50A1976",
                 "FACILITYNAME": "立群企業行",

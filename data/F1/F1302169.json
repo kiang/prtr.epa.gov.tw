@@ -5,11 +5,11 @@
         "管制編號": "F1302169",
         "行業別": "燃料零售業(加油（氣）站業)",
         "列管類別": "空氣污染;水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.9907610180024",
         "longitude": "121.473445024338",
+        "latitude": "24.9907610180024",
         "name": "連城加油站有限公司連城加油站"
     },
     "reports": {
@@ -596,6 +596,49 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F1302169",
+                "FACILITYNAME": "連城加油站有限公司連城加油站",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-105-010007",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/07",
+                "TRANSGRESSDATE": "2015\/04\/22",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第50條第1款",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "連城加油站有限公司連城加油站",
+                "TRANSGRESSCONTROLID": "F1302169"
+            },
+            {
+                "REGISTRATIONNO": "F1302169",
+                "FACILITYNAME": "連城加油站有限公司連城加油站",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-105-010006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/07",
+                "TRANSGRESSDATE": "2015\/04\/22",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "連城加油站有限公司連城加油站",
+                "TRANSGRESSCONTROLID": "F1302169"
+            }
+        ]
     }
 }

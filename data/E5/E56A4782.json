@@ -5,11 +5,11 @@
         "管制編號": "E56A4782",
         "行業別": "石油及煤製品製造業(石油及煤製品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.5361708392226",
         "longitude": "120.378831336671",
+        "latitude": "22.5361708392226",
         "name": "台灣中油股份有限公司煉製事業部大林煉油廠二橋油庫"
     },
     "reports": {
@@ -40,7 +40,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:05",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +54,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:16",
+                "UPDATETIME": "2016\/02\/27 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +68,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:10",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -482,6 +482,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E56A4782",
+                "FACILITYNAME": "台灣中油股份有限公司煉製事業部大林煉油廠二橋油庫",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "40-105-020002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/03",
+                "TRANSGRESSDATE": "2015\/12\/30",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣中油股份有限公司煉製事業部大林煉油廠二橋油庫",
+                "TRANSGRESSCONTROLID": "E56A4782"
+            }
+        ]
     }
 }

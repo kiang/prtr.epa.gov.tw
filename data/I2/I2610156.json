@@ -5,11 +5,11 @@
         "管制編號": "I2610156",
         "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
         "列管類別": "空氣污染;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.5027500154673",
         "longitude": "120.452929960649",
+        "latitude": "23.5027500154673",
         "name": "克明企業社"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "I2610156",
+                "FACILITYNAME": "克明企業社",
+                "COUNTY": "嘉義市",
+                "COUNTYCODE": "6",
+                "DOCUMENTNO": "34-105-020001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/28",
+                "TRANSGRESSDATE": "2015\/12\/24",
+                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項，毒性化學物質運作及釋放量紀錄管理辦法第2條第2項，毒性化學物質運作及釋放量紀錄管理辦法第6條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "克明企業社",
+                "TRANSGRESSCONTROLID": "I2610156"
+            }
+        ]
     }
 }

@@ -5,11 +5,11 @@
         "管制編號": "F15A1483",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0696977857788",
         "longitude": "121.432466991125",
+        "latitude": "25.0696977857788",
         "name": "育全環保企業社"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F15A1483",
+                "FACILITYNAME": "育全環保企業社",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "20-105-010013",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/20",
+                "TRANSGRESSDATE": "2016\/01\/01",
+                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "育全環保企業社",
+                "TRANSGRESSCONTROLID": "F15A1483"
+            },
             {
                 "REGISTRATIONNO": "F15A1483",
                 "FACILITYNAME": "育全環保企業社",

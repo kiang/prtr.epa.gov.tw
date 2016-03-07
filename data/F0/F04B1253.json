@@ -5,11 +5,11 @@
         "管制編號": "F04B1253",
         "行業別": "公共行政業(政府機關)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.9996775944379",
         "longitude": "121.477595902351",
+        "latitude": "24.9996775944379",
         "name": "法務部法醫研究所"
     },
     "reports": {
@@ -19,28 +19,6 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "F04B1253",
-                "FACILITYNAME": "法務部法醫研究所",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "23-100-020001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/01",
-                "TRANSGRESSDATE": "2010\/10\/28",
-                "TRANSGRESSLAW": "空氣污染防制法第16條第1項第1款，空氣污染防制法第16條第2項",
-                "PENALTYMONEY": 1500,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-03-04",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "法務部法醫研究所",
-                "TRANSGRESSCONTROLID": "F04097014310"
-            }
-        ]
+        "PENALTY": []
     }
 }

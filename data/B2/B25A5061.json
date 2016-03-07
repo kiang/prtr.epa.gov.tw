@@ -5,11 +5,11 @@
         "管制編號": "B25A5061",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.1785069389197",
         "longitude": "120.688331985658",
+        "latitude": "24.1785069389197",
         "name": "友福環保科技有限公司"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B25A5061",
+                "FACILITYNAME": "友福環保科技有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "41-105-010011",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/06",
+                "TRANSGRESSDATE": "2015\/08\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "友福環保科技有限公司",
+                "TRANSGRESSCONTROLID": "B25A5061"
+            }
+        ]
     }
 }

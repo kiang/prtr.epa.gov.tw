@@ -5,11 +5,11 @@
         "管制編號": "B2309606",
         "行業別": "發電、輸電、配電機械製造業(發電、輸電、配電機械製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.1792130205845",
         "longitude": "120.613976999575",
+        "latitude": "24.1792130205845",
         "name": "寧茂企業股份有限公司"
     },
     "reports": {
@@ -40,7 +40,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.0280",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +54,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +68,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.0130",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -650,28 +650,6 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "B2309606",
-                "FACILITYNAME": "寧茂企業股份有限公司",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
-                "DOCUMENTNO": "41-100-020109",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/16",
-                "TRANSGRESSDATE": "2010\/06\/02",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
-                "PENALTYMONEY": 1200,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            }
-        ]
+        "PENALTY": []
     }
 }

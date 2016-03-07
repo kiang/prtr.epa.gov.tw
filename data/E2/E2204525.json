@@ -5,11 +5,11 @@
         "管制編號": "E2204525",
         "行業別": "其他專賣批發業(回收物料批發業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.6992780138448",
         "longitude": "120.342116929906",
+        "latitude": "22.6992780138448",
         "name": "中特資源科技股份有限公司"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E2204525",
+                "FACILITYNAME": "中特資源科技股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-020013",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/19",
+                "TRANSGRESSDATE": "2015\/10\/30",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中特資源科技股份有限公司",
+                "TRANSGRESSCONTROLID": "E2204525"
+            }
+        ]
     }
 }

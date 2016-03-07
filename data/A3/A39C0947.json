@@ -5,11 +5,11 @@
         "管制編號": "A39C0947",
         "行業別": "暫無分類",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0621417640255",
         "longitude": "121.542249900917",
+        "latitude": "25.0621417640255",
         "name": "勇實貿易有限公司"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A39C0947",
+                "FACILITYNAME": "勇實貿易有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "20-105-010014",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/22",
+                "TRANSGRESSDATE": "2015\/11\/10",
+                "TRANSGRESSLAW": "空氣污染防制法第28條第3項，生煤、石油焦或其他易致空氣污染之物質販賣或使用許可證管理辦法第13條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "勇實貿易有限公司",
+                "TRANSGRESSCONTROLID": "A39C0947"
+            },
             {
                 "REGISTRATIONNO": "A39C0947",
                 "FACILITYNAME": "勇實貿易有限公司",

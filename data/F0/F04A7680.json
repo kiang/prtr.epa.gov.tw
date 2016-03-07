@@ -5,11 +5,11 @@
         "管制編號": "F04A7680",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.9926597755429",
         "longitude": "121.509996641656",
+        "latitude": "24.9926597755429",
         "name": "北大洋環保科技有限公司"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F04A7680",
+                "FACILITYNAME": "北大洋環保科技有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "50-105-010001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/06",
+                "TRANSGRESSDATE": "2015\/07\/27",
+                "TRANSGRESSLAW": "環境教育法第23條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "北大洋環保科技有限公司",
+                "TRANSGRESSCONTROLID": "F04A7680"
+            },
             {
                 "REGISTRATIONNO": "F04A7680",
                 "FACILITYNAME": "北大洋環保科技有限公司",

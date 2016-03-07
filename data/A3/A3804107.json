@@ -5,11 +5,11 @@
         "管制編號": "A3804107",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0601278386859",
         "longitude": "121.510467247074",
+        "latitude": "25.0601278386859",
         "name": "信成衛生工程行"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3804107",
+                "FACILITYNAME": "信成衛生工程行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "41-105-021330",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/24",
+                "TRANSGRESSDATE": "2015\/11\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "信成衛生工程行",
+                "TRANSGRESSCONTROLID": "A3804107"
+            },
             {
                 "REGISTRATIONNO": "A3804107",
                 "FACILITYNAME": "信成衛生工程行",

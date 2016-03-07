@@ -5,11 +5,11 @@
         "管制編號": "B0505502",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.1036990167374",
         "longitude": "120.709449994215",
+        "latitude": "24.1036990167374",
         "name": "日月展金屬有限公司"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B0505502",
+                "FACILITYNAME": "日月展金屬有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-105-010001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/04",
+                "TRANSGRESSDATE": "2015\/12\/11",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "日月展金屬有限公司",
+                "TRANSGRESSCONTROLID": "B0505502"
+            }
+        ]
     }
 }

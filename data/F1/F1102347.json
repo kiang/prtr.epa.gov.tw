@@ -5,11 +5,11 @@
         "管制編號": "F1102347",
         "行業別": "燃料零售業(加油（氣）站業)",
         "列管類別": "空氣污染;水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0553455299272",
-        "longitude": "121.621056100637",
+        "longitude": "121.621464054934",
+        "latitude": "25.0550840177269",
         "name": "四海加油站有限公司四海加油站"
     },
     "reports": {
@@ -453,6 +453,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F11097002933",
+                "FACILITYNAME": "四海加油站有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "20-105-020004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/21",
+                "TRANSGRESSDATE": "2015\/04\/30",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項，加油站油氣回收設施管理辦法第9條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "四海加油站有限公司四海加油站",
+                "TRANSGRESSCONTROLID": "F1102347"
+            },
             {
                 "REGISTRATIONNO": "F11097002933",
                 "FACILITYNAME": "四海加油站有限公司",

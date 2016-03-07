@@ -5,11 +5,11 @@
         "管制編號": "F0616440",
         "行業別": "其他金屬製品製造業(未分類其他金屬製品製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0189821762915",
         "longitude": "121.431452033685",
+        "latitude": "25.0189821762915",
         "name": "冠樟工業股份有限公司"
     },
     "reports": {
@@ -19,28 +19,6 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "F0616440",
-                "FACILITYNAME": "冠樟工業股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "21-100-020001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/10",
-                "TRANSGRESSDATE": "2010\/11\/02",
-                "TRANSGRESSLAW": "空氣污染防制法第42條第2項",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "冠樟工業股份有限公司",
-                "TRANSGRESSCONTROLID": "F0616440"
-            }
-        ]
+        "PENALTY": []
     }
 }

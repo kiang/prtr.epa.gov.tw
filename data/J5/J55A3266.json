@@ -5,11 +5,11 @@
         "管制編號": "J55A3266",
         "行業別": "其他專門營造業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.8127899372762",
         "longitude": "121.029427181966",
+        "latitude": "24.8127899372762",
         "name": "坤山建設(時代觀邸)店舖住宅新建工程專用下水道系統"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "J55097012850",
+                "FACILITYNAME": "時代觀邸社區管理委員會",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-105-020011",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/15",
+                "TRANSGRESSDATE": "2015\/09\/22",
+                "TRANSGRESSLAW": "水污染防治法第19條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "坤山建設(時代觀邸)店舖住宅新建工程專用下水道系統",
+                "TRANSGRESSCONTROLID": "J55A3266"
+            }
+        ]
     }
 }

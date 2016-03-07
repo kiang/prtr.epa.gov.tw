@@ -5,11 +5,11 @@
         "管制編號": "C13A0783",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.1237155874581",
         "longitude": "121.743066056742",
+        "latitude": "25.1237155874581",
         "name": "首席環保企業股份有限公司"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "C13A0783",
+                "FACILITYNAME": "首席環保企業股份有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-105-010002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/04",
+                "TRANSGRESSDATE": "2015\/11\/20",
+                "TRANSGRESSLAW": "廢棄物清理法第31條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "2016-01-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "首席環保企業股份有限公司",
+                "TRANSGRESSCONTROLID": "C13A0783"
+            },
             {
                 "REGISTRATIONNO": "C13A0783",
                 "FACILITYNAME": "首席環保企業股份有限公司",

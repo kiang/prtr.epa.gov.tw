@@ -5,11 +5,11 @@
         "管制編號": "F1800464",
         "行業別": "燃料零售業(加油（氣）站業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0004236275451",
         "longitude": "121.610600002725",
+        "latitude": "25.0004236275451",
         "name": "昇泉興業股份有限公司-昇泉加油站"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F1805870",
+                "FACILITYNAME": "昇泉興業股份有限公司昇泉加油站",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "20-105-010011",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/15",
+                "TRANSGRESSDATE": "2015\/11\/25",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "昇泉興業股份有限公司-昇泉加油站",
+                "TRANSGRESSCONTROLID": "F1800464"
+            }
+        ]
     }
 }

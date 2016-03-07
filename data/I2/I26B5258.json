@@ -5,11 +5,11 @@
         "管制編號": "I26B5258",
         "行業別": "整地、基礎及結構工程業(整地、基礎及結構工程業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.4845200154382",
         "longitude": "120.452729960584",
+        "latitude": "23.4845200154382",
         "name": "黃敦約-黃敦約住宅拆除工程"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "I26B5258",
+                "FACILITYNAME": "黃敦約-黃敦約住宅拆除工程",
+                "COUNTY": "嘉義市",
+                "COUNTYCODE": "6",
+                "DOCUMENTNO": "40-105-010002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/18",
+                "TRANSGRESSDATE": "2016\/01\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "黃敦約-黃敦約住宅拆除工程",
+                "TRANSGRESSCONTROLID": "I26B5258"
+            }
+        ]
     }
 }

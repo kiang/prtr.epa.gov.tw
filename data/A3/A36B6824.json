@@ -5,11 +5,11 @@
         "管制編號": "A36B6824",
         "行業別": "其他專門營造業(其他專門營造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0405890180143",
         "longitude": "121.511147030579",
+        "latitude": "25.0405890180143",
         "name": "銘台營造工程有限公司-法務部廉政署辦公廳舍遷移整修工程外牆整建及窗戶更新工程"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B24097011680",
+                "FACILITYNAME": "銘台營造工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-020070",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/17",
+                "TRANSGRESSDATE": "2016\/01\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "銘台營造工程有限公司",
+                "TRANSGRESSCONTROLID": "A36B6824"
+            }
+        ]
     }
 }

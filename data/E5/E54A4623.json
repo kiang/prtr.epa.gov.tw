@@ -5,11 +5,11 @@
         "管制編號": "E54A4623",
         "行業別": "石油及煤製品製造業(石油及煤製品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.6047858455326",
         "longitude": "120.301884469151",
+        "latitude": "22.6047858455326",
         "name": "中鋼碳素化學股份有限公司"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E54A4623",
+                "FACILITYNAME": "中鋼碳素化學股份有限公司",
+                "COUNTY": "環保署",
+                "COUNTYCODE": "0",
+                "DOCUMENTNO": "32-105-010004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/14",
+                "TRANSGRESSDATE": "2015\/04\/20",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第12條第3項",
+                "PENALTYMONEY": 150000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中鋼碳素化學股份有限公司",
+                "TRANSGRESSCONTROLID": "E54A4623"
+            }
+        ]
     }
 }

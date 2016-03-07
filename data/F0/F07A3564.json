@@ -5,11 +5,11 @@
         "管制編號": "F07A3564",
         "行業別": "玻璃及其製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0132990205813",
         "longitude": "121.412333382154",
+        "latitude": "25.0132990205813",
         "name": "利家豐企業有限公司"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F07A3564",
+                "FACILITYNAME": "利家豐企業有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-105-020006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/22",
+                "TRANSGRESSDATE": "2015\/10\/19",
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第50條第1款，水污染防治法第18條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "利家豐企業有限公司",
+                "TRANSGRESSCONTROLID": "F07A3564"
+            },
             {
                 "REGISTRATIONNO": "F07A3564",
                 "FACILITYNAME": "利家豐企業有限公司",

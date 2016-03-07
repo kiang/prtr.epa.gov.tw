@@ -5,11 +5,11 @@
         "管制編號": "H51A6019",
         "行業別": "塑膠製品製造業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.9169213972433",
         "longitude": "121.208804443759",
+        "latitude": "24.9169213972433",
         "name": "良峰實業有限公司"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "H51A6019",
+                "FACILITYNAME": "良峰實業有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "89",
+                "DOCUMENTNO": "41-105-010148",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/28",
+                "TRANSGRESSDATE": "2015\/12\/10",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "良峰實業有限公司",
+                "TRANSGRESSCONTROLID": "H51A6019"
+            },
             {
                 "REGISTRATIONNO": "H51A6019",
                 "FACILITYNAME": "良峰實業有限公司",

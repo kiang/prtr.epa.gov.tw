@@ -5,11 +5,11 @@
         "管制編號": "F01B4084",
         "行業別": "廢棄物清除業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0112703743198",
         "longitude": "121.473443838129",
+        "latitude": "25.0112703743198",
         "name": "協助企業社"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F01B4084",
+                "FACILITYNAME": "協助企業社",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-105-010018",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/22",
+                "TRANSGRESSDATE": "2015\/10\/13",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "謝坤倉(即協助企業社)",
+                "TRANSGRESSCONTROLID": "F01B4084"
+            },
             {
                 "REGISTRATIONNO": "F01B4084",
                 "FACILITYNAME": "協助企業社",

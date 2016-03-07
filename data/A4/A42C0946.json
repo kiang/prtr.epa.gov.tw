@@ -5,11 +5,11 @@
         "管制編號": "A42C0946",
         "行業別": "暫無分類",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "博泓建設股份有限公司-博泓建設104建字第0017號新建工程(104建字第0017號)"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A38097018148",
+                "FACILITYNAME": "博泓建設股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "30-105-010003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/20",
+                "TRANSGRESSDATE": "2016\/01\/07",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第9條第3項",
+                "PENALTYMONEY": 11000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "2016-01-21",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "博泓建設股份有限公司-博泓建設104建字第0017號新建工程(104建字第0017號)",
+                "TRANSGRESSCONTROLID": "A42C0946"
+            }
+        ]
     }
 }

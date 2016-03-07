@@ -5,11 +5,11 @@
         "管制編號": "E50B1913",
         "行業別": "不動產開發業(不動產開發業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.638954013502",
         "longitude": "120.291036912122",
+        "latitude": "22.638954013502",
         "name": "原興亞鋼鐵股份有限公司場址"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E50B1913",
+                "FACILITYNAME": "原興亞鋼鐵股份有限公司場址",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "32-105-010001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/04",
+                "TRANSGRESSDATE": "2015\/09\/23",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第13條第1項",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "原興亞鋼鐵股份有限公司場址",
+                "TRANSGRESSCONTROLID": "E50B1913"
+            }
+        ]
     }
 }

@@ -5,11 +5,11 @@
         "管制編號": "F11A5831",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0677959964003",
         "longitude": "121.660313200193",
+        "latitude": "25.0677959964003",
         "name": "汐止建材行"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F11A5831",
+                "FACILITYNAME": "汐止建材行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-105-010019",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/25",
+                "TRANSGRESSDATE": "2015\/10\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
             {
                 "REGISTRATIONNO": "F11A5831",
                 "FACILITYNAME": "汐止建材行",

@@ -5,11 +5,11 @@
         "管制編號": "D8402586",
         "行業別": "玻璃及其製品製造業(其他玻璃及其製品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.3128500147447",
         "longitude": "120.331210927689",
+        "latitude": "23.3128500147447",
         "name": "瑞松科技彩繪有限公司"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "D8402586",
+                "FACILITYNAME": "瑞松科技彩繪有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-105-010020",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/15",
+                "TRANSGRESSDATE": "2015\/11\/20",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "瑞松科技彩繪有限公司",
+                "TRANSGRESSCONTROLID": "D8402586"
+            }
+        ]
     }
 }

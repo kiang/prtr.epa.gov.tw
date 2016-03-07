@@ -5,11 +5,11 @@
         "管制編號": "F1307655",
         "行業別": "清潔服務業(清潔服務業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.9515031178366",
         "longitude": "121.411796498644",
+        "latitude": "24.9515031178366",
         "name": "全鴻建材有限公司"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F1307655",
+                "FACILITYNAME": "全鴻建材有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-105-020018",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/21",
+                "TRANSGRESSDATE": "2015\/10\/27",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "全鴻建材有限公司",
+                "TRANSGRESSCONTROLID": "F1307655"
+            },
             {
                 "REGISTRATIONNO": "F1307655",
                 "FACILITYNAME": "全鴻建材有限公司",

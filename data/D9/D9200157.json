@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "台南市柳營區八翁里八老爺一一三之一○號",
+        "地址": "臺南市柳營區八老爺段八老爺小段７９８地號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "D9200157",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.2777630145535",
         "longitude": "120.30336791819",
+        "latitude": "23.2777630145535",
         "name": "祥煌牧場"
     },
     "reports": {
@@ -68,6 +68,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "D9200157",
+                "FACILITYNAME": "祥煌牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-020005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/18",
+                "TRANSGRESSDATE": "2015\/11\/19",
+                "TRANSGRESSLAW": "放流水標準第2條，水污染防治法第7條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-03-24",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "祥煌牧場",
+                "TRANSGRESSCONTROLID": "D9200157"
+            }
+        ]
     }
 }

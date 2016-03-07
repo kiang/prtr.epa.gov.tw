@@ -5,11 +5,11 @@
         "管制編號": "E1501758",
         "行業別": "其他專門營造業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.6319039358099",
         "longitude": "120.358822014954",
+        "latitude": "22.6319039358099",
         "name": "大眾環保工程行"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "E1501758",
+                "FACILITYNAME": "大眾環保工程行",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-020009",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/17",
+                "TRANSGRESSDATE": "2015\/09\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款，公民營廢棄物清除處理機構許可管理辦法第21條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "大眾環保工程行",
+                "TRANSGRESSCONTROLID": "E1501758"
+            },
             {
                 "REGISTRATIONNO": "E1501758",
                 "FACILITYNAME": "大眾環保工程行",

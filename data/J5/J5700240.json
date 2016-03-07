@@ -5,11 +5,11 @@
         "管制編號": "J5700240",
         "行業別": "其他紙製品製造業(未分類其他紙製品製造業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.8496534994721",
         "longitude": "121.043611814919",
+        "latitude": "24.8496534994721",
         "name": "泉辰股份有限公司新埔廠"
     },
     "reports": {
@@ -707,7 +707,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "87",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -721,7 +721,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.95",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -735,7 +735,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.94",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -749,7 +749,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "86",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -763,7 +763,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "86",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -777,7 +777,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.95",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1935,27 +1935,6 @@
         "GREENHOUSE": [],
         "PENALTY": [
             {
-                "REGISTRATIONNO": "J57097000030",
-                "FACILITYNAME": "泉辰股份有限公司",
-                "COUNTY": "新竹縣",
-                "COUNTYCODE": "11",
-                "DOCUMENTNO": "30-103-100004",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/10\/15",
-                "TRANSGRESSDATE": "2014\/09\/02",
-                "TRANSGRESSLAW": "水污染防治法第18條",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "2014-10-31",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "泉辰股份有限公司新埔廠",
-                "TRANSGRESSCONTROLID": "J5700240"
-            },
-            {
                 "REGISTRATIONNO": "J5700240",
                 "FACILITYNAME": "泉辰股份有限公司新埔廠",
                 "COUNTY": "新竹縣",
@@ -1972,6 +1951,27 @@
                 "APPEALRESCIND": "資料鍵入錯誤",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "泉辰股份有限公司新埔廠",
+                "TRANSGRESSCONTROLID": "J5700240"
+            },
+            {
+                "REGISTRATIONNO": "J57097000030",
+                "FACILITYNAME": "泉辰股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-103-100004",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/10\/15",
+                "TRANSGRESSDATE": "2014\/09\/02",
+                "TRANSGRESSLAW": "水污染防治法第18條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-10-31",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "泉辰股份有限公司新埔廠",
                 "TRANSGRESSCONTROLID": "J5700240"

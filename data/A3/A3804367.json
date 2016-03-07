@@ -5,11 +5,11 @@
         "管制編號": "A3804367",
         "行業別": "廢棄物清除業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0587247628194",
         "longitude": "121.520502973445",
+        "latitude": "25.0587247628194",
         "name": "慶忠有限公司"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3804367",
+                "FACILITYNAME": "慶忠有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-010005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/19",
+                "TRANSGRESSDATE": "2016\/01\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "慶忠有限公司",
+                "TRANSGRESSCONTROLID": "A3804367"
+            },
             {
                 "REGISTRATIONNO": "A3804367",
                 "FACILITYNAME": "慶忠有限公司",

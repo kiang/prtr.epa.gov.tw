@@ -5,11 +5,11 @@
         "管制編號": "D2810931",
         "行業別": "其他電子零組件製造業(未分類其他電子零組件製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.9715522699331",
         "longitude": "120.177018448043",
+        "latitude": "22.9715522699331",
         "name": "鼎倫科技股份有限公司"
     },
     "reports": {
@@ -40,7 +40,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:05",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +54,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:16",
+                "UPDATETIME": "2016\/02\/27 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +68,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.24",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:10",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -622,28 +622,6 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "D2810931",
-                "FACILITYNAME": "鼎倫科技股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "40-100-020055",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/22",
-                "TRANSGRESSDATE": "2010\/12\/10",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "鼎倫科技股份有限公司",
-                "TRANSGRESSCONTROLID": "D2810931"
-            }
-        ]
+        "PENALTY": []
     }
 }

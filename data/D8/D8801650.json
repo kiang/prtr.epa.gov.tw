@@ -4,12 +4,12 @@
         "所屬工業區": "非屬工業區類",
         "管制編號": "D8801650",
         "行業別": "暫無分類",
-        "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "列管類別": "空氣污染;廢棄物;",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1920700135384",
         "longitude": "120.174301863418",
+        "latitude": "23.1920700135384",
         "name": "興達塑膠工廠"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "D8801650",
+                "FACILITYNAME": "興達塑膠工廠",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "20-104-100012",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/10\/06",
+                "TRANSGRESSDATE": "2015\/07\/24",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第1項，固定污染源設置與操作許可證管理辦法第11條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2015-12-30",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興達塑膠工廠",
+                "TRANSGRESSCONTROLID": "R88097000980"
+            }
+        ]
     }
 }

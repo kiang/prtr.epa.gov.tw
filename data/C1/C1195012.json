@@ -5,11 +5,11 @@
         "管制編號": "C1195012",
         "行業別": "廢棄物清除業(有害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0828305501265",
         "longitude": "121.695180105487",
+        "latitude": "25.0828305501265",
         "name": "玄昌環保工程企業有限公司"
     },
     "reports": {
@@ -20,6 +20,27 @@
         "METAL": [],
         "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "C1195012",
+                "FACILITYNAME": "玄昌環保工程企業有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-105-020003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/17",
+                "TRANSGRESSDATE": "2016\/01\/21",
+                "TRANSGRESSLAW": "廢棄物清理法第31條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-02-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "玄昌環保工程企業有限公司",
+                "TRANSGRESSCONTROLID": "C1195012"
+            },
             {
                 "REGISTRATIONNO": "C1195012",
                 "FACILITYNAME": "玄昌環保工程企業有限公司",

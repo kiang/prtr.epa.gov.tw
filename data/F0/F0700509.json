@@ -5,11 +5,11 @@
         "管制編號": "F0700509",
         "行業別": "塑膠製品製造業(工業用塑膠製品製造業)",
         "列管類別": "空氣污染;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0193280181308",
         "longitude": "121.412415016071",
+        "latitude": "25.0193280181308",
         "name": "介明塑膠股份有限公司"
     },
     "reports": {
@@ -19,6 +19,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0700509",
+                "FACILITYNAME": "介明塑膠股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "34-105-020003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/23",
+                "TRANSGRESSDATE": "2016\/01\/15",
+                "TRANSGRESSLAW": "第四類毒性化學物質核可管理辦法第2條，毒性化學物質管理法第7條第5項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-03-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "介明塑膠股份有限公司",
+                "TRANSGRESSCONTROLID": "F0700509"
+            }
+        ]
     }
 }

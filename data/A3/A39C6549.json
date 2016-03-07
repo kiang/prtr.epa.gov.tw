@@ -5,11 +5,11 @@
         "管制編號": "A39C6549",
         "行業別": "其他專門營造業(其他專門營造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "25.0832670179684",
         "longitude": "121.559916040138",
+        "latitude": "25.0832670179684",
         "name": "達欣工程股份有限公司-103建字第0287號(新建工程)"
     },
     "reports": {
@@ -104,6 +104,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "A35097003993",
+                "FACILITYNAME": "達欣工程股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "22-105-020166",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/24",
+                "TRANSGRESSDATE": "2016\/01\/30",
+                "TRANSGRESSLAW": "噪音管制法第8條第4款",
+                "PENALTYMONEY": 3000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "達欣工程股份有限公司-103建字第0287號(新建工程)",
+                "TRANSGRESSCONTROLID": "A39C6549"
+            }
+        ]
     }
 }

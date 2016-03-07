@@ -5,11 +5,11 @@
         "管制編號": "F08A1028",
         "行業別": "其他非金屬礦物製品製造業(未分類其他非金屬礦物製品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/06",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.932647860748",
         "longitude": "121.339803897144",
+        "latitude": "24.932647860748",
         "name": "中興電瓷股份有限公司鶯歌廠"
     },
     "reports": {
@@ -26,7 +26,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:16",
+                "UPDATETIME": "2016\/02\/27 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -40,7 +40,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:10",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -365,27 +365,6 @@
                 "TRANSGRESSCONTROLID": "F08A1028"
             },
             {
-                "REGISTRATIONNO": "F08A1028",
-                "FACILITYNAME": "中興電瓷股份有限公司鶯歌廠",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "20-100-120029",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/12\/29",
-                "TRANSGRESSDATE": "2011\/11\/14",
-                "TRANSGRESSLAW": "空氣污染行為管制執行準則第6條第1款，空氣污染防制法第31條第1項第1款",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "撤銷並另立裁處書",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "建議解除列管",
-                "TRANSGRESSNAME": "中興電瓷股份有限公司鶯歌廠",
-                "TRANSGRESSCONTROLID": "F08A1028"
-            },
-            {
                 "REGISTRATIONNO": "F0806113",
                 "FACILITYNAME": "中興電瓷股份有限公司",
                 "COUNTY": "新北市",
@@ -403,6 +382,27 @@
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中興電瓷股份有限公司鶯歌廠",
+                "TRANSGRESSCONTROLID": "F08A1028"
+            },
+            {
+                "REGISTRATIONNO": "F08A1028",
+                "FACILITYNAME": "中興電瓷股份有限公司鶯歌廠",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "20-100-120029",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/12\/29",
+                "TRANSGRESSDATE": "2011\/11\/14",
+                "TRANSGRESSLAW": "空氣污染行為管制執行準則第6條第1款，空氣污染防制法第31條第1項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "建議解除列管",
                 "TRANSGRESSNAME": "中興電瓷股份有限公司鶯歌廠",
                 "TRANSGRESSCONTROLID": "F08A1028"
             }

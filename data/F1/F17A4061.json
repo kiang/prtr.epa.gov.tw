@@ -1,15 +1,7 @@
 {
     "info": {
-        "地址": "新北市林口區工四路３２號",
-        "所屬工業區": "無特定工業區",
-        "管制編號": "F17A4061",
-        "行業別": "專門設計服務業",
-        "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "latitude": "25.0822623028447",
-        "longitude": "121.402867214512",
+        "longitude": null,
+        "latitude": null,
         "name": "裕泰染化有限公司"
     },
     "reports": {
@@ -19,6 +11,28 @@
         "TOX": [],
         "METAL": [],
         "GREENHOUSE": [],
-        "PENALTY": []
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F17A4061",
+                "FACILITYNAME": "裕泰染化有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "20-105-010001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/07",
+                "TRANSGRESSDATE": "2015\/07\/14",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第3款，固定污染源設置與操作許可證管理辦法第20條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕泰染化有限公司林口廠",
+                "TRANSGRESSCONTROLID": "F17A1304"
+            }
+        ]
     }
 }
