@@ -63,7 +63,11 @@ class prtrDetail {
             $data['info'] = $this->parseInfo($page);
             $data['info']['name'] = $line[0];
             foreach ($this->reports AS $k => $url) {
-                $data['reports'][$k] = json_decode(file_get_contents($url . $line[1]));
+                $cachedJson = $cachePath . '/' . $line[1] . '_' . $k . '.json';
+                if (!file_exists($cachedJson)) {
+                    file_put_contents($cachedJson, file_get_contents($url . $line[1]));
+                }
+                $data['reports'][$k] = json_decode(file_get_contents($cachedJson));
             }
 
             $targetPath = dirname(__DIR__) . '/data/' . substr($line[1], 0, 2);
