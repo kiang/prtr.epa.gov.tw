@@ -5,29 +5,41 @@
         "管制編號": "R88A0506",
         "行業別": "廢棄物清除業(有害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1516120008522",
         "longitude": "120.179363865552",
+        "latitude": "23.1516120008522",
         "name": "豐利環保科技有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R88A0506",
                 "FACILITYNAME": "豐利環保科技有限公司",
                 "COUNTY": "嘉義市",
                 "COUNTYCODE": "6",
-                "DOCUMENTNO": "21-102-030010",
+                "DOCUMENTNO": "21-102-030002",
                 "PENALTYYEAR": "2013",
-                "PENALTYDATE": "2013\/03\/04",
+                "PENALTYDATE": "2013\/03\/01",
                 "TRANSGRESSDATE": "2012\/11\/06",
                 "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
                 "PENALTYMONEY": 10000,
@@ -67,9 +79,9 @@
                 "FACILITYNAME": "豐利環保科技有限公司",
                 "COUNTY": "嘉義市",
                 "COUNTYCODE": "6",
-                "DOCUMENTNO": "21-102-030002",
+                "DOCUMENTNO": "21-102-030010",
                 "PENALTYYEAR": "2013",
-                "PENALTYDATE": "2013\/03\/01",
+                "PENALTYDATE": "2013\/03\/04",
                 "TRANSGRESSDATE": "2012\/11\/06",
                 "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
                 "PENALTYMONEY": 10000,
@@ -98,7 +110,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "豐利環保科技有限公司",

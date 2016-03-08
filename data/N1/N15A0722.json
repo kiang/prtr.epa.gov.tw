@@ -5,16 +5,20 @@
         "管制編號": "N15A0722",
         "行業別": "廢棄物處理業(無害廢棄物處理業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.1338408368751",
         "longitude": "120.422984940248",
+        "latitude": "24.1338408368751",
         "name": "信鐵有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "N15A0722",
@@ -40,7 +44,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.12",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +58,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.02",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "0.50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.07",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.02",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -124,7 +128,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1613,9 +1617,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "N15A0722",
@@ -1632,7 +1642,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "信鐵有限公司",

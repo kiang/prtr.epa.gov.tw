@@ -5,15 +5,17 @@
         "管制編號": "Q6601127",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "陳鎮安畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "Q6601127",
@@ -426,10 +428,37 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "Q6601127",
+                "FACILITYNAME": "陳鎮安畜牧場",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "40-105-010003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/07",
+                "TRANSGRESSDATE": "2015\/11\/16",
+                "TRANSGRESSLAW": "廢棄物清理法第39條第1項，經濟部事業廢棄物再利用管理辦法第18條第2項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-01-31",
+                "INSPECTIONCONDITION": "符合規定",
+                "TRANSGRESSNAME": "陳鎮安畜牧場",
+                "TRANSGRESSCONTROLID": "Q6601127"
+            },
             {
                 "REGISTRATIONNO": "Q6601127",
                 "FACILITYNAME": "陳鎮安畜牧場",

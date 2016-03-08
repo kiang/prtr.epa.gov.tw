@@ -5,15 +5,17 @@
         "管制編號": "K7705675",
         "行業別": "玻璃及其製品製造業(平板玻璃及其製品製造業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.4985877524347",
         "longitude": "120.799987498898",
+        "latitude": "24.4985877524347",
         "name": "正達國際光電股份有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "K7705675",
@@ -121,7 +123,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.82",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -135,7 +137,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -149,7 +151,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -163,7 +165,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -177,7 +179,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -191,7 +193,7 @@
                 "CLEANNAME": "以管線、溝渠廠內輸送",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -205,7 +207,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -219,7 +221,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "2.92",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1806,9 +1808,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "K7705675",

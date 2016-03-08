@@ -5,15 +5,17 @@
         "管制編號": "L05A4744",
         "行業別": "其他專用機械設備製造業(未分類其他專用機械設備製造業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.092008944541",
         "longitude": "120.720760926213",
+        "latitude": "24.092008944541",
         "name": "超純水科技有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L05A4744",
@@ -985,7 +987,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -999,7 +1001,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1564,9 +1566,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

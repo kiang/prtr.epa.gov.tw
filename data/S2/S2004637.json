@@ -5,15 +5,17 @@
         "管制編號": "S2004637",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.6293220140186",
         "longitude": "120.418772951566",
+        "latitude": "22.6293220140186",
         "name": "黃玉惜畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "S2004637",
@@ -96,10 +98,18 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S2004637",
@@ -116,7 +126,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "2015-11-23",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "黃玉惜畜牧場",
@@ -137,7 +147,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "2015-07-10",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "黃玉惜畜牧場(王黃玉惜)",

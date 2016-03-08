@@ -5,15 +5,17 @@
         "管制編號": "L9501060",
         "行業別": "其他金屬製品製造業(未分類其他金屬製品製造業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.2390760136934",
         "longitude": "120.655261729844",
+        "latitude": "24.2390760136934",
         "name": "仁商金屬有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L9501060",
@@ -453,7 +455,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "410",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -467,7 +469,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -481,7 +483,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -495,7 +497,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/22 09:08",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -509,7 +511,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/22 09:08",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -523,7 +525,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "506",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -537,7 +539,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "519",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -551,7 +553,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -565,7 +567,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1970,9 +1972,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

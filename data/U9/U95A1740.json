@@ -5,16 +5,20 @@
         "管制編號": "U95A1740",
         "行業別": "其他專門營造業(其他專門營造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "人豪營造有限公司-唐邑建設股份有限公司住宅新建工程"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "U95A1740",
@@ -717,20 +721,26 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "U95A1740",
                 "FACILITYNAME": "人豪營造有限公司-唐邑建設股份有限公司住宅新建工程",
                 "COUNTY": "花蓮縣",
                 "COUNTYCODE": "22",
-                "DOCUMENTNO": "40-101-080009",
+                "DOCUMENTNO": "40-101-080011",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/08\/31",
                 "TRANSGRESSDATE": "2012\/08\/01",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -747,11 +757,11 @@
                 "FACILITYNAME": "人豪營造有限公司-唐邑建設股份有限公司住宅新建工程",
                 "COUNTY": "花蓮縣",
                 "COUNTYCODE": "22",
-                "DOCUMENTNO": "40-101-080011",
+                "DOCUMENTNO": "40-101-080009",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/08\/31",
                 "TRANSGRESSDATE": "2012\/08\/01",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

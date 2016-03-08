@@ -5,15 +5,17 @@
         "管制編號": "R9695151",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "政偉畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R9695151",
@@ -1610,9 +1612,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R9695151",
@@ -1629,7 +1637,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "2015-12-31",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "政偉畜牧場",

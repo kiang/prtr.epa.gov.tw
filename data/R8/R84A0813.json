@@ -5,15 +5,17 @@
         "管制編號": "R84A0813",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "小馬畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R84A0813",
@@ -256,10 +258,18 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R84A0813",
@@ -308,27 +318,6 @@
                 "FACILITYNAME": "小馬畜牧場",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-101-090007",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/09\/06",
-                "TRANSGRESSDATE": "2012\/07\/13",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
-                "PENALTYMONEY": 28000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-09-20",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "小馬畜牧場",
-                "TRANSGRESSCONTROLID": "R84A0813"
-            },
-            {
-                "REGISTRATIONNO": "R84A0813",
-                "FACILITYNAME": "小馬畜牧場",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
                 "DOCUMENTNO": "41-101-070515",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/07\/31",
@@ -341,6 +330,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "小馬畜牧場",
+                "TRANSGRESSCONTROLID": "R84A0813"
+            },
+            {
+                "REGISTRATIONNO": "R84A0813",
+                "FACILITYNAME": "小馬畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-101-090007",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/09\/06",
+                "TRANSGRESSDATE": "2012\/07\/13",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 28000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-09-20",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "小馬畜牧場",
                 "TRANSGRESSCONTROLID": "R84A0813"

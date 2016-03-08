@@ -5,11 +5,11 @@
         "管制編號": "K7600853",
         "行業別": "水泥及其製品製造業(預拌混凝土製造業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.5059375933802",
         "longitude": "120.828501724151",
+        "latitude": "24.5059375933802",
         "name": "南岡企業股份有限公司"
     },
     "reports": {
@@ -22,7 +22,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成申報",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 11.796,
                 "EMIITEM3": 0,
@@ -36,7 +36,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成申報",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 11.806,
                 "EMIITEM3": 0,
@@ -50,7 +50,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成季登錄確認",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0.052,
                 "EMIITEM3": 0,
@@ -64,7 +64,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成年申報審查",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0.189,
                 "EMIITEM3": 0,
@@ -92,7 +92,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成年申報審查",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0.358,
                 "EMIITEM3": 0,
@@ -120,7 +120,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成年申報審查",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0.224,
                 "EMIITEM3": 0,
@@ -141,7 +141,9 @@
                 "EMIITEM4": null
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "K7600853",
@@ -181,7 +183,7 @@
                 "CLEANNAME": "廢棄物採取基管會公告應回收管道",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -195,7 +197,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -209,7 +211,7 @@
                 "CLEANNAME": "廢棄物採取基管會公告應回收管道",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -223,7 +225,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -237,7 +239,7 @@
                 "CLEANNAME": "廢棄物採取基管會公告應回收管道",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -251,7 +253,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0540",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -265,7 +267,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "220.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1712,10 +1714,37 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "K7600853",
+                "FACILITYNAME": "南岡企業股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "40-105-010012",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/26",
+                "TRANSGRESSDATE": "2015\/07\/29",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 12000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "南岡企業股份有限公司",
+                "TRANSGRESSCONTROLID": "K7600853"
+            },
             {
                 "REGISTRATIONNO": "K7600853",
                 "FACILITYNAME": "南岡企業股份有限公司",
@@ -1731,7 +1760,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "南岡企業股份有限公司",
@@ -1773,7 +1802,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "南岡企業股份有限公司",
@@ -1941,7 +1970,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "南岡企業股份有限公司",

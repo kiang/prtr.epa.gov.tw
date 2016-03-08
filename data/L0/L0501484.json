@@ -5,16 +5,20 @@
         "管制編號": "L0501484",
         "行業別": "自行車及其零件製造業(自行車零件製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.0900140444171",
         "longitude": "120.673293327783",
+        "latitude": "24.0900140444171",
         "name": "天心工業股份有限公司大里廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "L0501484",
@@ -68,7 +72,7 @@
                 "CLEANNAME": "以管線、溝渠廠內輸送",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:03",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:03",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:03",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -124,7 +128,7 @@
                 "CLEANNAME": "以管線、溝渠廠內輸送",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -138,7 +142,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -152,7 +156,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -166,7 +170,7 @@
                 "CLEANNAME": "以管線、溝渠廠內輸送",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -180,7 +184,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -194,7 +198,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -208,7 +212,7 @@
                 "CLEANNAME": "以管線、溝渠廠內輸送",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -222,7 +226,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1599,52 +1603,16 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "B03100000487",
-                "FACILITYNAME": "天心工業股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-101-050006",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/05\/10",
-                "TRANSGRESSDATE": "2012\/02\/21",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治法第7條第1項",
-                "PENALTYMONEY": 350000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "改善完成",
-                "TRANSGRESSNAME": "天心工業股份有限公司大里廠",
-                "TRANSGRESSCONTROLID": "L0501484"
-            },
-            {
-                "REGISTRATIONNO": "L0501484",
-                "FACILITYNAME": "天心工業股份有限公司大里廠",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-101-050002",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/05\/10",
-                "TRANSGRESSDATE": "2012\/02\/21",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項",
-                "PENALTYMONEY": 150000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "資料鍵入錯誤",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "天心工業股份有限公司大里廠",
-                "TRANSGRESSCONTROLID": "L0501484"
-            },
             {
                 "REGISTRATIONNO": "B03100000487",
                 "FACILITYNAME": "天心工業股份有限公司",
@@ -1671,6 +1639,27 @@
                 "FACILITYNAME": "天心工業股份有限公司大里廠",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-101-050002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/05\/10",
+                "TRANSGRESSDATE": "2012\/02\/21",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 150000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "資料鍵入錯誤",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "天心工業股份有限公司大里廠",
+                "TRANSGRESSCONTROLID": "L0501484"
+            },
+            {
+                "REGISTRATIONNO": "L0501484",
+                "FACILITYNAME": "天心工業股份有限公司大里廠",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
                 "DOCUMENTNO": "30-101-050003",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/05\/10",
@@ -1684,6 +1673,27 @@
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "天心工業股份有限公司大里廠",
+                "TRANSGRESSCONTROLID": "L0501484"
+            },
+            {
+                "REGISTRATIONNO": "B03100000487",
+                "FACILITYNAME": "天心工業股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-101-050006",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/05\/10",
+                "TRANSGRESSDATE": "2012\/02\/21",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治法第7條第1項",
+                "PENALTYMONEY": 350000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "改善完成",
                 "TRANSGRESSNAME": "天心工業股份有限公司大里廠",
                 "TRANSGRESSCONTROLID": "L0501484"
             },

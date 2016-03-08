@@ -5,15 +5,17 @@
         "管制編號": "S1704450",
         "行業別": "肉類處理保藏及其製品製造業(屠宰業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.8864556370545",
         "longitude": "120.50090251923",
+        "latitude": "22.8864556370545",
         "name": "高雄市鳳山肉品市場旗山分場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "S1704450",
@@ -935,7 +937,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -949,7 +951,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.87",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -963,7 +965,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "8.53",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -977,7 +979,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之飼料",
                 "EMIITEMVALUE": "0.6360",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -991,7 +993,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之飼料",
                 "EMIITEMVALUE": "2.4850",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1005,7 +1007,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "7.84",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1019,7 +1021,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之飼料",
                 "EMIITEMVALUE": "2.1310",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1033,7 +1035,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1047,7 +1049,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1061,7 +1063,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之飼料",
                 "EMIITEMVALUE": "0.7650",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3376,9 +3378,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S1704450",

@@ -5,11 +5,11 @@
         "管制編號": "R9204285",
         "行業別": "醫院(醫院)",
         "列管類別": "空氣污染;水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.2919040146547",
         "longitude": "120.319112923645",
+        "latitude": "23.2919040146547",
         "name": "奇美醫療財團法人柳營奇美醫院"
     },
     "reports": {
@@ -22,7 +22,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.001,
@@ -36,7 +36,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.002,
@@ -50,7 +50,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.002,
@@ -64,7 +64,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.003,
@@ -106,7 +106,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.002,
@@ -134,7 +134,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.003,
@@ -162,7 +162,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.004,
@@ -190,7 +190,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/28",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.004,
@@ -218,7 +218,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/28",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.003,
@@ -246,7 +246,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/28",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.004,
@@ -274,7 +274,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.005,
@@ -1060,7 +1060,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1074,7 +1074,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.34",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1088,7 +1088,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
                 "EMIITEMVALUE": "1.5790",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1102,7 +1102,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.6030",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1116,7 +1116,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "58.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1130,7 +1130,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "11368",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1144,7 +1144,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "1.4280",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1158,7 +1158,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9.8140",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1172,7 +1172,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之燃料使用",
                 "EMIITEMVALUE": "0.18",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1186,7 +1186,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "7.34",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1200,7 +1200,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10946",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1214,7 +1214,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "59.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1228,7 +1228,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之燃料使用",
                 "EMIITEMVALUE": "0.1080",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1242,7 +1242,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.6410",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1256,7 +1256,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
                 "EMIITEMVALUE": "1.9570",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1270,7 +1270,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.36",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1284,7 +1284,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.31",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1298,7 +1298,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9.1290",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1312,7 +1312,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.8420",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1326,7 +1326,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "11120",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1340,7 +1340,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "61.49",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1354,7 +1354,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之燃料使用",
                 "EMIITEMVALUE": "0.1440",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1368,7 +1368,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.57",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1382,7 +1382,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9.6480",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1396,7 +1396,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.44",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1410,7 +1410,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.02",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1424,7 +1424,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.02",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1438,7 +1438,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.32",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1452,7 +1452,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之材料、添加物使用",
                 "EMIITEMVALUE": "2.0930",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -6497,9 +6497,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "D14099001439",

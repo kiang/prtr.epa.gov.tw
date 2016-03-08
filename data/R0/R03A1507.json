@@ -5,16 +5,20 @@
         "管制編號": "R03A1507",
         "行業別": "大專校院(大專校院)",
         "列管類別": "水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1045650142208",
         "longitude": "120.291485913484",
+        "latitude": "23.1045650142208",
         "name": "國立成功大學南科研發大樓"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "R03A1507",
@@ -54,7 +58,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.5018",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.14",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1520",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1892",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -857,9 +861,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

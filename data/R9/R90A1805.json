@@ -5,16 +5,20 @@
         "管制編號": "R90A1805",
         "行業別": "其他電子零組件製造業(未分類其他電子零組件製造業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1196570141029",
         "longitude": "120.266948904223",
+        "latitude": "23.1196570141029",
         "name": "茂迪股份有限公司園區分公司六A廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "R90A1805",
@@ -54,7 +58,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "6.8553",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "25.58",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "11189",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "6.71",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "34.39",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -124,7 +128,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10894",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -138,7 +142,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "24.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -152,7 +156,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "5.3310",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -180,7 +184,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "18084",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -208,7 +212,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10838",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -264,7 +268,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "11534",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -320,7 +324,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "531",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -348,7 +352,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10159",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -376,7 +380,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "578",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -404,7 +408,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "11096",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -446,7 +450,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10035",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -488,7 +492,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10253",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -502,7 +506,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10289",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -516,7 +520,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10749",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -530,7 +534,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10560",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -544,7 +548,7 @@
                 "CLEANNAME": "廠外廢(污)水處理設施處理",
                 "EMIITEMVALUE": "11803",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1389,9 +1393,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

@@ -5,15 +5,17 @@
         "管制編號": "N0702049",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.0868639515113",
         "longitude": "120.566641227026",
+        "latitude": "24.0868639515113",
         "name": "鋒龍電鍍工廠股份有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "N0702049",
@@ -3404,10 +3406,37 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "N0702049",
+                "FACILITYNAME": "鋒龍電鍍工廠股份有限公司",
+                "COUNTY": "環保署",
+                "COUNTYCODE": "0",
+                "DOCUMENTNO": "32-104-120003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/12",
+                "TRANSGRESSDATE": "2013\/06\/16",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第12條第3項",
+                "PENALTYMONEY": 150000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鋒龍電鍍工廠股份有限公司",
+                "TRANSGRESSCONTROLID": "N0702049"
+            },
             {
                 "REGISTRATIONNO": "N0702049",
                 "FACILITYNAME": "鋒龍電鍍工廠股份有限公司",
@@ -3424,27 +3453,6 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:14",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "鋒龍電鍍工廠股份有限公司",
-                "TRANSGRESSCONTROLID": "N0702049"
-            },
-            {
-                "REGISTRATIONNO": "N0702049",
-                "FACILITYNAME": "鋒龍電鍍工廠股份有限公司",
-                "COUNTY": "環保署",
-                "COUNTYCODE": "0",
-                "DOCUMENTNO": "32-104-120003",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/12\/10",
-                "TRANSGRESSDATE": "2013\/06\/16",
-                "TRANSGRESSLAW": "土壤及地下水污染整治法第12條第3項",
-                "PENALTYMONEY": 150000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "鋒龍電鍍工廠股份有限公司",

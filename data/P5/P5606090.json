@@ -5,15 +5,17 @@
         "管制編號": "P5606090",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "廖正雄畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "P5606090",
@@ -275,7 +277,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "1.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -289,7 +291,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "3.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -303,7 +305,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "780",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -317,7 +319,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "0.27",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -331,7 +333,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "1",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -345,7 +347,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "800",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -359,7 +361,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "0.19",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -373,7 +375,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "4",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -387,7 +389,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "1",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -401,7 +403,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "800",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -415,7 +417,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "0.0950",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -429,7 +431,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "3",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2324,9 +2326,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "P5606090",
@@ -2347,27 +2355,6 @@
                 "IMPROVEDEADLINE": "2013-02-10",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "廖正雄畜牧場",
-                "TRANSGRESSCONTROLID": "P5606090"
-            },
-            {
-                "REGISTRATIONNO": "P5606090",
-                "FACILITYNAME": "廖正雄畜牧場",
-                "COUNTY": "雲林縣",
-                "COUNTYCODE": "16",
-                "DOCUMENTNO": "30-100-020001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/08",
-                "TRANSGRESSDATE": "2010\/12\/14",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-02-15",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "正雄畜牧場",
                 "TRANSGRESSCONTROLID": "P5606090"
             }
         ]

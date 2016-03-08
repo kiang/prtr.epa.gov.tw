@@ -841,7 +841,9 @@
                 "EMIITEM4": 6.131
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "E5601080",
@@ -3490,8 +3492,12 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
         "GREENHOUSE": [
             {
                 "REGISTRATIONNO": "E5601080",
@@ -3510,6 +3516,8 @@
                 "RPT_TYPE": "GREENHOUSE"
             }
         ],
-        "PENALTY": []
+        "PENALTY": [
+
+        ]
     }
 }

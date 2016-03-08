@@ -5,11 +5,11 @@
         "管制編號": "N2307113",
         "行業別": "橡膠製品製造業(輪胎製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.9521783870848",
         "longitude": "120.559765996873",
+        "latitude": "23.9521783870848",
         "name": "連笙實業有限公司工廠"
     },
     "reports": {
@@ -22,7 +22,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.057,
@@ -36,7 +36,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.057,
@@ -50,7 +50,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.057,
@@ -64,7 +64,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.01,
@@ -92,7 +92,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.057,
@@ -134,7 +134,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.057,
@@ -162,7 +162,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.057,
@@ -190,7 +190,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/28",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.057,
@@ -218,19 +218,50 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/28",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.057,
                 "EMIITEM4": 0.04
             }
         ],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "N11A1324",
+                "FACILITYNAME": "連笙實業有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "20-105-010042",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/27",
+                "TRANSGRESSDATE": "2015\/11\/25",
+                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-04-11",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "連笙實業有限公司工廠",
+                "TRANSGRESSCONTROLID": "N2307113"
+            },
             {
                 "REGISTRATIONNO": "N2307113",
                 "FACILITYNAME": "連笙實業有限公司工廠",

@@ -5,15 +5,17 @@
         "管制編號": "L0301064",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.0794436411036",
         "longitude": "120.705689801638",
+        "latitude": "24.0794436411036",
         "name": "弘翔企業社"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L0301064",
@@ -587,7 +589,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -601,7 +603,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -615,7 +617,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "225",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -629,7 +631,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -643,7 +645,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "300",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:10",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -1306,21 +1308,27 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "L0301064",
                 "FACILITYNAME": "弘翔企業社",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-104-030014",
+                "DOCUMENTNO": "30-104-030015",
                 "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/03\/20",
+                "PENALTYDATE": "2015\/03\/12",
                 "TRANSGRESSDATE": "2014\/07\/10",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第14條，水污染防治措施及檢測申報管理辦法第16條，水污染防治措施及檢測申報管理辦法第50條",
-                "PENALTYMONEY": 50000,
+                "TRANSGRESSLAW": "水污染防治法第14條第2項",
+                "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -1336,12 +1344,12 @@
                 "FACILITYNAME": "弘翔企業社",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-104-030015",
+                "DOCUMENTNO": "30-104-030014",
                 "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/03\/12",
+                "PENALTYDATE": "2015\/03\/20",
                 "TRANSGRESSDATE": "2014\/07\/10",
-                "TRANSGRESSLAW": "水污染防治法第14條第2項",
-                "PENALTYMONEY": 10000,
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第14條，水污染防治措施及檢測申報管理辦法第16條，水污染防治措施及檢測申報管理辦法第50條",
+                "PENALTYMONEY": 50000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

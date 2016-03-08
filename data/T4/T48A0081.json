@@ -5,15 +5,17 @@
         "管制編號": "T48A0081",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "裕興第一種畜場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "T48A0081",
@@ -208,10 +210,40 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "T48A0081",
+                "FACILITYNAME": "裕興第一種畜場",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "40-105-010004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/14",
+                "TRANSGRESSDATE": "2015\/12\/16",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕興第一種畜場",
+                "TRANSGRESSCONTROLID": "T48A0081"
+            }
+        ]
     }
 }

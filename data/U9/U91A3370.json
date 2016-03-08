@@ -5,20 +5,54 @@
         "管制編號": "U91A3370",
         "行業別": "其他專門營造業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "安億營造股份有限公司-百事達飯店新建大樓工程"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "U91A3370",
+                "FACILITYNAME": "安億營造股份有限公司-百事達飯店新建大樓工程",
+                "COUNTY": "花蓮縣",
+                "COUNTYCODE": "22",
+                "DOCUMENTNO": "30-105-010001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/19",
+                "TRANSGRESSDATE": "2015\/09\/22",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 280000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "安億營造股份有限公司-百事達飯店新建大樓工程",
+                "TRANSGRESSCONTROLID": "U91A3370"
+            }
+        ]
     }
 }

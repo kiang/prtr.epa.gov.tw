@@ -841,7 +841,9 @@
                 "EMIITEM4": 109.584
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "H4307715",
@@ -2636,7 +2638,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
+        "TOX": [
+
+        ],
         "METAL": [
             {
                 "REGISTRATIONNO": "H4307715",
@@ -3233,7 +3237,11 @@
                 "RPT_TYPE": "METAL"
             }
         ],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

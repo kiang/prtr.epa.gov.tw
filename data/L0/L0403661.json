@@ -5,16 +5,20 @@
         "管制編號": "L0403661",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.1224218522221",
         "longitude": "120.732234188714",
+        "latitude": "24.1224218522221",
         "name": "承賦工業有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "L0403661",
@@ -1039,31 +1043,16 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "L0403661",
-                "FACILITYNAME": "承賦工業有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-103-030007",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/03\/17",
-                "TRANSGRESSDATE": "2013\/12\/24",
-                "TRANSGRESSLAW": "水污染防治法第21條第1項",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "承賦工業有限公司",
-                "TRANSGRESSCONTROLID": "L0403661"
-            },
             {
                 "REGISTRATIONNO": "L0403661",
                 "FACILITYNAME": "承賦工業有限公司",
@@ -1096,6 +1085,27 @@
                 "TRANSGRESSDATE": "2013\/12\/24",
                 "TRANSGRESSLAW": "廢棄物清理法第36條",
                 "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "承賦工業有限公司",
+                "TRANSGRESSCONTROLID": "L0403661"
+            },
+            {
+                "REGISTRATIONNO": "L0403661",
+                "FACILITYNAME": "承賦工業有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-103-030007",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/03\/17",
+                "TRANSGRESSDATE": "2013\/12\/24",
+                "TRANSGRESSLAW": "水污染防治法第21條第1項",
+                "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

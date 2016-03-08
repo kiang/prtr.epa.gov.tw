@@ -5,16 +5,20 @@
         "管制編號": "Q7495034",
         "行業別": "肥料製造業(肥料製造業)",
         "列管類別": "空氣污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.3593088141788",
         "longitude": "120.222166886394",
+        "latitude": "23.3593088141788",
         "name": "星橋企業社義竹廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "Q7495034",
@@ -26,7 +30,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -40,7 +44,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +58,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -353,9 +357,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "Q74097000218",
@@ -425,27 +435,6 @@
                 "FACILITYNAME": "星橋企業社義竹廠",
                 "COUNTY": "嘉義縣",
                 "COUNTYCODE": "17",
-                "DOCUMENTNO": "40-101-040004",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/04\/19",
-                "TRANSGRESSDATE": "2012\/03\/27",
-                "TRANSGRESSLAW": "廢棄物清理法第39條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-04-30",
-                "INSPECTIONCONDITION": "未發現污染現象",
-                "TRANSGRESSNAME": "星橋企業社義竹廠",
-                "TRANSGRESSCONTROLID": "Q7495034"
-            },
-            {
-                "REGISTRATIONNO": "Q7495034",
-                "FACILITYNAME": "星橋企業社義竹廠",
-                "COUNTY": "嘉義縣",
-                "COUNTYCODE": "17",
                 "DOCUMENTNO": "40-101-040003",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/04\/19",
@@ -459,6 +448,27 @@
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "2012-05-07",
                 "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "星橋企業社義竹廠",
+                "TRANSGRESSCONTROLID": "Q7495034"
+            },
+            {
+                "REGISTRATIONNO": "Q7495034",
+                "FACILITYNAME": "星橋企業社義竹廠",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "40-101-040004",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/04\/19",
+                "TRANSGRESSDATE": "2012\/03\/27",
+                "TRANSGRESSLAW": "廢棄物清理法第39條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-04-30",
+                "INSPECTIONCONDITION": "未發現污染現象",
                 "TRANSGRESSNAME": "星橋企業社義竹廠",
                 "TRANSGRESSCONTROLID": "Q7495034"
             },
@@ -542,48 +552,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "2011-09-15",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "星橋企業社義竹廠",
-                "TRANSGRESSCONTROLID": "Q7495034"
-            },
-            {
-                "REGISTRATIONNO": "Q7495034",
-                "FACILITYNAME": "星橋企業社義竹廠",
-                "COUNTY": "嘉義縣",
-                "COUNTYCODE": "17",
-                "DOCUMENTNO": "40-100-020003",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/22",
-                "TRANSGRESSDATE": "2011\/01\/05",
-                "TRANSGRESSLAW": "廢棄物清理法第39條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "星橋企業社義竹廠",
-                "TRANSGRESSCONTROLID": "Q7495034"
-            },
-            {
-                "REGISTRATIONNO": "Q7495034",
-                "FACILITYNAME": "星橋企業社義竹廠",
-                "COUNTY": "嘉義縣",
-                "COUNTYCODE": "17",
-                "DOCUMENTNO": "20-100-020001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/16",
-                "TRANSGRESSDATE": "2010\/11\/19",
-                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-04-15",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "星橋企業社義竹廠",
                 "TRANSGRESSCONTROLID": "Q7495034"

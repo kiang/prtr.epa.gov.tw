@@ -29,7 +29,9 @@
                 "EMIITEM4": 0.103
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "E1601146",
@@ -2678,7 +2680,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
+        "TOX": [
+
+        ],
         "METAL": [
             {
                 "REGISTRATIONNO": "E1601146",
@@ -2692,7 +2696,11 @@
                 "RPT_TYPE": "METAL"
             }
         ],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

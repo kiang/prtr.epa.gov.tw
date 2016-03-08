@@ -841,7 +841,9 @@
                 "EMIITEM4": 0.031
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "H5388018",
@@ -1516,7 +1518,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
+        "TOX": [
+
+        ],
         "METAL": [
             {
                 "REGISTRATIONNO": "H5388018",
@@ -1530,7 +1534,11 @@
                 "RPT_TYPE": "METAL"
             }
         ],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

@@ -5,15 +5,17 @@
         "管制編號": "R97A0278",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1899927034799",
         "longitude": "120.360370235345",
+        "latitude": "23.1899927034799",
         "name": "富紳畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R97A0278",
@@ -295,7 +297,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "4.72",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -309,7 +311,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "9.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -323,7 +325,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "3.44",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -337,7 +339,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "7.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -351,7 +353,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "3.46",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -365,7 +367,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "6.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1518,9 +1520,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R97A0278",

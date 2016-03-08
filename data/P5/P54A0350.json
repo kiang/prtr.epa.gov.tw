@@ -5,15 +5,17 @@
         "管制編號": "P54A0350",
         "行業別": "水泥及其製品製造業(水泥製品製造業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.7492751914269",
         "longitude": "120.498243369241",
+        "latitude": "23.7492751914269",
         "name": "青新環境工程股份有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "P54A0350",
@@ -499,7 +501,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "47",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -513,7 +515,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "4.9630",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -527,7 +529,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1720",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -541,7 +543,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "32.85",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -555,7 +557,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1080",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -583,7 +585,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "13.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -597,7 +599,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "7.1810",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -611,7 +613,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "33.66",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -625,7 +627,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "8.3710",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -639,7 +641,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "10.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -653,7 +655,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1180",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1176,30 +1178,36 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "P54A0350",
                 "FACILITYNAME": "青新環境工程股份有限公司",
                 "COUNTY": "雲林縣",
                 "COUNTYCODE": "16",
-                "DOCUMENTNO": "20-103-040002",
+                "DOCUMENTNO": "40-103-030009",
                 "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/04\/08",
+                "PENALTYDATE": "2014\/03\/19",
                 "TRANSGRESSDATE": "2014\/01\/17",
-                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
-                "PENALTYMONEY": 100000,
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項",
+                "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "2014-05-15",
-                "INSPECTIONCONDITION": "改善完成",
-                "TRANSGRESSNAME": "青新環境工程股份有限公司",
-                "TRANSGRESSCONTROLID": "P54A0350"
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
             },
             {
                 "REGISTRATIONNO": "P54A0350",
@@ -1227,21 +1235,21 @@
                 "FACILITYNAME": "青新環境工程股份有限公司",
                 "COUNTY": "雲林縣",
                 "COUNTYCODE": "16",
-                "DOCUMENTNO": "40-103-030009",
+                "DOCUMENTNO": "20-103-040002",
                 "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/03\/19",
+                "PENALTYDATE": "2014\/04\/08",
                 "TRANSGRESSDATE": "2014\/01\/17",
-                "TRANSGRESSLAW": "廢棄物清理法第36條第1項",
-                "PENALTYMONEY": 6000,
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
+                "IMPROVEDEADLINE": "2014-05-15",
+                "INSPECTIONCONDITION": "改善完成",
+                "TRANSGRESSNAME": "青新環境工程股份有限公司",
+                "TRANSGRESSCONTROLID": "P54A0350"
             }
         ]
     }

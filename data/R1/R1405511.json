@@ -5,16 +5,20 @@
         "管制編號": "R1405511",
         "行業別": "通用機械設備製造業(輸送機械設備製造業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.043114001815",
         "longitude": "120.268326903668",
+        "latitude": "23.043114001815",
         "name": "統一精工股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "R1405511",
@@ -40,7 +44,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.98",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +58,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.98",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.98",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -591,9 +595,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R1405511",
@@ -694,7 +704,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "統一精工股份有限公司-統一精工左營加油站",
@@ -736,7 +746,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "統一精工股份有限公司",
@@ -778,7 +788,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
@@ -820,7 +830,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
@@ -841,7 +851,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "陳情撤銷",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
@@ -862,7 +872,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "統一精工佳里二站加油站",
@@ -883,7 +893,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
@@ -904,7 +914,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-09-29",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "統一精工股份有限公司",

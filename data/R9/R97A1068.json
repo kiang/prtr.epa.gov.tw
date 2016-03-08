@@ -5,15 +5,17 @@
         "管制編號": "R97A1068",
         "行業別": "動物飼料配製業(動物飼料配製業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "聖舜畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R97A1068",
@@ -309,7 +311,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "7.50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -323,7 +325,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "0.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -337,7 +339,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "701",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -351,7 +353,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "756",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -365,7 +367,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "7",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -379,7 +381,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "0.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -393,7 +395,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "436",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -407,7 +409,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "7",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -421,7 +423,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之肥料",
                 "EMIITEMVALUE": "1.50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1882,21 +1884,27 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R97A1068",
                 "FACILITYNAME": "聖舜畜牧場",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "40-104-030030",
+                "DOCUMENTNO": "30-104-030002",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/03\/10",
                 "TRANSGRESSDATE": "2014\/09\/09",
-                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第6條第2款",
-                "PENALTYMONEY": 6000,
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第69條第1項，水污染防治法第18條",
+                "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -1912,12 +1920,12 @@
                 "FACILITYNAME": "聖舜畜牧場",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-104-030002",
+                "DOCUMENTNO": "40-104-030030",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/03\/10",
                 "TRANSGRESSDATE": "2014\/09\/09",
-                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第69條第1項，水污染防治法第18條",
-                "PENALTYMONEY": 10000,
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第6條第2款",
+                "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

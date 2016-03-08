@@ -5,15 +5,17 @@
         "管制編號": "R9500157",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "姜萬教畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R9500157",
@@ -256,32 +258,19 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "R9500157",
-                "FACILITYNAME": "姜萬教畜牧場",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-104-090015",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/09\/22",
-                "TRANSGRESSDATE": "2015\/07\/16",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
-                "IMPROVEDEADLINE": "2015-10-20",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "姜萬教畜牧場",
-                "TRANSGRESSCONTROLID": "R9500157"
-            },
             {
                 "REGISTRATIONNO": "R9500157",
                 "FACILITYNAME": "姜萬教畜牧場",
@@ -297,6 +286,27 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "資料鍵入錯誤",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-10-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "姜萬教畜牧場",
+                "TRANSGRESSCONTROLID": "R9500157"
+            },
+            {
+                "REGISTRATIONNO": "R9500157",
+                "FACILITYNAME": "姜萬教畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-104-090015",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/09\/22",
+                "TRANSGRESSDATE": "2015\/07\/16",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:14",
                 "IMPROVEDEADLINE": "2015-10-20",
                 "INSPECTIONCONDITION": "",

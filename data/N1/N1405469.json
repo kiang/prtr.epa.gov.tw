@@ -5,16 +5,20 @@
         "管制編號": "N1405469",
         "行業別": "畜牧業(雞飼育業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.8999606503649",
         "longitude": "120.374445146096",
+        "latitude": "23.8999606503649",
         "name": "金大畜牧場"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "N1405469",
@@ -54,7 +58,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "1.50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "246.79",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "273.95",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "2.22",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "1.6210",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -124,7 +128,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "268.33",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1221,20 +1225,26 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "N1405469",
                 "FACILITYNAME": "金大畜牧場",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "40-101-090007",
+                "DOCUMENTNO": "40-101-090008",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/09\/10",
                 "TRANSGRESSDATE": "2012\/04\/19",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -1251,11 +1261,11 @@
                 "FACILITYNAME": "金大畜牧場",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "40-101-090008",
+                "DOCUMENTNO": "40-101-090007",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/09\/10",
                 "TRANSGRESSDATE": "2012\/04\/19",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

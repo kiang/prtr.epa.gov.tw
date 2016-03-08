@@ -5,20 +5,32 @@
         "管制編號": "N21A0073",
         "行業別": "貨運承攬業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.0046781835795",
         "longitude": "120.577282891872",
+        "latitude": "24.0046781835795",
         "name": "輝勇交通有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "N21A0073",
@@ -88,7 +100,7 @@
                 "FACILITYNAME": "輝勇交通有限公司",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "41-101-120098",
+                "DOCUMENTNO": "41-101-120097",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/12\/17",
                 "TRANSGRESSDATE": "2012\/08\/20",
@@ -97,7 +109,7 @@
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "自行撤銷",
+                "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
@@ -109,7 +121,7 @@
                 "FACILITYNAME": "輝勇交通有限公司",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "41-101-120097",
+                "DOCUMENTNO": "41-101-120098",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/12\/17",
                 "TRANSGRESSDATE": "2012\/08\/20",
@@ -118,7 +130,7 @@
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
+                "APPEALRESCIND": "自行撤銷",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
@@ -197,27 +209,6 @@
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/03\/22",
                 "TRANSGRESSDATE": "2011\/03\/03",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "輝勇交通有限公司",
-                "TRANSGRESSCONTROLID": "N21A0073"
-            },
-            {
-                "REGISTRATIONNO": "N21A0073",
-                "FACILITYNAME": "輝勇交通有限公司",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
-                "DOCUMENTNO": "44-100-020012",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/18",
-                "TRANSGRESSDATE": "2011\/01\/04",
                 "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",

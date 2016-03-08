@@ -5,16 +5,20 @@
         "管制編號": "S1664371",
         "行業別": "印刷及其輔助業(印刷業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.8124937335465",
         "longitude": "120.26444160396",
+        "latitude": "22.8124937335465",
         "name": "香港商蘋果日報出版發展有限公司台灣分公司岡山印刷廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "S1664371",
@@ -152,7 +156,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "46.02",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -166,7 +170,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.007611",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -180,7 +184,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.08",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -194,7 +198,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -208,7 +212,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "6.18",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -222,7 +226,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.87",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -236,7 +240,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "5.73",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -250,7 +254,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.3750",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -278,7 +282,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "6.41",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -376,7 +380,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.04",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -390,7 +394,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.04",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -516,7 +520,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "5.77",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -614,7 +618,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.04",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -698,7 +702,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "4.48",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -754,7 +758,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.04",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -810,7 +814,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -1272,7 +1276,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "5.35",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1286,7 +1290,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.96",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1300,7 +1304,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -1314,7 +1318,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "10.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -1328,7 +1332,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1342,7 +1346,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "10.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1356,7 +1360,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.48",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -1370,7 +1374,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "6.24",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -2266,7 +2270,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "1.96",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2280,7 +2284,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2294,7 +2298,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.9530",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2308,7 +2312,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "5.77",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2322,7 +2326,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "8.77",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2336,7 +2340,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "77.56",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2350,7 +2354,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.009630",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2364,7 +2368,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.6810",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2378,7 +2382,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "3.2075",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/12 09:13",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -4749,21 +4753,27 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S1664371",
                 "FACILITYNAME": "香港商蘋果日報出版發展有限公司台灣分公司岡山印刷廠",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "40-101-070017",
+                "DOCUMENTNO": "30-101-090008",
                 "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/07\/19",
+                "PENALTYDATE": "2012\/09\/17",
                 "TRANSGRESSDATE": "2012\/06\/19",
-                "TRANSGRESSLAW": "廢棄物清理法第36條",
-                "PENALTYMONEY": 6000,
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第50條",
+                "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -4779,12 +4789,12 @@
                 "FACILITYNAME": "香港商蘋果日報出版發展有限公司台灣分公司岡山印刷廠",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "30-101-090008",
+                "DOCUMENTNO": "40-101-070017",
                 "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/09\/17",
+                "PENALTYDATE": "2012\/07\/19",
                 "TRANSGRESSDATE": "2012\/06\/19",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第50條",
-                "PENALTYMONEY": 10000,
+                "TRANSGRESSLAW": "廢棄物清理法第36條",
+                "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

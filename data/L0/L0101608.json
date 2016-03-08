@@ -5,20 +5,54 @@
         "管制編號": "L0101608",
         "行業別": "其他陸上運輸業(其他陸上運輸業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.1569643238928",
         "longitude": "120.540007547145",
+        "latitude": "24.1569643238928",
         "name": "尚緯通運股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "L0101608",
+                "FACILITYNAME": "尚緯通運股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "21-105-010006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/18",
+                "TRANSGRESSDATE": "2015\/11\/26",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "尚緯通運股份有限公司",
+                "TRANSGRESSCONTROLID": "L0101608"
+            }
+        ]
     }
 }

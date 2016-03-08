@@ -5,15 +5,17 @@
         "管制編號": "R9204114",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "八老爺牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R9204114",
@@ -256,10 +258,18 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R9204114",
@@ -329,16 +339,16 @@
                 "FACILITYNAME": "八老爺牧場",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-100-060020",
+                "DOCUMENTNO": "30-100-060002",
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/06\/07",
                 "TRANSGRESSDATE": "2011\/04\/18",
-                "TRANSGRESSLAW": "水污染防治法第18條，事業水污染防治措施管理辦法第52條，水污染防治法第7條第1項，放流水標準第2條",
+                "TRANSGRESSLAW": "放流水標準第2條，水污染防治法第18條，水污染防治措施及檢測申報管理辦法第52條，水污染防治法第7條第1項",
                 "PENALTYMONEY": 180000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
+                "APPEALRESCIND": "其他",
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "2011-07-12",
                 "INSPECTIONCONDITION": "",
@@ -350,16 +360,16 @@
                 "FACILITYNAME": "八老爺牧場",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-100-060002",
+                "DOCUMENTNO": "30-100-060020",
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/06\/07",
                 "TRANSGRESSDATE": "2011\/04\/18",
-                "TRANSGRESSLAW": "放流水標準第2條，水污染防治法第18條，水污染防治措施及檢測申報管理辦法第52條，水污染防治法第7條第1項",
+                "TRANSGRESSLAW": "水污染防治法第18條，事業水污染防治措施管理辦法第52條，水污染防治法第7條第1項，放流水標準第2條",
                 "PENALTYMONEY": 180000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "其他",
+                "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "2011-07-12",
                 "INSPECTIONCONDITION": "",

@@ -5,15 +5,17 @@
         "管制編號": "R9204945",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.256969172858",
         "longitude": "120.366839905555",
+        "latitude": "23.256969172858",
         "name": "義宗牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R9204945",
@@ -240,11 +242,40 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "R9204945",
+                "FACILITYNAME": "義宗牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-010013",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/30",
+                "TRANSGRESSDATE": "2015\/10\/29",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 32400,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "2016-02-24",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "義宗牧場",
+                "TRANSGRESSCONTROLID": "R9204945"
+            },
             {
                 "REGISTRATIONNO": "R9204945",
                 "FACILITYNAME": "義宗牧場",

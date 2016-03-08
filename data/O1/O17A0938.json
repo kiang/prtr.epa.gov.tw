@@ -5,20 +5,32 @@
         "管制編號": "O17A0938",
         "行業別": "廢（污）水處理業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.8392070668057",
         "longitude": "120.932616859609",
+        "latitude": "24.8392070668057",
         "name": "煙波行館社區污水下水道系統"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "O17097031590",
@@ -46,27 +58,6 @@
                 "FACILITYNAME": "煙波行館社區管理委員會",
                 "COUNTY": "新竹市",
                 "COUNTYCODE": "4",
-                "DOCUMENTNO": "30-103-040006",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/04\/08",
-                "TRANSGRESSDATE": "2014\/03\/18",
-                "TRANSGRESSLAW": "水污染防治法第15條第1項，水污染防治法第19條",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "2014-03-24",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "煙波行館社區污水下水道系統",
-                "TRANSGRESSCONTROLID": "O17A0938"
-            },
-            {
-                "REGISTRATIONNO": "O17097031590",
-                "FACILITYNAME": "煙波行館社區管理委員會",
-                "COUNTY": "新竹市",
-                "COUNTYCODE": "4",
                 "DOCUMENTNO": "30-103-040005",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/04\/08",
@@ -79,6 +70,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "2014-03-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "煙波行館社區污水下水道系統",
+                "TRANSGRESSCONTROLID": "O17A0938"
+            },
+            {
+                "REGISTRATIONNO": "O17097031590",
+                "FACILITYNAME": "煙波行館社區管理委員會",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "30-103-040006",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/04\/08",
+                "TRANSGRESSDATE": "2014\/03\/18",
+                "TRANSGRESSLAW": "水污染防治法第15條第1項，水污染防治法第19條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-03-24",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "煙波行館社區污水下水道系統",
                 "TRANSGRESSCONTROLID": "O17A0938"

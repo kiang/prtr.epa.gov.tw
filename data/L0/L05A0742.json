@@ -1,19 +1,21 @@
 {
     "info": {
-        "地址": "臺中市大里區光正段○二七四之○○五七地號等一筆",
+        "地址": "臺中市大里區仁化路１２０巷３８號",
         "所屬工業區": "其他工業區",
         "管制編號": "L05A0742",
         "行業別": "廢（污）水處理業(廢（污）水處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
-        "longitude": "0",
-        "name": "台中市大里仁化工業區專用污水下水道"
+        "longitude": "120.729711995341",
+        "latitude": "24.0899480167223",
+        "name": "臺中市大里仁化工業區專用污水下水道"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L05A0742",
@@ -777,7 +779,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -791,7 +793,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -805,7 +807,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1258,9 +1260,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B05100002349",
@@ -1284,27 +1292,6 @@
                 "TRANSGRESSCONTROLID": "L05A0742"
             },
             {
-                "REGISTRATIONNO": "B05100001173",
-                "FACILITYNAME": "社團法人臺中市仁化工業區廠商協進會",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "40-101-030002",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/03\/05",
-                "TRANSGRESSDATE": "2011\/12\/23",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台中縣大里仁化工業區專用污水下水道",
-                "TRANSGRESSCONTROLID": "L05A0742"
-            },
-            {
                 "REGISTRATIONNO": "L05A0742",
                 "FACILITYNAME": "台中市大里仁化工業區專用污水下水道",
                 "COUNTY": "臺中市",
@@ -1319,6 +1306,27 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "案件廢止",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台中縣大里仁化工業區專用污水下水道",
+                "TRANSGRESSCONTROLID": "L05A0742"
+            },
+            {
+                "REGISTRATIONNO": "B05100001173",
+                "FACILITYNAME": "社團法人臺中市仁化工業區廠商協進會",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "40-101-030002",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/03\/05",
+                "TRANSGRESSDATE": "2011\/12\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",

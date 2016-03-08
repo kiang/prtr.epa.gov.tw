@@ -5,42 +5,33 @@
         "管制編號": "T5007160",
         "行業別": "砂、石及黏土採取業(砂、石及黏土採取業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "勝輝企業行"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "T5007160",
-                "FACILITYNAME": "勝輝企業行",
-                "COUNTY": "屏東縣",
-                "COUNTYCODE": "20",
-                "DOCUMENTNO": "30-104-090004",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/09\/07",
-                "TRANSGRESSDATE": "2015\/05\/04",
-                "TRANSGRESSLAW": "水污染防治法第7條，水污染防治法第14條",
-                "PENALTYMONEY": 220000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "勝輝企業行",
-                "TRANSGRESSCONTROLID": "T5007160"
-            },
             {
                 "REGISTRATIONNO": "T5007160",
                 "FACILITYNAME": "勝輝企業行",
@@ -56,7 +47,28 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/12\/05 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "勝輝企業行",
+                "TRANSGRESSCONTROLID": "T5007160"
+            },
+            {
+                "REGISTRATIONNO": "T5007160",
+                "FACILITYNAME": "勝輝企業行",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "30-104-090004",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/09\/07",
+                "TRANSGRESSDATE": "2015\/05\/04",
+                "TRANSGRESSLAW": "水污染防治法第7條，水污染防治法第14條",
+                "PENALTYMONEY": 220000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "勝輝企業行",

@@ -5,42 +5,34 @@
         "管制編號": "U9106710",
         "行業別": "公共行政業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.9890155431456",
         "longitude": "121.626425938335",
+        "latitude": "23.9890155431456",
         "name": "花蓮縣環境保護局"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "U9106710",
-                "FACILITYNAME": "花蓮縣環境保護局",
-                "COUNTY": "花蓮縣",
-                "COUNTYCODE": "22",
-                "DOCUMENTNO": "10-100-020001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/09",
-                "TRANSGRESSDATE": "2009\/08\/20",
-                "TRANSGRESSLAW": "環境影響評估法第17條",
-                "PENALTYMONEY": 300000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-05-31",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            }
+
         ]
     }
 }

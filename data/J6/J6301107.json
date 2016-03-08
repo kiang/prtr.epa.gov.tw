@@ -841,7 +841,9 @@
                 "EMIITEM4": 0.38
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "J6301107",
@@ -11680,8 +11682,12 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
         "GREENHOUSE": [
             {
                 "REGISTRATIONNO": "J6301107",
@@ -11716,6 +11722,8 @@
                 "RPT_TYPE": "GREENHOUSE"
             }
         ],
-        "PENALTY": []
+        "PENALTY": [
+
+        ]
     }
 }

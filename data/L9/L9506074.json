@@ -5,15 +5,17 @@
         "管制編號": "L9506074",
         "行業別": "廢（污）水處理業(廢（污）水處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.218739320578",
         "longitude": "120.624607099668",
+        "latitude": "24.218739320578",
         "name": "科技部中部科學工業園區管理局-台中園區污水處理廠"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L9506074",
@@ -3127,7 +3129,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "84.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3141,7 +3143,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0265",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3155,7 +3157,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "113.03",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:17",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3169,7 +3171,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0290",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:17",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3183,7 +3185,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "141.65",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3197,7 +3199,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.027650",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3211,7 +3213,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "198.93",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -4910,31 +4912,16 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "B95100001593",
-                "FACILITYNAME": "科技部中部科學工業園區管理局",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-103-060021",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/06\/20",
-                "TRANSGRESSDATE": "2014\/04\/30",
-                "TRANSGRESSLAW": "水污染防治法第19條，水污染防治法第18條，水污染防治措施及檢測申報管理辦法第50條",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "自行撤銷",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "2014-06-29",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "科技部中部科學工業園區管理局-台中園區污水處理廠",
-                "TRANSGRESSCONTROLID": "L9506074"
-            },
             {
                 "REGISTRATIONNO": "B95100001593",
                 "FACILITYNAME": "科技部中部科學工業園區管理局",
@@ -4957,24 +4944,24 @@
                 "TRANSGRESSCONTROLID": "L9506074"
             },
             {
-                "REGISTRATIONNO": "B23097001254",
-                "FACILITYNAME": "行政院國家科學委員會中部科學工業園區管理局",
+                "REGISTRATIONNO": "B95100001593",
+                "FACILITYNAME": "科技部中部科學工業園區管理局",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-100-080017",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/24",
-                "TRANSGRESSDATE": "2011\/07\/13",
-                "TRANSGRESSLAW": "水污染防治法第14條第2項",
-                "PENALTYMONEY": 20000,
+                "DOCUMENTNO": "30-103-060021",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/06\/20",
+                "TRANSGRESSDATE": "2014\/04\/30",
+                "TRANSGRESSLAW": "水污染防治法第19條，水污染防治法第18條，水污染防治措施及檢測申報管理辦法第50條",
+                "PENALTYMONEY": 60000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-07-20",
+                "APPEALRESCIND": "自行撤銷",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-06-29",
                 "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "行政院國家科學委員會中部科學工業園區管理局-台中園區污水處理廠",
+                "TRANSGRESSNAME": "科技部中部科學工業園區管理局-台中園區污水處理廠",
                 "TRANSGRESSCONTROLID": "L9506074"
             },
             {
@@ -4994,6 +4981,27 @@
                 "APPEALRESCIND": "資料鍵入錯誤",
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "行政院國家科學委員會中部科學工業園區管理局-台中園區污水處理廠",
+                "TRANSGRESSCONTROLID": "L9506074"
+            },
+            {
+                "REGISTRATIONNO": "B23097001254",
+                "FACILITYNAME": "行政院國家科學委員會中部科學工業園區管理局",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-100-080017",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/08\/24",
+                "TRANSGRESSDATE": "2011\/07\/13",
+                "TRANSGRESSLAW": "水污染防治法第14條第2項",
+                "PENALTYMONEY": 20000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "2011-07-20",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "行政院國家科學委員會中部科學工業園區管理局-台中園區污水處理廠",
                 "TRANSGRESSCONTROLID": "L9506074"

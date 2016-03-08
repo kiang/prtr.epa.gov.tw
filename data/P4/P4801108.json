@@ -5,15 +5,17 @@
         "管制編號": "P4801108",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "王人毅畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "P4801108",
@@ -112,11 +114,40 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "P4801108",
+                "FACILITYNAME": "王人毅畜牧場",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "30-105-020004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/15",
+                "TRANSGRESSDATE": "2015\/11\/05",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 8000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-02-28",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "王人毅畜牧場",
+                "TRANSGRESSCONTROLID": "P4801108"
+            },
             {
                 "REGISTRATIONNO": "P4801108",
                 "FACILITYNAME": "王人毅畜牧場",

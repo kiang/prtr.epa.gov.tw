@@ -841,7 +841,9 @@
                 "EMIITEM4": 0
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "D0301680",
@@ -4078,8 +4080,12 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
         "GREENHOUSE": [
             {
                 "REGISTRATIONNO": "D0301680",
@@ -4098,6 +4104,8 @@
                 "RPT_TYPE": "GREENHOUSE"
             }
         ],
-        "PENALTY": []
+        "PENALTY": [
+
+        ]
     }
 }

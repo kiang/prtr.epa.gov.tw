@@ -5,15 +5,17 @@
         "管制編號": "S2800451",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "必成牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "S2800451",
@@ -160,10 +162,61 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2800451",
+                "FACILITYNAME": "必成牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "41-105-021662",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/25",
+                "TRANSGRESSDATE": "2015\/11\/26",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 2400,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "必成牧場",
+                "TRANSGRESSCONTROLID": "S2800451"
+            },
+            {
+                "REGISTRATIONNO": "S2800451",
+                "FACILITYNAME": "必成牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-105-010022",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/29",
+                "TRANSGRESSDATE": "2015\/11\/26",
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第16條第1項，水污染防治措施及檢測申報管理辦法第50條第1款，水污染防治措施及檢測申報管理辦法第66條第2項，水污染防治法第18條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "吳志聰即必成畜牧場",
+                "TRANSGRESSCONTROLID": "S2800451"
+            }
+        ]
     }
 }

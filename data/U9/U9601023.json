@@ -5,15 +5,17 @@
         "管制編號": "U9601023",
         "行業別": "大專校院(大專校院)",
         "列管類別": "水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.8942460011858",
         "longitude": "121.543422865438",
+        "latitude": "23.8942460011858",
         "name": "國立東華大學"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "U9601023",
@@ -727,9 +729,9 @@
                 "EMIITEMNAME": "其他含有毒重金屬且超過溶出標準之混合廢棄物",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.1303",
+                "EMIITEMVALUE": "0.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -741,9 +743,9 @@
                 "EMIITEMNAME": "廢油混合物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.0041",
+                "EMIITEMVALUE": "0.0040",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -757,7 +759,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -785,7 +787,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1040",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -797,9 +799,9 @@
                 "EMIITEMNAME": "廢液pH值小(等)於2.0",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.0156",
+                "EMIITEMVALUE": "0.0150",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -811,9 +813,9 @@
                 "EMIITEMNAME": "廢液pH值大(等)於12.5",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.0169",
+                "EMIITEMVALUE": "0.0170",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -827,7 +829,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1190",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -841,7 +843,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0170",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -855,7 +857,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1190",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -869,7 +871,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -883,7 +885,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0040",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -911,7 +913,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.1310",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -925,7 +927,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1040",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -939,7 +941,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0150",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -953,7 +955,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -967,7 +969,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1190",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -981,7 +983,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0160",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -995,7 +997,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1009,7 +1011,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0170",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1023,7 +1025,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0123",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1037,7 +1039,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0040",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1051,7 +1053,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1040",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3898,9 +3900,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "U9601023",

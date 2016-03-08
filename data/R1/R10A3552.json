@@ -5,15 +5,17 @@
         "管制編號": "R10A3552",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.9797090138103",
         "longitude": "120.254693898919",
+        "latitude": "22.9797090138103",
         "name": "興旺來有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R10A3552",
@@ -1015,7 +1017,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.41",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1029,7 +1031,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "91",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1043,7 +1045,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1057,7 +1059,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1071,7 +1073,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "57",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1085,7 +1087,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1860,10 +1862,37 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "R10A3552",
+                "FACILITYNAME": "興旺來有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-105-010019",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/14",
+                "TRANSGRESSDATE": "2015\/08\/31",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第7條第1項第2款，事業廢棄物貯存清除處理方法及設施標準第11條第2款，事業廢棄物貯存清除處理方法及設施標準第11條第4款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興旺來有限公司",
+                "TRANSGRESSCONTROLID": "R10A3552"
+            },
             {
                 "REGISTRATIONNO": "R10A3552",
                 "FACILITYNAME": "興旺來有限公司",

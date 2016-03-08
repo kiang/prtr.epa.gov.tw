@@ -547,7 +547,9 @@
                 "EMIITEM4": 21.981
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "H4901222",
@@ -2174,8 +2176,12 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
         "GREENHOUSE": [
             {
                 "REGISTRATIONNO": "H4901222",
@@ -2194,6 +2200,8 @@
                 "RPT_TYPE": "GREENHOUSE"
             }
         ],
-        "PENALTY": []
+        "PENALTY": [
+
+        ]
     }
 }

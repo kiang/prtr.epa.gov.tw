@@ -5,15 +5,17 @@
         "管制編號": "R1105678",
         "行業別": "鐵路運輸業(鐵路運輸業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "台灣高速鐵路股份有限公司(高鐵台南車站)"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R1105678",
@@ -615,7 +617,7 @@
                 "CLEANNAME": "生物處理",
                 "EMIITEMVALUE": "16.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -629,7 +631,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "3519",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -643,7 +645,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -657,7 +659,7 @@
                 "CLEANNAME": "生物處理",
                 "EMIITEMVALUE": "8.56",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -671,7 +673,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -685,7 +687,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "2942",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -699,7 +701,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -713,7 +715,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "2789",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -727,7 +729,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "2391",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -741,7 +743,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -769,7 +771,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "2051",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -811,7 +813,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "2583",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -825,7 +827,7 @@
                 "CLEANNAME": "生物處理",
                 "EMIITEMVALUE": "2583",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -839,7 +841,7 @@
                 "CLEANNAME": "生物處理",
                 "EMIITEMVALUE": "2595",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -853,7 +855,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "2595",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -895,7 +897,7 @@
                 "CLEANNAME": "生物處理",
                 "EMIITEMVALUE": "2738",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -909,7 +911,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "2738",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1712,31 +1714,16 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "A36097001383",
-                "FACILITYNAME": "台灣高速鐵路股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-101-070003",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/07\/09",
-                "TRANSGRESSDATE": "2012\/05\/21",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
-                "PENALTYMONEY": 80000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "撤銷並另立裁處書",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-07-18",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台灣高速鐵路股份有限公司(高鐵台南車站)",
-                "TRANSGRESSCONTROLID": "R1105678"
-            },
             {
                 "REGISTRATIONNO": "A41097007988",
                 "FACILITYNAME": "台灣高速鐵路股份有限公司",
@@ -1752,6 +1739,27 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-07-18",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣高速鐵路股份有限公司(高鐵台南車站)",
+                "TRANSGRESSCONTROLID": "R1105678"
+            },
+            {
+                "REGISTRATIONNO": "A36097001383",
+                "FACILITYNAME": "台灣高速鐵路股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-101-070003",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/07\/09",
+                "TRANSGRESSDATE": "2012\/05\/21",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 80000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "撤銷並另立裁處書",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "2012-07-18",
                 "INSPECTIONCONDITION": "",

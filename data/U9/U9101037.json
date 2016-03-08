@@ -5,15 +5,17 @@
         "管制編號": "U9101037",
         "行業別": "醫院(醫院)",
         "列管類別": "水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "衛生福利部花蓮醫院"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "U9101037",
@@ -751,7 +753,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -765,7 +767,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.4510",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -779,7 +781,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.22",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -793,7 +795,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1560",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -807,7 +809,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.27",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -821,7 +823,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.53",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -835,7 +837,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "13.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -849,7 +851,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -863,7 +865,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.6180",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -877,7 +879,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -891,7 +893,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1810",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -905,7 +907,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.5450",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -919,7 +921,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.4550",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -933,7 +935,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "13.17",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -947,7 +949,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.4740",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -961,7 +963,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "0.43",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -975,7 +977,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1550",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -989,7 +991,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.5106",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1003,7 +1005,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.41",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -8330,10 +8332,37 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "U9101037",
+                "FACILITYNAME": "衛生福利部花蓮醫院",
+                "COUNTY": "花蓮縣",
+                "COUNTYCODE": "22",
+                "DOCUMENTNO": "40-105-020001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/19",
+                "TRANSGRESSDATE": "2015\/04\/15",
+                "TRANSGRESSLAW": "廢棄物清理法第36條，事業廢棄物貯存清除處理方法及設施標準第12條，事業廢棄物貯存清除處理方法及設施標準第8條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "衛生福利部花蓮醫院",
+                "TRANSGRESSCONTROLID": "U9101037"
+            },
             {
                 "REGISTRATIONNO": "U9101037",
                 "FACILITYNAME": "衛生福利部花蓮醫院",
@@ -8348,8 +8377,8 @@
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
+                "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "衛生福利部花蓮醫院",

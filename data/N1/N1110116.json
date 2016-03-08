@@ -5,31 +5,43 @@
         "管制編號": "N1110116",
         "行業別": "廢棄物清除業(有害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.9759620561242",
         "longitude": "120.562014297604",
+        "latitude": "23.9759620561242",
         "name": "楚原有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "N1110116",
                 "FACILITYNAME": "楚原有限公司",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "44-100-120002",
+                "DOCUMENTNO": "44-100-120003",
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/12\/12",
                 "TRANSGRESSDATE": "2011\/11\/22",
-                "TRANSGRESSLAW": "廢棄物清理法第36條第1項",
+                "TRANSGRESSLAW": "廢棄物清理法第42條",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -46,11 +58,11 @@
                 "FACILITYNAME": "楚原有限公司",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "44-100-120003",
+                "DOCUMENTNO": "44-100-120002",
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/12\/12",
                 "TRANSGRESSDATE": "2011\/11\/22",
-                "TRANSGRESSLAW": "廢棄物清理法第42條",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

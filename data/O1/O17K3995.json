@@ -5,15 +5,17 @@
         "管制編號": "O17K3995",
         "行業別": "餐館業(餐館業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.8068250178968",
         "longitude": "120.975238999997",
+        "latitude": "24.8068250178968",
         "name": "芙洛麗精品飯店股份有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "O17K3995",
@@ -185,7 +187,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.2358",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -199,7 +201,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.2516",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -213,7 +215,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.2363",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -227,7 +229,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.2057",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -241,7 +243,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.2992",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -255,7 +257,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.2346",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -269,7 +271,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.2686",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -283,14 +285,20 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.2975",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "O17K3995",

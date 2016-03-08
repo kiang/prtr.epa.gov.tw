@@ -5,15 +5,17 @@
         "管制編號": "L0412606",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.1316311243615",
         "longitude": "120.712604631765",
+        "latitude": "24.1316311243615",
         "name": "鑫鎮業企業有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L0412606",
@@ -549,7 +551,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -563,7 +565,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -577,7 +579,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "11",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -591,7 +593,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "5",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -605,7 +607,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -619,7 +621,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -633,7 +635,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "5",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -647,7 +649,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:10",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -661,7 +663,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:10",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -675,7 +677,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:10",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -689,7 +691,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -703,7 +705,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -745,7 +747,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -759,7 +761,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -787,7 +789,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -801,7 +803,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -815,7 +817,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -829,7 +831,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -857,7 +859,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -885,7 +887,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1380,9 +1382,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "L0412606",
@@ -1401,48 +1409,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/12\/05 01:01",
                 "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "鑫鎮業企業有限公司",
-                "TRANSGRESSCONTROLID": "L0412606"
-            },
-            {
-                "REGISTRATIONNO": "L0412606",
-                "FACILITYNAME": "鑫鎮業企業有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-104-110015",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/11\/20",
-                "TRANSGRESSDATE": "2015\/09\/22",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第14條",
-                "PENALTYMONEY": 30000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/12\/05 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "鑫鎮業企業有限公司",
-                "TRANSGRESSCONTROLID": "L0412606"
-            },
-            {
-                "REGISTRATIONNO": "L0412606",
-                "FACILITYNAME": "鑫鎮業企業有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "40-104-110015",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/11\/10",
-                "TRANSGRESSDATE": "2015\/09\/22",
-                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第15條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/12\/05 01:01",
-                "IMPROVEDEADLINE": "2015-12-31",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "鑫鎮業企業有限公司",
                 "TRANSGRESSCONTROLID": "L0412606"
@@ -1485,6 +1451,48 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/12\/05 01:01",
                 "IMPROVEDEADLINE": "2015-12-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鑫鎮業企業有限公司",
+                "TRANSGRESSCONTROLID": "L0412606"
+            },
+            {
+                "REGISTRATIONNO": "L0412606",
+                "FACILITYNAME": "鑫鎮業企業有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "40-104-110015",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/10",
+                "TRANSGRESSDATE": "2015\/09\/22",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第15條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "2015-12-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鑫鎮業企業有限公司",
+                "TRANSGRESSCONTROLID": "L0412606"
+            },
+            {
+                "REGISTRATIONNO": "L0412606",
+                "FACILITYNAME": "鑫鎮業企業有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-104-110015",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/20",
+                "TRANSGRESSDATE": "2015\/09\/22",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第14條",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "鑫鎮業企業有限公司",
                 "TRANSGRESSCONTROLID": "L0412606"

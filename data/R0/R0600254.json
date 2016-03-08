@@ -5,16 +5,20 @@
         "管制編號": "R0600254",
         "行業別": "水泥及其製品製造業(預拌混凝土製造業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1295140019031",
         "longitude": "120.472542963905",
+        "latitude": "23.1295140019031",
         "name": "宏源預拌混凝土有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "R0600254",
@@ -54,7 +58,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -899,9 +903,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R0600254",
@@ -992,27 +1002,6 @@
                 "FACILITYNAME": "宏源預拌混凝土有限公司",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "20-101-030004",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/03\/13",
-                "TRANSGRESSDATE": "2012\/02\/03",
-                "TRANSGRESSLAW": "空氣污染防制法第23條第2項，固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第4條第1項第5款，固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第6條第3款，固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第6條第2款",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-05-01",
-                "INSPECTIONCONDITION": "改善完成",
-                "TRANSGRESSNAME": "宏源預拌混凝土有限公司",
-                "TRANSGRESSCONTROLID": "R0600254"
-            },
-            {
-                "REGISTRATIONNO": "R0600254",
-                "FACILITYNAME": "宏源預拌混凝土有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
                 "DOCUMENTNO": "30-101-030021",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/03\/12",
@@ -1026,6 +1015,27 @@
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "2012-05-10",
                 "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宏源預拌混凝土有限公司",
+                "TRANSGRESSCONTROLID": "R0600254"
+            },
+            {
+                "REGISTRATIONNO": "R0600254",
+                "FACILITYNAME": "宏源預拌混凝土有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "20-101-030004",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/03\/13",
+                "TRANSGRESSDATE": "2012\/02\/03",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項，固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第4條第1項第5款，固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第6條第3款，固定污染源逸散性粒狀污染物空氣污染防制設施管理辦法第6條第2款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-05-01",
+                "INSPECTIONCONDITION": "改善完成",
                 "TRANSGRESSNAME": "宏源預拌混凝土有限公司",
                 "TRANSGRESSCONTROLID": "R0600254"
             }

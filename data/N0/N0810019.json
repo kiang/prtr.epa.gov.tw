@@ -5,15 +5,17 @@
         "管制編號": "N0810019",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.0795594640884",
         "longitude": "120.483646084062",
+        "latitude": "24.0795594640884",
         "name": "振昇工業有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "N0810019",
@@ -3858,9 +3860,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "N0810019",
@@ -3919,28 +3927,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "振昇工業有限公司",
-                "TRANSGRESSCONTROLID": "N0810019"
-            },
-            {
-                "REGISTRATIONNO": "N0810019",
-                "FACILITYNAME": "振昇工業有限公司",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
-                "DOCUMENTNO": "30-103-040005",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/04\/25",
-                "TRANSGRESSDATE": "2014\/03\/10",
-                "TRANSGRESSLAW": "水污染防治法第14條第2項，水污染防治法第7條第1項",
-                "PENALTYMONEY": 440000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/12\/05 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "振昇工業有限公司",
@@ -3963,6 +3950,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "2014-05-30",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "振昇工業有限公司",
+                "TRANSGRESSCONTROLID": "N0810019"
+            },
+            {
+                "REGISTRATIONNO": "N0810019",
+                "FACILITYNAME": "振昇工業有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-103-040005",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/04\/25",
+                "TRANSGRESSDATE": "2014\/03\/10",
+                "TRANSGRESSLAW": "水污染防治法第14條第2項，水污染防治法第7條第1項",
+                "PENALTYMONEY": 440000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "振昇工業有限公司",
                 "TRANSGRESSCONTROLID": "N0810019"

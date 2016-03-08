@@ -5,15 +5,17 @@
         "管制編號": "Q6901168",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "空氣污染;水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "蔡明興畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "Q6901168",
@@ -208,10 +210,18 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "Q6901168",
@@ -230,27 +240,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "2015-02-28",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "蔡明興畜牧場",
-                "TRANSGRESSCONTROLID": "Q6901168"
-            },
-            {
-                "REGISTRATIONNO": "Q6901168",
-                "FACILITYNAME": "蔡明興畜牧場",
-                "COUNTY": "嘉義縣",
-                "COUNTYCODE": "17",
-                "DOCUMENTNO": "20-100-020002",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/18",
-                "TRANSGRESSDATE": "2010\/12\/09",
-                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-05-15",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "蔡明興畜牧場",
                 "TRANSGRESSCONTROLID": "Q6901168"

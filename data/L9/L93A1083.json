@@ -5,21 +5,54 @@
         "管制編號": "L93A1083",
         "行業別": "木竹製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.2598393558052",
         "longitude": "120.706849768417",
+        "latitude": "24.2598393558052",
         "name": "高瑋興業股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "L93A1083",
+                "FACILITYNAME": "高瑋興業股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-105-010024",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/21",
+                "TRANSGRESSDATE": "2015\/09\/24",
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "高瑋興業股份有限公司二廠",
+                "TRANSGRESSCONTROLID": "L9304472"
+            },
             {
                 "REGISTRATIONNO": "L93A1083",
                 "FACILITYNAME": "高瑋興業股份有限公司",

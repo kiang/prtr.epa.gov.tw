@@ -5,16 +5,20 @@
         "管制編號": "K77A0223",
         "行業別": "醫療器材及用品製造業(其他醫療器材及用品製造業)",
         "列管類別": "水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.4749760147037",
         "longitude": "120.792683606704",
+        "latitude": "24.4749760147037",
         "name": "太平洋醫材股份有限公司銅鑼一廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "K77A0223",
@@ -54,7 +58,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.37",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.57",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.49",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.32",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.27",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -124,7 +128,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.41",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1277,9 +1281,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "K7701426",
@@ -1303,27 +1313,6 @@
                 "TRANSGRESSCONTROLID": "K77A0223"
             },
             {
-                "REGISTRATIONNO": "K7701426",
-                "FACILITYNAME": "太平洋醫材股份有限公司",
-                "COUNTY": "苗栗縣",
-                "COUNTYCODE": "12",
-                "DOCUMENTNO": "40-101-070022",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/07\/18",
-                "TRANSGRESSDATE": "2012\/01\/06",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "太平洋醫材股份有限公司銅鑼一廠",
-                "TRANSGRESSCONTROLID": "K77A0223"
-            },
-            {
                 "REGISTRATIONNO": "K77A0223",
                 "FACILITYNAME": "太平洋醫材股份有限公司銅鑼一廠",
                 "COUNTY": "苗栗縣",
@@ -1338,6 +1327,27 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "太平洋醫材股份有限公司銅鑼一廠",
+                "TRANSGRESSCONTROLID": "K77A0223"
+            },
+            {
+                "REGISTRATIONNO": "K7701426",
+                "FACILITYNAME": "太平洋醫材股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "40-101-070022",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/07\/18",
+                "TRANSGRESSDATE": "2012\/01\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",

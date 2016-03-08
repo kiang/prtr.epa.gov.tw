@@ -5,11 +5,11 @@
         "管制編號": "M3300633",
         "行業別": "橡膠製品製造業(其他橡膠製品製造業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.925771876214",
         "longitude": "120.665187496225",
+        "latitude": "23.925771876214",
         "name": "鑫永銓股份有限公司工廠"
     },
     "reports": {
@@ -36,7 +36,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/27",
+                "UPDATETIME": "2016\/02\/27",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -64,7 +64,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/27",
+                "UPDATETIME": "2016\/02\/27",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -92,7 +92,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/27",
+                "UPDATETIME": "2016\/02\/27",
                 "EMIITEM1": null,
                 "EMIITEM2": 0.131,
                 "EMIITEM3": 1.096,
@@ -120,18 +120,30 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/27",
+                "UPDATETIME": "2016\/02\/27",
                 "EMIITEM1": null,
                 "EMIITEM2": 0.131,
                 "EMIITEM3": 1.1,
                 "EMIITEM4": 0.617
             }
         ],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

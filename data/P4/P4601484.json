@@ -5,15 +5,17 @@
         "管制編號": "P4601484",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.6888378340389",
         "longitude": "120.559033823595",
+        "latitude": "23.6888378340389",
         "name": "六盛牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "P4601484",
@@ -233,7 +235,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -247,7 +249,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -261,7 +263,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -532,9 +534,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "P4601484",
@@ -604,27 +612,6 @@
                 "FACILITYNAME": "六盛牧場",
                 "COUNTY": "雲林縣",
                 "COUNTYCODE": "16",
-                "DOCUMENTNO": "30-101-100001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/10\/02",
-                "TRANSGRESSDATE": "2012\/07\/03",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，水污染防治法第40條",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "撤銷並另立裁處書",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "六盛牧場",
-                "TRANSGRESSCONTROLID": "P4601484"
-            },
-            {
-                "REGISTRATIONNO": "P4601484",
-                "FACILITYNAME": "六盛牧場",
-                "COUNTY": "雲林縣",
-                "COUNTYCODE": "16",
                 "DOCUMENTNO": "30-101-090006",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/09\/07",
@@ -637,6 +624,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "2012-10-06",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "六盛牧場",
+                "TRANSGRESSCONTROLID": "P4601484"
+            },
+            {
+                "REGISTRATIONNO": "P4601484",
+                "FACILITYNAME": "六盛牧場",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "30-101-100001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/10\/02",
+                "TRANSGRESSDATE": "2012\/07\/03",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，水污染防治法第40條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "六盛牧場",
                 "TRANSGRESSCONTROLID": "P4601484"

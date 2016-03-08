@@ -5,20 +5,54 @@
         "管制編號": "N2205089",
         "行業別": "廢棄物清除業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.984910551286",
         "longitude": "120.44590933835",
+        "latitude": "23.984910551286",
         "name": "佳寶盛有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "N2205089",
+                "FACILITYNAME": "佳寶盛有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-105-020001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/15",
+                "TRANSGRESSDATE": "2015\/12\/11",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 31500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "佳寶盛有限公司",
+                "TRANSGRESSCONTROLID": "N2205089"
+            }
+        ]
     }
 }

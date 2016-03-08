@@ -5,38 +5,50 @@
         "管制編號": "P5805726",
         "行業別": "砂、石及黏土採取業(砂、石及黏土採取業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "坊盛實業有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "P5805726",
                 "FACILITYNAME": "坊盛實業有限公司",
                 "COUNTY": "雲林縣",
                 "COUNTYCODE": "16",
-                "DOCUMENTNO": "20-103-120002",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/12\/27",
-                "TRANSGRESSDATE": "2014\/08\/18",
-                "TRANSGRESSLAW": "空氣污染防制法第23條",
+                "DOCUMENTNO": "20-105-020004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/26",
+                "TRANSGRESSDATE": "2015\/08\/12",
+                "TRANSGRESSLAW": "空氣污染防制法第31條第1項",
                 "PENALTYMONEY": 100000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "2015-01-31",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "坊盛實業有限公司",
                 "TRANSGRESSCONTROLID": "P5805726"
@@ -58,6 +70,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "2014-11-14",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "坊盛實業有限公司",
+                "TRANSGRESSCONTROLID": "P5805726"
+            },
+            {
+                "REGISTRATIONNO": "P5805726",
+                "FACILITYNAME": "坊盛實業有限公司",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "20-103-120002",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/12\/27",
+                "TRANSGRESSDATE": "2014\/08\/18",
+                "TRANSGRESSLAW": "空氣污染防制法第23條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2015-01-31",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "坊盛實業有限公司",
                 "TRANSGRESSCONTROLID": "P5805726"

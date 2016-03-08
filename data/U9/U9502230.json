@@ -5,20 +5,32 @@
         "管制編號": "U9502230",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "龍承工程行"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "U9502230",
@@ -109,16 +121,16 @@
                 "FACILITYNAME": "龍承工程行",
                 "COUNTY": "花蓮縣",
                 "COUNTYCODE": "22",
-                "DOCUMENTNO": "44-100-050007",
+                "DOCUMENTNO": "44-100-050002",
                 "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/05\/13",
+                "PENALTYDATE": "2011\/05\/12",
                 "TRANSGRESSDATE": "2011\/03\/21",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "TRANSGRESSLAW": "廢棄物清理法第31條(之1)第2款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
+                "APPEALRESCIND": "資料鍵入錯誤",
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
@@ -130,16 +142,16 @@
                 "FACILITYNAME": "龍承工程行",
                 "COUNTY": "花蓮縣",
                 "COUNTYCODE": "22",
-                "DOCUMENTNO": "44-100-050002",
+                "DOCUMENTNO": "44-100-050007",
                 "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/05\/12",
+                "PENALTYDATE": "2011\/05\/13",
                 "TRANSGRESSDATE": "2011\/03\/21",
-                "TRANSGRESSLAW": "廢棄物清理法第31條(之1)第2款",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "資料鍵入錯誤",
+                "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",

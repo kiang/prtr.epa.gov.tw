@@ -5,16 +5,20 @@
         "管制編號": "Q7104323",
         "行業別": "其他專賣批發業(回收物料批發業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.5525670481486",
         "longitude": "120.347494005982",
+        "latitude": "23.5525670481486",
         "name": "茂盛開發股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "Q7104323",
@@ -2369,9 +2373,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "Q7104323",
@@ -2724,7 +2734,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2012-11-15",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "茂盛開發股份有限公司新港廠",
@@ -2777,27 +2787,6 @@
                 "FACILITYNAME": "茂盛開發股份有限公司",
                 "COUNTY": "嘉義縣",
                 "COUNTYCODE": "17",
-                "DOCUMENTNO": "40-101-050005",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/05\/24",
-                "TRANSGRESSDATE": "2012\/04\/09",
-                "TRANSGRESSLAW": "廢棄物清理法第39條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-06-15",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "茂盛開發股份有限公司新港廠",
-                "TRANSGRESSCONTROLID": "Q7104814"
-            },
-            {
-                "REGISTRATIONNO": "Q7104323",
-                "FACILITYNAME": "茂盛開發股份有限公司",
-                "COUNTY": "嘉義縣",
-                "COUNTYCODE": "17",
                 "DOCUMENTNO": "40-101-050002",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/05\/04",
@@ -2810,6 +2799,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "2012-05-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "茂盛開發股份有限公司新港廠",
+                "TRANSGRESSCONTROLID": "Q7104814"
+            },
+            {
+                "REGISTRATIONNO": "Q7104323",
+                "FACILITYNAME": "茂盛開發股份有限公司",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "40-101-050005",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/05\/24",
+                "TRANSGRESSDATE": "2012\/04\/09",
+                "TRANSGRESSLAW": "廢棄物清理法第39條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "2012-06-15",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "茂盛開發股份有限公司新港廠",
                 "TRANSGRESSCONTROLID": "Q7104814"

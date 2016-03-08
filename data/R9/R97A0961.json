@@ -5,11 +5,11 @@
         "管制編號": "R97A0961",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "空氣污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.20309701455",
         "longitude": "120.326160925794",
+        "latitude": "23.20309701455",
         "name": "柏林股份有限公司官田廠"
     },
     "reports": {
@@ -22,14 +22,16 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 1.207,
                 "EMIITEM3": 0,
                 "EMIITEM4": 0
             }
         ],
-        "WAT": [],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "R97A0961",
@@ -55,7 +57,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -69,7 +71,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -83,7 +85,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -830,31 +832,16 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "E5600467",
-                "FACILITYNAME": "柏林股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "40-104-030031",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/03\/11",
-                "TRANSGRESSDATE": "2015\/01\/21",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
-                "IMPROVEDEADLINE": "2015-06-03",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "柏林股份有限公司官田廠",
-                "TRANSGRESSCONTROLID": "R97A0961"
-            },
             {
                 "REGISTRATIONNO": "E5600467",
                 "FACILITYNAME": "柏林股份有限公司",
@@ -872,6 +859,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:14",
                 "IMPROVEDEADLINE": "2015-07-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "柏林股份有限公司官田廠",
+                "TRANSGRESSCONTROLID": "R97A0961"
+            },
+            {
+                "REGISTRATIONNO": "E5600467",
+                "FACILITYNAME": "柏林股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-104-030031",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/03\/11",
+                "TRANSGRESSDATE": "2015\/01\/21",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-06-03",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "柏林股份有限公司官田廠",
                 "TRANSGRESSCONTROLID": "R97A0961"

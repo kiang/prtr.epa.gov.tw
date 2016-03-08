@@ -5,15 +5,17 @@
         "管制編號": "T5006636",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.806251194418",
         "longitude": "120.499213262583",
+        "latitude": "22.806251194418",
         "name": "傑生工業股份有限公司屏東二廠"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "T5006636",
@@ -305,7 +307,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.08",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -347,7 +349,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "7",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -375,7 +377,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.08",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -431,7 +433,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "7",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -487,7 +489,7 @@
                 "CLEANNAME": "其他最終處理方式",
                 "EMIITEMVALUE": "0.08",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -501,7 +503,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "9",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3530,9 +3532,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "T5006636",
@@ -3560,12 +3568,12 @@
                 "FACILITYNAME": "傑生工業股份有限公司屏東二廠",
                 "COUNTY": "屏東縣",
                 "COUNTYCODE": "20",
-                "DOCUMENTNO": "30-102-070018",
+                "DOCUMENTNO": "40-102-070011",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/07\/25",
                 "TRANSGRESSDATE": "2013\/06\/13",
-                "TRANSGRESSLAW": "水污染防治法第14條第1項",
-                "PENALTYMONEY": 60000,
+                "TRANSGRESSLAW": "廢棄物清理法第36條",
+                "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -3581,12 +3589,12 @@
                 "FACILITYNAME": "傑生工業股份有限公司屏東二廠",
                 "COUNTY": "屏東縣",
                 "COUNTYCODE": "20",
-                "DOCUMENTNO": "40-102-070011",
+                "DOCUMENTNO": "30-102-070018",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/07\/25",
                 "TRANSGRESSDATE": "2013\/06\/13",
-                "TRANSGRESSLAW": "廢棄物清理法第36條",
-                "PENALTYMONEY": 6000,
+                "TRANSGRESSLAW": "水污染防治法第14條第1項",
+                "PENALTYMONEY": 60000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

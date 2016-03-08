@@ -5,16 +5,20 @@
         "管制編號": "S2012728",
         "行業別": "其他基本金屬製造業(未分類其他基本金屬製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.5719340036808",
         "longitude": "120.431714471755",
+        "latitude": "22.5719340036808",
         "name": "商越金屬工業股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "S2012728",
@@ -26,7 +30,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.0042",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -40,7 +44,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.0007",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +58,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.0056",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.35",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -152,7 +156,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0001",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -180,7 +184,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0070",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -222,7 +226,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0070",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -334,7 +338,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.08",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -1963,21 +1967,27 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S2012728",
                 "FACILITYNAME": "商越金屬工業股份有限公司",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "44-100-030004",
+                "DOCUMENTNO": "44-100-030005",
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/03\/04",
                 "TRANSGRESSDATE": "2010\/11\/26",
-                "TRANSGRESSLAW": "廢棄物清理法第55條",
-                "PENALTYMONEY": 6000,
+                "TRANSGRESSLAW": "廢棄物清理法第53條",
+                "PENALTYMONEY": 60000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -1993,12 +2003,12 @@
                 "FACILITYNAME": "商越金屬工業股份有限公司",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "44-100-030005",
+                "DOCUMENTNO": "44-100-030004",
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/03\/04",
                 "TRANSGRESSDATE": "2010\/11\/26",
-                "TRANSGRESSLAW": "廢棄物清理法第53條",
-                "PENALTYMONEY": 60000,
+                "TRANSGRESSLAW": "廢棄物清理法第55條",
+                "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

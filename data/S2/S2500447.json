@@ -5,15 +5,17 @@
         "管制編號": "S2500447",
         "行業別": "水產處理保藏及其製品製造業(冷凍冷藏水產製造業)",
         "列管類別": "空氣污染;水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.7350731940123",
         "longitude": "120.268636881425",
+        "latitude": "22.7350731940123",
         "name": "東寶冷凍食品股份有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "S2500447",
@@ -688,10 +690,40 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2500447",
+                "FACILITYNAME": "東寶冷凍食品股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "20-105-020024",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/22",
+                "TRANSGRESSDATE": "2016\/01\/23",
+                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第4款",
+                "PENALTYMONEY": 150000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "東寶冷凍食品股份有限公司",
+                "TRANSGRESSCONTROLID": "S2500447"
+            }
+        ]
     }
 }

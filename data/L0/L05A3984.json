@@ -5,11 +5,11 @@
         "管制編號": "L05A3984",
         "行業別": "其他非金屬礦物製品製造業(未分類其他非金屬礦物製品製造業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.0874652024553",
         "longitude": "120.727446194337",
+        "latitude": "24.0874652024553",
         "name": "峰鋼實業有限公司"
     },
     "reports": {
@@ -22,7 +22,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成季登錄確認",
-                "UPDATETIME": "2016\/01\/29",
+                "UPDATETIME": "2016\/02\/28",
                 "EMIITEM1": null,
                 "EMIITEM2": 3.844,
                 "EMIITEM3": 0,
@@ -522,7 +522,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "1529",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -536,7 +536,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "1703",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -550,7 +550,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "1676",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1115,20 +1115,26 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "L05A3984",
                 "FACILITYNAME": "峰鋼實業有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "40-104-110003",
+                "DOCUMENTNO": "40-104-110002",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/11\/03",
                 "TRANSGRESSDATE": "2015\/07\/13",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "TRANSGRESSLAW": "廢棄物清理法第39條第1項",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -1145,11 +1151,11 @@
                 "FACILITYNAME": "峰鋼實業有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "40-104-110002",
+                "DOCUMENTNO": "40-104-110003",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/11\/03",
                 "TRANSGRESSDATE": "2015\/07\/13",
-                "TRANSGRESSLAW": "廢棄物清理法第39條第1項",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -1208,11 +1214,11 @@
                 "FACILITYNAME": "峰鋼實業有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-103-040042",
+                "DOCUMENTNO": "30-103-040041",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/04\/28",
                 "TRANSGRESSDATE": "2014\/03\/27",
-                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第50條，水污染防治法第18條",
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第16條，水污染防治措施及檢測申報管理辦法第66條，水污染防治法第18條",
                 "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -1229,11 +1235,11 @@
                 "FACILITYNAME": "峰鋼實業有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-103-040041",
+                "DOCUMENTNO": "30-103-040042",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/04\/28",
                 "TRANSGRESSDATE": "2014\/03\/27",
-                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第16條，水污染防治措施及檢測申報管理辦法第66條，水污染防治法第18條",
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第50條，水污染防治法第18條",
                 "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

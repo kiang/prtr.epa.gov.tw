@@ -5,15 +5,17 @@
         "管制編號": "R1201139",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "0",
         "longitude": "0",
+        "latitude": "0",
         "name": "保村畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R1201139",
@@ -256,32 +258,19 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "R1201139",
-                "FACILITYNAME": "保村畜牧場",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-103-080011",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/08\/15",
-                "TRANSGRESSDATE": "2014\/06\/27",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第69條",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "保村畜牧場",
-                "TRANSGRESSCONTROLID": "R1201139"
-            },
             {
                 "REGISTRATIONNO": "R1201139",
                 "FACILITYNAME": "保村畜牧場",
@@ -299,6 +288,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "2014-09-05",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "保村畜牧場",
+                "TRANSGRESSCONTROLID": "R1201139"
+            },
+            {
+                "REGISTRATIONNO": "R1201139",
+                "FACILITYNAME": "保村畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-103-080011",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/08\/15",
+                "TRANSGRESSDATE": "2014\/06\/27",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第69條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "保村畜牧場",
                 "TRANSGRESSCONTROLID": "R1201139"

@@ -5,15 +5,17 @@
         "管制編號": "L0401372",
         "行業別": "農藥及環境用藥製造業(農藥及環境用藥製造業)",
         "列管類別": "空氣污染;水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.1071930167495",
         "longitude": "120.728469995279",
+        "latitude": "24.1071930167495",
         "name": "億豐農化廠股份有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L0401372",
@@ -645,7 +647,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0950",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -659,7 +661,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.23",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -673,7 +675,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "22",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -687,7 +689,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0970",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -701,7 +703,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "35",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -715,7 +717,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1960",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -729,7 +731,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0020",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -743,7 +745,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1080",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -757,7 +759,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.2530",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -771,7 +773,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "29",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2708,9 +2710,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "L0401372",
@@ -2738,27 +2746,6 @@
                 "FACILITYNAME": "億豐農化廠股份有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "40-102-120008",
-                "PENALTYYEAR": "2013",
-                "PENALTYDATE": "2013\/12\/27",
-                "TRANSGRESSDATE": "2013\/11\/13",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:12",
-                "IMPROVEDEADLINE": "2014-02-10",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "億豐農化廠股份有限公司",
-                "TRANSGRESSCONTROLID": "L0401372"
-            },
-            {
-                "REGISTRATIONNO": "L0401372",
-                "FACILITYNAME": "億豐農化廠股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
                 "DOCUMENTNO": "30-102-120016",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/12\/30",
@@ -2771,6 +2758,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:12",
                 "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "億豐農化廠股份有限公司",
+                "TRANSGRESSCONTROLID": "L0401372"
+            },
+            {
+                "REGISTRATIONNO": "L0401372",
+                "FACILITYNAME": "億豐農化廠股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "40-102-120008",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/12\/27",
+                "TRANSGRESSDATE": "2013\/11\/13",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2014-02-10",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "億豐農化廠股份有限公司",
                 "TRANSGRESSCONTROLID": "L0401372"

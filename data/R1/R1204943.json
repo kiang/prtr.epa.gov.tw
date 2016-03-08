@@ -5,15 +5,17 @@
         "管制編號": "R1204943",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.9500170017465",
         "longitude": "120.33193992655",
+        "latitude": "22.9500170017465",
         "name": "劦鎰螺絲有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R1204943",
@@ -1297,7 +1299,7 @@
                 "CLEANNAME": "穩定化處理",
                 "EMIITEMVALUE": "0.25",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1311,7 +1313,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.32",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1325,7 +1327,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "27",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1339,7 +1341,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.2550",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1353,7 +1355,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.32",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1367,7 +1369,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "0.2550",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1381,7 +1383,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.32",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1395,7 +1397,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "39",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2576,9 +2578,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R1204943",
@@ -2627,12 +2635,12 @@
                 "FACILITYNAME": "劦鎰螺絲有限公司",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-104-050020",
+                "DOCUMENTNO": "30-104-050021",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/05\/28",
                 "TRANSGRESSDATE": "2015\/04\/01",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第69條第1項",
-                "PENALTYMONEY": 20000,
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第69條第1項，水污染防治法第18條",
+                "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -2648,12 +2656,12 @@
                 "FACILITYNAME": "劦鎰螺絲有限公司",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-104-050021",
+                "DOCUMENTNO": "30-104-050020",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/05\/28",
                 "TRANSGRESSDATE": "2015\/04\/01",
-                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第69條第1項，水污染防治法第18條",
-                "PENALTYMONEY": 10000,
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第69條第1項",
+                "PENALTYMONEY": 20000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

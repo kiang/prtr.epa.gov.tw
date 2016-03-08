@@ -5,15 +5,17 @@
         "管制編號": "N2900801",
         "行業別": "廢（污）水處理業(廢（污）水處理業)",
         "列管類別": "水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.9249014088736",
         "longitude": "120.353976276013",
+        "latitude": "23.9249014088736",
         "name": "經濟部工業局芳苑工業區下水道系統營運中心"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "N2900801",
@@ -1651,7 +1653,7 @@
                 "CLEANNAME": "洗淨處理",
                 "EMIITEMVALUE": "0.0210",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1665,7 +1667,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "106.61",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1679,7 +1681,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "21",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1693,7 +1695,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1707,7 +1709,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1721,7 +1723,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "23",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1735,7 +1737,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "112.42",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1749,7 +1751,7 @@
                 "CLEANNAME": "洗淨處理",
                 "EMIITEMVALUE": "0.0230",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1763,7 +1765,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1777,7 +1779,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "22",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1791,7 +1793,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "109.14",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1805,7 +1807,7 @@
                 "CLEANNAME": "洗淨處理",
                 "EMIITEMVALUE": "0.0220",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -3798,9 +3800,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "N2900801",
@@ -3816,8 +3824,8 @@
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "經濟部工業局芳苑工業區下水道系統營運中心",
@@ -3880,10 +3888,31 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2014-05-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "經濟部工業局芳苑工業區下水道系統營運中心",
+                "TRANSGRESSCONTROLID": "N2900801"
+            },
+            {
+                "REGISTRATIONNO": "A35097012894",
+                "FACILITYNAME": "經濟部工業局",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-101-080011",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/08\/21",
+                "TRANSGRESSDATE": "2012\/05\/01",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "自行撤銷",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "經濟部工業局芳苑工業區服務中心",
                 "TRANSGRESSCONTROLID": "N2900801"
             },
             {
@@ -3924,27 +3953,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "2012-10-30",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "經濟部工業局芳苑工業區服務中心",
-                "TRANSGRESSCONTROLID": "N2900801"
-            },
-            {
-                "REGISTRATIONNO": "A35097012894",
-                "FACILITYNAME": "經濟部工業局",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
-                "DOCUMENTNO": "30-101-080011",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/08\/21",
-                "TRANSGRESSDATE": "2012\/05\/01",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項",
-                "PENALTYMONEY": 200000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "自行撤銷",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "經濟部工業局芳苑工業區服務中心",
                 "TRANSGRESSCONTROLID": "N2900801"

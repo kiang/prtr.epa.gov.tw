@@ -5,16 +5,20 @@
         "管制編號": "R9700755",
         "行業別": "其他基本金屬製造業(未分類其他基本金屬製造業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.2074700013534",
         "longitude": "120.322492923723",
+        "latitude": "23.2074700013534",
         "name": "廣泰金屬工業股份有限公司官田廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "R9700755",
@@ -40,7 +44,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "9.76",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -54,7 +58,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "17",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "10.74",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1935,31 +1939,16 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "D97100000238",
-                "FACILITYNAME": "廣泰金屬工業股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "40-102-020035",
-                "PENALTYYEAR": "2013",
-                "PENALTYDATE": "2013\/02\/23",
-                "TRANSGRESSDATE": "2013\/01\/07",
-                "TRANSGRESSLAW": "廢棄物清理法第36條",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:12",
-                "IMPROVEDEADLINE": "2013-03-22",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "廣泰金屬工業股份有限公司官田廠",
-                "TRANSGRESSCONTROLID": "R9700755"
-            },
             {
                 "REGISTRATIONNO": "D97100000238",
                 "FACILITYNAME": "廣泰金屬工業股份有限公司",
@@ -1978,6 +1967,27 @@
                 "UPDATETIME": "2015\/11\/19 09:12",
                 "IMPROVEDEADLINE": "2013-05-28",
                 "INSPECTIONCONDITION": "改善完成",
+                "TRANSGRESSNAME": "廣泰金屬工業股份有限公司官田廠",
+                "TRANSGRESSCONTROLID": "R9700755"
+            },
+            {
+                "REGISTRATIONNO": "D97100000238",
+                "FACILITYNAME": "廣泰金屬工業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-102-020035",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/02\/23",
+                "TRANSGRESSDATE": "2013\/01\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第36條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "2013-03-22",
+                "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "廣泰金屬工業股份有限公司官田廠",
                 "TRANSGRESSCONTROLID": "R9700755"
             }

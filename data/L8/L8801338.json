@@ -5,15 +5,17 @@
         "管制編號": "L8801338",
         "行業別": "廢（污）水處理業(廢（污）水處理業)",
         "列管類別": "水污染;廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.4120375023624",
         "longitude": "120.645557289351",
+        "latitude": "24.4120375023624",
         "name": "經濟部工業局大甲幼獅工業區服務中心污水處理廠"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L8801338",
@@ -1481,7 +1483,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "184.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1495,7 +1497,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "202.8220",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1509,7 +1511,7 @@
                 "CLEANNAME": "掩埋",
                 "EMIITEMVALUE": "239.7160",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2074,31 +2076,16 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "B88100000946",
-                "FACILITYNAME": "經濟部工業局大甲幼獅工業區服務中心",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-103-080022",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/08\/14",
-                "TRANSGRESSDATE": "2014\/06\/24",
-                "TRANSGRESSLAW": "水污染防治法第19條",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "是",
-                "PETITIONAGENCY": "地方審議機關",
-                "PETITIONRESULTS": "訴願駁回",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "經濟部工業局大甲幼獅工業區服務中心污水處理廠",
-                "TRANSGRESSCONTROLID": "L8801338"
-            },
             {
                 "REGISTRATIONNO": "L8801338",
                 "FACILITYNAME": "經濟部工業局大甲幼獅工業區服務中心污水處理廠",
@@ -2115,6 +2102,27 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "撤銷並另立裁處書",
                 "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "經濟部工業局大甲幼獅工業區服務中心污水處理廠",
+                "TRANSGRESSCONTROLID": "L8801338"
+            },
+            {
+                "REGISTRATIONNO": "B88100000946",
+                "FACILITYNAME": "經濟部工業局大甲幼獅工業區服務中心",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-103-080022",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/08\/14",
+                "TRANSGRESSDATE": "2014\/06\/24",
+                "TRANSGRESSLAW": "水污染防治法第19條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "經濟部工業局大甲幼獅工業區服務中心污水處理廠",

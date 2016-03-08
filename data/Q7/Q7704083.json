@@ -5,21 +5,54 @@
         "管制編號": "Q7704083",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.4341210151913",
         "longitude": "120.39573494686",
+        "latitude": "23.4341210151913",
         "name": "進成環保服務有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "Q7704083",
+                "FACILITYNAME": "進成環保服務有限公司",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "20-105-010002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/30",
+                "TRANSGRESSDATE": "2015\/11\/24",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第1項，空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-04-29",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "進成環保服務有限公司",
+                "TRANSGRESSCONTROLID": "Q7704083"
+            },
             {
                 "REGISTRATIONNO": "Q7704083",
                 "FACILITYNAME": "進成環保服務有限公司",

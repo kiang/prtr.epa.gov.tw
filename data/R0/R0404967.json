@@ -5,15 +5,17 @@
         "管制編號": "R0404967",
         "行業別": "廢棄物處理業(無害廢棄物處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.0955960049662",
         "longitude": "120.233392075037",
+        "latitude": "23.0955960049662",
         "name": "臺南市政府(所屬安定區域性聯合滲出水集中處理廠)"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R0404967",
@@ -480,21 +482,29 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "D3104754",
                 "FACILITYNAME": "臺南市政府環境保護局",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-103-030017",
+                "DOCUMENTNO": "30-103-030016",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/03\/27",
                 "TRANSGRESSDATE": "2013\/01\/18",
-                "TRANSGRESSLAW": "水污染防治法第18條，事業或污水下水道系統廢(污)水檢測申報管理辦法第50條",
+                "TRANSGRESSLAW": "水污染防治法第18條，事業或污水下水道系統廢(污)水檢測申報管理辦法第66條第2項，事業或污水下水道系統廢(污)水檢測申報管理辦法第50條",
                 "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -511,11 +521,11 @@
                 "FACILITYNAME": "臺南市政府環境保護局",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-103-030016",
+                "DOCUMENTNO": "30-103-030017",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/03\/27",
                 "TRANSGRESSDATE": "2013\/01\/18",
-                "TRANSGRESSLAW": "水污染防治法第18條，事業或污水下水道系統廢(污)水檢測申報管理辦法第66條第2項，事業或污水下水道系統廢(污)水檢測申報管理辦法第50條",
+                "TRANSGRESSLAW": "水污染防治法第18條，事業或污水下水道系統廢(污)水檢測申報管理辦法第50條",
                 "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

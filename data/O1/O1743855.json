@@ -5,16 +5,20 @@
         "管制編號": "O1743855",
         "行業別": "水泥及其製品製造業(水泥製品製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.7934140178749",
         "longitude": "120.931242999925",
+        "latitude": "24.7934140178749",
         "name": "天九興業股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "O1743855",
@@ -1025,9 +1029,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "O1743855",
@@ -1160,27 +1170,6 @@
                 "FACILITYNAME": "天九興業股份有限公司",
                 "COUNTY": "臺南市",
                 "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-101-030036",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/03\/27",
-                "TRANSGRESSDATE": "2012\/02\/16",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第4條",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "天九興業股份有限公司台南廠",
-                "TRANSGRESSCONTROLID": "R9303247"
-            },
-            {
-                "REGISTRATIONNO": "O1743855",
-                "FACILITYNAME": "天九興業股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
                 "DOCUMENTNO": "40-101-030011",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/03\/27",
@@ -1214,6 +1203,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "2012-05-04",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "天九興業股份有限公司台南廠",
+                "TRANSGRESSCONTROLID": "R9303247"
+            },
+            {
+                "REGISTRATIONNO": "O1743855",
+                "FACILITYNAME": "天九興業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-101-030036",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/03\/27",
+                "TRANSGRESSDATE": "2012\/02\/16",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第4條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "天九興業股份有限公司台南廠",
                 "TRANSGRESSCONTROLID": "R9303247"

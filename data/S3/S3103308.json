@@ -5,15 +5,17 @@
         "管制編號": "S3103308",
         "行業別": "食品、飲料及菸草製品零售業(蔬果零售業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.8864047664953",
         "longitude": "120.186522165689",
+        "latitude": "22.8864047664953",
         "name": "捷利油品實業股份有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "S3103308",
@@ -560,32 +562,19 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "S3103308",
-                "FACILITYNAME": "捷利油品實業股份有限公司",
-                "COUNTY": "高雄市",
-                "COUNTYCODE": "33",
-                "DOCUMENTNO": "30-102-050007",
-                "PENALTYYEAR": "2013",
-                "PENALTYDATE": "2013\/05\/10",
-                "TRANSGRESSDATE": "2013\/03\/14",
-                "TRANSGRESSLAW": "水污染防治法第14條第2項",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:12",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "捷利油品實業股份有限公司",
-                "TRANSGRESSCONTROLID": "S3103308"
-            },
             {
                 "REGISTRATIONNO": "S3103308",
                 "FACILITYNAME": "捷利油品實業股份有限公司",
@@ -601,6 +590,27 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "資料鍵入錯誤",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "捷利油品實業股份有限公司",
+                "TRANSGRESSCONTROLID": "S3103308"
+            },
+            {
+                "REGISTRATIONNO": "S3103308",
+                "FACILITYNAME": "捷利油品實業股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-102-050007",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/05\/10",
+                "TRANSGRESSDATE": "2013\/03\/14",
+                "TRANSGRESSLAW": "水污染防治法第14條第2項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:12",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",

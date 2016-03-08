@@ -5,15 +5,17 @@
         "管制編號": "R87A1074",
         "行業別": "合成樹脂、塑膠及橡膠製造業(合成樹脂及塑膠製造業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.187092014087",
         "longitude": "120.247800896728",
+        "latitude": "23.187092014087",
         "name": "協治塑膠工業有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R87A1074",
@@ -193,7 +195,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "6.62",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -207,7 +209,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "45.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -221,7 +223,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "35.68",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -235,7 +237,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "3.84",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1220,9 +1222,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "R87A1074",
@@ -1239,7 +1247,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "2015-12-31",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "協治塑膠工業有限公司",

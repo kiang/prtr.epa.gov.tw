@@ -5,15 +5,17 @@
         "管制編號": "T4201717",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.6561230141856",
         "longitude": "120.466059962482",
+        "latitude": "22.6561230141856",
         "name": "興傳畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "T4201717",
@@ -208,11 +210,40 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "T4201717",
+                "FACILITYNAME": "興傳畜牧場",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "30-105-020001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/04",
+                "TRANSGRESSDATE": "2015\/09\/26",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 28000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-03-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興傳畜牧場",
+                "TRANSGRESSCONTROLID": "T4201717"
+            },
             {
                 "REGISTRATIONNO": "T4201717",
                 "FACILITYNAME": "興傳畜牧場",
@@ -228,7 +259,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2015-08-30",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "興傳畜牧場",

@@ -5,16 +5,20 @@
         "管制編號": "Q77A0920",
         "行業別": "水泥及其製品製造業(預拌混凝土製造業)",
         "列管類別": "空氣污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.4285053709062",
         "longitude": "120.39807364169",
+        "latitude": "23.4285053709062",
         "name": "福豐預拌混凝土廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "Q77A0920",
@@ -138,7 +142,7 @@
                 "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -152,7 +156,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -166,7 +170,7 @@
                 "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -180,7 +184,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -194,7 +198,7 @@
                 "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -208,7 +212,7 @@
                 "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -222,7 +226,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -236,7 +240,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -250,7 +254,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -264,7 +268,7 @@
                 "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -278,7 +282,7 @@
                 "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -292,7 +296,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -997,10 +1001,58 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "Q77A0920",
+                "FACILITYNAME": "福豐預拌混凝土廠",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "40-105-010009",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/18",
+                "TRANSGRESSDATE": "2015\/07\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第39條第1項",
+                "PENALTYMONEY": 18000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "福豐預拌混凝土廠",
+                "TRANSGRESSCONTROLID": "Q77A0920"
+            },
+            {
+                "REGISTRATIONNO": "Q77A0920",
+                "FACILITYNAME": "福豐預拌混凝土廠",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "40-105-010008",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/18",
+                "TRANSGRESSDATE": "2015\/07\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 18000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "福豐預拌混凝土廠",
+                "TRANSGRESSCONTROLID": "Q77A0920"
+            },
             {
                 "REGISTRATIONNO": "Q77A0920",
                 "FACILITYNAME": "福豐預拌混凝土廠",
@@ -1016,9 +1068,9 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
+                "INSPECTIONCONDITION": "改善完成",
                 "TRANSGRESSNAME": "福豐預拌混凝土廠",
                 "TRANSGRESSCONTROLID": "Q77A0920"
             },
@@ -1039,48 +1091,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/12\/05 01:01",
                 "IMPROVEDEADLINE": "2015-12-25",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "福豐預拌混凝土廠",
-                "TRANSGRESSCONTROLID": "Q77A0920"
-            },
-            {
-                "REGISTRATIONNO": "Q77A0920",
-                "FACILITYNAME": "福豐預拌混凝土廠",
-                "COUNTY": "嘉義縣",
-                "COUNTYCODE": "17",
-                "DOCUMENTNO": "40-104-120004",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/12\/17",
-                "TRANSGRESSDATE": "2015\/07\/24",
-                "TRANSGRESSLAW": "廢棄物清理法第39條第1項",
-                "PENALTYMONEY": 12000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "福豐預拌混凝土廠",
-                "TRANSGRESSCONTROLID": "Q77A0920"
-            },
-            {
-                "REGISTRATIONNO": "Q77A0920",
-                "FACILITYNAME": "福豐預拌混凝土廠",
-                "COUNTY": "嘉義縣",
-                "COUNTYCODE": "17",
-                "DOCUMENTNO": "40-104-090001",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/09\/07",
-                "TRANSGRESSDATE": "2015\/07\/24",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
-                "IMPROVEDEADLINE": "2015-09-30",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "福豐預拌混凝土廠",
                 "TRANSGRESSCONTROLID": "Q77A0920"
@@ -1111,6 +1121,27 @@
                 "FACILITYNAME": "福豐預拌混凝土廠",
                 "COUNTY": "嘉義縣",
                 "COUNTYCODE": "17",
+                "DOCUMENTNO": "40-104-120004",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/12\/17",
+                "TRANSGRESSDATE": "2015\/07\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第39條第1項",
+                "PENALTYMONEY": 12000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "其他-複查未改善完成，以陳述編號401040800002直接裁處。",
+                "TRANSGRESSNAME": "福豐預拌混凝土廠",
+                "TRANSGRESSCONTROLID": "Q77A0920"
+            },
+            {
+                "REGISTRATIONNO": "Q77A0920",
+                "FACILITYNAME": "福豐預拌混凝土廠",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
                 "DOCUMENTNO": "40-104-120005",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/12\/17",
@@ -1121,8 +1152,29 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "其他-複查未改善完成，以陳述編號401040800001直接裁處。",
+                "TRANSGRESSNAME": "福豐預拌混凝土廠",
+                "TRANSGRESSCONTROLID": "Q77A0920"
+            },
+            {
+                "REGISTRATIONNO": "Q77A0920",
+                "FACILITYNAME": "福豐預拌混凝土廠",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "40-104-090001",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/09\/07",
+                "TRANSGRESSDATE": "2015\/07\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-09-30",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "福豐預拌混凝土廠",
                 "TRANSGRESSCONTROLID": "Q77A0920"

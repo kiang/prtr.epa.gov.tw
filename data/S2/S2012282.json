@@ -5,21 +5,54 @@
         "管制編號": "S2012282",
         "行業別": "其他非金屬礦物製品製造業(未分類其他非金屬礦物製品製造業)",
         "列管類別": "空氣污染;水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.5805556877767",
         "longitude": "120.431176073687",
+        "latitude": "22.5805556877767",
         "name": "晉瑜企業股份有限公司高雄廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2012282",
+                "FACILITYNAME": "晉瑜企業股份有限公司高雄廠",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "20-105-010007",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/05",
+                "TRANSGRESSDATE": "2015\/12\/08",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-01-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "晉瑜企業股份有限公司高雄廠",
+                "TRANSGRESSCONTROLID": "S2012282"
+            },
             {
                 "REGISTRATIONNO": "S2012282",
                 "FACILITYNAME": "晉瑜企業股份有限公司高雄廠",

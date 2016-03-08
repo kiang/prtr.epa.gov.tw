@@ -5,15 +5,17 @@
         "管制編號": "S1601472",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.8106732185239",
         "longitude": "120.259523399268",
+        "latitude": "22.8106732185239",
         "name": "義鴻畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "S1601472",
@@ -160,11 +162,40 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "S1601472",
+                "FACILITYNAME": "義鴻畜牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-101-030007",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/03\/20",
+                "TRANSGRESSDATE": "2012\/02\/09",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第53條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "環保署訴願會",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "義鴻畜牧場",
+                "TRANSGRESSCONTROLID": "S1601472"
+            },
             {
                 "REGISTRATIONNO": "S1601472",
                 "FACILITYNAME": "義鴻畜牧場",
@@ -180,7 +211,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "義鴻畜牧場",
@@ -201,28 +232,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "義鴻畜牧場",
-                "TRANSGRESSCONTROLID": "S1601472"
-            },
-            {
-                "REGISTRATIONNO": "S1601472",
-                "FACILITYNAME": "義鴻畜牧場",
-                "COUNTY": "高雄市",
-                "COUNTYCODE": "33",
-                "DOCUMENTNO": "30-101-030007",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/03\/20",
-                "TRANSGRESSDATE": "2012\/02\/09",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第53條",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "是",
-                "PETITIONAGENCY": "環保署訴願會",
-                "PETITIONRESULTS": "訴願駁回",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "義鴻畜牧場",

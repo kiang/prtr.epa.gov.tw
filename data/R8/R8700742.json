@@ -1,19 +1,21 @@
 {
     "info": {
-        "地址": "臺南市麻豆區磚井里磚子井一一之四號",
+        "地址": "臺南市麻豆區磚子井段１３０地號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "R8700742",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1416985187895",
-        "longitude": "120.251272799346",
+        "longitude": "120.251272697359",
+        "latitude": "23.1416985013054",
         "name": "李順章畜牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R8700742",
@@ -256,10 +258,40 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "R8700742",
+                "FACILITYNAME": "李順章畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-020006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/19",
+                "TRANSGRESSDATE": "2015\/08\/18",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條，水污染防治措施及檢測申報管理辦法第52條第1項，水污染防治法第73條第8款，水污染防治法第18條(之1)第1項",
+                "PENALTYMONEY": 16003,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "2016-03-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "李順章畜牧場",
+                "TRANSGRESSCONTROLID": "R8700742"
+            }
+        ]
     }
 }

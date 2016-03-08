@@ -5,20 +5,32 @@
         "管制編號": "O1795377",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.8000300178857",
         "longitude": "120.965276999991",
+        "latitude": "24.8000300178857",
         "name": "舒樂服務股份有限公司新竹分公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "O1795377",
@@ -340,27 +352,6 @@
                 "FACILITYNAME": "舒樂服務股份有限公司新竹分公司",
                 "COUNTY": "新竹市",
                 "COUNTYCODE": "4",
-                "DOCUMENTNO": "50-103-070001",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/07\/25",
-                "TRANSGRESSDATE": "2014\/06\/11",
-                "TRANSGRESSLAW": "環境教育法第23條",
-                "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "O1795377",
-                "FACILITYNAME": "舒樂服務股份有限公司新竹分公司",
-                "COUNTY": "新竹市",
-                "COUNTYCODE": "4",
                 "DOCUMENTNO": "44-103-070001",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/07\/09",
@@ -376,6 +367,27 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "舒樂服務股份有限公司新竹分公司",
                 "TRANSGRESSCONTROLID": "O1795377"
+            },
+            {
+                "REGISTRATIONNO": "O1795377",
+                "FACILITYNAME": "舒樂服務股份有限公司新竹分公司",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "50-103-070001",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/07\/25",
+                "TRANSGRESSDATE": "2014\/06\/11",
+                "TRANSGRESSLAW": "環境教育法第23條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
             },
             {
                 "REGISTRATIONNO": "O1795377",

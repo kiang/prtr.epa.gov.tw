@@ -5,16 +5,20 @@
         "管制編號": "N0809990",
         "行業別": "基本化學材料製造業(基本化學材料製造業)",
         "列管類別": "空氣污染;水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.0618066144266",
         "longitude": "120.390476037304",
+        "latitude": "24.0618066144266",
         "name": "寶旺環保科技股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "N0809990",
@@ -54,7 +58,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "1.55",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "323.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "1.75",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "365.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "固化處理",
                 "EMIITEMVALUE": "1.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -124,7 +128,7 @@
                 "CLEANNAME": "廠內廢(污)水處理設施處理",
                 "EMIITEMVALUE": "329.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1207,9 +1211,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "N0809990",
@@ -1279,27 +1289,6 @@
                 "FACILITYNAME": "寶旺環保科技股份有限公司",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "40-103-020014",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/02\/06",
-                "TRANSGRESSDATE": "2013\/11\/08",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "寶旺環保科技股份有限公司",
-                "TRANSGRESSCONTROLID": "N0809990"
-            },
-            {
-                "REGISTRATIONNO": "N0809990",
-                "FACILITYNAME": "寶旺環保科技股份有限公司",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
                 "DOCUMENTNO": "40-103-020018",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/02\/10",
@@ -1321,10 +1310,10 @@
                 "FACILITYNAME": "寶旺環保科技股份有限公司",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "40-103-010009",
+                "DOCUMENTNO": "40-103-020014",
                 "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/01\/07",
-                "TRANSGRESSDATE": "2013\/11\/07",
+                "PENALTYDATE": "2014\/02\/06",
+                "TRANSGRESSDATE": "2013\/11\/08",
                 "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
                 "PENALTYMONEY": 60000,
                 "ISPETITION": "否",
@@ -1354,6 +1343,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "2014-02-13",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "寶旺環保科技股份有限公司",
+                "TRANSGRESSCONTROLID": "N0809990"
+            },
+            {
+                "REGISTRATIONNO": "N0809990",
+                "FACILITYNAME": "寶旺環保科技股份有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "40-103-010009",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/01\/07",
+                "TRANSGRESSDATE": "2013\/11\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "寶旺環保科技股份有限公司",
                 "TRANSGRESSCONTROLID": "N0809990"
@@ -1426,27 +1436,6 @@
                 "FACILITYNAME": "寶旺環保科技股份有限公司",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "40-100-110016",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/11\/19",
-                "TRANSGRESSDATE": "2011\/11\/08",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "自行撤銷",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "寶旺環保科技股份有限公司",
-                "TRANSGRESSCONTROLID": "N0809990"
-            },
-            {
-                "REGISTRATIONNO": "N0809990",
-                "FACILITYNAME": "寶旺環保科技股份有限公司",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
                 "DOCUMENTNO": "30-100-120006",
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/12\/12",
@@ -1459,6 +1448,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "2012-01-13",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "寶旺環保科技股份有限公司",
+                "TRANSGRESSCONTROLID": "N0809990"
+            },
+            {
+                "REGISTRATIONNO": "N0809990",
+                "FACILITYNAME": "寶旺環保科技股份有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "40-100-110016",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/11\/19",
+                "TRANSGRESSDATE": "2011\/11\/08",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "自行撤銷",
+                "UPDATETIME": "2015\/11\/19 09:09",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "寶旺環保科技股份有限公司",
                 "TRANSGRESSCONTROLID": "N0809990"

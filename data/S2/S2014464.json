@@ -5,16 +5,20 @@
         "管制編號": "S2014464",
         "行業別": "皮革、毛皮及其製品製造業(皮革、毛皮整製業)",
         "列管類別": "空氣污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.6415680139385",
         "longitude": "120.388414943593",
+        "latitude": "22.6415680139385",
         "name": "連順皮革股份有限公司二廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "S2014464",
@@ -59,21 +63,27 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S2014464",
                 "FACILITYNAME": "連順皮革股份有限公司二廠",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "40-104-040022",
+                "DOCUMENTNO": "30-104-040009",
                 "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/04\/10",
+                "PENALTYDATE": "2015\/04\/20",
                 "TRANSGRESSDATE": "2014\/11\/20",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
-                "PENALTYMONEY": 6000,
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -89,12 +99,12 @@
                 "FACILITYNAME": "連順皮革股份有限公司二廠",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "30-104-040009",
+                "DOCUMENTNO": "40-104-040022",
                 "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/04\/20",
+                "PENALTYDATE": "2015\/04\/10",
                 "TRANSGRESSDATE": "2014\/11\/20",
-                "TRANSGRESSLAW": "水污染防治法第20條第1項",
-                "PENALTYMONEY": 30000,
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

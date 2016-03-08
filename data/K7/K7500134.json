@@ -5,15 +5,17 @@
         "管制編號": "K7500134",
         "行業別": "醫院(醫院)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.4224008332528",
         "longitude": "120.867564232759",
+        "latitude": "24.4224008332528",
         "name": "大順醫院"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "K7500134",
@@ -489,7 +491,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1250",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -503,7 +505,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1580",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:09",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -517,7 +519,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.1250",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1502,31 +1504,16 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "K7500134",
-                "FACILITYNAME": "大順醫院",
-                "COUNTY": "苗栗縣",
-                "COUNTYCODE": "12",
-                "DOCUMENTNO": "40-100-020004",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/18",
-                "TRANSGRESSDATE": "2010\/12\/29",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "大順醫院",
-                "TRANSGRESSCONTROLID": "K7500134"
-            },
             {
                 "REGISTRATIONNO": "K7500134",
                 "FACILITYNAME": "大順醫院",

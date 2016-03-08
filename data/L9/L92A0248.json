@@ -5,15 +5,17 @@
         "管制編號": "L92A0248",
         "行業別": "廢（污）水處理業(廢（污）水處理業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.3216362433537",
         "longitude": "120.723635081429",
+        "latitude": "24.3216362433537",
         "name": "科技部中部科學工業園區管理局-后里園區污水處理廠"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "L92A0248",
@@ -2203,7 +2205,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "36.61",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2217,7 +2219,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0045",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2231,7 +2233,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0246",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2245,7 +2247,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2259,7 +2261,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "0.001299",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/12\/20 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2273,7 +2275,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "0.001325",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2287,7 +2289,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2301,7 +2303,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0045",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2315,7 +2317,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0335",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2329,7 +2331,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "19.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:01",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2343,7 +2345,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "0.004813",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2357,7 +2359,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "5",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2371,7 +2373,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.23",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2385,7 +2387,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0018",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2399,7 +2401,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "34",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -2413,7 +2415,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.0267",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:12",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -4994,9 +4996,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "L92A0248",
@@ -5055,7 +5063,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
@@ -5076,7 +5084,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-16",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "行政院國家科學委員會中部科學工業園區管理局(后里園區污水處理廠)",
@@ -5097,7 +5105,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
@@ -5118,7 +5126,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
@@ -5139,7 +5147,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
@@ -5160,7 +5168,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
@@ -5181,7 +5189,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
@@ -5202,7 +5210,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
@@ -5223,29 +5231,8 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-03",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
-                "TRANSGRESSCONTROLID": "L92A0248"
-            },
-            {
-                "REGISTRATIONNO": "B23097001254",
-                "FACILITYNAME": "行政院國家科學委員會中部科學工業園區管理局",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-100-120013",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/12\/23",
-                "TRANSGRESSDATE": "2011\/04\/01",
-                "TRANSGRESSLAW": "水污染防治法第30條第1項第2款",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "是",
-                "PETITIONAGENCY": "地方審議機關",
-                "PETITIONRESULTS": "實體撤銷",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
-                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
                 "TRANSGRESSCONTROLID": "L92A0248"
@@ -5265,8 +5252,29 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-04-02",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
+                "TRANSGRESSCONTROLID": "L92A0248"
+            },
+            {
+                "REGISTRATIONNO": "B23097001254",
+                "FACILITYNAME": "行政院國家科學委員會中部科學工業園區管理局",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-100-120013",
+                "PENALTYYEAR": "2011",
+                "PENALTYDATE": "2011\/12\/23",
+                "TRANSGRESSDATE": "2011\/04\/01",
+                "TRANSGRESSLAW": "水污染防治法第30條第1項第2款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "實體撤銷",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中部科學工業園區后里園區污水處理廠",
                 "TRANSGRESSCONTROLID": "L92A0248"

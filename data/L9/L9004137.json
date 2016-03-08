@@ -5,20 +5,54 @@
         "管制編號": "L9004137",
         "行業別": "燃料零售業(加油（氣）站業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.240036301214",
         "longitude": "120.56442834241",
+        "latitude": "24.240036301214",
         "name": "巨業交通股份有限公司-巨業加油站"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "L9004137",
+                "FACILITYNAME": "巨業交通股份有限公司-巨業加油站",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "41-105-010358",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/27",
+                "TRANSGRESSDATE": "2015\/10\/26",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "巨業交通股份有限公司-巨業加油站",
+                "TRANSGRESSCONTROLID": "L9004137"
+            }
+        ]
     }
 }

@@ -5,16 +5,20 @@
         "管制編號": "T44A0704",
         "行業別": "娛樂及休閒服務業(遊樂園及主題樂園)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.4492580139015",
         "longitude": "120.479990965134",
+        "latitude": "22.4492580139015",
         "name": "大鵬灣國際開發股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "T44A0704",
@@ -54,7 +58,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "21.45",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "2807",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "19.42",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "2524",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "15.36",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -124,7 +128,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "1426",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -138,7 +142,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "2309",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -152,7 +156,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "9.44",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -194,7 +198,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "4.12",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -955,9 +959,15 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "T44A0704",
@@ -985,27 +995,6 @@
                 "FACILITYNAME": "大鵬灣國際開發股份有限公司",
                 "COUNTY": "督察總隊",
                 "COUNTYCODE": "90",
-                "DOCUMENTNO": "10-103-010002",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/01\/08",
-                "TRANSGRESSDATE": "2013\/09\/06",
-                "TRANSGRESSLAW": "環境影響評估法第17條",
-                "PENALTYMONEY": 300000,
-                "ISPETITION": "是",
-                "PETITIONAGENCY": "行政院訴願會",
-                "PETITIONRESULTS": "訴願駁回",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
-                "IMPROVEDEADLINE": "2014-04-30",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "交通部觀光局大鵬灣國家風景區管理處",
-                "TRANSGRESSCONTROLID": "T44097000144"
-            },
-            {
-                "REGISTRATIONNO": "T44A0704",
-                "FACILITYNAME": "大鵬灣國際開發股份有限公司",
-                "COUNTY": "督察總隊",
-                "COUNTYCODE": "90",
                 "DOCUMENTNO": "10-103-010001",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/01\/07",
@@ -1017,6 +1006,27 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "案件廢止",
                 "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-04-30",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "交通部觀光局大鵬灣國家風景區管理處",
+                "TRANSGRESSCONTROLID": "T44097000144"
+            },
+            {
+                "REGISTRATIONNO": "T44A0704",
+                "FACILITYNAME": "大鵬灣國際開發股份有限公司",
+                "COUNTY": "督察總隊",
+                "COUNTYCODE": "90",
+                "DOCUMENTNO": "10-103-010002",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/01\/08",
+                "TRANSGRESSDATE": "2013\/09\/06",
+                "TRANSGRESSLAW": "環境影響評估法第17條",
+                "PENALTYMONEY": 300000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "行政院訴願會",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2014-04-30",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "交通部觀光局大鵬灣國家風景區管理處",

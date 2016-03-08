@@ -5,15 +5,17 @@
         "管制編號": "R9701912",
         "行業別": "娛樂及休閒服務業(遊樂園及主題樂園)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1686910023353",
         "longitude": "120.367201938343",
+        "latitude": "23.1686910023353",
         "name": "嘉南開發事業股份有限公司"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "R9701912",
@@ -272,32 +274,19 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "R9701912",
-                "FACILITYNAME": "嘉南開發事業股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-104-090011",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/09\/17",
-                "TRANSGRESSDATE": "2015\/06\/12",
-                "TRANSGRESSLAW": "水污染防治法第20條第1項",
-                "PENALTYMONEY": 30000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/12\/05 01:01",
-                "IMPROVEDEADLINE": "2015-10-30",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "嘉南開發事業股份有限公司",
-                "TRANSGRESSCONTROLID": "R9701912"
-            },
             {
                 "REGISTRATIONNO": "R9701912",
                 "FACILITYNAME": "嘉南開發事業股份有限公司",
@@ -315,6 +304,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:14",
                 "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "嘉南開發事業股份有限公司",
+                "TRANSGRESSCONTROLID": "R9701912"
+            },
+            {
+                "REGISTRATIONNO": "R9701912",
+                "FACILITYNAME": "嘉南開發事業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-104-090011",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/09\/17",
+                "TRANSGRESSDATE": "2015\/06\/12",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "2015-10-30",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "嘉南開發事業股份有限公司",
                 "TRANSGRESSCONTROLID": "R9701912"

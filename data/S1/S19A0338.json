@@ -5,15 +5,17 @@
         "管制編號": "S19A0338",
         "行業別": "食品、飲料及菸草製品零售業(蔬果零售業)",
         "列管類別": "空氣污染;水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.5154234616894",
         "longitude": "120.395563743342",
+        "latitude": "22.5154234616894",
         "name": "山隆通運股份有限公司-山隆林園站"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "S19A0338",
@@ -560,10 +562,18 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S19A0338",
@@ -580,7 +590,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/03\/06 01:00",
                 "IMPROVEDEADLINE": "2011-03-31",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "山隆通運股份有限公司-山隆林園站",

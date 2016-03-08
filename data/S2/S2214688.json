@@ -5,20 +5,32 @@
         "管制編號": "S2214688",
         "行業別": "貨運承攬業",
         "列管類別": "廢棄物;毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.7140708178014",
         "longitude": "120.336481955354",
+        "latitude": "22.7140708178014",
         "name": "台灣通運倉儲股份有限公司高雄分公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S2214688",
@@ -220,27 +232,6 @@
                 "TRANSGRESSDATE": "2011\/10\/19",
                 "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
                 "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台灣通運倉儲股份有限公司高雄分公司",
-                "TRANSGRESSCONTROLID": "S2214688"
-            },
-            {
-                "REGISTRATIONNO": "S2214688",
-                "FACILITYNAME": "台灣通運倉儲股份有限公司高雄分公司",
-                "COUNTY": "高雄市",
-                "COUNTYCODE": "33",
-                "DOCUMENTNO": "21-100-020008",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/02\/11",
-                "TRANSGRESSDATE": "2011\/01\/05",
-                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
-                "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

@@ -5,16 +5,20 @@
         "管制編號": "U9502105",
         "行業別": "石材製品製造業(石材製品製造業)",
         "列管類別": "水污染;廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.9281778471059",
         "longitude": "121.591424820781",
+        "latitude": "23.9281778471059",
         "name": "名翔石業股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "U9502105",
@@ -54,7 +58,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "3",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -68,7 +72,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "35",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -82,7 +86,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:05",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -96,7 +100,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "4",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/26 09:03",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -110,7 +114,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "9",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -124,7 +128,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/25 09:13",
+                "UPDATETIME": "2016\/02\/27 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1081,10 +1085,37 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "U9502105",
+                "FACILITYNAME": "名翔石業股份有限公司",
+                "COUNTY": "花蓮縣",
+                "COUNTYCODE": "22",
+                "DOCUMENTNO": "40-103-020002",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/03\/17",
+                "TRANSGRESSDATE": "2012\/04\/10",
+                "TRANSGRESSLAW": "廢棄物清理法第28條第1項第3款",
+                "PENALTYMONEY": 12000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "資料鍵入錯誤",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "名翔石業股份有限公司",
+                "TRANSGRESSCONTROLID": "U9502105"
+            },
             {
                 "REGISTRATIONNO": "U9502105",
                 "FACILITYNAME": "名翔石業股份有限公司",
@@ -1116,27 +1147,6 @@
                 "PENALTYDATE": "2014\/03\/17",
                 "TRANSGRESSDATE": "2012\/04\/10",
                 "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 12000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "資料鍵入錯誤",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "名翔石業股份有限公司",
-                "TRANSGRESSCONTROLID": "U9502105"
-            },
-            {
-                "REGISTRATIONNO": "U9502105",
-                "FACILITYNAME": "名翔石業股份有限公司",
-                "COUNTY": "花蓮縣",
-                "COUNTYCODE": "22",
-                "DOCUMENTNO": "40-103-020002",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/03\/17",
-                "TRANSGRESSDATE": "2012\/04\/10",
-                "TRANSGRESSLAW": "廢棄物清理法第28條第1項第3款",
                 "PENALTYMONEY": 12000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

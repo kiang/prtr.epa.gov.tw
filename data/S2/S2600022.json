@@ -5,31 +5,43 @@
         "管制編號": "S2600022",
         "行業別": "燃料零售業(加油（氣）站業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.78713369348",
         "longitude": "120.316895004815",
+        "latitude": "22.78713369348",
         "name": "永全加油站股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S2600022",
                 "FACILITYNAME": "永全加油站股份有限公司",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "30-101-070019",
+                "DOCUMENTNO": "30-101-070020",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/07\/18",
                 "TRANSGRESSDATE": "2012\/05\/14",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第4條",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第65條第1項",
                 "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -46,11 +58,11 @@
                 "FACILITYNAME": "永全加油站股份有限公司",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "30-101-070020",
+                "DOCUMENTNO": "30-101-070019",
                 "PENALTYYEAR": "2012",
                 "PENALTYDATE": "2012\/07\/18",
                 "TRANSGRESSDATE": "2012\/05\/14",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第65條第1項",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第4條",
                 "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

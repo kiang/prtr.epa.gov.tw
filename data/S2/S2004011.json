@@ -5,15 +5,17 @@
         "管制編號": "S2004011",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "22.5634149431602",
         "longitude": "120.425175408373",
+        "latitude": "22.5634149431602",
         "name": "泰信牧場"
     },
     "reports": {
-        "AIR": [],
+        "AIR": [
+
+        ],
         "WAT": [
             {
                 "REGISTRATIONNO": "S2004011",
@@ -256,10 +258,18 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "S2004011",
@@ -270,13 +280,13 @@
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/11\/19",
                 "TRANSGRESSDATE": "2015\/10\/15",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "TRANSGRESSLAW": "放流水標準第2條，水污染防治法第7條第1項",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/01\/07 01:01",
+                "UPDATETIME": "2016\/02\/05 01:01",
                 "IMPROVEDEADLINE": "2015-11-22",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "泰信牧場",

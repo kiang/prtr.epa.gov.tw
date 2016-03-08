@@ -5,21 +5,54 @@
         "管制編號": "R90A1073",
         "行業別": "其他化學製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/08",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "23.1179910013254",
         "longitude": "120.281803909196",
+        "latitude": "23.1179910013254",
         "name": "台灣神隆股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "R90A1073",
+                "FACILITYNAME": "台灣神隆股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "20-105-020001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/02\/17",
+                "TRANSGRESSDATE": "2015\/12\/08",
+                "TRANSGRESSLAW": "空氣污染防制法第22條第3項，揮發性有機物空氣污染管制及排放標準第30條第1項第4款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/03\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣神隆股份有限公司",
+                "TRANSGRESSCONTROLID": "R90A1073"
+            },
             {
                 "REGISTRATIONNO": "R90A1073",
                 "FACILITYNAME": "台灣神隆股份有限公司",

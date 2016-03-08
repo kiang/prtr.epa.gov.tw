@@ -5,20 +5,54 @@
         "管制編號": "N07A7279",
         "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/02\/02",
+        "最新資料匯入日期": "2016\/03\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "latitude": "24.0800689973951",
         "longitude": "120.601281971588",
+        "latitude": "24.0800689973951",
         "name": "昕華盛科技股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "N07A7279",
+                "FACILITYNAME": "昕華盛科技股份有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "44-105-010003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/01\/21",
+                "TRANSGRESSDATE": "2015\/12\/21",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款，廢棄物清理法第31條第1項第3款，廢棄物清理法第42條",
+                "PENALTYMONEY": 18000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/02\/05 01:01",
+                "IMPROVEDEADLINE": "2016-02-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "昕華盛科技股份有限公司",
+                "TRANSGRESSCONTROLID": "N07A7279"
+            }
+        ]
     }
 }
