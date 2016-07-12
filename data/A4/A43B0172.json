@@ -5,7 +5,7 @@
         "管制編號": "A43B0172",
         "行業別": "其他專門營造業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -13,26 +13,34 @@
         "name": "太子建設開發股份有限公司-士林區芝山段一小段602-0地號等17筆新建工程(101建字第0085號)"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A34097007829",
+                "FACILITYNAME": "合眾建築經理股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "30-105-040002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/01",
+                "TRANSGRESSDATE": "2016\/03\/10",
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第9條第3項，水污染防治法第18條",
+                "PENALTYMONEY": 13000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "2016-03-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "合眾建築經理股份有限公司-士林區芝山段一小段602-0地號等17筆新建工程(101建字第0085號)",
+                "TRANSGRESSCONTROLID": "A43B0172"
+            }
         ]
     }
 }

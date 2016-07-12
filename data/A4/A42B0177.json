@@ -5,7 +5,7 @@
         "管制編號": "A42B0177",
         "行業別": "木竹製品製造業(其他木竹製品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.602564872998",
@@ -13,13 +13,79 @@
         "name": "豐鴻實業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A42B0177",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1.02",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A42B0177",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.37",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A42B0177",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1.22",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A42B0177",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "2.84",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A42B0177",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "2.9430",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A42B0177",
                 "EMIYEAR": "2015",
@@ -402,8 +468,8 @@
                 "REGISTRATIONNO": "A42B0177",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "6",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -416,8 +482,8 @@
                 "REGISTRATIONNO": "A42B0177",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "6",
-                "EMIITEMID": "D-0799",
-                "EMIITEMNAME": "廢木材混合物",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -474,11 +540,11 @@
                 "EMIMONTH": "4",
                 "EMIITEMID": "D-0799",
                 "EMIITEMNAME": "廢木材混合物",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2014\/06\/27 01:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -502,11 +568,11 @@
                 "EMIMONTH": "4",
                 "EMIITEMID": "D-0799",
                 "EMIITEMNAME": "廢木材混合物",
-                "CLEANCODE": "Z05",
-                "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.13",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -595,15 +661,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A42B0177",

@@ -4,8 +4,8 @@
         "所屬工業區": "無特定工業區",
         "管制編號": "A3603002",
         "行業別": "石油化工原料製造業",
-        "列管類別": "空氣污染;毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.532564354628",
@@ -13,24 +13,12 @@
         "name": "中國人造纖維股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3603002",
@@ -100,6 +88,27 @@
                 "FACILITYNAME": "中國人造纖維股份有限公司",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-104-030026",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/03\/18",
+                "TRANSGRESSDATE": "2014\/05\/07",
+                "TRANSGRESSLAW": "水污染防治法第18條",
+                "PENALTYMONEY": 40000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中國人造纖維股份有限公司高雄總廠",
+                "TRANSGRESSCONTROLID": "S2300401"
+            },
+            {
+                "REGISTRATIONNO": "A3603002",
+                "FACILITYNAME": "中國人造纖維股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
                 "DOCUMENTNO": "30-104-030027",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/03\/18",
@@ -121,12 +130,12 @@
                 "FACILITYNAME": "中國人造纖維股份有限公司",
                 "COUNTY": "高雄市",
                 "COUNTYCODE": "33",
-                "DOCUMENTNO": "30-104-030026",
+                "DOCUMENTNO": "30-104-030025",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/03\/18",
                 "TRANSGRESSDATE": "2014\/05\/07",
                 "TRANSGRESSLAW": "水污染防治法第18條",
-                "PENALTYMONEY": 40000,
+                "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -169,27 +178,6 @@
                 "TRANSGRESSDATE": "2014\/05\/07",
                 "TRANSGRESSLAW": "水污染防治法第18條",
                 "PENALTYMONEY": 80000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "中國人造纖維股份有限公司高雄總廠",
-                "TRANSGRESSCONTROLID": "S2300401"
-            },
-            {
-                "REGISTRATIONNO": "A3603002",
-                "FACILITYNAME": "中國人造纖維股份有限公司",
-                "COUNTY": "高雄市",
-                "COUNTYCODE": "33",
-                "DOCUMENTNO": "30-104-030025",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/03\/18",
-                "TRANSGRESSDATE": "2014\/05\/07",
-                "TRANSGRESSLAW": "水污染防治法第18條",
-                "PENALTYMONEY": 10000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

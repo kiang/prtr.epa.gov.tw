@@ -1,24 +1,12 @@
 {
     "info": {
-        "地址": "臺北市北投區石牌路二段二○一號",
-        "所屬工業區": "無特定工業區",
-        "管制編號": "A44A1732",
-        "行業別": "其他專門營造業(其他專門營造業)",
-        "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "longitude": "121.519147532851",
-        "latitude": "25.1191629593427",
+        "longitude": null,
+        "latitude": null,
         "name": "皇喬營造有限公司-成品倉庫拆除工程(九六拆字第○○○二號)"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
             {
                 "REGISTRATIONNO": "A44A1732",
@@ -52,8 +40,8 @@
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "10",
-                "EMIITEMID": "R-0601",
-                "EMIITEMNAME": "廢紙",
+                "EMIITEMID": "R-0201",
+                "EMIITEMNAME": "廢塑膠",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -66,8 +54,8 @@
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "10",
-                "EMIITEMID": "R-0201",
-                "EMIITEMNAME": "廢塑膠",
+                "EMIITEMID": "R-0601",
+                "EMIITEMNAME": "廢紙",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -80,6 +68,20 @@
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "9",
+                "EMIITEMID": "R-0601",
+                "EMIITEMNAME": "廢紙",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A44A1732",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "9",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
@@ -108,8 +110,8 @@
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "9",
-                "EMIITEMID": "R-0601",
-                "EMIITEMNAME": "廢紙",
+                "EMIITEMID": "R-0201",
+                "EMIITEMNAME": "廢塑膠",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -121,7 +123,7 @@
             {
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
-                "EMIMONTH": "9",
+                "EMIMONTH": "8",
                 "EMIITEMID": "R-0201",
                 "EMIITEMNAME": "廢塑膠",
                 "CLEANCODE": "Y03",
@@ -150,34 +152,6 @@
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "8",
-                "EMIITEMID": "R-0201",
-                "EMIITEMNAME": "廢塑膠",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A44A1732",
-                "EMIYEAR": "2013",
-                "EMIMONTH": "8",
-                "EMIITEMID": "D-0599",
-                "EMIITEMNAME": "土木或建築廢棄物混合物",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A44A1732",
-                "EMIYEAR": "2013",
-                "EMIMONTH": "8",
                 "EMIITEMID": "R-0601",
                 "EMIITEMNAME": "廢紙",
                 "CLEANCODE": "Y03",
@@ -191,21 +165,7 @@
             {
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
-                "EMIMONTH": "6",
-                "EMIITEMID": "R-0601",
-                "EMIITEMNAME": "廢紙",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A44A1732",
-                "EMIYEAR": "2013",
-                "EMIMONTH": "6",
+                "EMIMONTH": "8",
                 "EMIITEMID": "D-0599",
                 "EMIITEMNAME": "土木或建築廢棄物混合物",
                 "CLEANCODE": "Y03",
@@ -247,7 +207,21 @@
             {
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
-                "EMIMONTH": "5",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A44A1732",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "6",
                 "EMIITEMID": "R-0601",
                 "EMIITEMNAME": "廢紙",
                 "CLEANCODE": "Y03",
@@ -262,8 +236,8 @@
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "5",
-                "EMIITEMID": "D-0599",
-                "EMIITEMNAME": "土木或建築廢棄物混合物",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -290,8 +264,8 @@
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "5",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -303,7 +277,7 @@
             {
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
-                "EMIMONTH": "4",
+                "EMIMONTH": "5",
                 "EMIITEMID": "R-0601",
                 "EMIITEMNAME": "廢紙",
                 "CLEANCODE": "Y03",
@@ -332,6 +306,20 @@
                 "REGISTRATIONNO": "A44A1732",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "4",
+                "EMIITEMID": "R-0601",
+                "EMIITEMNAME": "廢紙",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A44A1732",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "4",
                 "EMIITEMID": "R-0201",
                 "EMIITEMNAME": "廢塑膠",
                 "CLEANCODE": "Y03",
@@ -348,20 +336,6 @@
                 "EMIMONTH": "4",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A44A1732",
-                "EMIYEAR": "2013",
-                "EMIMONTH": "3",
-                "EMIITEMID": "D-0599",
-                "EMIITEMNAME": "土木或建築廢棄物混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -404,6 +378,20 @@
                 "EMIMONTH": "3",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A44A1732",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-0599",
+                "EMIITEMNAME": "土木或建築廢棄物混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -413,17 +401,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

@@ -5,7 +5,7 @@
         "管制編號": "B2006324",
         "行業別": "藥品及醫用化學製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.667263750786",
@@ -13,25 +13,34 @@
         "name": "興太化學製藥股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "B2006324",
+                "FACILITYNAME": "興太化學製藥股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "34-105-030003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/23",
+                "TRANSGRESSDATE": "2016\/02\/01",
+                "TRANSGRESSLAW": "毒性化學物質管理法第7條第4項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "2016-03-10",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興太化學製藥股份有限公司",
+                "TRANSGRESSCONTROLID": "B2006324"
+            },
             {
                 "REGISTRATIONNO": "B2006324",
                 "FACILITYNAME": "興太化學製藥股份有限公司",

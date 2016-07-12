@@ -5,7 +5,7 @@
         "管制編號": "A4304393",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.504904906821",
@@ -13,24 +13,12 @@
         "name": "江浚實業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A4304393",
@@ -94,27 +82,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
                 "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A4304393",
-                "FACILITYNAME": "江浚實業有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "40-100-060009",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/06\/14",
-                "TRANSGRESSDATE": "2011\/04\/20",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
-                "PENALTYMONEY": 1200,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "江浚實業有限公司",
-                "TRANSGRESSCONTROLID": "A4304393"
             }
         ]
     }

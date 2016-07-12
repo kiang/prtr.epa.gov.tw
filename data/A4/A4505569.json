@@ -5,7 +5,7 @@
         "管制編號": "A4505569",
         "行業別": "機械器具批發業(電腦及其週邊設備、軟體批發業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.568846140444",
@@ -13,13 +13,79 @@
         "name": "台灣愛普生科技股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A4505569",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "1.7620",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4505569",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "2.5560",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4505569",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "3.2590",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4505569",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "2.55",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4505569",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "3.2380",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A4505569",
                 "EMIYEAR": "2015",
@@ -472,11 +538,11 @@
                 "REGISTRATIONNO": "A4505569",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "12",
-                "EMIITEMID": "D-2527",
-                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
                 "CLEANCODE": "X03",
                 "CLEANNAME": "境外處理",
-                "EMIITEMVALUE": "3.19",
+                "EMIITEMVALUE": "0.000220",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -486,11 +552,11 @@
                 "REGISTRATIONNO": "A4505569",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "12",
-                "EMIITEMID": "E-0217",
-                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
                 "CLEANCODE": "X03",
                 "CLEANNAME": "境外處理",
-                "EMIITEMVALUE": "0.000220",
+                "EMIITEMVALUE": "3.19",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -598,11 +664,11 @@
                 "REGISTRATIONNO": "A4505569",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "4",
-                "EMIITEMID": "D-2527",
-                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
                 "CLEANCODE": "X03",
                 "CLEANNAME": "境外處理",
-                "EMIITEMVALUE": "5",
+                "EMIITEMVALUE": "1.95",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -612,11 +678,11 @@
                 "REGISTRATIONNO": "A4505569",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "4",
-                "EMIITEMID": "E-0217",
-                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
                 "CLEANCODE": "X03",
                 "CLEANNAME": "境外處理",
-                "EMIITEMVALUE": "1.95",
+                "EMIITEMVALUE": "5",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -665,17 +731,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

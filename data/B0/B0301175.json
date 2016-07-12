@@ -5,7 +5,7 @@
         "管制編號": "B0301175",
         "行業別": "其他紙製品製造業(未分類其他紙製品製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.705180780773",
@@ -16,14 +16,28 @@
         "AIR": [
             {
                 "REGISTRATIONNO": "B0301175",
+                "QUARTER": "4",
+                "STARTDATE": "2015\/10\/01",
+                "ENDDATE": "2015\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 2.553,
+                "EMIITEM2": 0.001,
+                "EMIITEM3": 0.526,
+                "EMIITEM4": 0.316
+            },
+            {
+                "REGISTRATIONNO": "B0301175",
                 "QUARTER": "3",
                 "STARTDATE": "2015\/07\/01",
                 "ENDDATE": "2015\/09\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 2.716,
                 "EMIITEM2": 0.001,
                 "EMIITEM3": 0.489,
                 "EMIITEM4": 0.293
@@ -36,8 +50,8 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 2.995,
                 "EMIITEM2": 0.001,
                 "EMIITEM3": 0.506,
                 "EMIITEM4": 0.303
@@ -50,8 +64,8 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 2.469,
                 "EMIITEM2": 0.001,
                 "EMIITEM3": 0.48,
                 "EMIITEM4": 0.291
@@ -64,7 +78,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.272,
@@ -85,23 +99,11 @@
                 "EMIITEM4": null
             }
         ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

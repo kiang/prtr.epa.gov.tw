@@ -5,7 +5,7 @@
         "管制編號": "A35B7728",
         "行業別": "藥品及醫用化學製品製造業(生物藥品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.544998794192",
@@ -13,26 +13,34 @@
         "name": "生控基因疫苗股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A35B7728",
+                "FACILITYNAME": "生控基因疫苗股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "40-105-030020",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/24",
+                "TRANSGRESSDATE": "2015\/02\/25",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "生控基因疫苗股份有限公司",
+                "TRANSGRESSCONTROLID": "J55B3510"
+            }
         ]
     }
 }

@@ -1,0 +1,103 @@
+{
+    "info": {
+        "地址": "臺北市大安區市民大道四段",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "A35C3050",
+        "行業別": "建築工程業(建築工程業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/07\/12",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "longitude": "121.544146036887",
+        "latitude": "25.0446150179462",
+        "name": "東生營造有限公司-103建字第0247號新建工程"
+    },
+    "reports": {
+        "AIR": [],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "A35C3050",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35C3050",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35C3050",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35C3050",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F0306421",
+                "FACILITYNAME": "東生營造有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-104-110266",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/30",
+                "TRANSGRESSDATE": "2015\/10\/22",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "東生營造有限公司-103建字第0247號新建工程",
+                "TRANSGRESSCONTROLID": "A35C3050"
+            }
+        ]
+    }
+}

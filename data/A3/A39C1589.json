@@ -3,9 +3,9 @@
         "地址": "臺北市中山區長安東路一段８之３號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "A39C1589",
-        "行業別": "餐館業(餐館業)",
+        "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.522686032687",
@@ -13,13 +13,79 @@
         "name": "台灣吉野家股份有限公司天津分公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A39C1589",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0340",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39C1589",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0810",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39C1589",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0680",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39C1589",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0340",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39C1589",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0680",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A39C1589",
                 "EMIYEAR": "2015",
@@ -122,36 +188,8 @@
                 "REGISTRATIONNO": "A39C1589",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "3",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A39C1589",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "3",
                 "EMIITEMID": "R-0106",
                 "EMIITEMNAME": "廚餘",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A39C1589",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "3",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -177,14 +215,28 @@
             {
                 "REGISTRATIONNO": "A39C1589",
                 "EMIYEAR": "2015",
-                "EMIMONTH": "2",
+                "EMIMONTH": "3",
                 "EMIITEMID": "R-1702",
                 "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
+                "UPDATETIME": "2015\/07\/17 09:10",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39C1589",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/17 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -247,9 +299,37 @@
             {
                 "REGISTRATIONNO": "A39C1589",
                 "EMIYEAR": "2015",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/16 09:42",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39C1589",
+                "EMIYEAR": "2015",
                 "EMIMONTH": "1",
-                "EMIITEMID": "R-0201",
-                "EMIITEMNAME": "廢塑膠",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/16 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39C1589",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -276,8 +356,8 @@
                 "REGISTRATIONNO": "A39C1589",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "1",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "R-0201",
+                "EMIITEMNAME": "廢塑膠",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -292,20 +372,6 @@
                 "EMIMONTH": "1",
                 "EMIITEMID": "R-0601",
                 "EMIITEMNAME": "廢紙",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A39C1589",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "1",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -315,17 +381,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

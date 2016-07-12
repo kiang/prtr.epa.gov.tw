@@ -5,7 +5,7 @@
         "管制編號": "A36A1065",
         "行業別": "印刷及其輔助業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.514914367215",
@@ -13,24 +13,12 @@
         "name": "永豐餘工業用紙股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A36A1065",
@@ -89,7 +77,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
+                "UPDATETIME": "2016\/04\/09 01:00",
                 "IMPROVEDEADLINE": "2015-05-05",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "永豐餘工業用紙股份有限公司成功廠",
@@ -110,7 +98,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
+                "UPDATETIME": "2016\/04\/09 01:00",
                 "IMPROVEDEADLINE": "2014-08-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "永豐餘工業用紙股份有限公司成功廠",
@@ -163,12 +151,12 @@
                 "FACILITYNAME": "永豐餘工業用紙股份有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-103-010011",
+                "DOCUMENTNO": "30-103-010038",
                 "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/01\/09",
+                "PENALTYDATE": "2014\/02\/17",
                 "TRANSGRESSDATE": "2013\/12\/10",
-                "TRANSGRESSLAW": "水污染防治法第20條第1項",
-                "PENALTYMONEY": 150000,
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 480000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -205,12 +193,12 @@
                 "FACILITYNAME": "永豐餘工業用紙股份有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-103-010038",
+                "DOCUMENTNO": "30-103-010011",
                 "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/02\/17",
+                "PENALTYDATE": "2014\/01\/09",
                 "TRANSGRESSDATE": "2013\/12\/10",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項",
-                "PENALTYMONEY": 480000,
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 150000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -220,27 +208,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "永豐餘工業用紙股份有限公司成功廠",
                 "TRANSGRESSCONTROLID": "L0000624"
-            },
-            {
-                "REGISTRATIONNO": "A36A1065",
-                "FACILITYNAME": "永豐餘工業用紙股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "20-103-040008",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/04\/10",
-                "TRANSGRESSDATE": "2013\/09\/05",
-                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "撤銷並另立裁處書",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "2014-06-30",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "永豐餘工業用紙股份有限公司",
-                "TRANSGRESSCONTROLID": "A36A1065"
             },
             {
                 "REGISTRATIONNO": "A36A1065",
@@ -259,6 +226,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永豐餘工業用紙股份有限公司",
+                "TRANSGRESSCONTROLID": "A36A1065"
+            },
+            {
+                "REGISTRATIONNO": "A36A1065",
+                "FACILITYNAME": "永豐餘工業用紙股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-103-040008",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/04\/10",
+                "TRANSGRESSDATE": "2013\/09\/05",
+                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-06-30",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "永豐餘工業用紙股份有限公司",
                 "TRANSGRESSCONTROLID": "A36A1065"

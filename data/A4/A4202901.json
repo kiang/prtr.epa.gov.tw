@@ -5,7 +5,7 @@
         "管制編號": "A4202901",
         "行業別": "量測、導航、控制設備及鐘錶製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.581698087195",
@@ -13,16 +13,24 @@
         "name": "俊富科技有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
         "TOX": [
+            {
+                "REGISTRATIONNO": "A4202901",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04901               ",
+                "TOXICNAME": "氯",
+                "TOXICENGNAME": "Chlorine",
+                "EMIVALUE": "0.000454",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
             {
                 "REGISTRATIONNO": "A4202901",
                 "QUARTER": "3",
@@ -34,7 +42,7 @@
                 "TOXICENGNAME": "Chlorine",
                 "EMIVALUE": "0.000454",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +56,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.00034229",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +70,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.00034229",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +84,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.00034229",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +98,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.00195488",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,18 +112,12 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.00102687",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

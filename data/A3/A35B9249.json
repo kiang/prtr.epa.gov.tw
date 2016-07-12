@@ -3,9 +3,9 @@
         "地址": "臺北市大安區安和路二段１３１號１、２樓、１３３號１、２樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A35B9249",
-        "行業別": "餐館業(餐館業)",
+        "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.551136038347",
@@ -13,13 +13,79 @@
         "name": "瓦城泰統股份有限公司安和分公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A35B9249",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.4810",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B9249",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.4020",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B9249",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.4940",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B9249",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.4590",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B9249",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.3410",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A35B9249",
                 "EMIYEAR": "2015",
@@ -136,10 +202,10 @@
                 "REGISTRATIONNO": "A35B9249",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "2",
-                "EMIITEMID": "R-1306",
-                "EMIITEMNAME": "廢鐵容器",
-                "CLEANCODE": "Y00",
-                "CLEANNAME": "該項廢棄物無需清除者",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2015\/08\/11 09:02",
@@ -164,10 +230,10 @@
                 "REGISTRATIONNO": "A35B9249",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "2",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
+                "EMIITEMID": "R-1306",
+                "EMIITEMNAME": "廢鐵容器",
+                "CLEANCODE": "Y00",
+                "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2015\/08\/11 09:02",
@@ -189,17 +255,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

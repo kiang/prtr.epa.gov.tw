@@ -5,7 +5,7 @@
         "管制編號": "B0300025",
         "行業別": "金屬加工處理業(金屬熱處理業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.679323432854",
@@ -16,14 +16,28 @@
         "AIR": [
             {
                 "REGISTRATIONNO": "B0300025",
+                "QUARTER": "4",
+                "STARTDATE": "2015\/10\/01",
+                "ENDDATE": "2015\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 0.269,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.028
+            },
+            {
+                "REGISTRATIONNO": "B0300025",
                 "QUARTER": "3",
                 "STARTDATE": "2015\/07\/01",
                 "ENDDATE": "2015\/09\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 0.164,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.002,
                 "EMIITEM4": 0.026
@@ -36,8 +50,8 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 0.242,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.007,
                 "EMIITEM4": 0.083
@@ -50,25 +64,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 0.329,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.003,
                 "EMIITEM4": 0.038
-            },
-            {
-                "REGISTRATIONNO": "B0300025",
-                "QUARTER": "4",
-                "STARTDATE": "2014\/10\/01",
-                "ENDDATE": "2014\/12\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0.002,
-                "EMIITEM4": 0.026
             },
             {
                 "REGISTRATIONNO": "B0300025",
@@ -86,17 +86,17 @@
             },
             {
                 "REGISTRATIONNO": "B0300025",
-                "QUARTER": "3",
-                "STARTDATE": "2014\/07\/01",
-                "ENDDATE": "2014\/09\/30",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.002,
-                "EMIITEM4": 0.028
+                "EMIITEM4": 0.026
             },
             {
                 "REGISTRATIONNO": "B0300025",
@@ -114,13 +114,27 @@
             },
             {
                 "REGISTRATIONNO": "B0300025",
+                "QUARTER": "3",
+                "STARTDATE": "2014\/07\/01",
+                "ENDDATE": "2014\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.028
+            },
+            {
+                "REGISTRATIONNO": "B0300025",
                 "QUARTER": "2",
                 "STARTDATE": "2014\/04\/01",
                 "ENDDATE": "2014\/06\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.002,
@@ -148,11 +162,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2015\/05\/03",
-                "EMIITEM1": 0.11,
-                "EMIITEM2": null,
-                "EMIITEM3": null,
-                "EMIITEM4": null
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.02
             },
             {
                 "REGISTRATIONNO": "B0300025",
@@ -162,11 +176,25 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2015\/05\/03",
+                "EMIITEM1": 0.11,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "B0300025",
+                "QUARTER": "4",
+                "STARTDATE": "2013\/10\/01",
+                "ENDDATE": "2013\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/05\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.002,
-                "EMIITEM4": 0.02
+                "EMIITEM4": 0.023
             },
             {
                 "REGISTRATIONNO": "B0300025",
@@ -184,20 +212,6 @@
             },
             {
                 "REGISTRATIONNO": "B0300025",
-                "QUARTER": "4",
-                "STARTDATE": "2013\/10\/01",
-                "ENDDATE": "2013\/12\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0.002,
-                "EMIITEM4": 0.023
-            },
-            {
-                "REGISTRATIONNO": "B0300025",
                 "QUARTER": "3",
                 "STARTDATE": "2013\/07\/01",
                 "ENDDATE": "2013\/09\/30",
@@ -218,7 +232,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/05\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.001,
@@ -232,11 +246,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2015\/05\/02",
-                "EMIITEM1": 0.048,
-                "EMIITEM2": null,
-                "EMIITEM3": null,
-                "EMIITEM4": null
+                "UPDATETIME": "2016\/05\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.002,
+                "EMIITEM4": 0.02
             },
             {
                 "REGISTRATIONNO": "B0300025",
@@ -246,11 +260,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0.002,
-                "EMIITEM4": 0.02
+                "UPDATETIME": "2015\/05\/02",
+                "EMIITEM1": 0.048,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
             },
             {
                 "REGISTRATIONNO": "B0300025",
@@ -274,7 +288,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/05\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.001,
@@ -302,7 +316,21 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
+            },
+            {
+                "REGISTRATIONNO": "B0300025",
+                "QUARTER": "3",
+                "STARTDATE": "2012\/07\/01",
+                "ENDDATE": "2012\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -324,13 +352,13 @@
             },
             {
                 "REGISTRATIONNO": "B0300025",
-                "QUARTER": "3",
-                "STARTDATE": "2012\/07\/01",
-                "ENDDATE": "2012\/09\/30",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -349,20 +377,6 @@
                 "EMIITEM2": null,
                 "EMIITEM3": null,
                 "EMIITEM4": null
-            },
-            {
-                "REGISTRATIONNO": "B0300025",
-                "QUARTER": "2",
-                "STARTDATE": "2012\/04\/01",
-                "ENDDATE": "2012\/06\/30",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0
             },
             {
                 "REGISTRATIONNO": "B0300025",
@@ -386,28 +400,18 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
                 "EMIITEM4": 0
             }
         ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B0300025",

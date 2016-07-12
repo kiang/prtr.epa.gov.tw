@@ -3,9 +3,9 @@
         "地址": "臺北市士林區忠誠路二段５５號地下１(天母大葉高島屋)",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A43B3661",
-        "行業別": "餐館業(餐館業)",
+        "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.531438034287",
@@ -13,13 +13,51 @@
         "name": "台灣咖哩好侍餐廳股份有限公司-天母高島店"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A43B3661",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1020",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A43B3661",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1190",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A43B3661",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0510",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A43B3661",
                 "EMIYEAR": "2015",
@@ -49,17 +87,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

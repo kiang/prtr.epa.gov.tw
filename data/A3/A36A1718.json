@@ -1,11 +1,11 @@
 {
     "info": {
         "地址": "臺北市中正區泉州街４３之１號",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "A36A1718",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.514481497883",
@@ -13,45 +13,33 @@
         "name": "久林建材行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A36A1718",
                 "FACILITYNAME": "久林建材行",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-100-060002",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/06\/02",
-                "TRANSGRESSDATE": "2011\/05\/20",
-                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第15條第1項第1款",
-                "PENALTYMONEY": 6000,
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-105-040025",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/15",
+                "TRANSGRESSDATE": "2016\/01\/03",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
+                "UPDATETIME": "2016\/06\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
+                "TRANSGRESSNAME": "久林建材行",
+                "TRANSGRESSCONTROLID": "A36A1718"
             }
         ]
     }

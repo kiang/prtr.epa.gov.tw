@@ -5,7 +5,7 @@
         "管制編號": "A41A4810",
         "行業別": "塗料、染料及顏料製造業(塗料、染料及顏料製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.614075667479",
@@ -13,25 +13,34 @@
         "name": "華山塗料工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A41A4810",
+                "FACILITYNAME": "華山塗料工業股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "34-105-040002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/20",
+                "TRANSGRESSDATE": "2015\/11\/13",
+                "TRANSGRESSLAW": "毒性化學物質管理法第19條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "華山塗料工業股份有限公司",
+                "TRANSGRESSCONTROLID": "A41A4810"
+            },
             {
                 "REGISTRATIONNO": "A41A4810",
                 "FACILITYNAME": "華山塗料工業股份有限公司",

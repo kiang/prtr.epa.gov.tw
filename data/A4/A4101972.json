@@ -5,7 +5,7 @@
         "管制編號": "A4101972",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.606794060155",
@@ -13,25 +13,76 @@
         "name": "福鑫環保工程有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A4101972",
+                "FACILITYNAME": "福鑫環保工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-030008",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/04",
+                "TRANSGRESSDATE": "2016\/02\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第3款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "福鑫環保工程有限公司",
+                "TRANSGRESSCONTROLID": "A4101972"
+            },
+            {
+                "REGISTRATIONNO": "A4101972",
+                "FACILITYNAME": "福鑫環保工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-030002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/03",
+                "TRANSGRESSDATE": "2016\/02\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第20條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "福鑫環保工程有限公司",
+                "TRANSGRESSCONTROLID": "A4101972"
+            },
+            {
+                "REGISTRATIONNO": "A4101972",
+                "FACILITYNAME": "福鑫環保工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-030009",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/17",
+                "TRANSGRESSDATE": "2016\/02\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "福鑫環保工程有限公司",
+                "TRANSGRESSCONTROLID": "A4101972"
+            },
             {
                 "REGISTRATIONNO": "A4101972",
                 "FACILITYNAME": "福鑫環保工程有限公司",
@@ -257,7 +308,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
+                "UPDATETIME": "2016\/06\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "福鑫環保工程有限公司",
@@ -278,7 +329,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/06\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "福鑫環保工程有限公司",

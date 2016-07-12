@@ -5,7 +5,7 @@
         "管制編號": "A42B6501",
         "行業別": "其他電力設備製造業(其他電力設備製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.57565767001",
@@ -13,12 +13,8 @@
         "name": "琪達實業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
             {
                 "REGISTRATIONNO": "A42B6501",
@@ -66,8 +62,8 @@
                 "REGISTRATIONNO": "A42B6501",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "R-1302",
+                "EMIITEMNAME": "廢銅",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -80,8 +76,8 @@
                 "REGISTRATIONNO": "A42B6501",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "R-1302",
-                "EMIITEMNAME": "廢銅",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -94,8 +90,8 @@
                 "REGISTRATIONNO": "A42B6501",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "5",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "R-1302",
+                "EMIITEMNAME": "廢銅",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -108,8 +104,8 @@
                 "REGISTRATIONNO": "A42B6501",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "5",
-                "EMIITEMID": "R-1302",
-                "EMIITEMNAME": "廢銅",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -276,8 +272,8 @@
                 "REGISTRATIONNO": "A42B6501",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "10",
-                "EMIITEMID": "R-1302",
-                "EMIITEMNAME": "廢銅",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -290,20 +286,6 @@
                 "REGISTRATIONNO": "A42B6501",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "10",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/28 09:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A42B6501",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "9",
                 "EMIITEMID": "R-1302",
                 "EMIITEMNAME": "廢銅",
                 "CLEANCODE": "Y03",
@@ -320,6 +302,20 @@
                 "EMIMONTH": "9",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/02\/28 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A42B6501",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1302",
+                "EMIITEMNAME": "廢銅",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -388,8 +384,8 @@
                 "REGISTRATIONNO": "A42B6501",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "6",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "R-1302",
+                "EMIITEMNAME": "廢銅",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -402,8 +398,8 @@
                 "REGISTRATIONNO": "A42B6501",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "6",
-                "EMIITEMID": "R-1302",
-                "EMIITEMNAME": "廢銅",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -497,17 +493,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

@@ -5,7 +5,7 @@
         "管制編號": "A36A1936",
         "行業別": "鐵路運輸業(鐵路運輸業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.517039631417",
@@ -13,13 +13,65 @@
         "name": "台灣高速鐵路股份有限公司－高鐵台北站"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A36A1936",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "58",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36A1936",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "62",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36A1936",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "62",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36A1936",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A36A1936",
                 "EMIYEAR": "2015",
@@ -30,7 +82,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "62",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/05\/05 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -665,17 +717,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

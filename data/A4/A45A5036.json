@@ -5,7 +5,7 @@
         "管制編號": "A45A5036",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.55028903811",
@@ -13,25 +13,55 @@
         "name": "日立環保清潔有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A45A5036",
+                "FACILITYNAME": "日立環保清潔有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "41-105-032419",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/22",
+                "TRANSGRESSDATE": "2016\/03\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "日立環保清潔有限公司",
+                "TRANSGRESSCONTROLID": "A45A5036"
+            },
+            {
+                "REGISTRATIONNO": "A45A5036",
+                "FACILITYNAME": "日立環保清潔有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "41-105-032417",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/22",
+                "TRANSGRESSDATE": "2016\/03\/11",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "日立環保清潔有限公司",
+                "TRANSGRESSCONTROLID": "A45A5036"
+            },
             {
                 "REGISTRATIONNO": "A45A5036",
                 "FACILITYNAME": "日立環保清潔有限公司",
@@ -47,7 +77,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/05\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "日立環保清潔有限公司",
@@ -152,7 +182,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/07\/07 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "日立環保清潔有限公司",

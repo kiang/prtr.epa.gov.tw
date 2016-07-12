@@ -5,7 +5,7 @@
         "管制編號": "A4205322",
         "行業別": "視聽電子產品製造業(視聽電子產品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.58730161385",
@@ -13,13 +13,65 @@
         "name": "上鍵電子股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A4205322",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0002",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205322",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0003",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205322",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0002",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205322",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0003",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A4205322",
                 "EMIYEAR": "2015",
@@ -178,20 +230,6 @@
                 "REGISTRATIONNO": "A4205322",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "9",
-                "EMIITEMID": "D-2527",
-                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A4205322",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "9",
                 "EMIITEMID": "R-0601",
                 "EMIITEMNAME": "廢紙",
                 "CLEANCODE": "Y00",
@@ -208,6 +246,20 @@
                 "EMIMONTH": "9",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/11\/28 11:47",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205322",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -637,17 +689,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

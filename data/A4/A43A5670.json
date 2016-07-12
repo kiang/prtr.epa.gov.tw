@@ -5,7 +5,7 @@
         "管制編號": "A43A5670",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.510960921894",
@@ -13,26 +13,55 @@
         "name": "豐益建材行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A43A5670",
+                "FACILITYNAME": "豐益建材行",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-030005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/03",
+                "TRANSGRESSDATE": "2016\/02\/19",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第20條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/04\/09 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "豐益建材行",
+                "TRANSGRESSCONTROLID": "A43A5670"
+            },
+            {
+                "REGISTRATIONNO": "A43A5670",
+                "FACILITYNAME": "豐益建材行",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-030004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/03",
+                "TRANSGRESSDATE": "2016\/02\/19",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/04\/09 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "豐益建材行",
+                "TRANSGRESSCONTROLID": "A43A5670"
+            }
         ]
     }
 }

@@ -3,9 +3,9 @@
         "地址": "臺北市大安區信義路四段８８號２樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A35C2705",
-        "行業別": "餐館業(餐館業)",
+        "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.547503037588",
@@ -13,13 +13,79 @@
         "name": "這一鍋餐飲股份有限公司台北信義分公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A35C2705",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.0510",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35C2705",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.0530",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35C2705",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.0560",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35C2705",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.0490",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35C2705",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.0530",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A35C2705",
                 "EMIYEAR": "2015",
@@ -66,20 +132,6 @@
                 "REGISTRATIONNO": "A35C2705",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
-                "CLEANCODE": "X99",
-                "CLEANNAME": "其他最終處理方式",
-                "EMIITEMVALUE": "1",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "撤銷"
-            },
-            {
-                "REGISTRATIONNO": "A35C2705",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "6",
                 "EMIITEMID": "R-0601",
                 "EMIITEMNAME": "廢紙",
                 "CLEANCODE": "R01",
@@ -107,16 +159,30 @@
             {
                 "REGISTRATIONNO": "A35C2705",
                 "EMIYEAR": "2015",
-                "EMIMONTH": "5",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
-                "CLEANCODE": "R99",
-                "CLEANNAME": "作為其他再利用之用途",
-                "EMIITEMVALUE": "0.0060",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "X99",
+                "CLEANNAME": "其他最終處理方式",
+                "EMIITEMVALUE": "1",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "A35C2705",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-0601",
+                "EMIITEMNAME": "廢紙",
+                "CLEANCODE": "R01",
+                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
+                "EMIITEMVALUE": "0.04",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/02\/27 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "A35C2705",
@@ -136,15 +202,15 @@
                 "REGISTRATIONNO": "A35C2705",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "5",
-                "EMIITEMID": "R-0601",
-                "EMIITEMNAME": "廢紙",
-                "CLEANCODE": "R01",
-                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
-                "EMIITEMVALUE": "0.04",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.0060",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2015\/08\/11 09:02",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "撤銷"
+                "EMISTATUS": "有效"
             },
             {
                 "REGISTRATIONNO": "A35C2705",
@@ -189,17 +255,9 @@
                 "EMISTATUS": "撤銷"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

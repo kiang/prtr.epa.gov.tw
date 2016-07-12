@@ -3,9 +3,9 @@
         "地址": "臺北市士林區承德路四段１２８號１、２樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A43B0627",
-        "行業別": "餐館業(餐館業)",
+        "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.523261554237",
@@ -13,13 +13,65 @@
         "name": "台灣麥當勞餐廳股份有限公司台北承德三分公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A43B0627",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "1.2920",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A43B0627",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "1.3770",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A43B0627",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "1.3430",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A43B0627",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "1.87",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A43B0627",
                 "EMIYEAR": "2015",
@@ -30,7 +82,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "1.75",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/05\/05 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -444,8 +496,8 @@
                 "REGISTRATIONNO": "A43B0627",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "4",
-                "EMIITEMID": "R-0205",
-                "EMIITEMNAME": "廢塑膠容器(PP)",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -472,8 +524,8 @@
                 "REGISTRATIONNO": "A43B0627",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "4",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "R-0205",
+                "EMIITEMNAME": "廢塑膠容器(PP)",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -483,15 +535,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A43B0627",
@@ -508,7 +554,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/07\/07 01:00",
                 "IMPROVEDEADLINE": "2013-09-27",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "台灣麥當勞餐廳股份有限公司台北承德三門市部",

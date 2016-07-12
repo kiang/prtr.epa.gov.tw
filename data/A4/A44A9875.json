@@ -5,7 +5,7 @@
         "管制編號": "A44A9875",
         "行業別": "其他住宿服務業(其他住宿服務業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.506945126636",
@@ -16,14 +16,28 @@
         "AIR": [
             {
                 "REGISTRATIONNO": "A44A9875",
+                "QUARTER": "4",
+                "STARTDATE": "2015\/10\/01",
+                "ENDDATE": "2015\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 0,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.112
+            },
+            {
+                "REGISTRATIONNO": "A44A9875",
                 "QUARTER": "3",
                 "STARTDATE": "2015\/07\/01",
                 "ENDDATE": "2015\/09\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 0,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
                 "EMIITEM4": 0.085
@@ -36,8 +50,8 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 0,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
                 "EMIITEM4": 0.078
@@ -50,8 +64,8 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": 0,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
                 "EMIITEM4": 0.133
@@ -64,7 +78,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -92,11 +106,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2015\/05\/03",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
-                "EMIITEM2": null,
-                "EMIITEM3": null,
-                "EMIITEM4": null
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.075
             },
             {
                 "REGISTRATIONNO": "A44A9875",
@@ -106,20 +120,6 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0.075
-            },
-            {
-                "REGISTRATIONNO": "A44A9875",
-                "QUARTER": "2",
-                "STARTDATE": "2014\/04\/01",
-                "ENDDATE": "2014\/06\/30",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
                 "UPDATETIME": "2015\/05\/03",
                 "EMIITEM1": null,
                 "EMIITEM2": null,
@@ -134,7 +134,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -142,6 +142,20 @@
             },
             {
                 "REGISTRATIONNO": "A44A9875",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/03",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "A44A9875",
                 "QUARTER": "1",
                 "STARTDATE": "2014\/01\/01",
                 "ENDDATE": "2014\/03\/31",
@@ -162,7 +176,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/06\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -176,11 +190,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2015\/05\/02",
+                "UPDATETIME": "2016\/05\/29",
                 "EMIITEM1": null,
-                "EMIITEM2": null,
-                "EMIITEM3": null,
-                "EMIITEM4": null
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.096
             },
             {
                 "REGISTRATIONNO": "A44A9875",
@@ -190,11 +204,25 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2015\/05\/02",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "A44A9875",
+                "QUARTER": "3",
+                "STARTDATE": "2013\/07\/01",
+                "ENDDATE": "2013\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/05\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
-                "EMIITEM4": 0.096
+                "EMIITEM4": 0.115
             },
             {
                 "REGISTRATIONNO": "A44A9875",
@@ -212,13 +240,13 @@
             },
             {
                 "REGISTRATIONNO": "A44A9875",
-                "QUARTER": "3",
-                "STARTDATE": "2013\/07\/01",
-                "ENDDATE": "2013\/09\/30",
+                "QUARTER": "2",
+                "STARTDATE": "2013\/04\/01",
+                "ENDDATE": "2013\/06\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/05\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -240,45 +268,45 @@
             },
             {
                 "REGISTRATIONNO": "A44A9875",
-                "QUARTER": "2",
-                "STARTDATE": "2013\/04\/01",
-                "ENDDATE": "2013\/06\/30",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0.115
-            },
-            {
-                "REGISTRATIONNO": "A44A9875",
                 "QUARTER": "1",
                 "STARTDATE": "2013\/01\/01",
                 "ENDDATE": "2013\/03\/31",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2015\/05\/02",
-                "EMIITEM1": null,
-                "EMIITEM2": null,
-                "EMIITEM3": null,
-                "EMIITEM4": null
-            },
-            {
-                "REGISTRATIONNO": "A44A9875",
-                "QUARTER": "1",
-                "STARTDATE": "2013\/01\/01",
-                "ENDDATE": "2013\/03\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/05\/29",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
                 "EMIITEM4": 0.12
+            },
+            {
+                "REGISTRATIONNO": "A44A9875",
+                "QUARTER": "1",
+                "STARTDATE": "2013\/01\/01",
+                "ENDDATE": "2013\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2015\/05\/02",
+                "EMIITEM1": null,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "A44A9875",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/06\/29",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.117
             },
             {
                 "REGISTRATIONNO": "A44A9875",
@@ -293,26 +321,52 @@
                 "EMIITEM2": null,
                 "EMIITEM3": null,
                 "EMIITEM4": null
+            }
+        ],
+        "WAT": [],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "A44A9875",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1260",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
             },
             {
                 "REGISTRATIONNO": "A44A9875",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0.117
-            }
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1260",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A44A9875",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1020",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A44A9875",
                 "EMIYEAR": "2015",
@@ -323,7 +377,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.18",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/05\/05 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -454,17 +508,31 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A44A9875",
+                "FACILITYNAME": "日勝生加賀屋國際溫泉飯店股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-050166",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/30",
+                "TRANSGRESSDATE": "2016\/05\/17",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "日勝生加賀屋國際溫泉飯店股份有限公司",
+                "TRANSGRESSCONTROLID": "A44A9875"
+            }
         ]
     }
 }

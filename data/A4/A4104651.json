@@ -5,7 +5,7 @@
         "管制編號": "A4104651",
         "行業別": "通訊傳播設備製造業(其他通訊傳播設備製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.59341158156",
@@ -13,13 +13,79 @@
         "name": "金炤工業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A4104651",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.000010",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4104651",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.000020",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4104651",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.000010",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4104651",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.000010",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4104651",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.000010",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A4104651",
                 "EMIYEAR": "2015",
@@ -623,17 +689,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

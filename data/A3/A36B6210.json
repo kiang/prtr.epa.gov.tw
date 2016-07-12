@@ -3,9 +3,9 @@
         "地址": "臺北市中正區忠孝東路一段１５２號１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A36B6210",
-        "行業別": "餐館業(餐館業)",
+        "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.525920033304",
@@ -13,13 +13,121 @@
         "name": "百八魚場餐飲股份有限公司忠孝分公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A36B6210",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R01",
+                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
+                "EMIITEMVALUE": "0.10",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6210",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R01",
+                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
+                "EMIITEMVALUE": "0.2210",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6210",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R01",
+                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
+                "EMIITEMVALUE": "0.1190",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6210",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "2",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6210",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R01",
+                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
+                "EMIITEMVALUE": "0.1790",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6210",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "2.30",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6210",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R01",
+                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
+                "EMIITEMVALUE": "0.1480",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6210",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "2.40",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A36B6210",
                 "EMIYEAR": "2015",
@@ -52,11 +160,11 @@
                 "REGISTRATIONNO": "A36B6210",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "8",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Z05",
-                "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "2.60",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R01",
+                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
+                "EMIITEMVALUE": "0.1220",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
@@ -66,11 +174,11 @@
                 "REGISTRATIONNO": "A36B6210",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "8",
-                "EMIITEMID": "D-1705",
-                "EMIITEMNAME": "廢食用油",
-                "CLEANCODE": "R01",
-                "CLEANNAME": "廢棄物採取基管會公告應回收管道",
-                "EMIITEMVALUE": "0.1220",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "2.60",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
@@ -105,17 +213,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

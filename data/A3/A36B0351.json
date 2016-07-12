@@ -5,7 +5,7 @@
         "管制編號": "A36B0351",
         "行業別": "診所(診所)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.518125799292",
@@ -13,13 +13,79 @@
         "name": "風華整形外科診所"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A36B0351",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.1890",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B0351",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.1450",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B0351",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.1650",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B0351",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.1340",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B0351",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.1320",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A36B0351",
                 "EMIYEAR": "2015",
@@ -623,15 +689,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A36B0351",

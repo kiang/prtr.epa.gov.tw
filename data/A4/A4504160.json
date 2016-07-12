@@ -5,7 +5,7 @@
         "管制編號": "A4504160",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.610742910596",
@@ -13,25 +13,34 @@
         "name": "廣吉興實業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A4504160",
+                "FACILITYNAME": "廣吉興實業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-030147",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/30",
+                "TRANSGRESSDATE": "2016\/03\/02",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "廣吉興實業有限公司",
+                "TRANSGRESSCONTROLID": "A4504160"
+            },
             {
                 "REGISTRATIONNO": "A4504160",
                 "FACILITYNAME": "廣吉興實業有限公司",

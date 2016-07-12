@@ -5,7 +5,7 @@
         "管制編號": "A42B1432",
         "行業別": "農事及畜牧服務業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.568129169357",
@@ -13,25 +13,34 @@
         "name": "光泉牧場股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A42B1432",
+                "FACILITYNAME": "光泉牧場股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "41-105-061565",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/14",
+                "TRANSGRESSDATE": "2016\/03\/27",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
+                "PENALTYMONEY": 3000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "光泉牧場股份有限公司",
+                "TRANSGRESSCONTROLID": "A42B1432"
+            },
             {
                 "REGISTRATIONNO": "A42B1432",
                 "FACILITYNAME": "光泉牧場股份有限公司",
@@ -199,27 +208,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "光泉牧場股份有限公司",
                 "TRANSGRESSCONTROLID": "A42B1432"
-            },
-            {
-                "REGISTRATIONNO": "A42B1432",
-                "FACILITYNAME": "光泉牧場股份有限公司",
-                "COUNTY": "苗栗縣",
-                "COUNTYCODE": "12",
-                "DOCUMENTNO": "41-100-050408",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/05\/09",
-                "TRANSGRESSDATE": "2010\/11\/25",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
-                "PENALTYMONEY": 1200,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

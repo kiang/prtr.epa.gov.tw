@@ -5,7 +5,7 @@
         "管制編號": "A42C0738",
         "行業別": "其他餐飲業(其他餐飲業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -13,27 +13,9 @@
         "name": "小蒙牛股份有限公司-小蒙牛(內湖店)"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
-            {
-                "REGISTRATIONNO": "A42C0738",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "2",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
-                "CLEANCODE": "Z03",
-                "CLEANNAME": "生物處理",
-                "EMIITEMVALUE": "0.90",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
             {
                 "REGISTRATIONNO": "A42C0738",
                 "EMIYEAR": "2015",
@@ -43,6 +25,20 @@
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.80",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/07\/16 09:42",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A42C0738",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "Z03",
+                "CLEANNAME": "生物處理",
+                "EMIITEMVALUE": "0.90",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2015\/07\/16 09:42",
                 "RPT_TYPE": "WAS",
@@ -77,17 +73,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

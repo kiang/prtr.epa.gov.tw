@@ -5,7 +5,7 @@
         "管制編號": "A3604821",
         "行業別": "診所(診所)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.510879776965",
@@ -13,13 +13,79 @@
         "name": "醫療財團法人徐元智先生醫藥基金會遠東聯合診所"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A3604821",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1.2160",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3604821",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1.2920",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3604821",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1.3030",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3604821",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1.2730",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3604821",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1.3530",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A3604821",
                 "EMIYEAR": "2015",
@@ -528,11 +594,11 @@
                 "REGISTRATIONNO": "A3604821",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "7",
-                "EMIITEMID": "C-0599",
-                "EMIITEMNAME": "感染性廢棄物混合物",
-                "CLEANCODE": "Z05",
-                "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "1.21",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.0460",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -542,11 +608,11 @@
                 "REGISTRATIONNO": "A3604821",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "7",
-                "EMIITEMID": "C-0108",
-                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
-                "CLEANCODE": "Z04",
-                "CLEANNAME": "熱處理（除焚化處理外）",
-                "EMIITEMVALUE": "0.0460",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1.21",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -651,17 +717,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

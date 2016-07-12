@@ -3,9 +3,9 @@
         "地址": "臺北市中正區金華街１７號６樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "A3603977",
-        "行業別": "化學材料及其製品批發業(化學材料批發業)",
+        "行業別": "化學材料及其製品批發業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.518785626355",
@@ -13,25 +13,34 @@
         "name": "連樺企業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3603977",
+                "FACILITYNAME": "連樺企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "34-105-060001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/15",
+                "TRANSGRESSDATE": "2016\/03\/15",
+                "TRANSGRESSLAW": "毒性化學物質管理法第23條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "連樺企業有限公司",
+                "TRANSGRESSCONTROLID": "A3603977"
+            },
             {
                 "REGISTRATIONNO": "A3603977",
                 "FACILITYNAME": "連樺企業有限公司",
@@ -47,7 +56,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "撤銷並另立裁處書",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/07\/07 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",

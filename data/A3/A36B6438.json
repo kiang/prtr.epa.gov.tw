@@ -3,9 +3,9 @@
         "地址": "臺北市中正區忠孝西路一段３６號地下１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A36B6438",
-        "行業別": "其他餐飲業(其他餐飲業)",
+        "行業別": "飲料店業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.517043031643",
@@ -13,13 +13,79 @@
         "name": "台灣吉豚屋餐飲股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A36B6438",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.1215",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6438",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.1180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6438",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0960",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6438",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0281",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B6438",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0050",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A36B6438",
                 "EMIYEAR": "2015",
@@ -49,17 +115,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

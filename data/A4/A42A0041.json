@@ -5,7 +5,7 @@
         "管制編號": "A42A0041",
         "行業別": "其他組織(未分類其他組織)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.570066079114",
@@ -13,9 +13,7 @@
         "name": "法蘭克福科技廠辦大樓污水下水道系統"
     },
     "reports": {
-        "AIR": [
-
-        ],
+        "AIR": [],
         "WAT": [
             {
                 "REGISTRATIONNO": "A42A0041",
@@ -466,19 +464,32 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A42097024444",
+                "FACILITYNAME": "法蘭克福科技大樓管理委員會",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "30-104-120001",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/12\/10",
+                "TRANSGRESSDATE": "2015\/10\/05",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "駁回",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "2016-01-04",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "法蘭克福科技廠辦大樓污水下水道系統",
+                "TRANSGRESSCONTROLID": "A42A0041"
+            },
             {
                 "REGISTRATIONNO": "A42097024444",
                 "FACILITYNAME": "法蘭克福科技大樓管理委員會",
@@ -494,7 +505,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "駁回",
-                "UPDATETIME": "2015\/11\/19 09:14",
+                "UPDATETIME": "2016\/05\/05 01:01",
                 "IMPROVEDEADLINE": "2015-09-30",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "法蘭克福科技廠辦大樓污水下水道系統",

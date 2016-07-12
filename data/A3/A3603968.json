@@ -5,7 +5,7 @@
         "管制編號": "A3603968",
         "行業別": "通用機械設備製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.521669017579",
@@ -13,16 +13,24 @@
         "name": "快興科技股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
         "TOX": [
+            {
+                "REGISTRATIONNO": "A3603968",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09701               ",
+                "TOXICNAME": "吡啶",
+                "TOXICENGNAME": "Pyridine",
+                "EMIVALUE": "0.0480",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
             {
                 "REGISTRATIONNO": "A3603968",
                 "QUARTER": "4",
@@ -34,7 +42,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.1280",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +56,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0960",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +70,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.02",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +84,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.1440",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +98,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0640",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +112,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0480",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +126,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0480",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +140,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0960",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,7 +154,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0480",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -160,7 +168,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0960",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -174,7 +182,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0480",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -188,7 +196,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0480",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -206,14 +214,8 @@
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

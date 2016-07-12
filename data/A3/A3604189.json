@@ -3,9 +3,9 @@
         "地址": "臺北市中正區開封街一段７９號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "A3604189",
-        "行業別": "玻璃及其製品製造業",
+        "行業別": "玻璃及其製品製造業(玻璃容器製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.51160056228",
@@ -13,15 +13,9 @@
         "name": "梧宇企業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
         "TOX": [
             {
                 "REGISTRATIONNO": "A3604189",
@@ -34,7 +28,7 @@
                 "TOXICENGNAME": "β-Propiolactone",
                 "EMIVALUE": "0.000230",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +42,7 @@
                 "TOXICENGNAME": "β-Propiolactone",
                 "EMIVALUE": "0.000012",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +56,7 @@
                 "TOXICENGNAME": "β-Propiolactone",
                 "EMIVALUE": "0.000460",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +70,7 @@
                 "TOXICENGNAME": "β-Propiolactone",
                 "EMIVALUE": "0.000012",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +84,7 @@
                 "TOXICENGNAME": "β-Propiolactone",
                 "EMIVALUE": "0.000345",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +98,7 @@
                 "TOXICENGNAME": "β-Propiolactone",
                 "EMIVALUE": "0.000240",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -136,14 +130,8 @@
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

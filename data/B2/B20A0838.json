@@ -5,7 +5,7 @@
         "管制編號": "B20A0838",
         "行業別": "其他專門營造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.668349965106",
@@ -13,24 +13,12 @@
         "name": "交通部公路總局第二區養護工程處"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B20A0838",
@@ -75,27 +63,6 @@
                 "TRANSGRESSCONTROLID": "N3103459"
             },
             {
-                "REGISTRATIONNO": "A39B1245",
-                "FACILITYNAME": "森業營造股份有限公司",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
-                "DOCUMENTNO": "23-100-100008",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/10\/25",
-                "TRANSGRESSDATE": "2011\/09\/22",
-                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第2款",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "交通部公路總局第二區養護工程處",
-                "TRANSGRESSCONTROLID": "B20A0838"
-            },
-            {
                 "REGISTRATIONNO": "B20A0838",
                 "FACILITYNAME": "交通部公路總局第二區養護工程處",
                 "COUNTY": "彰化縣",
@@ -117,37 +84,16 @@
                 "TRANSGRESSCONTROLID": "B20A0838"
             },
             {
-                "REGISTRATIONNO": "B20A0838",
-                "FACILITYNAME": "交通部公路總局第二區養護工程處",
+                "REGISTRATIONNO": "A39B1245",
+                "FACILITYNAME": "森業營造股份有限公司",
                 "COUNTY": "彰化縣",
                 "COUNTYCODE": "14",
-                "DOCUMENTNO": "23-100-030002",
+                "DOCUMENTNO": "23-100-100008",
                 "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/03\/01",
-                "TRANSGRESSDATE": "2010\/11\/14",
-                "TRANSGRESSLAW": "空氣污染防制法第23條第2項",
-                "PENALTYMONEY": 20000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "交通部公路總局第二區養護工程處",
-                "TRANSGRESSCONTROLID": "B20A0838"
-            },
-            {
-                "REGISTRATIONNO": "B20A0838",
-                "FACILITYNAME": "交通部公路總局第二區養護工程處",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
-                "DOCUMENTNO": "23-100-030001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/03\/01",
-                "TRANSGRESSDATE": "2010\/11\/13",
-                "TRANSGRESSLAW": "空氣污染防制法第23條第2項",
-                "PENALTYMONEY": 20000,
+                "PENALTYDATE": "2011\/10\/25",
+                "TRANSGRESSDATE": "2011\/09\/22",
+                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第2款",
+                "PENALTYMONEY": 100000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

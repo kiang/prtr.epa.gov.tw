@@ -5,7 +5,7 @@
         "管制編號": "A41A0224",
         "行業別": "其他食品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.611969399118",
@@ -13,15 +13,9 @@
         "name": "百力生物科技股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
         "TOX": [
             {
                 "REGISTRATIONNO": "A41A0224",
@@ -34,7 +28,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.044160",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +42,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0368",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +56,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.040480",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +70,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.033120",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,16 +84,12 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.033120",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A41A0224",
@@ -137,7 +127,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "撤銷並另立裁處書",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/07\/07 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
@@ -158,7 +148,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "撤銷並另立裁處書",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/07\/07 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
@@ -179,7 +169,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "撤銷並另立裁處書",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/07\/07 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
@@ -200,7 +190,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "撤銷並另立裁處書",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/07\/07 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",

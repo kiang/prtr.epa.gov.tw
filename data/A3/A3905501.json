@@ -5,7 +5,7 @@
         "管制編號": "A3905501",
         "行業別": "紙漿、紙及紙板製造業(紙漿製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.536283385834",
@@ -13,24 +13,12 @@
         "name": "台灣紙業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3905501",
@@ -51,27 +39,6 @@
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "臺灣紙業股份有限公司新營紙廠",
-                "TRANSGRESSCONTROLID": "R8400416"
-            },
-            {
-                "REGISTRATIONNO": "A3905501",
-                "FACILITYNAME": "台灣紙業股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "40-100-030049",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/03\/17",
-                "TRANSGRESSDATE": "2011\/01\/12",
-                "TRANSGRESSLAW": "事業廢棄物貯存清除處理方法及設施標準第10條第1項第2款，廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第6條第1項第4款，事業廢棄物貯存清除處理方法及設施標準第10條第1項第1款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-05-27",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台灣紙業股份有限公司新營紙廠",
                 "TRANSGRESSCONTROLID": "R8400416"
             }
         ]

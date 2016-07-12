@@ -5,7 +5,7 @@
         "管制編號": "B20A3436",
         "行業別": "公共行政業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -13,24 +13,12 @@
         "name": "臺中市政府環境保護局"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B20A3436",
@@ -136,27 +124,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "臺中市政府環境保護局",
                 "TRANSGRESSCONTROLID": "B20A3436"
-            },
-            {
-                "REGISTRATIONNO": "B20A3436",
-                "FACILITYNAME": "臺中市政府環境保護局",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "23-100-060004",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/06\/08",
-                "TRANSGRESSDATE": "2011\/04\/12",
-                "TRANSGRESSLAW": "空氣污染防制法第16條第2項",
-                "PENALTYMONEY": 1500,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-06-08",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }
