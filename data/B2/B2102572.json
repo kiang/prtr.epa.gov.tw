@@ -5,7 +5,7 @@
         "管制編號": "B2102572",
         "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.658989838676",
@@ -22,11 +22,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2015\/04\/29",
-                "EMIITEM1": 0.041,
-                "EMIITEM2": null,
-                "EMIITEM3": null,
-                "EMIITEM4": null
+                "UPDATETIME": "2016\/05\/28",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0
             },
             {
                 "REGISTRATIONNO": "B2102572",
@@ -36,30 +36,18 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/27",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0
+                "UPDATETIME": "2015\/04\/29",
+                "EMIITEM1": 0.041,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
             }
         ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

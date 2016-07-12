@@ -5,7 +5,7 @@
         "管制編號": "B2314018",
         "行業別": "綜合商品零售業(其他綜合商品零售業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.645402977526",
@@ -13,10 +13,136 @@
         "name": "鉅新國際股份有限公司青海路商場"
     },
     "reports": {
-        "AIR": [
-
-        ],
+        "AIR": [],
         "WAT": [
+            {
+                "REGISTRATIONNO": "B2314018",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2015\/07\/01",
+                "EMIENDDATE": "2015\/12\/31",
+                "EMIWATER": "11321",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "76",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2016\/06\/03 09:01",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B2314018",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2015\/07\/01",
+                "EMIENDDATE": "2015\/12\/31",
+                "EMIWATER": "11321",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "24.70",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2016\/06\/03 09:01",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B2314018",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2015\/07\/01",
+                "EMIENDDATE": "2015\/12\/31",
+                "EMIWATER": "11321",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "水溫(攝氏)",
+                "EMIITEMVALUE": "24.80",
+                "EMIITEMUNIT": "攝氏",
+                "UPDATETIME": "2016\/06\/03 09:01",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B2314018",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2015\/07\/01",
+                "EMIENDDATE": "2015\/12\/31",
+                "EMIWATER": "11321",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "水量(CMH)",
+                "EMIITEMVALUE": "4.80",
+                "EMIITEMUNIT": "CMH",
+                "UPDATETIME": "2016\/06\/03 09:01",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B2314018",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2015\/07\/01",
+                "EMIENDDATE": "2015\/12\/31",
+                "EMIWATER": "11321",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "油脂",
+                "EMIITEMVALUE": "1.20",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2016\/06\/03 09:01",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B2314018",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2015\/07\/01",
+                "EMIENDDATE": "2015\/12\/31",
+                "EMIWATER": "11321",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "15.60",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2016\/06\/03 09:01",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B2314018",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2015\/07\/01",
+                "EMIENDDATE": "2015\/12\/31",
+                "EMIWATER": "11321",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "陰離子界面活性劑",
+                "EMIITEMVALUE": "5.79",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2016\/06\/03 09:01",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B2314018",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2015\/07\/01",
+                "EMIENDDATE": "2015\/12\/31",
+                "EMIWATER": "11321",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "ｐＨ值",
+                "EMIITEMVALUE": "7.10",
+                "EMIITEMUNIT": "",
+                "UPDATETIME": "2016\/06\/03 09:01",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
             {
                 "REGISTRATIONNO": "B2314018",
                 "DISCHARGENO": "D01  ",
@@ -786,20 +912,10 @@
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }
