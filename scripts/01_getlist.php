@@ -53,8 +53,17 @@ class prtrList {
         foreach ($lines AS $line) {
             $line = str_replace("\r\n", ' ', $line);
             $cols = preg_split('/[ \\/]+/', trim(strip_tags($line)));
-            if (count($cols) === 5) {
-                fputcsv($this->fh, $cols);
+            foreach($cols AS $k => $v) {
+              $cols[$k] = trim($v);
+            }
+            if (count($cols) === 7) {
+                fputcsv($this->fh, array(
+                  $cols[0],
+                  $cols[3],
+                  $cols[4],
+                  $cols[5],
+                  $cols[6],
+                ));
             }
         }
     }
