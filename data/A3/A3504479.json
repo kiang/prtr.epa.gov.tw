@@ -5,7 +5,7 @@
         "管制編號": "A3504479",
         "行業別": "廢棄物清除業(有害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.555325173633",
@@ -13,24 +13,12 @@
         "name": "和輝環保工程有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3504479",
@@ -325,27 +313,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "和輝環保工程有限公司",
                 "TRANSGRESSCONTROLID": "A3504479"
-            },
-            {
-                "REGISTRATIONNO": "A3504479",
-                "FACILITYNAME": "和輝環保工程有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-100-040007",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/04\/25",
-                "TRANSGRESSDATE": "2011\/04\/15",
-                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第17條第2項，廢棄物清理法第42條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

@@ -1,38 +1,46 @@
 {
     "info": {
-        "地址": "臺北市松山區南京東路四段１號１２樓",
+        "地址": "臺北市松山區民生東路三段１３１號５樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A3404590",
         "行業別": "倉儲業(普通倉儲業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.549618712993",
-        "latitude": "25.0519007897473",
+        "longitude": "121.547898037639",
+        "latitude": "25.0579450179585",
         "name": "匯僑股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A3404590",
+                "FACILITYNAME": "匯僑股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "34-105-030002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/03",
+                "TRANSGRESSDATE": "2016\/02\/03",
+                "TRANSGRESSLAW": "毒性化學物質管理法第17條第2項，毒性化學物質標示及物質安全資料表管理辦法第11條",
+                "PENALTYMONEY": 66000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/04\/09 01:00",
+                "IMPROVEDEADLINE": "2016-03-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "匯僑股份有限公司",
+                "TRANSGRESSCONTROLID": "A3404590"
+            }
         ]
     }
 }

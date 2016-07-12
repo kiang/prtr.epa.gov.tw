@@ -5,7 +5,7 @@
         "管制編號": "A3405275",
         "行業別": "貨運承攬業(海洋貨運承攬業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.549669506186",
@@ -13,13 +13,79 @@
         "name": "台塑海運股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A3405275",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "78.46",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3405275",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "111.68",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3405275",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "80.32",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3405275",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "475.09",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3405275",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "55.06",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A3405275",
                 "EMIYEAR": "2015",
@@ -558,20 +624,6 @@
                 "EMIMONTH": "5",
                 "EMIITEMID": "D-1799",
                 "EMIITEMNAME": "廢油混合物",
-                "CLEANCODE": "Z06",
-                "CLEANNAME": "物理處理",
-                "EMIITEMVALUE": "95.42",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A3405275",
-                "EMIYEAR": "2012",
-                "EMIMONTH": "5",
-                "EMIITEMID": "D-1799",
-                "EMIITEMNAME": "廢油混合物",
                 "CLEANCODE": "Z99",
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "8.50",
@@ -583,12 +635,12 @@
             {
                 "REGISTRATIONNO": "A3405275",
                 "EMIYEAR": "2012",
-                "EMIMONTH": "4",
+                "EMIMONTH": "5",
                 "EMIITEMID": "D-1799",
                 "EMIITEMNAME": "廢油混合物",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
-                "EMIITEMVALUE": "29.40",
+                "EMIITEMVALUE": "95.42",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -611,12 +663,12 @@
             {
                 "REGISTRATIONNO": "A3405275",
                 "EMIYEAR": "2012",
-                "EMIMONTH": "3",
+                "EMIMONTH": "4",
                 "EMIITEMID": "D-1799",
                 "EMIITEMNAME": "廢油混合物",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
-                "EMIITEMVALUE": "42.86",
+                "EMIITEMVALUE": "29.40",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -631,6 +683,20 @@
                 "CLEANCODE": "Z99",
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "15.80",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3405275",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "42.86",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -679,17 +745,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

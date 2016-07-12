@@ -3,9 +3,9 @@
         "地址": "臺北市大安區基隆路二段１７２之１號１３樓之１",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A35B2540",
-        "行業別": "電信業(電信業)",
+        "行業別": "電信業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.554243970448",
@@ -13,13 +13,79 @@
         "name": "台灣固網股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A35B2540",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "E-0202",
+                "EMIITEMNAME": "含油脂之充膠廢電線電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "25.80",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B2540",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "E-0202",
+                "EMIITEMNAME": "含油脂之充膠廢電線電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "15.50",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B2540",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "E-0202",
+                "EMIITEMNAME": "含油脂之充膠廢電線電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "10.40",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B2540",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "E-0202",
+                "EMIITEMNAME": "含油脂之充膠廢電線電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "25.12",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B2540",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "E-0202",
+                "EMIITEMNAME": "含油脂之充膠廢電線電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "12.80",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A35B2540",
                 "EMIYEAR": "2015",
@@ -609,15 +675,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A35B2540",

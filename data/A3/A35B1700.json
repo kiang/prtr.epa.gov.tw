@@ -5,7 +5,7 @@
         "管制編號": "A35B1700",
         "行業別": "其他專門營造業(其他專門營造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.538120551956",
@@ -13,13 +13,65 @@
         "name": "中鹿營造股份有限公司-97建字第350號新建(含拆除)工程"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A35B1700",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "114.06",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B1700",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "142.16",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B1700",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "164.65",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B1700",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "114.42",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A35B1700",
                 "EMIYEAR": "2015",
@@ -30,7 +82,7 @@
                 "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "124.71",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:04",
+                "UPDATETIME": "2016\/05\/05 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -318,10 +370,10 @@
                 "REGISTRATIONNO": "A35B1700",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "12",
-                "EMIITEMID": "R-1301",
-                "EMIITEMNAME": "廢鐵",
-                "CLEANCODE": "Y00",
-                "CLEANNAME": "該項廢棄物無需清除者",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2014\/06\/27 01:00",
@@ -346,10 +398,10 @@
                 "REGISTRATIONNO": "A35B1700",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "12",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
+                "EMIITEMID": "R-1301",
+                "EMIITEMNAME": "廢鐵",
+                "CLEANCODE": "Y00",
+                "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2014\/06\/27 01:00",
@@ -430,10 +482,10 @@
                 "REGISTRATIONNO": "A35B1700",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "6",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
+                "EMIITEMID": "R-1301",
+                "EMIITEMNAME": "廢鐵",
+                "CLEANCODE": "Y00",
+                "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
@@ -444,6 +496,20 @@
                 "REGISTRATIONNO": "A35B1700",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "6",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B1700",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "5",
                 "EMIITEMID": "R-1301",
                 "EMIITEMNAME": "廢鐵",
                 "CLEANCODE": "Y00",
@@ -476,20 +542,6 @@
                 "EMIITEMNAME": "營建混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A35B1700",
-                "EMIYEAR": "2013",
-                "EMIMONTH": "5",
-                "EMIITEMID": "R-1301",
-                "EMIITEMNAME": "廢鐵",
-                "CLEANCODE": "Y00",
-                "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
@@ -542,20 +594,6 @@
                 "REGISTRATIONNO": "A35B1700",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "3",
-                "EMIITEMID": "R-1301",
-                "EMIITEMNAME": "廢鐵",
-                "CLEANCODE": "Y00",
-                "CLEANNAME": "該項廢棄物無需清除者",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A35B1700",
-                "EMIYEAR": "2013",
-                "EMIMONTH": "3",
                 "EMIITEMID": "R-0503",
                 "EMIITEMNAME": "營建混合物",
                 "CLEANCODE": "Y03",
@@ -574,6 +612,20 @@
                 "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B1700",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "3",
+                "EMIITEMID": "R-1301",
+                "EMIITEMNAME": "廢鐵",
+                "CLEANCODE": "Y00",
+                "CLEANNAME": "該項廢棄物無需清除者",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
@@ -595,17 +647,9 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

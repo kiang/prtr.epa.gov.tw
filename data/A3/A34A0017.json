@@ -5,7 +5,7 @@
         "管制編號": "A34A0017",
         "行業別": "玻璃及其製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.545143396479",
@@ -13,46 +13,12 @@
         "name": "台灣玻璃工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "A34A0017",
-                "FACILITYNAME": "台灣玻璃工業股份有限公司",
-                "COUNTY": "桃園市",
-                "COUNTYCODE": "10",
-                "DOCUMENTNO": "30-100-050009",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/05\/09",
-                "TRANSGRESSDATE": "2011\/04\/14",
-                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第52條第1項",
-                "PENALTYMONEY": 210000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台灣玻璃工業股份有限公司",
-                "TRANSGRESSCONTROLID": "A34A0017"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

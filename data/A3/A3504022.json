@@ -5,7 +5,7 @@
         "管制編號": "A3504022",
         "行業別": "其他化學製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/07\/12",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.549235762346",
@@ -13,26 +13,34 @@
         "name": "東聯化學股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A3504022",
+                "FACILITYNAME": "東聯化學股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-105-050017",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/23",
+                "TRANSGRESSDATE": "2016\/04\/11",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第10條第1項",
+                "PENALTYMONEY": 27500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "東聯化學股份有限公司-EG Paving及廢水收集系統工程",
+                "TRANSGRESSCONTROLID": "E1901703"
+            }
         ]
     }
 }
