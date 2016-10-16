@@ -5,7 +5,7 @@
         "管制編號": "N1006475",
         "行業別": "其他金屬製品製造業(螺絲、螺帽及鉚釘製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.551740554943",
@@ -20,6 +20,118 @@
 
         ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "N1006475",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-0903",
+                "EMIITEMNAME": "非有害油泥",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.20",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "N1006475",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-0903",
+                "EMIITEMNAME": "非有害油泥",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.20",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "N1006475",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-0903",
+                "EMIITEMNAME": "非有害油泥",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.20",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "N1006475",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-0903",
+                "EMIITEMNAME": "非有害油泥",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.10",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "N1006475",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-0903",
+                "EMIITEMNAME": "非有害油泥",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.10",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "N1006475",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-0903",
+                "EMIITEMNAME": "非有害油泥",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.20",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "N1006475",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-0903",
+                "EMIITEMNAME": "非有害油泥",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.10",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:05",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "N1006475",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-0903",
+                "EMIITEMNAME": "非有害油泥",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.10",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "N1006475",
                 "EMIYEAR": "2015",
@@ -633,7 +745,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "N1006475",
+                "FACILITYNAME": "加利興業股份有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "40-105-080009",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/19",
+                "TRANSGRESSDATE": "2016\/08\/03",
+                "TRANSGRESSLAW": "廢棄物清理法第28條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "加利興業股份有限公司",
+                "TRANSGRESSCONTROLID": "N1006475"
+            }
         ]
     }
 }

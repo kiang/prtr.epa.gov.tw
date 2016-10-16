@@ -5,12 +5,12 @@
         "管制編號": "V8403106",
         "行業別": "氣體燃料供應業(氣體燃料供應業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
         "latitude": "0",
-        "name": "逢欣實業股份有限公司"
+        "name": "逢欣實業有限公司"
     },
     "reports": {
         "AIR": [
@@ -32,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "V8403106",
+                "FACILITYNAME": "逢欣實業有限公司",
+                "COUNTY": "臺東縣",
+                "COUNTYCODE": "21",
+                "DOCUMENTNO": "21-105-080061",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/26",
+                "TRANSGRESSDATE": "2016\/07\/14",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 3000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "逢欣實業股份有限公司",
+                "TRANSGRESSCONTROLID": "V8403106"
+            },
             {
                 "REGISTRATIONNO": "V8403106",
                 "FACILITYNAME": "逢欣實業股份有限公司",
@@ -62,27 +83,6 @@
                 "PENALTYYEAR": "2011",
                 "PENALTYDATE": "2011\/12\/28",
                 "TRANSGRESSDATE": "2011\/11\/14",
-                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
-                "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "逢欣實業股份有限公司",
-                "TRANSGRESSCONTROLID": "V8403106"
-            },
-            {
-                "REGISTRATIONNO": "V8403106",
-                "FACILITYNAME": "逢欣實業股份有限公司",
-                "COUNTY": "臺東縣",
-                "COUNTYCODE": "21",
-                "DOCUMENTNO": "21-100-080006",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/08",
-                "TRANSGRESSDATE": "2011\/07\/06",
                 "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
                 "PENALTYMONEY": 5000,
                 "ISPETITION": "否",

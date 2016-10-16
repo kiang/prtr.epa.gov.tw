@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺中市龍井區沙田路四段二四七號",
+        "地址": "臺中市龍井區沙田路四段２４７號",
         "所屬工業區": "無特定工業區",
         "管制編號": "L02A2882",
         "行業別": "其他組織(未分類其他組織)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.545697461088",
-        "latitude": "24.1928128404815",
+        "longitude": "120.545697439029",
+        "latitude": "24.1928128223307",
         "name": "臺中市龍井區公所"
     },
     "reports": {
@@ -607,27 +607,7 @@
 
         ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "L02A2882",
-                "FACILITYNAME": "臺中市龍井區公所",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "23-100-030005",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/03\/16",
-                "TRANSGRESSDATE": "2010\/12\/31",
-                "TRANSGRESSLAW": "空氣污染防制法第16條第2項",
-                "PENALTYMONEY": 1500,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-03-16",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            }
+
         ]
     }
 }

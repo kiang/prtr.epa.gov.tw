@@ -5,7 +5,7 @@
         "管制編號": "Q7003018",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -127,7 +127,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "Q7003018",
+                "FACILITYNAME": "大慶鴻畜牧場",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "40-105-080013",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/06",
+                "TRANSGRESSDATE": "2016\/07\/19",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第10條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-09-10",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "大慶鴻畜牧場",
+                "TRANSGRESSCONTROLID": "Q7003018"
+            }
         ]
     }
 }

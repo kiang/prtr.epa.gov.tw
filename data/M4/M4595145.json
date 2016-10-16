@@ -3,9 +3,9 @@
         "地址": "南投縣仁愛鄉精英村榮華巷１２號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "M4595145",
-        "行業別": "餐館業(餐館業)",
+        "行業別": "餐館業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.182067172268",
@@ -20,7 +20,62 @@
 
         ],
         "WAS": [
-
+            {
+                "REGISTRATIONNO": "M4595145",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "M4595145",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "M4595145",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:05",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "M4595145",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/05 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
         ],
         "TOX": [
 
@@ -32,27 +87,7 @@
 
         ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "M4595145",
-                "FACILITYNAME": "廬山園游泳池大飯店",
-                "COUNTY": "南投縣",
-                "COUNTYCODE": "15",
-                "DOCUMENTNO": "30-100-080002",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/10",
-                "TRANSGRESSDATE": "2011\/06\/14",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項",
-                "PENALTYMONEY": 240000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-07-22",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "廬山園游泳池大飯店",
-                "TRANSGRESSCONTROLID": "M4595145"
-            }
+
         ]
     }
 }

@@ -5,7 +5,7 @@
         "管制編號": "S1666928",
         "行業別": "其他化學製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.266157883774",
@@ -25,6 +25,34 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "S1666928",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "06101               ",
+                "TOXICNAME": "環氧乙烷",
+                "TOXICENGNAME": "Ethylene oxide",
+                "EMIVALUE": "0.0044",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "S1666928",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "12601               ",
+                "TOXICNAME": "氯乙烷",
+                "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
+                "EMIVALUE": "6.0180",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "S1666928",
                 "QUARTER": "4",
                 "STARTDATE": "2015\/10\/01",
                 "ENDDATE": "2015\/12\/31",
@@ -34,7 +62,7 @@
                 "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
                 "EMIVALUE": "6.0180",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +76,7 @@
                 "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
                 "EMIVALUE": "6.0180",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +90,7 @@
                 "TOXICENGNAME": "Ethylene oxide",
                 "EMIVALUE": "0.000350",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +104,7 @@
                 "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
                 "EMIVALUE": "5.8410",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +118,7 @@
                 "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
                 "EMIVALUE": "12.0360",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +132,7 @@
                 "TOXICENGNAME": "Ethylene oxide",
                 "EMIVALUE": "0.008890",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +146,7 @@
                 "TOXICENGNAME": "Ethylene oxide",
                 "EMIVALUE": "0.000370",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +160,7 @@
                 "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
                 "EMIVALUE": "11.8480",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,21 +174,7 @@
                 "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
                 "EMIVALUE": "6.0180",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "S1666928",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "12601               ",
-                "TOXICNAME": "氯乙烷",
-                "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
-                "EMIVALUE": "8.1420",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -174,7 +188,21 @@
                 "TOXICENGNAME": "Ethylene oxide",
                 "EMIVALUE": "0.000730",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "S1666928",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "12601               ",
+                "TOXICNAME": "氯乙烷",
+                "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
+                "EMIVALUE": "8.1420",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -188,7 +216,7 @@
                 "TOXICENGNAME": "Chloroethane (Ethyl chloride)",
                 "EMIVALUE": "6.0180",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

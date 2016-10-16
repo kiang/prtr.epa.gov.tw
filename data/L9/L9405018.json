@@ -5,7 +5,7 @@
         "管制編號": "L9405018",
         "行業別": "半導體製造業(半導體封裝及測試業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "L9405018",
+                "FACILITYNAME": "矽品精密工業股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-105-060013",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/15",
+                "TRANSGRESSDATE": "2016\/03\/11",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "2016-07-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "矽品精密工業股份有限公司大豐廠",
+                "TRANSGRESSCONTROLID": "L9401476"
+            }
         ]
     }
 }

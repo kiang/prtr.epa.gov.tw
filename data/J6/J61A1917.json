@@ -5,7 +5,7 @@
         "管制編號": "J61A1917",
         "行業別": "廢（污）水處理業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "J61A1917",
+                "FACILITYNAME": "新豐鄉坪頂自辦農村社區土地重劃區",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-105-040006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/23",
+                "TRANSGRESSDATE": "2016\/01\/26",
+                "TRANSGRESSLAW": "水污染防治法第181條第4項，水污染防治法第181條第1項",
+                "PENALTYMONEY": 126000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "新豐鄉坪頂自辦農村社區土地重劃區",
+                "TRANSGRESSCONTROLID": "J61A1917"
+            }
         ]
     }
 }

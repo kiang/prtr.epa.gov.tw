@@ -5,7 +5,7 @@
         "管制編號": "H4642255",
         "行業別": "其他專門營造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.286566644014",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "H46A5280",
+                "FACILITYNAME": "金連興業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "34-105-080001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/19",
+                "TRANSGRESSDATE": "2016\/06\/15",
+                "TRANSGRESSLAW": "毒性化學物質管理法第7條第5項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "金連興業股份有限公司桃園廠",
+                "TRANSGRESSCONTROLID": "H4642255"
+            }
         ]
     }
 }

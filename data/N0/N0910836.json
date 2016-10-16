@@ -5,7 +5,7 @@
         "管制編號": "N0910836",
         "行業別": "其他化學製品製造業(其他化學製品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.486545494289",
@@ -25,6 +25,20 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "N0910836",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "18",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "N0910836",
                 "QUARTER": "2",
                 "STARTDATE": "2015\/04\/01",
                 "ENDDATE": "2015\/06\/30",
@@ -34,7 +48,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "18",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +62,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "18",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             }
         ],
@@ -74,7 +88,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/04\/09 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "寶原實業有限公司",

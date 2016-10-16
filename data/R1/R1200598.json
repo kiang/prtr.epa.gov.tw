@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺南市關廟區南雄路二六三號",
+        "地址": "臺南市關廟區南雄路２６３號",
         "所屬工業區": "無特定工業區",
         "管制編號": "R1200598",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.333735899488",
-        "latitude": "22.9399673181944",
+        "longitude": "120.333735827193",
+        "latitude": "22.939967301484",
         "name": "林松淇畜牧場"
     },
     "reports": {
@@ -271,27 +271,7 @@
 
         ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "R1200598",
-                "FACILITYNAME": "林松淇畜牧場",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-100-030021",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/03\/30",
-                "TRANSGRESSDATE": "2011\/02\/22",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-05-05",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "林松淇畜牧場",
-                "TRANSGRESSCONTROLID": "R1200598"
-            }
+
         ]
     }
 }

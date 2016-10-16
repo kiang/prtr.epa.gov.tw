@@ -5,7 +5,7 @@
         "管制編號": "A39B9398",
         "行業別": "洗衣業(洗衣業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.527216846186",
@@ -16,13 +16,41 @@
         "AIR": [
             {
                 "REGISTRATIONNO": "A39B9398",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "核算確認中",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.033
+            },
+            {
+                "REGISTRATIONNO": "A39B9398",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.025
+            },
+            {
+                "REGISTRATIONNO": "A39B9398",
                 "QUARTER": "4",
                 "STARTDATE": "2015\/10\/01",
                 "ENDDATE": "2015\/12\/31",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/06\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": 0,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -36,7 +64,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/06\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": 0,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -50,7 +78,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/06\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": 0,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -64,7 +92,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/06\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": 0,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -92,7 +120,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/06\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -106,7 +134,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/06\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -134,11 +162,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/06\/29",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0.017
+                "UPDATETIME": "2015\/05\/03",
+                "EMIITEM1": 0,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
             },
             {
                 "REGISTRATIONNO": "A39B9398",
@@ -148,11 +176,25 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2015\/05\/03",
-                "EMIITEM1": 0,
-                "EMIITEM2": null,
-                "EMIITEM3": null,
-                "EMIITEM4": null
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.017
+            },
+            {
+                "REGISTRATIONNO": "A39B9398",
+                "QUARTER": "1",
+                "STARTDATE": "2014\/01\/01",
+                "ENDDATE": "2014\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.018
             },
             {
                 "REGISTRATIONNO": "A39B9398",
@@ -167,20 +209,6 @@
                 "EMIITEM2": null,
                 "EMIITEM3": null,
                 "EMIITEM4": null
-            },
-            {
-                "REGISTRATIONNO": "A39B9398",
-                "QUARTER": "1",
-                "STARTDATE": "2014\/01\/01",
-                "ENDDATE": "2014\/03\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/06\/29",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0.018
             },
             {
                 "REGISTRATIONNO": "A39B9398",
@@ -204,7 +232,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/05\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -232,7 +260,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/05\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -246,7 +274,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/05\/29",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0,
@@ -267,11 +295,23 @@
                 "EMIITEM4": null
             }
         ],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

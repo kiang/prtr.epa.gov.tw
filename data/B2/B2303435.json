@@ -5,7 +5,7 @@
         "管制編號": "B2303435",
         "行業別": "電腦及其週邊設備製造業(其他電腦週邊設備製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.590985367852",
@@ -13,9 +13,97 @@
         "name": "台灣發那科股份有限公司電子工廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B2303435",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-2504",
+                "EMIITEMNAME": "不含塑膠、橡膠或油脂之廢馬達",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2303435",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.05",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2303435",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-2504",
+                "EMIITEMNAME": "不含塑膠、橡膠或油脂之廢馬達",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2303435",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.05",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2303435",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "R-0201",
+                "EMIITEMNAME": "廢塑膠",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "0.05",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2303435",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-2504",
+                "EMIITEMNAME": "不含塑膠、橡膠或油脂之廢馬達",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B2303435",
                 "EMIYEAR": "2016",
@@ -1028,11 +1116,11 @@
                 "REGISTRATIONNO": "B2303435",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "8",
-                "EMIITEMID": "D-2504",
-                "EMIITEMNAME": "不含塑膠、橡膠或油脂之廢馬達",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
-                "EMIITEMVALUE": "1.32",
+                "EMIITEMVALUE": "0.8650",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -1042,11 +1130,11 @@
                 "REGISTRATIONNO": "B2303435",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "8",
-                "EMIITEMID": "D-2527",
-                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "EMIITEMID": "D-2504",
+                "EMIITEMNAME": "不含塑膠、橡膠或油脂之廢馬達",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
-                "EMIITEMVALUE": "0.8650",
+                "EMIITEMVALUE": "1.32",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
@@ -1084,20 +1172,6 @@
                 "REGISTRATIONNO": "B2303435",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "2",
-                "EMIITEMID": "D-2527",
-                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
-                "CLEANCODE": "Z06",
-                "CLEANNAME": "物理處理",
-                "EMIITEMVALUE": "1.2470",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B2303435",
-                "EMIYEAR": "2012",
-                "EMIMONTH": "2",
                 "EMIITEMID": "D-2504",
                 "EMIITEMNAME": "不含塑膠、橡膠或油脂之廢馬達",
                 "CLEANCODE": "Z06",
@@ -1107,11 +1181,33 @@
                 "UPDATETIME": "2013\/12\/24 15:26",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2303435",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "1.2470",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2013\/12\/24 15:26",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

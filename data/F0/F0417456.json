@@ -3,9 +3,9 @@
         "地址": "新北市中和區中正路８６６、８６６之１、８６６之２號１０樓及８６６之７號１３樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "F0417456",
-        "行業別": "家庭器具及用品批發業",
+        "行業別": "化學材料及其製品批發業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.484379598704",
@@ -25,6 +25,48 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "F0417456",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05501               ",
+                "TOXICNAME": "三氧化鉻(鉻酸)",
+                "TOXICENGNAME": " Chromium(VI) trioxide",
+                "EMIVALUE": "1.1570",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0417456",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05502               ",
+                "TOXICNAME": "重鉻酸鉀",
+                "TOXICENGNAME": "Potassium dichromate",
+                "EMIVALUE": "1.25",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0417456",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05501               ",
+                "TOXICNAME": "三氧化鉻(鉻酸)",
+                "TOXICENGNAME": " Chromium(VI) trioxide",
+                "EMIVALUE": "6.714360",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0417456",
                 "QUARTER": "4",
                 "STARTDATE": "2015\/10\/01",
                 "ENDDATE": "2015\/12\/31",
@@ -32,9 +74,23 @@
                 "EMIITEMID": "05501               ",
                 "TOXICNAME": "三氧化鉻(鉻酸)",
                 "TOXICENGNAME": " Chromium(VI) trioxide",
-                "EMIVALUE": "41.0960",
+                "EMIVALUE": "4.844288",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0417456",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05502               ",
+                "TOXICNAME": "重鉻酸鉀",
+                "TOXICENGNAME": "Potassium dichromate",
+                "EMIVALUE": "1.25",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,21 +104,21 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "0.072576",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "F0417456",
-                "QUARTER": "3",
-                "STARTDATE": "2015\/07\/01",
-                "ENDDATE": "2015\/09\/30",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05502               ",
-                "TOXICNAME": "重鉻酸鉀",
-                "TOXICENGNAME": "Potassium dichromate",
-                "EMIVALUE": "1.25",
+                "EMIITEMID": "05520               ",
+                "TOXICNAME": "鉻酸鈉",
+                "TOXICENGNAME": "Sodium chromate",
+                "EMIVALUE": "0.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,21 +132,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "9.661792",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F0417456",
-                "QUARTER": "2",
-                "STARTDATE": "2015\/04\/01",
-                "ENDDATE": "2015\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05520               ",
-                "TOXICNAME": "鉻酸鈉",
-                "TOXICENGNAME": "Sodium chromate",
-                "EMIVALUE": "0.50",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +146,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "1.25",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +160,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "4.277896",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +174,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "1.25",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,7 +188,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "2.454824",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -160,7 +202,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "2.110040",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -174,7 +216,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "3.3330",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -188,7 +230,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "1.25",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -202,7 +244,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "6.6070",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -216,7 +258,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "1.25",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -230,7 +272,7 @@
                 "TOXICENGNAME": "Sodium chromate",
                 "EMIVALUE": "0.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -244,21 +286,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "2.0340",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F0417456",
-                "QUARTER": "3",
-                "STARTDATE": "2013\/07\/01",
-                "ENDDATE": "2013\/09\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05501               ",
-                "TOXICNAME": "三氧化鉻(鉻酸)",
-                "TOXICENGNAME": " Chromium(VI) trioxide",
-                "EMIVALUE": "7.6320",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -272,21 +300,21 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "1.25",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "F0417456",
-                "QUARTER": "2",
-                "STARTDATE": "2013\/04\/01",
-                "ENDDATE": "2013\/06\/30",
+                "QUARTER": "3",
+                "STARTDATE": "2013\/07\/01",
+                "ENDDATE": "2013\/09\/30",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "05501               ",
                 "TOXICNAME": "三氧化鉻(鉻酸)",
                 "TOXICENGNAME": " Chromium(VI) trioxide",
-                "EMIVALUE": "1.6290",
+                "EMIVALUE": "7.6320",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -300,7 +328,7 @@
                 "TOXICENGNAME": "Sodium chromate",
                 "EMIVALUE": "0.18",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -314,7 +342,21 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "1",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0417456",
+                "QUARTER": "2",
+                "STARTDATE": "2013\/04\/01",
+                "ENDDATE": "2013\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05501               ",
+                "TOXICNAME": "三氧化鉻(鉻酸)",
+                "TOXICENGNAME": " Chromium(VI) trioxide",
+                "EMIVALUE": "1.6290",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -328,7 +370,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "5.28",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -342,7 +384,7 @@
                 "TOXICENGNAME": "Sodium chromate",
                 "EMIVALUE": "0.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -356,7 +398,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "1",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -370,7 +412,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "0.2160",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -384,7 +426,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "4.4660",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -398,7 +440,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "1",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -412,7 +454,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "0.1350",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

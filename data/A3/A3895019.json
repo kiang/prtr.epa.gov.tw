@@ -1,24 +1,36 @@
 {
     "info": {
-        "地址": "臺北市信義區吳興街五八三巷一七一號一樓",
-        "所屬工業區": "無特定工業區",
+        "地址": "臺北市信義區吳興街５８３巷１７１號１樓",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "A3895019",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.571151201932",
-        "latitude": "25.0194989943185",
+        "longitude": "121.571151244624",
+        "latitude": "25.0194989745474",
         "name": "伯克來環保工程有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3895019",
@@ -141,27 +153,6 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:12",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A3895019",
-                "FACILITYNAME": "伯克來環保工程有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-100-070004",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/05",
-                "TRANSGRESSDATE": "2011\/07\/01",
-                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第18條，廢棄物清理法第42條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",

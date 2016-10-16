@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "新北市土城區日新街三三巷七號",
-        "所屬工業區": "無特定工業區",
+        "地址": "新北市土城區日新街３３巷７號１、３樓",
+        "所屬工業區": "其他工業區",
         "管制編號": "F13A6017",
-        "行業別": "暫無分類",
+        "行業別": "其他食品製造業(烘焙炊蒸食品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "0",
-        "latitude": "0",
+        "longitude": "121.44322501997",
+        "latitude": "24.9873790180417",
         "name": "嘉軒食品廠有限公司"
     },
     "reports": {
@@ -20,7 +20,48 @@
 
         ],
         "WAS": [
-
+            {
+                "REGISTRATIONNO": "F13A6017",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "X99",
+                "CLEANNAME": "其他最終處理方式",
+                "EMIITEMVALUE": "42",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:06",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F13A6017",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.10",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:06",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F13A6017",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "X99",
+                "CLEANNAME": "其他最終處理方式",
+                "EMIITEMVALUE": "0.70",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:06",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
         ],
         "TOX": [
 

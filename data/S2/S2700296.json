@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "高雄市田寮區古亭里一八號",
+        "地址": "高雄市田寮區古亭里１８號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "S2700296",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.399889947103",
-        "latitude": "22.8944600143659",
-        "name": "許振發即許振發畜牧場"
+        "longitude": "120.411855950216",
+        "latitude": "22.9023080144165",
+        "name": "許振發畜牧場"
     },
     "reports": {
         "AIR": [
@@ -127,6 +127,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2700296",
+                "FACILITYNAME": "許振發畜牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-105-060003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/02",
+                "TRANSGRESSDATE": "2016\/03\/29",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "許振發即許振發畜牧場",
+                "TRANSGRESSCONTROLID": "S2700296"
+            },
             {
                 "REGISTRATIONNO": "S2700296",
                 "FACILITYNAME": "許振發即許振發畜牧場",

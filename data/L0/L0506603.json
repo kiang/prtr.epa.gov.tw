@@ -5,7 +5,7 @@
         "管制編號": "L0506603",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.697624474105",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "L0506603",
+                "FACILITYNAME": "元大環保工程股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "44-105-030001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/03",
+                "TRANSGRESSDATE": "2016\/01\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/04\/09 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "元大環保工程股份有限公司",
+                "TRANSGRESSCONTROLID": "L0506603"
+            }
         ]
     }
 }

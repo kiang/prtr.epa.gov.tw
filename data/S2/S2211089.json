@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "高雄市仁武區竹後里鳳仁路三二九之一號",
+        "地址": "高雄市仁武區竹後里鳳仁路３２９之１號",
         "所屬工業區": "無特定工業區",
         "管制編號": "S2211089",
-        "行業別": "化學材料及其製品批發業(化學製品批發業)",
+        "行業別": "化學材料及其製品批發業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.336342928074",
@@ -25,6 +25,20 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "S2211089",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04602               ",
+                "TOXICNAME": "氰化鉀",
+                "TOXICENGNAME": "Potassium cyanide",
+                "EMIVALUE": "13.50",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "S2211089",
                 "QUARTER": "2",
                 "STARTDATE": "2015\/04\/01",
                 "ENDDATE": "2015\/06\/30",
@@ -34,7 +48,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "13.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +62,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "13.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +76,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "13.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +90,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "27",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +104,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "13.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +118,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "13.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +132,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "13.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             }
         ],

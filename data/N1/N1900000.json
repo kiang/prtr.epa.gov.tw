@@ -5,7 +5,7 @@
         "管制編號": "N1900000",
         "行業別": "公共行政業(政府機關)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.53833211897",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "N19097000395",
+                "FACILITYNAME": "彰化縣花壇鄉公所",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "41-105-080050",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/19",
+                "TRANSGRESSDATE": "2016\/07\/11",
+                "TRANSGRESSLAW": "一般廢棄物回收清除處理辦法第7條，廢棄物清理法第12條第1項",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "彰化縣花壇鄉公所清潔隊",
+                "TRANSGRESSCONTROLID": "N1900000"
+            }
         ]
     }
 }

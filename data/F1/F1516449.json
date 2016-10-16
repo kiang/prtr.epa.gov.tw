@@ -5,7 +5,7 @@
         "管制編號": "F1516449",
         "行業別": "其他化學製品製造業(其他化學製品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.44934770908",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "F1516449",
+                "FACILITYNAME": "澤利企業股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "34-105-050001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/06",
+                "TRANSGRESSDATE": "2015\/10\/26",
+                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "澤利企業股份有限公司",
+                "TRANSGRESSCONTROLID": "F1516449"
+            }
         ]
     }
 }

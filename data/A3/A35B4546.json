@@ -1,21 +1,137 @@
 {
     "info": {
-        "地址": "臺北市大安區基隆路三段一五三號一樓",
+        "地址": "臺北市大安區基隆路三段１５３號１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A35B4546",
         "行業別": "獸醫服務業(獸醫服務業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.542941809234",
-        "latitude": "25.0157770431383",
+        "longitude": "121.542941845911",
+        "latitude": "25.0157770234484",
         "name": "國立台灣大學生物資源暨農學院附設動物醫院"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A35B4546",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0513",
+                "EMIITEMNAME": "感染性廢棄物(病理、血液、受污染動物屍體、殘肢及墊料類)",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.0660",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B4546",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.0002",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B4546",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "1.1090",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B4546",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "1.9430",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B4546",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.0005",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B4546",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0513",
+                "EMIITEMNAME": "感染性廢棄物(病理、血液、受污染動物屍體、殘肢及墊料類)",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.0350",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B4546",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "1.1520",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B4546",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.0002",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A35B4546",
                 "EMIYEAR": "2016",
@@ -34,11 +150,11 @@
                 "REGISTRATIONNO": "A35B4546",
                 "EMIYEAR": "2016",
                 "EMIMONTH": "2",
-                "EMIITEMID": "C-0599",
-                "EMIITEMNAME": "感染性廢棄物混合物",
-                "CLEANCODE": "Z04",
-                "CLEANNAME": "熱處理（除焚化處理外）",
-                "EMIITEMVALUE": "1.4340",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.0004",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/05\/07 09:02",
                 "RPT_TYPE": "WAS",
@@ -48,11 +164,11 @@
                 "REGISTRATIONNO": "A35B4546",
                 "EMIYEAR": "2016",
                 "EMIMONTH": "2",
-                "EMIITEMID": "D-0901",
-                "EMIITEMNAME": "有機性污泥",
-                "CLEANCODE": "Z06",
-                "CLEANNAME": "物理處理",
-                "EMIITEMVALUE": "0.0004",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "1.4340",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/05\/07 09:02",
                 "RPT_TYPE": "WAS",
@@ -76,11 +192,11 @@
                 "REGISTRATIONNO": "A35B4546",
                 "EMIYEAR": "2016",
                 "EMIMONTH": "1",
-                "EMIITEMID": "D-0901",
-                "EMIITEMNAME": "有機性污泥",
-                "CLEANCODE": "Z06",
-                "CLEANNAME": "物理處理",
-                "EMIITEMVALUE": "0.0003",
+                "EMIITEMID": "C-0202",
+                "EMIITEMNAME": "廢液pH值小(等)於2.0",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/05\/07 09:00",
                 "RPT_TYPE": "WAS",
@@ -90,11 +206,11 @@
                 "REGISTRATIONNO": "A35B4546",
                 "EMIYEAR": "2016",
                 "EMIMONTH": "1",
-                "EMIITEMID": "C-0202",
-                "EMIITEMNAME": "廢液pH值小(等)於2.0",
-                "CLEANCODE": "Z02",
-                "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.10",
+                "EMIITEMID": "D-0901",
+                "EMIITEMNAME": "有機性污泥",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.0003",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/05\/07 09:00",
                 "RPT_TYPE": "WAS",
@@ -2341,9 +2457,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

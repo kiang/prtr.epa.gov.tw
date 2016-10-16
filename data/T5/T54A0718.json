@@ -5,7 +5,7 @@
         "管制編號": "T54A0718",
         "行業別": "其他食品製造業(未分類其他食品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.548095977247",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "T54A0718",
+                "FACILITYNAME": "京冠生物科技股份有限公司",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "34-105-080001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/23",
+                "TRANSGRESSDATE": "2016\/07\/14",
+                "TRANSGRESSLAW": "毒性化學物質管理法第13條第4項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-09-30",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "京冠生物科技股份有限公司",
+                "TRANSGRESSCONTROLID": "T54A0718"
+            }
         ]
     }
 }

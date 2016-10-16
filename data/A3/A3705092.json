@@ -5,7 +5,7 @@
         "管制編號": "A3705092",
         "行業別": "化學材料及其製品批發業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.497806150592",
@@ -13,10 +13,30 @@
         "name": "嘉華化學有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
         "TOX": [
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09701               ",
+                "TOXICNAME": "吡啶",
+                "TOXICENGNAME": "Pyridine",
+                "EMIVALUE": "0.009840",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
             {
                 "REGISTRATIONNO": "A3705092",
                 "QUARTER": "1",
@@ -28,21 +48,7 @@
                 "TOXICENGNAME": "Formaldehyde",
                 "EMIVALUE": "0.0545",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "4",
-                "STARTDATE": "2014\/10\/01",
-                "ENDDATE": "2014\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "06601               ",
-                "TOXICNAME": "甲醛",
-                "TOXICENGNAME": "Formaldehyde",
-                "EMIVALUE": "0.0545",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -56,7 +62,21 @@
                 "TOXICENGNAME": "Chloroform",
                 "EMIVALUE": "0.0743",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "06601               ",
+                "TOXICNAME": "甲醛",
+                "TOXICENGNAME": "Formaldehyde",
+                "EMIVALUE": "0.0545",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -69,6 +89,20 @@
                 "TOXICNAME": "吡啶",
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.009840",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05201               ",
+                "TOXICNAME": "苯",
+                "TOXICENGNAME": "Benzene",
+                "EMIVALUE": "0.007740",
                 "ITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
@@ -89,20 +123,6 @@
             },
             {
                 "REGISTRATIONNO": "A3705092",
-                "QUARTER": "2",
-                "STARTDATE": "2014\/04\/01",
-                "ENDDATE": "2014\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05201               ",
-                "TOXICNAME": "苯",
-                "TOXICENGNAME": "Benzene",
-                "EMIVALUE": "0.007740",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
                 "QUARTER": "1",
                 "STARTDATE": "2014\/01\/01",
                 "ENDDATE": "2014\/03\/31",
@@ -112,7 +132,7 @@
                 "TOXICENGNAME": "Aniline",
                 "EMIVALUE": "0.002555",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -126,7 +146,7 @@
                 "TOXICENGNAME": "N,N-Dimethyl formamide",
                 "EMIVALUE": "0.0475",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -140,7 +160,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "0.32",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -154,35 +174,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "0.0430",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "3",
-                "STARTDATE": "2013\/07\/01",
-                "ENDDATE": "2013\/09\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05401               ",
-                "TOXICNAME": "三氯甲烷",
-                "TOXICENGNAME": "Chloroform",
-                "EMIVALUE": "0.0743",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "3",
-                "STARTDATE": "2013\/07\/01",
-                "ENDDATE": "2013\/09\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "06601               ",
-                "TOXICNAME": "甲醛",
-                "TOXICENGNAME": "Formaldehyde",
-                "EMIVALUE": "0.0545",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -196,21 +188,7 @@
                 "TOXICENGNAME": "N,N-Dimethyl formamide",
                 "EMIVALUE": "0.0090",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "3",
-                "STARTDATE": "2013\/07\/01",
-                "ENDDATE": "2013\/09\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05502               ",
-                "TOXICNAME": "重鉻酸鉀",
-                "TOXICENGNAME": "Potassium dichromate",
-                "EMIVALUE": "0.0470",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -224,7 +202,49 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.004920",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "3",
+                "STARTDATE": "2013\/07\/01",
+                "ENDDATE": "2013\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05502               ",
+                "TOXICNAME": "重鉻酸鉀",
+                "TOXICENGNAME": "Potassium dichromate",
+                "EMIVALUE": "0.0470",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "3",
+                "STARTDATE": "2013\/07\/01",
+                "ENDDATE": "2013\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05401               ",
+                "TOXICNAME": "三氯甲烷",
+                "TOXICENGNAME": "Chloroform",
+                "EMIVALUE": "0.0743",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "3",
+                "STARTDATE": "2013\/07\/01",
+                "ENDDATE": "2013\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "06601               ",
+                "TOXICNAME": "甲醛",
+                "TOXICENGNAME": "Formaldehyde",
+                "EMIVALUE": "0.0545",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -233,10 +253,10 @@
                 "STARTDATE": "2013\/04\/01",
                 "ENDDATE": "2013\/06\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05401               ",
-                "TOXICNAME": "三氯甲烷",
-                "TOXICENGNAME": "Chloroform",
-                "EMIVALUE": "0.037136",
+                "EMIITEMID": "05502               ",
+                "TOXICNAME": "重鉻酸鉀",
+                "TOXICENGNAME": "Potassium dichromate",
+                "EMIVALUE": "0.085550",
                 "ITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
@@ -261,24 +281,10 @@
                 "STARTDATE": "2013\/04\/01",
                 "ENDDATE": "2013\/06\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05502               ",
-                "TOXICNAME": "重鉻酸鉀",
-                "TOXICENGNAME": "Potassium dichromate",
-                "EMIVALUE": "0.085550",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "1",
-                "STARTDATE": "2013\/01\/01",
-                "ENDDATE": "2013\/03\/31",
-                "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "05401               ",
                 "TOXICNAME": "三氯甲烷",
                 "TOXICENGNAME": "Chloroform",
-                "EMIVALUE": "0.0150",
+                "EMIVALUE": "0.037136",
                 "ITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
@@ -299,23 +305,9 @@
             },
             {
                 "REGISTRATIONNO": "A3705092",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05502               ",
-                "TOXICNAME": "重鉻酸鉀",
-                "TOXICENGNAME": "Potassium dichromate",
-                "EMIVALUE": "0.0030",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
+                "QUARTER": "1",
+                "STARTDATE": "2013\/01\/01",
+                "ENDDATE": "2013\/03\/31",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "05401               ",
                 "TOXICNAME": "三氯甲烷",
@@ -331,12 +323,12 @@
                 "STARTDATE": "2012\/10\/01",
                 "ENDDATE": "2012\/12\/31",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "09301               ",
-                "TOXICNAME": "1,4-二氧陸圜",
-                "TOXICENGNAME": "1,4-Dioxane",
-                "EMIVALUE": "0.0020",
+                "EMIITEMID": "05502               ",
+                "TOXICNAME": "重鉻酸鉀",
+                "TOXICENGNAME": "Potassium dichromate",
+                "EMIVALUE": "0.0030",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -350,7 +342,35 @@
                 "TOXICENGNAME": "N,N-Dimethyl formamide",
                 "EMIVALUE": "0.01",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05401               ",
+                "TOXICNAME": "三氯甲烷",
+                "TOXICENGNAME": "Chloroform",
+                "EMIVALUE": "0.0150",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09301               ",
+                "TOXICNAME": "1,4-二氧陸圜",
+                "TOXICENGNAME": "1,4-Dioxane",
+                "EMIVALUE": "0.0020",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -373,20 +393,6 @@
                 "STARTDATE": "2012\/07\/01",
                 "ENDDATE": "2012\/09\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "09801               ",
-                "TOXICNAME": "二甲基甲醯胺",
-                "TOXICENGNAME": "N,N-Dimethyl formamide",
-                "EMIVALUE": "0.01",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "3",
-                "STARTDATE": "2012\/07\/01",
-                "ENDDATE": "2012\/09\/30",
-                "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "06801               ",
                 "TOXICNAME": "鄰苯二甲酸二(2-乙基己基)酯 ",
                 "TOXICENGNAME": "Di(2-ethylhexyl)phthalate（DEHP）",
@@ -397,14 +403,14 @@
             },
             {
                 "REGISTRATIONNO": "A3705092",
-                "QUARTER": "2",
-                "STARTDATE": "2012\/04\/01",
-                "ENDDATE": "2012\/06\/30",
+                "QUARTER": "3",
+                "STARTDATE": "2012\/07\/01",
+                "ENDDATE": "2012\/09\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "03706               ",
-                "TOXICNAME": "硝酸鎘",
-                "TOXICENGNAME": "Cadmium nitrate",
-                "EMIVALUE": "0.0020",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.01",
                 "ITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
@@ -420,49 +426,7 @@
                 "TOXICENGNAME": "Formaldehyde",
                 "EMIVALUE": "0.0090",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "2",
-                "STARTDATE": "2012\/04\/01",
-                "ENDDATE": "2012\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "12901               ",
-                "TOXICNAME": "硝苯",
-                "TOXICENGNAME": "Nitrobenzene",
-                "EMIVALUE": "0.02",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "2",
-                "STARTDATE": "2012\/04\/01",
-                "ENDDATE": "2012\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05401               ",
-                "TOXICNAME": "三氯甲烷",
-                "TOXICENGNAME": "Chloroform",
-                "EMIVALUE": "0.03",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "A3705092",
-                "QUARTER": "2",
-                "STARTDATE": "2012\/04\/01",
-                "ENDDATE": "2012\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05518               ",
-                "TOXICNAME": "鉻酸鉀",
-                "TOXICENGNAME": "Potassium chromate",
-                "EMIVALUE": "0.0050",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -476,49 +440,63 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.01",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "A3705092",
-                "QUARTER": "1",
-                "STARTDATE": "2012\/01\/01",
-                "ENDDATE": "2012\/03\/31",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "06801               ",
-                "TOXICNAME": "鄰苯二甲酸二(2-乙基己基)酯 ",
-                "TOXICENGNAME": "Di(2-ethylhexyl)phthalate（DEHP）",
-                "EMIVALUE": "0.01",
+                "EMIITEMID": "03706               ",
+                "TOXICNAME": "硝酸鎘",
+                "TOXICENGNAME": "Cadmium nitrate",
+                "EMIVALUE": "0.0020",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "A3705092",
-                "QUARTER": "1",
-                "STARTDATE": "2012\/01\/01",
-                "ENDDATE": "2012\/03\/31",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "06601               ",
-                "TOXICNAME": "甲醛",
-                "TOXICENGNAME": "Formaldehyde",
-                "EMIVALUE": "0.01",
+                "EMIITEMID": "12901               ",
+                "TOXICNAME": "硝苯",
+                "TOXICENGNAME": "Nitrobenzene",
+                "EMIVALUE": "0.02",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "A3705092",
-                "QUARTER": "1",
-                "STARTDATE": "2012\/01\/01",
-                "ENDDATE": "2012\/03\/31",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05201               ",
-                "TOXICNAME": "苯",
-                "TOXICENGNAME": "Benzene",
-                "EMIVALUE": "0.0030",
+                "EMIITEMID": "05401               ",
+                "TOXICNAME": "三氯甲烷",
+                "TOXICENGNAME": "Chloroform",
+                "EMIVALUE": "0.03",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05518               ",
+                "TOXICNAME": "鉻酸鉀",
+                "TOXICENGNAME": "Potassium chromate",
+                "EMIVALUE": "0.0050",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -548,10 +526,58 @@
                 "ITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/01\/23 01:01",
                 "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "06801               ",
+                "TOXICNAME": "鄰苯二甲酸二(2-乙基己基)酯 ",
+                "TOXICENGNAME": "Di(2-ethylhexyl)phthalate（DEHP）",
+                "EMIVALUE": "0.01",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "06601               ",
+                "TOXICNAME": "甲醛",
+                "TOXICENGNAME": "Formaldehyde",
+                "EMIVALUE": "0.01",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A3705092",
+                "QUARTER": "1",
+                "STARTDATE": "2012\/01\/01",
+                "ENDDATE": "2012\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05201               ",
+                "TOXICNAME": "苯",
+                "TOXICENGNAME": "Benzene",
+                "EMIVALUE": "0.0030",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/01\/23 01:01",
+                "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

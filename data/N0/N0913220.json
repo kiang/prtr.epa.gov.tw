@@ -5,7 +5,7 @@
         "管制編號": "N0913220",
         "行業別": "紡紗業(棉、毛紡紗業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.533135790248",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "N0913220",
+                "FACILITYNAME": "銘曜織造企業社",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-105-070011",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/08",
+                "TRANSGRESSDATE": "2016\/04\/12",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "銘曜織造企業社",
+                "TRANSGRESSCONTROLID": "N0913220"
+            }
         ]
     }
 }

@@ -5,7 +5,7 @@
         "管制編號": "B23B6917",
         "行業別": "非酒精飲料製造業(非酒精飲料製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.600617985003",
@@ -13,12 +13,46 @@
         "name": "維他露食品股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B23B6917",
+                "FACILITYNAME": "維他露食品股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-105-070015",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/18",
+                "TRANSGRESSDATE": "2016\/06\/16",
+                "TRANSGRESSLAW": "水污染防治法第28條第1項",
+                "PENALTYMONEY": 129500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-06-17",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "維他露食品股份有限公司第二廠",
+                "TRANSGRESSCONTROLID": "B2301575"
+            }
+        ]
     }
 }

@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "台北市中山區民生東路三段九十號一、二樓",
+        "地址": "臺北市中山區民生東路三段９０號１、２樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A39A0864",
         "行業別": "診所(診所)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.539794035993",
@@ -13,9 +13,97 @@
         "name": "民生承安診所"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A39A0864",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0514",
+                "EMIITEMNAME": "感染性廢棄物(遭污染物品或器具類)",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0090",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39A0864",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0080",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39A0864",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "C-0514",
+                "EMIITEMNAME": "感染性廢棄物(遭污染物品或器具類)",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0070",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39A0864",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0060",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39A0864",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0514",
+                "EMIITEMNAME": "感染性廢棄物(遭污染物品或器具類)",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0110",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A39A0864",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0110",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2016",
@@ -1000,8 +1088,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "12",
-                "EMIITEMID": "C-0511",
-                "EMIITEMNAME": "受血液及體液污染廢棄物",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0050",
@@ -1014,8 +1102,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "12",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
+                "EMIITEMID": "C-0511",
+                "EMIITEMNAME": "受血液及體液污染廢棄物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0050",
@@ -1056,8 +1144,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "10",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
+                "EMIITEMID": "C-0511",
+                "EMIITEMNAME": "受血液及體液污染廢棄物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0050",
@@ -1070,8 +1158,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "10",
-                "EMIITEMID": "C-0511",
-                "EMIITEMNAME": "受血液及體液污染廢棄物",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0050",
@@ -1084,8 +1172,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "9",
-                "EMIITEMID": "C-0511",
-                "EMIITEMNAME": "受血液及體液污染廢棄物",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0040",
@@ -1098,8 +1186,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "9",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
+                "EMIITEMID": "C-0511",
+                "EMIITEMNAME": "受血液及體液污染廢棄物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0040",
@@ -1168,8 +1256,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "6",
-                "EMIITEMID": "C-0511",
-                "EMIITEMNAME": "受血液及體液污染廢棄物",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0040",
@@ -1182,8 +1270,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "6",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
+                "EMIITEMID": "C-0511",
+                "EMIITEMNAME": "受血液及體液污染廢棄物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0040",
@@ -1224,8 +1312,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "4",
-                "EMIITEMID": "C-0511",
-                "EMIITEMNAME": "受血液及體液污染廢棄物",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0050",
@@ -1238,8 +1326,8 @@
                 "REGISTRATIONNO": "A39A0864",
                 "EMIYEAR": "2012",
                 "EMIMONTH": "4",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
+                "EMIITEMID": "C-0511",
+                "EMIITEMNAME": "受血液及體液污染廢棄物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0050",
@@ -1333,9 +1421,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

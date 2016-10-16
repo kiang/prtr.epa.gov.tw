@@ -5,7 +5,7 @@
         "管制編號": "E5405524",
         "行業別": "其他化學製品製造業(其他化學製品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.300189915363",
@@ -25,6 +25,20 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "E5405524",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "0.02",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E5405524",
                 "QUARTER": "2",
                 "STARTDATE": "2015\/04\/01",
                 "ENDDATE": "2015\/06\/30",
@@ -34,7 +48,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "2.52",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             }
         ],

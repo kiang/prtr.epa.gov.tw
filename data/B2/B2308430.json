@@ -5,7 +5,7 @@
         "管制編號": "B2308430",
         "行業別": "化學材料及其製品批發業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.594775074065",
@@ -13,9 +13,15 @@
         "name": "又輪實業有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
         "TOX": [
             {
                 "REGISTRATIONNO": "B2308430",
@@ -28,7 +34,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "6.20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -42,7 +48,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "9",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -56,12 +62,18 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "13.40",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

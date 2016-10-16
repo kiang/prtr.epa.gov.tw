@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "台北市中正區思源街一八號B棟四樓",
+        "地址": "臺北市中正區思源街１８號B棟４樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A36B3256",
         "行業別": "技術檢測及分析服務業(其他技術檢測及分析服務業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.529380034",
@@ -13,9 +13,97 @@
         "name": "生寶生物科技股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A36B3256",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.01",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3256",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.3040",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3256",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.01",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3256",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.3420",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3256",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.01",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3256",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.34",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A36B3256",
                 "EMIYEAR": "2016",
@@ -76,11 +164,11 @@
                 "REGISTRATIONNO": "A36B3256",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "12",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.01",
+                "EMIITEMVALUE": "0.28",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/05\/05 09:07",
                 "RPT_TYPE": "WAS",
@@ -90,11 +178,11 @@
                 "REGISTRATIONNO": "A36B3256",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "12",
-                "EMIITEMID": "C-0599",
-                "EMIITEMNAME": "感染性廢棄物混合物",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.28",
+                "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/05\/05 09:07",
                 "RPT_TYPE": "WAS",
@@ -188,20 +276,6 @@
                 "REGISTRATIONNO": "A36B3256",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "8",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
-                "CLEANCODE": "Z05",
-                "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.01",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A36B3256",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "8",
                 "EMIITEMID": "C-0599",
                 "EMIITEMNAME": "感染性廢棄物混合物",
                 "CLEANCODE": "Z05",
@@ -215,14 +289,14 @@
             {
                 "REGISTRATIONNO": "A36B3256",
                 "EMIYEAR": "2015",
-                "EMIMONTH": "7",
+                "EMIMONTH": "8",
                 "EMIITEMID": "C-0504",
                 "EMIITEMNAME": "廢尖銳器具",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:02",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -237,6 +311,20 @@
                 "EMIITEMVALUE": "0.2710",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/02\/27 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3256",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "7",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.01",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/02\/27 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -409,9 +497,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

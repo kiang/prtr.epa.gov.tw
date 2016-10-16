@@ -1,0 +1,79 @@
+{
+    "info": {
+        "地址": "臺南市東區文聖里裕文路２１號１樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "D27A8110",
+        "行業別": "其他專業、科學及技術服務業(攝影業)",
+        "列管類別": "廢棄物;",
+        "最新資料匯入日期": "2016\/10\/07",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "longitude": "120.237691891853",
+        "latitude": "22.9830930137035",
+        "name": "大綠文化出版社"
+    },
+    "reports": {
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+            {
+                "REGISTRATIONNO": "D27A8110",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "C-0107",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版之廢顯影液)",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.14",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "D27A8110",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0107",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版之廢顯影液)",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.14",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "D27A8110",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "C-0107",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版之廢顯影液)",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.14",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
+    }
+}

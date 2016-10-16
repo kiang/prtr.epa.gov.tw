@@ -5,7 +5,7 @@
         "管制編號": "A34A9980",
         "行業別": "光學儀器及設備製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -13,10 +13,30 @@
         "name": "台灣儀器行股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
         "TOX": [
+            {
+                "REGISTRATIONNO": "A34A9980",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05524               ",
+                "TOXICNAME": "六羰化鉻",
+                "TOXICENGNAME": "Chromium carbonyl",
+                "EMIVALUE": "0.000002",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
             {
                 "REGISTRATIONNO": "A34A9980",
                 "QUARTER": "1",
@@ -28,7 +48,7 @@
                 "TOXICENGNAME": "Chromium carbonyl",
                 "EMIVALUE": "0.000002",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -42,7 +62,7 @@
                 "TOXICENGNAME": "Chromium carbonyl",
                 "EMIVALUE": "0.000004",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -56,7 +76,7 @@
                 "TOXICENGNAME": "Chromium carbonyl",
                 "EMIVALUE": "0.000004",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -70,7 +90,7 @@
                 "TOXICENGNAME": "Chromium carbonyl",
                 "EMIVALUE": "0.000004",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -84,7 +104,7 @@
                 "TOXICENGNAME": "Chromium carbonyl",
                 "EMIVALUE": "0.000008",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -98,7 +118,7 @@
                 "TOXICENGNAME": "Chromium carbonyl",
                 "EMIVALUE": "0.000004",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -112,7 +132,7 @@
                 "TOXICENGNAME": "Chromium carbonyl",
                 "EMIVALUE": "0.000004",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -130,8 +150,14 @@
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

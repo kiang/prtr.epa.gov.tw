@@ -5,7 +5,7 @@
         "管制編號": "F04B4792",
         "行業別": "藥品、醫療用品及化粧品零售業(藥品及醫療用品零售業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.484183851707",
@@ -25,6 +25,34 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "F04B4792",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.006250",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F04B4792",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09801               ",
+                "TOXICNAME": "二甲基甲醯胺",
+                "TOXICENGNAME": "N,N-Dimethyl formamide",
+                "EMIVALUE": "0.002250",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F04B4792",
                 "QUARTER": "4",
                 "STARTDATE": "2015\/10\/01",
                 "ENDDATE": "2015\/12\/31",
@@ -34,7 +62,7 @@
                 "TOXICENGNAME": "N,N-Dimethyl formamide",
                 "EMIVALUE": "0.004250",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +76,7 @@
                 "TOXICENGNAME": "N,N-Dimethyl formamide",
                 "EMIVALUE": "0.008250",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +90,7 @@
                 "TOXICENGNAME": "N,N-Dimethyl formamide",
                 "EMIVALUE": "0.0050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +104,7 @@
                 "TOXICENGNAME": "N,N-Dimethyl formamide",
                 "EMIVALUE": "0.0060",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +118,7 @@
                 "TOXICENGNAME": "N,N-Dimethyl formamide",
                 "EMIVALUE": "0.0015",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             }
         ],

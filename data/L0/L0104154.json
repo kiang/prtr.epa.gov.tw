@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺中市大肚區沙田路一段九三六號",
+        "地址": "臺中市大肚區沙田路一段９３６號",
         "所屬工業區": "其他工業區",
         "管制編號": "L0104154",
         "行業別": "紡紗業(棉、毛紡紗業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.553584091108",
-        "latitude": "24.1350510779701",
+        "longitude": "120.55358407014",
+        "latitude": "24.1350510599256",
         "name": "東興振業股份有限公司大肚廠"
     },
     "reports": {
@@ -25,6 +25,34 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "L0104154",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "780.02",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "L0104154",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "780",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "L0104154",
                 "QUARTER": "4",
                 "STARTDATE": "2015\/10\/01",
                 "ENDDATE": "2015\/12\/31",
@@ -34,7 +62,7 @@
                 "TOXICENGNAME": "Toluene-2,4-diisocyanate",
                 "EMIVALUE": "20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +76,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "900",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +90,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "680",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +104,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "861.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +118,7 @@
                 "TOXICENGNAME": "Toluene-2,4-diisocyanate",
                 "EMIVALUE": "20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +132,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "920",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +146,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "820",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +160,7 @@
                 "TOXICENGNAME": "Toluene-2,4-diisocyanate",
                 "EMIVALUE": "40",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,7 +174,7 @@
                 "TOXICENGNAME": "Toluene-2,4-diisocyanate",
                 "EMIVALUE": "20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -160,21 +188,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "780",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "L0104154",
-                "QUARTER": "2",
-                "STARTDATE": "2014\/04\/01",
-                "ENDDATE": "2014\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "07401               ",
-                "TOXICNAME": "二異氰酸甲苯",
-                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
-                "EMIVALUE": "580.75",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -188,7 +202,21 @@
                 "TOXICENGNAME": "Toluene-2,4-diisocyanate",
                 "EMIVALUE": "32.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "L0104154",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07401               ",
+                "TOXICNAME": "二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
+                "EMIVALUE": "580.75",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -202,21 +230,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "1200",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "L0104154",
-                "QUARTER": "4",
-                "STARTDATE": "2013\/10\/01",
-                "ENDDATE": "2013\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "07402               ",
-                "TOXICNAME": "2,4-二異氰酸甲苯",
-                "TOXICENGNAME": "Toluene-2,4-diisocyanate",
-                "EMIVALUE": "20",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -230,7 +244,21 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "855",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "L0104154",
+                "QUARTER": "4",
+                "STARTDATE": "2013\/10\/01",
+                "ENDDATE": "2013\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07402               ",
+                "TOXICNAME": "2,4-二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene-2,4-diisocyanate",
+                "EMIVALUE": "20",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -244,7 +272,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "1093.75",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -258,21 +286,7 @@
                 "TOXICENGNAME": "Toluene-2,4-diisocyanate",
                 "EMIVALUE": "26.25",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "L0104154",
-                "QUARTER": "2",
-                "STARTDATE": "2013\/04\/01",
-                "ENDDATE": "2013\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "07402               ",
-                "TOXICNAME": "2,4-二異氰酸甲苯",
-                "TOXICENGNAME": "Toluene-2,4-diisocyanate",
-                "EMIVALUE": "30",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -286,7 +300,21 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "510",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "L0104154",
+                "QUARTER": "2",
+                "STARTDATE": "2013\/04\/01",
+                "ENDDATE": "2013\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07402               ",
+                "TOXICNAME": "2,4-二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene-2,4-diisocyanate",
+                "EMIVALUE": "30",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -300,21 +328,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "920",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "L0104154",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "07402               ",
-                "TOXICNAME": "2,4-二異氰酸甲苯",
-                "TOXICENGNAME": "Toluene-2,4-diisocyanate",
-                "EMIVALUE": "30",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -328,7 +342,21 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "1050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "L0104154",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07402               ",
+                "TOXICNAME": "2,4-二異氰酸甲苯",
+                "TOXICENGNAME": "Toluene-2,4-diisocyanate",
+                "EMIVALUE": "30",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -342,7 +370,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "880",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -356,7 +384,7 @@
                 "TOXICENGNAME": "Toluene-2,4-diisocyanate",
                 "EMIVALUE": "20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -370,7 +398,7 @@
                 "TOXICENGNAME": "Toluene-2,4-diisocyanate",
                 "EMIVALUE": "20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -384,7 +412,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "840",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

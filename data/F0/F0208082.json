@@ -5,7 +5,7 @@
         "管制編號": "F0208082",
         "行業別": "其他專賣批發業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.471955024054",
@@ -25,16 +25,44 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "F0208082",
-                "QUARTER": "3",
-                "STARTDATE": "2015\/07\/01",
-                "ENDDATE": "2015\/09\/30",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "40",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0208082",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04602               ",
+                "TOXICNAME": "氰化鉀",
+                "TOXICENGNAME": "Potassium cyanide",
+                "EMIVALUE": "8",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0208082",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "04602               ",
                 "TOXICNAME": "氰化鉀",
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "13.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +76,35 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "16",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0208082",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04602               ",
+                "TOXICNAME": "氰化鉀",
+                "TOXICENGNAME": "Potassium cyanide",
+                "EMIVALUE": "13.50",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0208082",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04602               ",
+                "TOXICNAME": "氰化鉀",
+                "TOXICENGNAME": "Potassium cyanide",
+                "EMIVALUE": "13.50",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,21 +118,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "48",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F0208082",
-                "QUARTER": "2",
-                "STARTDATE": "2015\/04\/01",
-                "ENDDATE": "2015\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04602               ",
-                "TOXICNAME": "氰化鉀",
-                "TOXICENGNAME": "Potassium cyanide",
-                "EMIVALUE": "13.50",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +132,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "56.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +146,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "5",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +160,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "152.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +174,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "18.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,7 +188,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "13.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -160,7 +202,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "93",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -174,7 +216,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "16.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -188,7 +230,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "62.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -202,7 +244,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "1.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -216,7 +258,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "77",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -230,21 +272,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "16.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F0208082",
-                "QUARTER": "3",
-                "STARTDATE": "2013\/07\/01",
-                "ENDDATE": "2013\/09\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04602               ",
-                "TOXICNAME": "氰化鉀",
-                "TOXICENGNAME": "Potassium cyanide",
-                "EMIVALUE": "16",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -258,7 +286,21 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "77.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0208082",
+                "QUARTER": "3",
+                "STARTDATE": "2013\/07\/01",
+                "ENDDATE": "2013\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04602               ",
+                "TOXICNAME": "氰化鉀",
+                "TOXICENGNAME": "Potassium cyanide",
+                "EMIVALUE": "16",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -272,7 +314,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "40.30",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -286,7 +328,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "1.70",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -300,7 +342,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "68",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -314,7 +356,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "15.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -328,7 +370,7 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "68",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -342,21 +384,7 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "2",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F0208082",
-                "QUARTER": "2",
-                "STARTDATE": "2012\/04\/01",
-                "ENDDATE": "2012\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04601               ",
-                "TOXICNAME": "氰化鈉",
-                "TOXICENGNAME": "Sodium cyanide",
-                "EMIVALUE": "68.20",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -370,7 +398,21 @@
                 "TOXICENGNAME": "Potassium cyanide",
                 "EMIVALUE": "17.80",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F0208082",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "68.20",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

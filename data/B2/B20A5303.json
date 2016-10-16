@@ -5,7 +5,7 @@
         "管制編號": "B20A5303",
         "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.661777990888",
@@ -13,9 +13,55 @@
         "name": "百富通股份有限公司-莫凡彼歐風餐廳-台中廣三SOGO店"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B20A5303",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0720",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B20A5303",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B20A5303",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2016",
@@ -34,20 +80,6 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2016",
                 "EMIMONTH": "1",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B20A5303",
-                "EMIYEAR": "2016",
-                "EMIMONTH": "1",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
@@ -74,6 +106,20 @@
             },
             {
                 "REGISTRATIONNO": "B20A5303",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "12",
                 "EMIITEMID": "D-1801",
@@ -90,8 +136,8 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "12",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -104,8 +150,8 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "12",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -146,6 +192,20 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "9",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B20A5303",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
                 "EMIITEMID": "R-1702",
                 "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
@@ -167,20 +227,6 @@
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2015\/11\/23 09:02",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B20A5303",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "9",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -216,8 +262,8 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "7",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -230,8 +276,8 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "7",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -258,8 +304,8 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -272,20 +318,6 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B20A5303",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "5",
                 "EMIITEMID": "R-1702",
                 "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
@@ -314,6 +346,20 @@
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "5",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/02\/27 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B20A5303",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "5",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
@@ -321,6 +367,20 @@
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/02\/27 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B20A5303",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "4",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -355,9 +415,9 @@
             {
                 "REGISTRATIONNO": "B20A5303",
                 "EMIYEAR": "2015",
-                "EMIMONTH": "4",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -386,20 +446,6 @@
                 "EMIMONTH": "3",
                 "EMIITEMID": "R-0106",
                 "EMIITEMNAME": "廚餘",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B20A5303",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "3",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -465,9 +511,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

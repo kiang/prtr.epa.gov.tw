@@ -5,7 +5,7 @@
         "管制編號": "A35B5089",
         "行業別": "診所(診所)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.545844037241",
@@ -13,9 +13,55 @@
         "name": "願麗醫美診所"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A35B5089",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0514",
+                "EMIITEMNAME": "感染性廢棄物(遭污染物品或器具類)",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0220",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B5089",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0210",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B5089",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.02",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A35B5089",
                 "EMIYEAR": "2015",
@@ -62,20 +108,6 @@
                 "REGISTRATIONNO": "A35B5089",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "9",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
-                "CLEANCODE": "Z05",
-                "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.0180",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A35B5089",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "9",
                 "EMIITEMID": "C-0511",
                 "EMIITEMNAME": "受血液及體液污染廢棄物",
                 "CLEANCODE": "Z05",
@@ -90,6 +122,20 @@
                 "REGISTRATIONNO": "A35B5089",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "9",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/23 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B5089",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
                 "EMIITEMID": "C-0599",
                 "EMIITEMNAME": "感染性廢棄物混合物",
                 "CLEANCODE": "Z05",
@@ -104,11 +150,11 @@
                 "REGISTRATIONNO": "A35B5089",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "8",
-                "EMIITEMID": "C-0511",
-                "EMIITEMNAME": "受血液及體液污染廢棄物",
+                "EMIITEMID": "C-0599",
+                "EMIITEMNAME": "感染性廢棄物混合物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.0230",
+                "EMIITEMVALUE": "0.0150",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
@@ -132,11 +178,11 @@
                 "REGISTRATIONNO": "A35B5089",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "8",
-                "EMIITEMID": "C-0599",
-                "EMIITEMNAME": "感染性廢棄物混合物",
+                "EMIITEMID": "C-0511",
+                "EMIITEMNAME": "受血液及體液污染廢棄物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.0150",
+                "EMIITEMVALUE": "0.0230",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/02\/27 09:00",
                 "RPT_TYPE": "WAS",
@@ -314,6 +360,20 @@
                 "REGISTRATIONNO": "A35B5089",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "11",
+                "EMIITEMID": "C-0504",
+                "EMIITEMNAME": "廢尖銳器具",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0140",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/02\/23 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B5089",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "11",
                 "EMIITEMID": "C-0511",
                 "EMIITEMNAME": "受血液及體液污染廢棄物",
                 "CLEANCODE": "Z05",
@@ -333,20 +393,6 @@
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0370",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A35B5089",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "11",
-                "EMIITEMID": "C-0504",
-                "EMIITEMNAME": "廢尖銳器具",
-                "CLEANCODE": "Z05",
-                "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.0140",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2015\/02\/23 09:00",
                 "RPT_TYPE": "WAS",
@@ -1697,9 +1743,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

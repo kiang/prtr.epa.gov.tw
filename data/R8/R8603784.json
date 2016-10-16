@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "台南市白河區崁頭里中洲四三之一○號",
+        "地址": "臺南市白河區崁頭里中洲４３之１０號",
         "所屬工業區": "無特定工業區",
         "管制編號": "R8603784",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.417041952134",
@@ -271,7 +271,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R8603784",
+                "FACILITYNAME": "達瑞畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-090022",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/12",
+                "TRANSGRESSDATE": "2016\/08\/02",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-10-03",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "達瑞畜牧場",
+                "TRANSGRESSCONTROLID": "R8603784"
+            }
         ]
     }
 }

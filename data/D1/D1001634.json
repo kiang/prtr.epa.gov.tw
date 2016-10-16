@@ -5,7 +5,7 @@
         "管制編號": "D1001634",
         "行業別": "未分類其他運輸工具及其零件製造業(未分類其他運輸工具及其零件製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.216952882666",
@@ -32,7 +32,48 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "D1001634",
+                "FACILITYNAME": "亞洲航空股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-105-090101",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/23",
+                "TRANSGRESSDATE": "2016\/07\/19",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "亞洲航空股份有限公司台南修護基地",
+                "TRANSGRESSCONTROLID": "R1002645"
+            },
+            {
+                "REGISTRATIONNO": "D1001634",
+                "FACILITYNAME": "亞洲航空股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "32-105-030001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/17",
+                "TRANSGRESSDATE": "2015\/07\/30",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第41條第3項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "亞洲航空股份有限公司台南修護基地",
+                "TRANSGRESSCONTROLID": "R1002645"
+            }
         ]
     }
 }

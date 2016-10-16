@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "桃園市觀音區坑尾里坑尾八六之二二號六樓",
-        "所屬工業區": "非屬工業區類",
+        "地址": "桃園市觀音區坑尾里１３鄰坑尾８６之２２號６樓",
+        "所屬工業區": "無特定工業區",
         "管制編號": "H53A6316",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.081864871494",
@@ -32,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "H53A6316",
+                "FACILITYNAME": "立勤企業社",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "44-105-080001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/03",
+                "TRANSGRESSDATE": "2016\/07\/14",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第23條，廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "立勤企業社",
+                "TRANSGRESSCONTROLID": "H53A6316"
+            },
             {
                 "REGISTRATIONNO": "H53A6316",
                 "FACILITYNAME": "立勤企業社",

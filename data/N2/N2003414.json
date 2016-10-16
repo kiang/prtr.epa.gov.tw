@@ -5,7 +5,7 @@
         "管制編號": "N2003414",
         "行業別": "自行車及其零件製造業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.627848245245",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "N2003414",
+                "FACILITYNAME": "玄寶企業股份有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-105-070005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/05",
+                "TRANSGRESSDATE": "2016\/06\/01",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "玄寶企業股份有限公司",
+                "TRANSGRESSCONTROLID": "N2003414"
+            }
         ]
     }
 }

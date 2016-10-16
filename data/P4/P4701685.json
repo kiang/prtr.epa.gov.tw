@@ -5,7 +5,7 @@
         "管制編號": "P4701685",
         "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.476838657948",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "P4701685",
+                "FACILITYNAME": "順華塑膠企業股份有限公司",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "41-102-040016",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/04\/28",
+                "TRANSGRESSDATE": "2012\/07\/17",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1項第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "順華塑膠企業股份有限公司",
+                "TRANSGRESSCONTROLID": "P4701685"
+            }
         ]
     }
 }

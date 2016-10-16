@@ -5,7 +5,7 @@
         "管制編號": "T4201404",
         "行業別": "肉類處理保藏及其製品製造業(冷凍冷藏肉類製造業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -687,7 +687,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "T4201404",
+                "FACILITYNAME": "振芳冷凍食品股份有限公司",
+                "COUNTY": "督察總隊",
+                "COUNTYCODE": "90",
+                "DOCUMENTNO": "30-105-030002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/22",
+                "TRANSGRESSDATE": "2015\/11\/13",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 870000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/04\/09 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "振芳冷凍食品股份有限公司",
+                "TRANSGRESSCONTROLID": "T4201404"
+            }
         ]
     }
 }

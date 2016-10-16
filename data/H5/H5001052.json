@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "桃園市龍潭區黃泥塘段○○六六之○○○四地號",
+        "地址": "桃園市龍潭區武漢里中興路九龍段２９３號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "H5001052",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "0",
-        "latitude": "0",
+        "longitude": "121.244008003343",
+        "latitude": "24.8774080179977",
         "name": "簡暢汝畜牧場"
     },
     "reports": {
@@ -223,7 +223,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "H5001052",
+                "FACILITYNAME": "簡暢汝畜牧場",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "30-105-030038",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/24",
+                "TRANSGRESSDATE": "2016\/02\/02",
+                "TRANSGRESSLAW": "水污染防治法第22條，水污染防治措施及檢測申報管理辦法第93條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "簡暢汝畜牧場",
+                "TRANSGRESSCONTROLID": "H5001052"
+            }
         ]
     }
 }

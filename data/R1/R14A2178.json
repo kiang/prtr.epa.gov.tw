@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺南市永康區南灣里南興路一五之三號",
+        "地址": "臺南市永康區南灣里南興路１５之３號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "R14A2178",
         "行業別": "紡織品製造業(紡織製成品製造業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.25934299982",
-        "latitude": "22.9951230186924",
+        "longitude": "120.259342900664",
+        "latitude": "22.9951230014948",
         "name": "麗登實業股份有限公司"
     },
     "reports": {
@@ -367,7 +367,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R14A2178",
+                "FACILITYNAME": "麗登實業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-060027",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/20",
+                "TRANSGRESSDATE": "2016\/05\/10",
+                "TRANSGRESSLAW": "水污染防治法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "麗登實業股份有限公司",
+                "TRANSGRESSCONTROLID": "R14A2178"
+            }
         ]
     }
 }

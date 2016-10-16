@@ -5,7 +5,7 @@
         "管制編號": "A3905501",
         "行業別": "紙漿、紙及紙板製造業(紙漿製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.536283385834",
@@ -13,13 +13,46 @@
         "name": "台灣紙業股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3905501",
+                "FACILITYNAME": "台灣紙業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "20-105-080009",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/19",
+                "TRANSGRESSDATE": "2016\/06\/27",
+                "TRANSGRESSLAW": "固定污染源空氣污染物排放標準第2條，空氣污染防制法第20條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-09-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "臺灣紙業股份有限公司新營紙廠",
+                "TRANSGRESSCONTROLID": "R8400416"
+            },
             {
                 "REGISTRATIONNO": "A3905501",
                 "FACILITYNAME": "台灣紙業股份有限公司",

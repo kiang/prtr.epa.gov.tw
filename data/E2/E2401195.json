@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "高雄市鳥松區松埔路三七巷一四弄七號一樓",
-        "所屬工業區": "無特定工業區",
+        "地址": "高雄市鳥松區松埔路３７巷１４弄７號１樓",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "E2401195",
-        "行業別": "暫無分類",
+        "行業別": "其他專賣批發業(回收物料批發業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.383394132648",
@@ -32,7 +32,48 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "E2401195",
+                "FACILITYNAME": "宏鑫廢棄物回收有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-050012",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/19",
+                "TRANSGRESSDATE": "2016\/04\/11",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條",
+                "PENALTYMONEY": 21000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宏鑫廢棄物回收有限公司",
+                "TRANSGRESSCONTROLID": "E2401195"
+            },
+            {
+                "REGISTRATIONNO": "E2401195",
+                "FACILITYNAME": "宏鑫廢棄物回收有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-040007",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/14",
+                "TRANSGRESSDATE": "2016\/02\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宏鑫廢棄物回收有限公司",
+                "TRANSGRESSCONTROLID": "E2401195"
+            }
         ]
     }
 }

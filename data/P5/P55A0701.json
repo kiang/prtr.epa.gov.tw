@@ -5,7 +5,7 @@
         "管制編號": "P55A0701",
         "行業別": "基本化學材料製造業(基本化學材料製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.608351985665",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "P55A0701",
+                "FACILITYNAME": "久久生物科技有限公司",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "20-105-070008",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/29",
+                "TRANSGRESSDATE": "2016\/05\/04",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "2016-08-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "久久生物科技有限公司",
+                "TRANSGRESSCONTROLID": "P55A0701"
+            }
         ]
     }
 }

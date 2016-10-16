@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "臺南市安南區安中路一段２８８號１樓",
+        "地址": "臺南市安南區長和路一段１６６號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "D32A6787",
         "行業別": "其他專賣批發業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.205941910221",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "D32A6787",
+                "FACILITYNAME": "興固實業有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "44-105-080003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/04",
+                "TRANSGRESSDATE": "2016\/04\/26",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第16條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興固實業有限公司",
+                "TRANSGRESSCONTROLID": "D32A6787"
+            }
         ]
     }
 }

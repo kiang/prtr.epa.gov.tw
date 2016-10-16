@@ -1,0 +1,79 @@
+{
+    "info": {
+        "地址": "高雄市苓雅區四維四路２２號６樓之８",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "E53A3145",
+        "行業別": "暫無分類",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/10\/07",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "longitude": "120.301811524692",
+        "latitude": "22.6168036413731",
+        "name": "皇星交通股份有限公司"
+    },
+    "reports": {
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "E53A3145",
+                "FACILITYNAME": "皇星交通股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "21-105-070005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/05",
+                "TRANSGRESSDATE": "2016\/05\/27",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "皇星交通股份有限公司",
+                "TRANSGRESSCONTROLID": "E53A3145"
+            },
+            {
+                "REGISTRATIONNO": "E53A3145",
+                "FACILITYNAME": "皇星交通股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "41-105-063467",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/29",
+                "TRANSGRESSDATE": "2016\/03\/29",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
+                "PENALTYMONEY": 1500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "皇星交通股份有限公司",
+                "TRANSGRESSCONTROLID": "E53A3145"
+            }
+        ]
+    }
+}

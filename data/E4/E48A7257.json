@@ -5,7 +5,7 @@
         "管制編號": "E48A7257",
         "行業別": "暫無分類",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "E48A7257",
+                "FACILITYNAME": "力雅實業有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-050011",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/19",
+                "TRANSGRESSDATE": "2016\/04\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "力雅實業有限公司",
+                "TRANSGRESSCONTROLID": "E48A7257"
+            }
         ]
     }
 }

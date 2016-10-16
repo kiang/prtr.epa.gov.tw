@@ -5,7 +5,7 @@
         "管制編號": "R1409957",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.233392889543",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R1409957",
+                "FACILITYNAME": "澤瑋環保有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "44-105-080001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/01",
+                "TRANSGRESSDATE": "2016\/06\/28",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-08-05",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "澤瑋環保有限公司",
+                "TRANSGRESSCONTROLID": "R1409957"
+            }
         ]
     }
 }

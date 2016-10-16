@@ -5,7 +5,7 @@
         "管制編號": "A41A5709",
         "行業別": "塑膠製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.611400892175",
@@ -13,9 +13,15 @@
         "name": "聯成化學科技股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
         "TOX": [
             {
                 "REGISTRATIONNO": "A41A5709",
@@ -28,7 +34,7 @@
                 "TOXICENGNAME": "Di(2-ethylhexyl)phthalate（DEHP）",
                 "EMIVALUE": "3708.3180",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -42,7 +48,7 @@
                 "TOXICENGNAME": "Dibutyl phthalate（DBP）",
                 "EMIVALUE": "1008.8010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -56,7 +62,7 @@
                 "TOXICENGNAME": "Di-isononyl phthalate（DINP）",
                 "EMIVALUE": "8696.4350",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -70,7 +76,7 @@
                 "TOXICENGNAME": "Di-n-octyl phthalate（DNOP）",
                 "EMIVALUE": "359.3810",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -140,7 +146,7 @@
                 "TOXICENGNAME": "Dibutyl phthalate（DBP）",
                 "EMIVALUE": "725.7220",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -154,7 +160,7 @@
                 "TOXICENGNAME": "Di-isononyl phthalate（DINP）",
                 "EMIVALUE": "12753.5110",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -168,7 +174,7 @@
                 "TOXICENGNAME": "Di(2-ethylhexyl)phthalate（DEHP）",
                 "EMIVALUE": "1555.6795",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -182,7 +188,7 @@
                 "TOXICENGNAME": "Di-n-octyl phthalate（DNOP）",
                 "EMIVALUE": "265.7050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -228,8 +234,12 @@
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A41A5709",
@@ -268,27 +278,6 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A41A5709",
-                "FACILITYNAME": "聯成化學科技股份有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "34-100-070006",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/12",
-                "TRANSGRESSDATE": "2011\/05\/30",
-                "TRANSGRESSLAW": "毒性化學物質管理法第7條第4項，毒性化學物質管理法施行細則第4條第2項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "是",
-                "PETITIONAGENCY": "地方審議機關",
-                "PETITIONRESULTS": "訴願駁回",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/07\/07 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",

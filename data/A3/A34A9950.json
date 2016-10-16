@@ -5,7 +5,7 @@
         "管制編號": "A34A9950",
         "行業別": "汽車貨運業(汽車貨運業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.569683041675",
@@ -13,12 +13,24 @@
         "name": "勝峯貨運有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A34A9950",
@@ -99,48 +111,6 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "勝峯貨運有限公司",
-                "TRANSGRESSCONTROLID": "A34097010513"
-            },
-            {
-                "REGISTRATIONNO": "A34A9950",
-                "FACILITYNAME": "勝?貨運有限公司",
-                "COUNTY": "基隆市",
-                "COUNTYCODE": "3",
-                "DOCUMENTNO": "21-100-070006",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/21",
-                "TRANSGRESSDATE": "2011\/07\/07",
-                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A34A9950",
-                "FACILITYNAME": "勝?貨運有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "21-100-070187",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/25",
-                "TRANSGRESSDATE": "2011\/05\/12",
-                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/12\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "勝峯貨運有限公司",

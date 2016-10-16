@@ -5,7 +5,7 @@
         "管制編號": "T42A6485",
         "行業別": "暫無分類",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.515081504651",
@@ -42,7 +42,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "T42A6485",
+                "FACILITYNAME": "屏東市立殯儀館",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "20-105-060002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/28",
+                "TRANSGRESSDATE": "2016\/04\/25",
+                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "2016-09-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "屏東市立殯儀館",
+                "TRANSGRESSCONTROLID": "T42A6485"
+            }
         ]
     }
 }

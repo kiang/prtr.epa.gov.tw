@@ -1,11 +1,11 @@
 {
     "info": {
         "地址": "臺南市七股區七股里７股１３４號１樓",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "R00A0079",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.132051840152",
@@ -32,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "R00A0079",
+                "FACILITYNAME": "昆庭有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "44-105-030006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/18",
+                "TRANSGRESSDATE": "2016\/01\/13",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第16條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "昆庭有限公司",
+                "TRANSGRESSCONTROLID": "R00A0079"
+            },
             {
                 "REGISTRATIONNO": "R00A0079",
                 "FACILITYNAME": "昆庭有限公司",

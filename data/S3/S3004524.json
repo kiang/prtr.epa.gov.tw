@@ -5,7 +5,7 @@
         "管制編號": "S3004524",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -223,7 +223,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "S3004524",
+                "FACILITYNAME": "賜雍畜牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-105-090020",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/30",
+                "TRANSGRESSDATE": "2016\/08\/02",
+                "TRANSGRESSLAW": "水污染防治法第18條(之1)第1項",
+                "PENALTYMONEY": 378000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "賜雍畜牧場",
+                "TRANSGRESSCONTROLID": "S3004524"
+            }
         ]
     }
 }

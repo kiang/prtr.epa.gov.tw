@@ -1,24 +1,58 @@
 {
     "info": {
-        "地址": "臺北市萬華區萬大路三八八號",
+        "地址": "臺北市萬華區萬大路３８８號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A3705789",
         "行業別": "燃料零售業",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.498675955943",
-        "latitude": "25.0218764272591",
+        "longitude": "121.498675984355",
+        "latitude": "25.0218764076554",
         "name": "山隆通運股份有限公司-山隆通運股份有限公司華中加油站"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "F01097001856",
+                "FACILITYNAME": "山隆通運股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "20-105-070003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/15",
+                "TRANSGRESSDATE": "2016\/05\/18",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第2項，加油站油氣回收設施管理辦法第8條(之1)第1項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "山隆通運股份有限公司-山隆通運股份有限公司華中加油站",
+                "TRANSGRESSCONTROLID": "A3705789"
+            }
+        ]
     }
 }

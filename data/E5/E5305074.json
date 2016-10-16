@@ -5,7 +5,7 @@
         "管制編號": "E5305074",
         "行業別": "中學",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.305410535036",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "E5305074",
+                "FACILITYNAME": "高雄市立苓雅國民中學",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "41-105-031977",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/17",
+                "TRANSGRESSDATE": "2016\/01\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第11款",
+                "PENALTYMONEY": 1500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "高雄市立苓雅國民中學",
+                "TRANSGRESSCONTROLID": "E5305074"
+            }
         ]
     }
 }

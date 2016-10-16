@@ -5,7 +5,7 @@
         "管制編號": "W0604930",
         "行業別": "廢（污）水處理業(廢（污）水處理業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -527,6 +527,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "W0503429",
+                "FACILITYNAME": "金門縣自來水廠",
+                "COUNTY": "金門縣",
+                "COUNTYCODE": "24",
+                "DOCUMENTNO": "30-105-060001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/01",
+                "TRANSGRESSDATE": "2016\/03\/11",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-08-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "金門縣自來水廠(湖下套裝污水處理設施)",
+                "TRANSGRESSCONTROLID": "W0604930"
+            },
             {
                 "REGISTRATIONNO": "W0604930",
                 "FACILITYNAME": "金門縣自來水廠(湖下套裝污水處理設施)",

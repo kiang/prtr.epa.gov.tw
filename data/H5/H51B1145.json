@@ -1,11 +1,11 @@
 {
     "info": {
         "地址": "桃園市平鎮區山峰里中豐路山頂段４９５巷１９號１樓",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "H51B1145",
-        "行業別": "暫無分類",
+        "行業別": "廢棄物處理業(無害廢棄物處理業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.212756002214",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "H51B1145",
+                "FACILITYNAME": "永大環保科技有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "40-105-050030",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/20",
+                "TRANSGRESSDATE": "2016\/04\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永大環保科技有限公司",
+                "TRANSGRESSCONTROLID": "H51B1145"
+            }
         ]
     }
 }

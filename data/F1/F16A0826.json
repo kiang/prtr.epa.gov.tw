@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "新北市泰山區新北大道七段四二巷八一號",
-        "所屬工業區": "無特定工業區",
+        "地址": "新北市泰山區新北大道七段４２巷８１號",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "F16A0826",
-        "行業別": "其他專門營造業",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.419291016881",
@@ -32,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F16A0826",
+                "FACILITYNAME": "台志工程有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-105-090009",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/07",
+                "TRANSGRESSDATE": "2016\/04\/30",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台志工程有限公司",
+                "TRANSGRESSCONTROLID": "F16A0826"
+            },
             {
                 "REGISTRATIONNO": "F16A0826",
                 "FACILITYNAME": "台志工程有限公司",

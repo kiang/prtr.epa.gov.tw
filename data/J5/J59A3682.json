@@ -5,7 +5,7 @@
         "管制編號": "J59A3682",
         "行業別": "半導體製造業",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.996946220245",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "O17L1576",
+                "FACILITYNAME": "美商英特格有限公司台灣分公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-105-080017",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/23",
+                "TRANSGRESSDATE": "2016\/05\/20",
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第21條，水污染防治法第18條",
+                "PENALTYMONEY": 15000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "美商英特格有限公司台灣分公司湖口廠",
+                "TRANSGRESSCONTROLID": "J59A3682"
+            }
         ]
     }
 }

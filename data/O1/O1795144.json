@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "新竹市光復路一段一一四號",
-        "所屬工業區": "無特定工業區",
+        "地址": "新竹市光復路一段１１４號",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "O1795144",
-        "行業別": "廢棄物清除業(有害廢棄物清除業)",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.023769000003",
@@ -32,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "O1795144",
+                "FACILITYNAME": "竹中廢棄物清除有限公司",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "44-105-040003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/27",
+                "TRANSGRESSDATE": "2016\/03\/21",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "竹中廢棄物清除有限公司",
+                "TRANSGRESSCONTROLID": "O1795144"
+            },
             {
                 "REGISTRATIONNO": "O1795144",
                 "FACILITYNAME": "竹中廢棄物清除有限公司",

@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "高雄市路竹區三爺里六鄰民族路二六六巷一二二之一號",
+        "地址": "高雄市路竹區三爺段７１４地號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "S2901051",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.273795637696",
-        "latitude": "22.8344647751888",
-        "name": "岡一畜牧場(傅明德)"
+        "longitude": "120.273795906092",
+        "latitude": "22.8344650137036",
+        "name": "岡一畜牧場"
     },
     "reports": {
         "AIR": [
@@ -271,7 +271,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "S2901051",
+                "FACILITYNAME": "岡一畜牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-105-080016",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/29",
+                "TRANSGRESSDATE": "2016\/07\/06",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "岡一畜牧場",
+                "TRANSGRESSCONTROLID": "S2901051"
+            }
         ]
     }
 }

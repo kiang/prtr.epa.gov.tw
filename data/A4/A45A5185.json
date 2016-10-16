@@ -5,7 +5,7 @@
         "管制編號": "A45A5185",
         "行業別": "汽車貨運業(汽車貨運業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.562987466703",
@@ -13,12 +13,24 @@
         "name": "立崧貨運有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A45A5185",
@@ -271,27 +283,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "立崧貨運有限公司",
                 "TRANSGRESSCONTROLID": "A45A5185"
-            },
-            {
-                "REGISTRATIONNO": "A45A5185",
-                "FACILITYNAME": "立崧貨運有限公司",
-                "COUNTY": "桃園市",
-                "COUNTYCODE": "328",
-                "DOCUMENTNO": "41-100-090007",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/09\/19",
-                "TRANSGRESSDATE": "2011\/09\/03",
-                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

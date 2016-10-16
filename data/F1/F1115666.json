@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "新北市汐止區福德一路三九二巷三七弄一八號",
+        "地址": "新北市汐止區福德一路３９２巷３７弄１８號",
         "所屬工業區": "無特定工業區",
         "管制編號": "F1115666",
         "行業別": "清潔服務業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.625891243199",
-        "latitude": "25.061962619849",
+        "longitude": "121.625891056104",
+        "latitude": "25.0619630177216",
         "name": "劦寬貿易股份有限公司"
     },
     "reports": {
@@ -25,16 +25,58 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "F1115666",
-                "QUARTER": "3",
-                "STARTDATE": "2015\/07\/01",
-                "ENDDATE": "2015\/09\/30",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "3",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04609               ",
+                "TOXICNAME": "氰化銅鈉",
+                "TOXICENGNAME": "Copper Sodium cyanide",
+                "EMIVALUE": "1",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "04607               ",
                 "TOXICNAME": "氰化鋅",
                 "TOXICENGNAME": "Zinc cyanide",
                 "EMIVALUE": "0.90",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "6",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,35 +90,21 @@
                 "TOXICENGNAME": "Copper Sodium cyanide",
                 "EMIVALUE": "1.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "F1115666",
-                "QUARTER": "2",
-                "STARTDATE": "2015\/04\/01",
-                "ENDDATE": "2015\/06\/30",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04601               ",
-                "TOXICNAME": "氰化鈉",
-                "TOXICENGNAME": "Sodium cyanide",
-                "EMIVALUE": "1.05",
+                "EMIITEMID": "04607               ",
+                "TOXICNAME": "氰化鋅",
+                "TOXICENGNAME": "Zinc cyanide",
+                "EMIVALUE": "0.90",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "2",
-                "STARTDATE": "2015\/04\/01",
-                "ENDDATE": "2015\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04604               ",
-                "TOXICNAME": "氰化亞銅",
-                "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "9.51",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +118,21 @@
                 "TOXICENGNAME": "Zinc cyanide",
                 "EMIVALUE": "1.20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "1.05",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +146,21 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "5.49",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "9.51",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +174,7 @@
                 "TOXICENGNAME": "Copper(I) cyanide",
                 "EMIVALUE": "7.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,21 +188,7 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "7.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "4",
-                "STARTDATE": "2014\/10\/01",
-                "ENDDATE": "2014\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04604               ",
-                "TOXICNAME": "氰化亞銅",
-                "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "9.60",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -160,7 +202,7 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "4.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -174,7 +216,21 @@
                 "TOXICENGNAME": "Copper Sodium cyanide",
                 "EMIVALUE": "2.10",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "9.60",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -188,7 +244,7 @@
                 "TOXICENGNAME": "Zinc cyanide",
                 "EMIVALUE": "1.80",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -202,7 +258,7 @@
                 "TOXICENGNAME": "Copper(I) cyanide",
                 "EMIVALUE": "6.96",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -216,21 +272,7 @@
                 "TOXICENGNAME": "Copper Sodium cyanide",
                 "EMIVALUE": "0.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "3",
-                "STARTDATE": "2014\/07\/01",
-                "ENDDATE": "2014\/09\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04605               ",
-                "TOXICNAME": "氰化鉀銅",
-                "TOXICENGNAME": "Copper(I) potassium cyanide",
-                "EMIVALUE": "1.50",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -244,35 +286,21 @@
                 "TOXICENGNAME": "Zinc cyanide",
                 "EMIVALUE": "0.51",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "F1115666",
-                "QUARTER": "2",
-                "STARTDATE": "2014\/04\/01",
-                "ENDDATE": "2014\/06\/30",
+                "QUARTER": "3",
+                "STARTDATE": "2014\/07\/01",
+                "ENDDATE": "2014\/09\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04604               ",
-                "TOXICNAME": "氰化亞銅",
-                "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "10.14",
+                "EMIITEMID": "04605               ",
+                "TOXICNAME": "氰化鉀銅",
+                "TOXICENGNAME": "Copper(I) potassium cyanide",
+                "EMIVALUE": "1.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "2",
-                "STARTDATE": "2014\/04\/01",
-                "ENDDATE": "2014\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04609               ",
-                "TOXICNAME": "氰化銅鈉",
-                "TOXICENGNAME": "Copper Sodium cyanide",
-                "EMIVALUE": "0.50",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -286,7 +314,35 @@
                 "TOXICENGNAME": "Zinc cyanide",
                 "EMIVALUE": "0.7650",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "10.14",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04609               ",
+                "TOXICNAME": "氰化銅鈉",
+                "TOXICENGNAME": "Copper Sodium cyanide",
+                "EMIVALUE": "0.50",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -300,21 +356,7 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "4.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "1",
-                "STARTDATE": "2014\/01\/01",
-                "ENDDATE": "2014\/03\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04604               ",
-                "TOXICNAME": "氰化亞銅",
-                "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "3",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -328,21 +370,7 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "4.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "1",
-                "STARTDATE": "2014\/01\/01",
-                "ENDDATE": "2014\/03\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04609               ",
-                "TOXICNAME": "氰化銅鈉",
-                "TOXICENGNAME": "Copper Sodium cyanide",
-                "EMIVALUE": "0.50",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -356,49 +384,35 @@
                 "TOXICENGNAME": "Zinc cyanide",
                 "EMIVALUE": "0.51",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "F1115666",
-                "QUARTER": "4",
-                "STARTDATE": "2013\/10\/01",
-                "ENDDATE": "2013\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04601               ",
-                "TOXICNAME": "氰化鈉",
-                "TOXICENGNAME": "Sodium cyanide",
-                "EMIVALUE": "1.50",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "4",
-                "STARTDATE": "2013\/10\/01",
-                "ENDDATE": "2013\/12\/31",
+                "QUARTER": "1",
+                "STARTDATE": "2014\/01\/01",
+                "ENDDATE": "2014\/03\/31",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "04604               ",
                 "TOXICNAME": "氰化亞銅",
                 "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "5.01",
+                "EMIVALUE": "3",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "F1115666",
-                "QUARTER": "4",
-                "STARTDATE": "2013\/10\/01",
-                "ENDDATE": "2013\/12\/31",
+                "QUARTER": "1",
+                "STARTDATE": "2014\/01\/01",
+                "ENDDATE": "2014\/03\/31",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04605               ",
-                "TOXICNAME": "氰化鉀銅",
-                "TOXICENGNAME": "Copper(I) potassium cyanide",
-                "EMIVALUE": "4.80",
+                "EMIITEMID": "04609               ",
+                "TOXICNAME": "氰化銅鈉",
+                "TOXICENGNAME": "Copper Sodium cyanide",
+                "EMIVALUE": "0.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -412,7 +426,49 @@
                 "TOXICENGNAME": "Copper Sodium cyanide",
                 "EMIVALUE": "1",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "4",
+                "STARTDATE": "2013\/10\/01",
+                "ENDDATE": "2013\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "5.01",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "4",
+                "STARTDATE": "2013\/10\/01",
+                "ENDDATE": "2013\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04605               ",
+                "TOXICNAME": "氰化鉀銅",
+                "TOXICENGNAME": "Copper(I) potassium cyanide",
+                "EMIVALUE": "4.80",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "4",
+                "STARTDATE": "2013\/10\/01",
+                "ENDDATE": "2013\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "1.50",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -426,7 +482,7 @@
                 "TOXICENGNAME": "Copper(I) cyanide",
                 "EMIVALUE": "5.25",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -440,7 +496,7 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "1.20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -454,21 +510,7 @@
                 "TOXICENGNAME": "Zinc cyanide",
                 "EMIVALUE": "1.5150",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "2",
-                "STARTDATE": "2013\/04\/01",
-                "ENDDATE": "2013\/06\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04607               ",
-                "TOXICNAME": "氰化鋅",
-                "TOXICENGNAME": "Zinc cyanide",
-                "EMIVALUE": "0.1050",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -482,7 +524,7 @@
                 "TOXICENGNAME": "Copper Sodium cyanide",
                 "EMIVALUE": "0.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -496,7 +538,21 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "0.51",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "2",
+                "STARTDATE": "2013\/04\/01",
+                "ENDDATE": "2013\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04607               ",
+                "TOXICNAME": "氰化鋅",
+                "TOXICENGNAME": "Zinc cyanide",
+                "EMIVALUE": "0.1050",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -510,7 +566,7 @@
                 "TOXICENGNAME": "Copper(I) cyanide",
                 "EMIVALUE": "9.90",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -519,12 +575,12 @@
                 "STARTDATE": "2013\/01\/01",
                 "ENDDATE": "2013\/03\/31",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04607               ",
-                "TOXICNAME": "氰化鋅",
-                "TOXICENGNAME": "Zinc cyanide",
-                "EMIVALUE": "1.05",
+                "EMIITEMID": "04609               ",
+                "TOXICNAME": "氰化銅鈉",
+                "TOXICENGNAME": "Copper Sodium cyanide",
+                "EMIVALUE": "0.60",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -538,21 +594,7 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "7.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "1",
-                "STARTDATE": "2013\/01\/01",
-                "ENDDATE": "2013\/03\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04609               ",
-                "TOXICNAME": "氰化銅鈉",
-                "TOXICENGNAME": "Copper Sodium cyanide",
-                "EMIVALUE": "0.60",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -566,7 +608,63 @@
                 "TOXICENGNAME": "Copper(I) cyanide",
                 "EMIVALUE": "15.15",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "1",
+                "STARTDATE": "2013\/01\/01",
+                "ENDDATE": "2013\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04607               ",
+                "TOXICNAME": "氰化鋅",
+                "TOXICENGNAME": "Zinc cyanide",
+                "EMIVALUE": "1.05",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04601               ",
+                "TOXICNAME": "氰化鈉",
+                "TOXICENGNAME": "Sodium cyanide",
+                "EMIVALUE": "0.30",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04605               ",
+                "TOXICNAME": "氰化鉀銅",
+                "TOXICENGNAME": "Copper(I) potassium cyanide",
+                "EMIVALUE": "3.60",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "3.60",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -580,49 +678,7 @@
                 "TOXICENGNAME": "Copper Sodium cyanide",
                 "EMIVALUE": "0.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04601               ",
-                "TOXICNAME": "氰化鈉",
-                "TOXICENGNAME": "Sodium cyanide",
-                "EMIVALUE": "0.30",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04605               ",
-                "TOXICNAME": "氰化鉀銅",
-                "TOXICENGNAME": "Copper(I) potassium cyanide",
-                "EMIVALUE": "3.60",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04604               ",
-                "TOXICNAME": "氰化亞銅",
-                "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "3.60",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -636,7 +692,21 @@
                 "TOXICENGNAME": "Sodium cyanide",
                 "EMIVALUE": "0.45",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "3",
+                "STARTDATE": "2012\/07\/01",
+                "ENDDATE": "2012\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04607               ",
+                "TOXICNAME": "氰化鋅",
+                "TOXICENGNAME": "Zinc cyanide",
+                "EMIVALUE": "0.60",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -650,21 +720,7 @@
                 "TOXICENGNAME": "Copper Sodium cyanide",
                 "EMIVALUE": "0.60",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "3",
-                "STARTDATE": "2012\/07\/01",
-                "ENDDATE": "2012\/09\/30",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04604               ",
-                "TOXICNAME": "氰化亞銅",
-                "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "7.20",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -678,7 +734,7 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "2.40",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -687,26 +743,12 @@
                 "STARTDATE": "2012\/07\/01",
                 "ENDDATE": "2012\/09\/30",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04607               ",
-                "TOXICNAME": "氰化鋅",
-                "TOXICENGNAME": "Zinc cyanide",
-                "EMIVALUE": "0.60",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "F1115666",
-                "QUARTER": "2",
-                "STARTDATE": "2012\/04\/01",
-                "ENDDATE": "2012\/06\/30",
-                "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "04604               ",
                 "TOXICNAME": "氰化亞銅",
                 "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "6",
+                "EMIVALUE": "7.20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -720,7 +762,21 @@
                 "TOXICENGNAME": "Zinc cyanide",
                 "EMIVALUE": "0.30",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1115666",
+                "QUARTER": "2",
+                "STARTDATE": "2012\/04\/01",
+                "ENDDATE": "2012\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "6",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -734,7 +790,7 @@
                 "TOXICENGNAME": "Copper(I) potassium cyanide",
                 "EMIVALUE": "3",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -743,10 +799,10 @@
                 "STARTDATE": "2012\/01\/01",
                 "ENDDATE": "2012\/03\/31",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04605               ",
-                "TOXICNAME": "氰化鉀銅",
-                "TOXICENGNAME": "Copper(I) potassium cyanide",
-                "EMIVALUE": "6",
+                "EMIITEMID": "04604               ",
+                "TOXICNAME": "氰化亞銅",
+                "TOXICENGNAME": "Copper(I) cyanide",
+                "EMIVALUE": "12.30",
                 "ITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/01\/23 01:01",
                 "RPT_TYPE": "TOX"
@@ -771,10 +827,10 @@
                 "STARTDATE": "2012\/01\/01",
                 "ENDDATE": "2012\/03\/31",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04604               ",
-                "TOXICNAME": "氰化亞銅",
-                "TOXICENGNAME": "Copper(I) cyanide",
-                "EMIVALUE": "12.30",
+                "EMIITEMID": "04605               ",
+                "TOXICNAME": "氰化鉀銅",
+                "TOXICENGNAME": "Copper(I) potassium cyanide",
+                "EMIVALUE": "6",
                 "ITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/01\/23 01:01",
                 "RPT_TYPE": "TOX"

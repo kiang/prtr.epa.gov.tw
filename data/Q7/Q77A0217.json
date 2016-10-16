@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "嘉義縣水上鄉粗溪村村粗溪２０之１９７號１樓",
+        "地址": "嘉義縣水上鄉粗溪村粗溪２０之１９７號１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "Q77A0217",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.39807364169",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "Q77A0217",
+                "FACILITYNAME": "嘉鴻環保企業行",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "44-105-060001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/22",
+                "TRANSGRESSDATE": "2016\/05\/28",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "陳溪湶(即嘉鴻環保企業行)",
+                "TRANSGRESSCONTROLID": "Q77A0217"
+            }
         ]
     }
 }

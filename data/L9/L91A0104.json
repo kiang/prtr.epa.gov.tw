@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺中市梧棲區頂寮里大仁路二七七巷二八號四樓之一○",
+        "地址": "臺中市梧棲區頂寮里大仁路二段２７７巷２８號４樓之１０",
         "所屬工業區": "無特定工業區",
         "管制編號": "L91A0104",
         "行業別": "廢棄物清除業(有害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.54477999911",
-        "latitude": "24.258165121237",
+        "longitude": "120.544779976963",
+        "latitude": "24.258165102977",
         "name": "國生交通股份有限公司"
     },
     "reports": {
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "L91A0104",
+                "FACILITYNAME": "國生交通股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "40-105-050027",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/19",
+                "TRANSGRESSDATE": "2016\/04\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "2016-04-24",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "國生交通股份有限公司",
+                "TRANSGRESSCONTROLID": "L91A0104"
+            }
         ]
     }
 }

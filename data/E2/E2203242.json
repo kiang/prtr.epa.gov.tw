@@ -5,7 +5,7 @@
         "管制編號": "E2203242",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.347431931537",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "E2203242",
+                "FACILITYNAME": "烜鉏環保工程有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-080002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/12",
+                "TRANSGRESSDATE": "2016\/07\/01",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第18條",
+                "PENALTYMONEY": 12000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "烜鉏環保工程有限公司",
+                "TRANSGRESSCONTROLID": "E2203242"
+            }
         ]
     }
 }

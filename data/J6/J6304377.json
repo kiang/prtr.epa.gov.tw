@@ -5,7 +5,7 @@
         "管制編號": "J6304377",
         "行業別": "塑膠製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.025279704535",
@@ -25,6 +25,34 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "J6304377",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "15601               ",
+                "TOXICNAME": "氟",
+                "TOXICENGNAME": "Fluorine",
+                "EMIVALUE": "0.1632",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "J6304377",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "15601               ",
+                "TOXICNAME": "氟",
+                "TOXICENGNAME": "Fluorine",
+                "EMIVALUE": "0.27",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "J6304377",
                 "QUARTER": "4",
                 "STARTDATE": "2015\/10\/01",
                 "ENDDATE": "2015\/12\/31",
@@ -34,7 +62,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.409080",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +76,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.4950",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +90,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.6930",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +104,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.5175",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +118,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.8325",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +132,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.115830",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +146,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.5850",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +160,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "96.2880",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,7 +174,7 @@
                 "TOXICENGNAME": "Fluorine",
                 "EMIVALUE": "0.3105",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

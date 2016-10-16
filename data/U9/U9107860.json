@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "花蓮縣花蓮市花蓮市鎮國街五九號",
-        "所屬工業區": "無特定工業區",
+        "地址": "花蓮縣吉安鄉稻香村香源街７９號",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "U9107860",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.599885396351",
-        "latitude": "23.97566215141",
+        "longitude": "121.599885447487",
+        "latitude": "23.9756621332818",
         "name": "傑順工程行"
     },
     "reports": {
@@ -32,48 +32,7 @@
 
         ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "U9107860",
-                "FACILITYNAME": "傑順工程行",
-                "COUNTY": "花蓮縣",
-                "COUNTYCODE": "22",
-                "DOCUMENTNO": "45-100-050001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/05\/25",
-                "TRANSGRESSDATE": "2011\/05\/09",
-                "TRANSGRESSLAW": "廢棄物清理法第12條第1項",
-                "PENALTYMONEY": 3000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "傑順工程行",
-                "TRANSGRESSCONTROLID": "U9107860"
-            },
-            {
-                "REGISTRATIONNO": "U9107860",
-                "FACILITYNAME": "傑順工程行",
-                "COUNTY": "花蓮縣",
-                "COUNTYCODE": "22",
-                "DOCUMENTNO": "44-100-060005",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/06\/30",
-                "TRANSGRESSDATE": "2011\/03\/17",
-                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第17條第1項",
-                "PENALTYMONEY": 12000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "傑順工程行",
-                "TRANSGRESSCONTROLID": "U9107860"
-            }
+
         ]
     }
 }

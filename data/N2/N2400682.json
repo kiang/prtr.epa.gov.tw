@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "彰化縣永靖鄉湳漧村四湳路二一九號",
+        "地址": "彰化縣永靖鄉湳漧村四湳路２１９號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "N2400682",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "0",
-        "latitude": "0",
-        "name": "弘昌牧場(邱茂盛)"
+        "longitude": "120.521914974083",
+        "latitude": "23.9331130162917",
+        "name": "弘昌畜牧場"
     },
     "reports": {
         "AIR": [
@@ -271,7 +271,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "N2400682",
+                "FACILITYNAME": "弘昌畜牧場",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-105-070003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/04",
+                "TRANSGRESSDATE": "2016\/05\/03",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "弘昌畜牧場",
+                "TRANSGRESSCONTROLID": "N2400682"
+            }
         ]
     }
 }

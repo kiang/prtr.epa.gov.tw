@@ -5,7 +5,7 @@
         "管制編號": "T42A1455",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.48448362733",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "T42A1455",
+                "FACILITYNAME": "永泰環保社",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "44-105-090006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/19",
+                "TRANSGRESSDATE": "2016\/06\/27",
+                "TRANSGRESSLAW": "廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永泰環保社",
+                "TRANSGRESSCONTROLID": "T42A1455"
+            }
         ]
     }
 }

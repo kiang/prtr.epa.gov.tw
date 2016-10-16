@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺中市大安區西安里南北八路一一八號",
+        "地址": "臺中市大安區西安里南北八路１１８號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "L9900296",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.597137432943",
-        "latitude": "24.3771393502431",
+        "longitude": "120.59713741765",
+        "latitude": "24.3771393318503",
         "name": "王江河養豬場"
     },
     "reports": {
@@ -271,6 +271,48 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "L9900296",
+                "FACILITYNAME": "王江河養豬場",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-105-080034",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/15",
+                "TRANSGRESSDATE": "2016\/07\/13",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 6600,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-08-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "王江河養豬場",
+                "TRANSGRESSCONTROLID": "L9900296"
+            },
+            {
+                "REGISTRATIONNO": "L9900296",
+                "FACILITYNAME": "王江河養豬場",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-105-060005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/17",
+                "TRANSGRESSDATE": "2016\/05\/19",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 30600,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-06-30",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "王江河養豬場",
+                "TRANSGRESSCONTROLID": "L9900296"
+            },
             {
                 "REGISTRATIONNO": "L9900296",
                 "FACILITYNAME": "王江河養豬場",

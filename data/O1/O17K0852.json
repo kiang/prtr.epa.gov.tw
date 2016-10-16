@@ -5,7 +5,7 @@
         "管制編號": "O17K0852",
         "行業別": "短期住宿服務業(短期住宿服務業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "P46097004335",
+                "FACILITYNAME": "歐遊國際股份有限公司",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "30-105-090009",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/20",
+                "TRANSGRESSDATE": "2016\/08\/17",
+                "TRANSGRESSLAW": "水污染防治法第22條，水污染防治措施及檢測申報管理辦法第89條(之1)",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-08-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "歐遊國際股份有限公司",
+                "TRANSGRESSCONTROLID": "O17K0852"
+            }
         ]
     }
 }

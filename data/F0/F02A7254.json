@@ -5,7 +5,7 @@
         "管制編號": "F02A7254",
         "行業別": "綜合商品零售業(其他綜合商品零售業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.47208862394",
@@ -175,7 +175,48 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A39097006649",
+                "FACILITYNAME": "台灣家樂福股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-105-030064",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/31",
+                "TRANSGRESSDATE": "2015\/11\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第39條第1項，經濟部事業廢棄物再利用管理辦法第17條第1項，經濟部事業廢棄物再利用管理辦法第18條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣家樂福股份有限公司重新分公司",
+                "TRANSGRESSCONTROLID": "F02A7254"
+            },
+            {
+                "REGISTRATIONNO": "A39097006649",
+                "FACILITYNAME": "台灣家樂福股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-105-030063",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/31",
+                "TRANSGRESSDATE": "2015\/11\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第15條第2項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣家樂福股份有限公司重新分公司",
+                "TRANSGRESSCONTROLID": "F02A7254"
+            }
         ]
     }
 }

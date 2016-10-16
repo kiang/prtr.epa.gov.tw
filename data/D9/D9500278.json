@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "臺南市下營區茅港尾段五二三○地號",
+        "地址": "臺南市下營區茅港尾段５２３０地號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "D9500278",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -127,7 +127,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "D9500278",
+                "FACILITYNAME": "張炎輝畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-040008",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/18",
+                "TRANSGRESSDATE": "2016\/02\/22",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "2016-05-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "張炎輝畜牧場",
+                "TRANSGRESSCONTROLID": "D9500278"
+            }
         ]
     }
 }

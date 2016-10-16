@@ -5,7 +5,7 @@
         "管制編號": "H4306496",
         "行業別": "碾榖、磨粉及澱粉製品製造業(磨粉製品製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.245913108433",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "H4306496",
+                "FACILITYNAME": "協發產業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "20-105-060025",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/27",
+                "TRANSGRESSDATE": "2016\/05\/25",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "協發產業股份有限公司",
+                "TRANSGRESSCONTROLID": "H4306496"
+            }
         ]
     }
 }

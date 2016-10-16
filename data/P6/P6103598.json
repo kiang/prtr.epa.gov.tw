@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "雲林縣台西鄉海口村中山路１１０巷１８１號１樓",
+        "地址": "雲林縣臺西鄉海口村中山路１１０巷１８１號１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "P6103598",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.194943491779",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "P6103598",
+                "FACILITYNAME": "安西資源再生有限公司",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "44-105-070006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/05",
+                "TRANSGRESSDATE": "2016\/06\/15",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "安西資源再生有限公司",
+                "TRANSGRESSCONTROLID": "P6103598"
+            }
         ]
     }
 }

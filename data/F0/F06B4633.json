@@ -5,7 +5,7 @@
         "管制編號": "F06B4633",
         "行業別": "其他餐飲業(其他餐飲業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -20,20 +20,6 @@
 
         ],
         "WAS": [
-            {
-                "REGISTRATIONNO": "F06B4633",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "6",
-                "EMIITEMID": "R-0603",
-                "EMIITEMNAME": "廢紙容器",
-                "CLEANCODE": "Z99",
-                "CLEANNAME": "其他中間處理方式",
-                "EMIITEMVALUE": "0.30",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
             {
                 "REGISTRATIONNO": "F06B4633",
                 "EMIYEAR": "2015",
@@ -57,6 +43,20 @@
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/02\/27 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "F06B4633",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-0603",
+                "EMIITEMNAME": "廢紙容器",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/02\/27 09:03",
                 "RPT_TYPE": "WAS",

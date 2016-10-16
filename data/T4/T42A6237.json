@@ -1,0 +1,79 @@
+{
+    "info": {
+        "地址": "屏東縣屏東市擇仁里建華一街４號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "T42A6237",
+        "行業別": "汽車貨運業",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/10\/07",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "longitude": "120.487218853727",
+        "latitude": "22.6671904111008",
+        "name": "崑晉運輸有限公司"
+    },
+    "reports": {
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "T42A6237",
+                "FACILITYNAME": "崑晉運輸有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-103-030095",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/03\/18",
+                "TRANSGRESSDATE": "2014\/02\/11",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2014-04-18",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "崑晉運輸有限公司",
+                "TRANSGRESSCONTROLID": "T42A6237"
+            },
+            {
+                "REGISTRATIONNO": "T42A6237",
+                "FACILITYNAME": "崑晉運輸有限公司",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "34-101-120001",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/12\/17",
+                "TRANSGRESSDATE": "2012\/11\/20",
+                "TRANSGRESSLAW": "毒性化學物質管理法第22條第2項，毒性化學物質管理法第18條第2項",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "崑晉運輸有限公司",
+                "TRANSGRESSCONTROLID": "T42A6237"
+            }
+        ]
+    }
+}

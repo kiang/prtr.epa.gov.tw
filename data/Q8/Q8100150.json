@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "嘉義縣番路鄉公田村潮洲湖３號",
+        "地址": "嘉義縣番路鄉公田村龍頭１９之６號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "Q8100150",
-        "行業別": "餐館業(餐館業)",
+        "行業別": "餐館業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "0",
-        "latitude": "0",
+        "longitude": "120.670837991414",
+        "latitude": "23.441767015671",
         "name": "梅園樓有限公司"
     },
     "reports": {
@@ -687,7 +687,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "Q8100150",
+                "FACILITYNAME": "梅園樓有限公司",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "30-105-080002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/10",
+                "TRANSGRESSDATE": "2016\/05\/19",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-08-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "梅園樓有限公司",
+                "TRANSGRESSCONTROLID": "Q8100150"
+            }
         ]
     }
 }

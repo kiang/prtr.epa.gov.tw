@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "宜蘭縣蘇澳鎮德興路一三號",
+        "地址": "宜蘭縣蘇澳鎮德興二路１３號",
         "所屬工業區": "無特定工業區",
         "管制編號": "G3205639",
-        "行業別": "醫療器材及用品製造業",
+        "行業別": "藥品及醫用化學製品製造業(中藥製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "0",
-        "latitude": "0",
-        "name": "英橋企業股份有限公司"
+        "longitude": "121.818523127278",
+        "latitude": "24.6251040158752",
+        "name": "英橋企業股份有限公司龍德製藥廠"
     },
     "reports": {
         "AIR": [
@@ -32,27 +32,7 @@
 
         ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "G3205639",
-                "FACILITYNAME": "英橋企業股份有限公司",
-                "COUNTY": "宜蘭縣",
-                "COUNTYCODE": "9",
-                "DOCUMENTNO": "34-100-070001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/08",
-                "TRANSGRESSDATE": "2011\/04\/22",
-                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "英橋企業股份有限公司",
-                "TRANSGRESSCONTROLID": "G3205639"
-            }
+
         ]
     }
 }

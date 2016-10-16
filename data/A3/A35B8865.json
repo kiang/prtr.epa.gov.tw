@@ -5,7 +5,7 @@
         "管制編號": "A35B8865",
         "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.553091038751",
@@ -13,9 +13,55 @@
         "name": "吉品海鮮股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A35B8865",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B8865",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B8865",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A35B8865",
                 "EMIYEAR": "2016",
@@ -106,13 +152,13 @@
                 "EMIMONTH": "8",
                 "EMIITEMID": "R-1702",
                 "EMIITEMNAME": "廢食用油",
-                "CLEANCODE": "R99",
-                "CLEANNAME": "作為其他再利用之用途",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
                 "EMIITEMVALUE": "0.18",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2015\/11\/22 09:09",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "撤銷"
+                "EMISTATUS": "有效"
             },
             {
                 "REGISTRATIONNO": "A35B8865",
@@ -120,27 +166,13 @@
                 "EMIMONTH": "8",
                 "EMIITEMID": "R-1702",
                 "EMIITEMNAME": "廢食用油",
-                "CLEANCODE": "R04",
-                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
                 "EMIITEMVALUE": "0.18",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2015\/11\/22 09:09",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A35B8865",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "7",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
-                "CLEANCODE": "R04",
-                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
-                "EMIITEMVALUE": "0.0180",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/22 09:01",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "A35B8865",
@@ -159,9 +191,23 @@
             {
                 "REGISTRATIONNO": "A35B8865",
                 "EMIYEAR": "2015",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R04",
+                "CLEANNAME": "將廢棄物作為再利用之燃料使用",
+                "EMIITEMVALUE": "0.0180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/11\/22 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A35B8865",
+                "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
+                "EMIITEMID": "R-0601",
+                "EMIITEMNAME": "廢紙",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -202,8 +248,8 @@
                 "REGISTRATIONNO": "A35B8865",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "R-0601",
-                "EMIITEMNAME": "廢紙",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -493,9 +539,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

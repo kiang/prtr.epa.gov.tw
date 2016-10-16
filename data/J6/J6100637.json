@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "新竹縣新豐鄉中崙村一鄰七號",
+        "地址": "新竹縣新豐鄉中崙段１６８３地號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "J6100637",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.985325756635",
-        "latitude": "24.900810671311",
-        "name": "陳棋煌養豬場"
+        "longitude": "120.985325756634",
+        "latitude": "24.9008106521477",
+        "name": "豐農牧場"
     },
     "reports": {
         "AIR": [
@@ -175,7 +175,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "J6100637",
+                "FACILITYNAME": "豐農牧場",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-105-060007",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/06",
+                "TRANSGRESSDATE": "2016\/04\/01",
+                "TRANSGRESSLAW": "水污染防治法第28條第1項",
+                "PENALTYMONEY": 13336,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "陳棋煌養豬場",
+                "TRANSGRESSCONTROLID": "J6100637"
+            }
         ]
     }
 }

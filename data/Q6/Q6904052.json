@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "嘉義縣民雄鄉興南村建國路三段二六五號",
+        "地址": "嘉義縣民雄鄉興南村建國路三段２６５號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "Q6904052",
         "行業別": "燃料零售業(加油（氣）站業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.438074957389",
@@ -32,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "Q69097000133",
+                "FACILITYNAME": "協同加油站有限公司",
+                "COUNTY": "嘉義縣",
+                "COUNTYCODE": "17",
+                "DOCUMENTNO": "32-105-090001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/19",
+                "TRANSGRESSDATE": "2016\/08\/16",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第38條第2項第3款",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "協同加油站有限公司",
+                "TRANSGRESSCONTROLID": "Q6904052"
+            },
             {
                 "REGISTRATIONNO": "Q6904052",
                 "FACILITYNAME": "協同加油站有限公司-協同加油站",

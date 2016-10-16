@@ -1,25 +1,58 @@
 {
     "info": {
-        "地址": "臺北市大安區敦化南路二段二號八樓",
+        "地址": "臺北市大安區敦化南路二段２號８樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "A3504362",
         "行業別": "農作物栽培業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.548418700716",
-        "latitude": "25.0330060050835",
+        "longitude": "121.548418738493",
+        "latitude": "25.0330059853511",
         "name": "台元紡織股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3504362",
+                "FACILITYNAME": "台元紡織股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-105-080019",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/24",
+                "TRANSGRESSDATE": "2016\/05\/19",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 297000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-09-12",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台元紡織股份有限公司竹北總廠",
+                "TRANSGRESSCONTROLID": "J5500580"
+            },
             {
                 "REGISTRATIONNO": "A3504362",
                 "FACILITYNAME": "台元紡織股份有限公司",
@@ -205,27 +238,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台元紡織股份有限公司竹北總廠",
-                "TRANSGRESSCONTROLID": "J5500580"
-            },
-            {
-                "REGISTRATIONNO": "A3504362",
-                "FACILITYNAME": "台元紡織股份有限公司",
-                "COUNTY": "新竹縣",
-                "COUNTYCODE": "11",
-                "DOCUMENTNO": "30-100-080006",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/15",
-                "TRANSGRESSDATE": "2011\/06\/17",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項",
-                "PENALTYMONEY": 140000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-08-29",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "台元紡織股份有限公司竹北總廠",
                 "TRANSGRESSCONTROLID": "J5500580"

@@ -5,7 +5,7 @@
         "管制編號": "K7206051",
         "行業別": "其他化學製品製造業(其他化學製品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.892047955111",
@@ -25,16 +25,72 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "K7206051",
-                "QUARTER": "4",
-                "STARTDATE": "2015\/10\/01",
-                "ENDDATE": "2015\/12\/31",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "15701               ",
                 "TOXICNAME": "磷化氫",
                 "TOXICENGNAME": "Phosphine",
-                "EMIVALUE": "1.021565",
+                "EMIVALUE": "1.141649",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "K7206051",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04901               ",
+                "TOXICNAME": "氯",
+                "TOXICENGNAME": "Chlorine",
+                "EMIVALUE": "0.02",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "K7206051",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09701               ",
+                "TOXICNAME": "吡啶",
+                "TOXICENGNAME": "Pyridine",
+                "EMIVALUE": "0.1260",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "K7206051",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "15701               ",
+                "TOXICNAME": "磷化氫",
+                "TOXICENGNAME": "Phosphine",
+                "EMIVALUE": "0.899212",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "K7206051",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "09701               ",
+                "TOXICNAME": "吡啶",
+                "TOXICENGNAME": "Pyridine",
+                "EMIVALUE": "0.1120",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,21 +104,21 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.14",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "K7206051",
-                "QUARTER": "3",
-                "STARTDATE": "2015\/07\/01",
-                "ENDDATE": "2015\/09\/30",
+                "QUARTER": "4",
+                "STARTDATE": "2015\/10\/01",
+                "ENDDATE": "2015\/12\/31",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "15701               ",
                 "TOXICNAME": "磷化氫",
                 "TOXICENGNAME": "Phosphine",
-                "EMIVALUE": "1.028467",
+                "EMIVALUE": "1.021565",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +132,21 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.1260",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "K7206051",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "15701               ",
+                "TOXICNAME": "磷化氫",
+                "TOXICENGNAME": "Phosphine",
+                "EMIVALUE": "1.028467",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +160,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0280",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,21 +174,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "1.069990",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "K7206051",
-                "QUARTER": "1",
-                "STARTDATE": "2015\/01\/01",
-                "ENDDATE": "2015\/03\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "15701               ",
-                "TOXICNAME": "磷化氫",
-                "TOXICENGNAME": "Phosphine",
-                "EMIVALUE": "0.952034",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +188,7 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.1540",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,21 +202,21 @@
                 "TOXICENGNAME": "Chlorine",
                 "EMIVALUE": "0.000020",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "K7206051",
-                "QUARTER": "4",
-                "STARTDATE": "2014\/10\/01",
-                "ENDDATE": "2014\/12\/31",
+                "QUARTER": "1",
+                "STARTDATE": "2015\/01\/01",
+                "ENDDATE": "2015\/03\/31",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "15701               ",
                 "TOXICNAME": "磷化氫",
                 "TOXICENGNAME": "Phosphine",
-                "EMIVALUE": "1.173365",
+                "EMIVALUE": "0.952034",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -174,21 +230,21 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0980",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "K7206051",
-                "QUARTER": "3",
-                "STARTDATE": "2014\/07\/01",
-                "ENDDATE": "2014\/09\/30",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "15701               ",
                 "TOXICNAME": "磷化氫",
                 "TOXICENGNAME": "Phosphine",
-                "EMIVALUE": "1.234315",
+                "EMIVALUE": "1.173365",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -202,21 +258,21 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0840",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "K7206051",
-                "QUARTER": "2",
-                "STARTDATE": "2014\/04\/01",
-                "ENDDATE": "2014\/06\/30",
+                "QUARTER": "3",
+                "STARTDATE": "2014\/07\/01",
+                "ENDDATE": "2014\/09\/30",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "15701               ",
                 "TOXICNAME": "磷化氫",
                 "TOXICENGNAME": "Phosphine",
-                "EMIVALUE": "1.155216",
+                "EMIVALUE": "1.234315",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -230,21 +286,21 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.07",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "K7206051",
-                "QUARTER": "1",
-                "STARTDATE": "2014\/01\/01",
-                "ENDDATE": "2014\/03\/31",
+                "QUARTER": "2",
+                "STARTDATE": "2014\/04\/01",
+                "ENDDATE": "2014\/06\/30",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "15701               ",
                 "TOXICNAME": "磷化氫",
                 "TOXICENGNAME": "Phosphine",
-                "EMIVALUE": "1.274343",
+                "EMIVALUE": "1.155216",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -258,7 +314,21 @@
                 "TOXICENGNAME": "Pyridine",
                 "EMIVALUE": "0.0560",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "K7206051",
+                "QUARTER": "1",
+                "STARTDATE": "2014\/01\/01",
+                "ENDDATE": "2014\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "15701               ",
+                "TOXICNAME": "磷化氫",
+                "TOXICENGNAME": "Phosphine",
+                "EMIVALUE": "1.274343",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -272,7 +342,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "2.131368",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -286,7 +356,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "1.423725",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -300,21 +370,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "1.178414",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "K7206051",
-                "QUARTER": "1",
-                "STARTDATE": "2013\/01\/01",
-                "ENDDATE": "2013\/03\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "04901               ",
-                "TOXICNAME": "氯",
-                "TOXICENGNAME": "Chlorine",
-                "EMIVALUE": "0.02",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -328,7 +384,21 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "1.321557",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "K7206051",
+                "QUARTER": "1",
+                "STARTDATE": "2013\/01\/01",
+                "ENDDATE": "2013\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "04901               ",
+                "TOXICNAME": "氯",
+                "TOXICENGNAME": "Chlorine",
+                "EMIVALUE": "0.02",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -342,7 +412,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "1.080289",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -356,7 +426,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "2.041842",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -370,7 +440,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "3.005270",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

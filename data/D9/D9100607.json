@@ -5,7 +5,7 @@
         "管制編號": "D9100607",
         "行業別": "暫無分類",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -171,7 +171,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R9100639",
+                "FACILITYNAME": "華興螺絲工業有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "41-105-060173",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/23",
+                "TRANSGRESSDATE": "2016\/06\/13",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "華興螺絲工業有限公司二廠",
+                "TRANSGRESSCONTROLID": "D9100607"
+            }
         ]
     }
 }

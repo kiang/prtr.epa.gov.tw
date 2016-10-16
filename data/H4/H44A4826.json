@@ -5,7 +5,7 @@
         "管制編號": "H44A4826",
         "行業別": "印染整理業(印染整理業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.300617505752",
@@ -32,7 +32,48 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "H44A4826",
+                "FACILITYNAME": "元榮工業有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "20-105-050023",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/27",
+                "TRANSGRESSDATE": "2016\/05\/20",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項，固定污染源設置與操作許可證管理辦法第20條，空氣污染防制法第24條第1項",
+                "PENALTYMONEY": 0,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "元榮工業有限公司",
+                "TRANSGRESSCONTROLID": "H44097003584"
+            },
+            {
+                "REGISTRATIONNO": "H44A4826",
+                "FACILITYNAME": "元榮工業有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "20-105-060030",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/29",
+                "TRANSGRESSDATE": "2016\/05\/20",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第1項，固定污染源設置與操作許可證管理辦法第20條，空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "元榮工業有限公司",
+                "TRANSGRESSCONTROLID": "H44097003584"
+            }
         ]
     }
 }

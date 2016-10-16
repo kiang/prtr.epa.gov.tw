@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "台中市大肚區新興里沙田路二段三八三之一號",
+        "地址": "臺中市大肚區新興里沙田路二段３８３之１號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "B0100838",
         "行業別": "基本化學材料製造業(基本化學材料製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.546844978075",
@@ -13,9 +13,41 @@
         "name": "銓鴻有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B0100838",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-1503",
+                "EMIITEMNAME": "非有害廢酸",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0100838",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1503",
+                "EMIITEMNAME": "非有害廢酸",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B0100838",
                 "EMIYEAR": "2016",
@@ -132,8 +164,8 @@
                 "REGISTRATIONNO": "B0100838",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "D-1503",
-                "EMIITEMNAME": "非有害廢酸",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -146,8 +178,8 @@
                 "REGISTRATIONNO": "B0100838",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "6",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-1503",
+                "EMIITEMNAME": "非有害廢酸",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -286,8 +318,8 @@
                 "REGISTRATIONNO": "B0100838",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "10",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-1503",
+                "EMIITEMNAME": "非有害廢酸",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -300,8 +332,8 @@
                 "REGISTRATIONNO": "B0100838",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "10",
-                "EMIITEMID": "D-1503",
-                "EMIITEMNAME": "非有害廢酸",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -311,9 +343,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

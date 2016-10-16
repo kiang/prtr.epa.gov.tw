@@ -1,32 +1,78 @@
 {
     "info": {
-        "地址": "臺中市西屯區工業區三二路一三號",
+        "地址": "臺中市西屯區工業區三二路１３號",
         "所屬工業區": "台中工業區第三期",
         "管制編號": "B2305966",
         "行業別": "農藥及環境用藥製造業(農藥及環境用藥製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.61482279916",
-        "latitude": "24.1812141206381",
+        "longitude": "120.614822785712",
+        "latitude": "24.1812141025857",
         "name": "世廣生物科技股份有限公司工廠"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "B2305966",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "9",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/28 09:00",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2305966",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-0499",
+                "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2305966",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2305966",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-0499",
+                "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -47,14 +93,14 @@
             {
                 "REGISTRATIONNO": "B2305966",
                 "EMIYEAR": "2015",
-                "EMIMONTH": "3",
+                "EMIMONTH": "9",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -74,15 +120,15 @@
             },
             {
                 "REGISTRATIONNO": "B2305966",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "9",
-                "EMIITEMID": "D-0499",
-                "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2015\/07\/17 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -103,7 +149,7 @@
             {
                 "REGISTRATIONNO": "B2305966",
                 "EMIYEAR": "2014",
-                "EMIMONTH": "8",
+                "EMIMONTH": "9",
                 "EMIITEMID": "D-0499",
                 "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
                 "CLEANCODE": "Y03",
@@ -120,6 +166,20 @@
                 "EMIMONTH": "8",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/11\/28 11:47",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2305966",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-0499",
+                "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -244,8 +304,8 @@
                 "REGISTRATIONNO": "B2305966",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "2",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-0499",
+                "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -258,22 +318,8 @@
                 "REGISTRATIONNO": "B2305966",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "2",
-                "EMIITEMID": "D-0499",
-                "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B2305966",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "1",
-                "EMIITEMID": "D-0499",
-                "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -288,6 +334,20 @@
                 "EMIMONTH": "1",
                 "EMIITEMID": "D-1801",
                 "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/06\/27 01:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2305966",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-0499",
+                "EMIITEMNAME": "其他廢玻璃、陶瓷、磚、瓦及黏土等混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -549,9 +609,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

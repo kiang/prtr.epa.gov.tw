@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺南市安定區中沙里中崙一六一號",
+        "地址": "臺南市安定區中沙里中崙１６１號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "R04A0089",
         "行業別": "其他紙製品製造業(未分類其他紙製品製造業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.212019999954",
-        "latitude": "23.0782340188881",
+        "longitude": "120.212019880845",
+        "latitude": "23.0782340012321",
         "name": "麗克晟有限公司"
     },
     "reports": {
@@ -479,7 +479,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R04A0089",
+                "FACILITYNAME": "麗克晟有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-060014",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/06",
+                "TRANSGRESSDATE": "2016\/04\/15",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 165000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-06-01",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "麗克晟有限公司",
+                "TRANSGRESSCONTROLID": "R04A0089"
+            }
         ]
     }
 }

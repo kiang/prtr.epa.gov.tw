@@ -1,21 +1,109 @@
 {
     "info": {
-        "地址": "臺北市南港區忠孝東路六段一六一號二樓",
+        "地址": "臺北市南港區忠孝東路六段１６１號２樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "A4102746",
         "行業別": "電腦、通訊傳播設備及電子產品修理業(視聽電子產品及家用電器修理業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.586509051968",
-        "latitude": "25.0489996681192",
+        "longitude": "121.586509098153",
+        "latitude": "25.0489996482528",
         "name": "良祥企業有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A4102746",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4102746",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-2507",
+                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4102746",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4102746",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-2507",
+                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4102746",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4102746",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-2507",
+                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2016",
@@ -216,8 +304,8 @@
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "7",
-                "EMIITEMID": "D-2507",
-                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -230,8 +318,8 @@
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "7",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-2507",
+                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -300,8 +388,8 @@
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "4",
-                "EMIITEMID": "D-2507",
-                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -314,8 +402,8 @@
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "4",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-2507",
+                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -328,8 +416,8 @@
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "3",
-                "EMIITEMID": "D-2507",
-                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -342,8 +430,8 @@
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "3",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-2507",
+                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -412,8 +500,8 @@
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "12",
-                "EMIITEMID": "D-2507",
-                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -426,8 +514,8 @@
                 "REGISTRATIONNO": "A4102746",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "12",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
+                "EMIITEMID": "D-2507",
+                "EMIITEMNAME": "多氯聯苯重量含量低於百萬分之五十且不含油脂之廢變壓器、廢電容器",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -857,9 +945,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

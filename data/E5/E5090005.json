@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "高雄市三民區宣化街八九號",
+        "地址": "高雄市三民區宣化街８９號",
         "所屬工業區": "無特定工業區",
         "管制編號": "E5090005",
-        "行業別": "其他專賣批發業",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.299627394064",
-        "latitude": "22.6484204636054",
+        "longitude": "120.299627309366",
+        "latitude": "22.6484204471916",
         "name": "錦揚企業有限公司"
     },
     "reports": {
@@ -32,7 +32,48 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "E5090005",
+                "FACILITYNAME": "錦揚企業有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-060014",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/24",
+                "TRANSGRESSDATE": "2016\/04\/25",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第25條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "錦揚企業有限公司",
+                "TRANSGRESSCONTROLID": "E5090005"
+            },
+            {
+                "REGISTRATIONNO": "E5090005",
+                "FACILITYNAME": "錦揚企業有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "44-105-070006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/01",
+                "TRANSGRESSDATE": "2016\/02\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "2016-07-22",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "錦揚企業有限公司",
+                "TRANSGRESSCONTROLID": "E5090005"
+            }
         ]
     }
 }

@@ -5,7 +5,7 @@
         "管制編號": "D32A5185",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.227117067535",
@@ -703,7 +703,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "D32A5185",
+                "FACILITYNAME": "寶霖企業社",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-060043",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/29",
+                "TRANSGRESSDATE": "2016\/05\/10",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第16條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "寶霖企業社",
+                "TRANSGRESSCONTROLID": "D32A5185"
+            }
         ]
     }
 }

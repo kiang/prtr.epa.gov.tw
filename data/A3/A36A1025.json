@@ -3,9 +3,9 @@
         "地址": "臺北市中正區南昌路一段４號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "A36A1025",
-        "行業別": "食品、飲料及菸草製品批發業",
+        "行業別": "酒精飲料製造業(啤酒製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.514921041584",
@@ -13,12 +13,24 @@
         "name": "臺灣菸酒股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A36A1025",
@@ -29,14 +41,14 @@
                 "PENALTYYEAR": "2016",
                 "PENALTYDATE": "2016\/06\/07",
                 "TRANSGRESSDATE": "2016\/04\/19",
-                "TRANSGRESSLAW": "空氣污染防制法第20條",
+                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
                 "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/07\/07 01:00",
-                "IMPROVEDEADLINE": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-08-31",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "臺灣菸酒股份有限公司豐原捲菸研發製造工廠",
                 "TRANSGRESSCONTROLID": "L8600948"
@@ -56,7 +68,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/06\/05 01:00",
+                "UPDATETIME": "2016\/08\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "臺灣菸酒股份有限公司善化啤酒廠",
@@ -74,11 +86,11 @@
                 "TRANSGRESSLAW": "空氣污染防制法第20條第1項，固定污染源空氣污染物排放標準第2條",
                 "PENALTYMONEY": 200000,
                 "ISPETITION": "否",
-                "PETITIONAGENCY": "",
+                "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/07\/07 01:00",
-                "IMPROVEDEADLINE": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2016-06-20",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "臺灣菸酒股份有限公司臺北菸廠",
                 "TRANSGRESSCONTROLID": "F0500447"

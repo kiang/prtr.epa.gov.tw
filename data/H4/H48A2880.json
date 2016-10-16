@@ -5,7 +5,7 @@
         "管制編號": "H48A2880",
         "行業別": "塑膠製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.376704478064",
@@ -32,7 +32,48 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "H48A2880",
+                "FACILITYNAME": "健策精密工業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "30-105-050050",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/26",
+                "TRANSGRESSDATE": "2016\/04\/13",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第7條第1項",
+                "PENALTYMONEY": 204000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "健策精密工業股份有限公司",
+                "TRANSGRESSCONTROLID": "H48A2880"
+            },
+            {
+                "REGISTRATIONNO": "H48A2880",
+                "FACILITYNAME": "健策精密工業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "30-105-050040",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/24",
+                "TRANSGRESSDATE": "2016\/03\/25",
+                "TRANSGRESSLAW": "水污染防治法第18條，水污染防治措施及檢測申報管理辦法第7條第1項",
+                "PENALTYMONEY": 102000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "健策精密工業股份有限公司",
+                "TRANSGRESSCONTROLID": "H48A2880"
+            }
         ]
     }
 }

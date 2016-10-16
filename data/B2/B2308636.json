@@ -5,7 +5,7 @@
         "管制編號": "B2308636",
         "行業別": "化學材料及其製品批發業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.614822785712",
@@ -13,22 +13,42 @@
         "name": "佳美貿易股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
         "TOX": [
             {
                 "REGISTRATIONNO": "B2308636",
-                "QUARTER": "1",
-                "STARTDATE": "2016\/01\/01",
-                "ENDDATE": "2016\/03\/31",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "07101               ",
                 "TOXICNAME": "乙二醇乙醚",
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
-                "EMIVALUE": "29.64",
+                "EMIVALUE": "58.52",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "B2308636",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "24",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -42,7 +62,21 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "24",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "B2308636",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "07101               ",
+                "TOXICNAME": "乙二醇乙醚",
+                "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
+                "EMIVALUE": "29.64",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -56,7 +90,7 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "36",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -70,7 +104,7 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "14.44",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -84,7 +118,7 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "48",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -98,7 +132,7 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "15.20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -112,7 +146,7 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "30.40",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -126,21 +160,7 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "12",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "B2308636",
-                "QUARTER": "4",
-                "STARTDATE": "2014\/10\/01",
-                "ENDDATE": "2014\/12\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05001               ",
-                "TOXICNAME": "丙烯醯胺",
-                "TOXICENGNAME": "Acrylamide",
-                "EMIVALUE": "24",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -154,21 +174,21 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "15.20",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "B2308636",
-                "QUARTER": "3",
-                "STARTDATE": "2014\/07\/01",
-                "ENDDATE": "2014\/09\/30",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "05001               ",
                 "TOXICNAME": "丙烯醯胺",
                 "TOXICENGNAME": "Acrylamide",
-                "EMIVALUE": "36",
+                "EMIVALUE": "24",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -182,7 +202,21 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "44.08",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "B2308636",
+                "QUARTER": "3",
+                "STARTDATE": "2014\/07\/01",
+                "ENDDATE": "2014\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "36",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -210,7 +244,7 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "60.80",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -224,7 +258,7 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "30",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -238,7 +272,7 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "30.40",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -252,7 +286,7 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "45.60",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -308,7 +342,7 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "45",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -340,8 +374,12 @@
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B2308636",

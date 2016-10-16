@@ -5,7 +5,7 @@
         "管制編號": "A39B9873",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.524418702471",
@@ -13,13 +13,67 @@
         "name": "士佳環保清潔有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A39B9873",
+                "FACILITYNAME": "士佳環保清潔有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-080001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/31",
+                "TRANSGRESSDATE": "2016\/07\/25",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "士佳環保清潔有限公司",
+                "TRANSGRESSCONTROLID": "A39B9873"
+            },
+            {
+                "REGISTRATIONNO": "A39B9873",
+                "FACILITYNAME": "士佳環保清潔有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-070003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/12",
+                "TRANSGRESSDATE": "2016\/07\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "士佳環保清潔有限公司",
+                "TRANSGRESSCONTROLID": "A39B9873"
+            },
             {
                 "REGISTRATIONNO": "A39B9873",
                 "FACILITYNAME": "士佳環保清潔有限公司",

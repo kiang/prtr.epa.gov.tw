@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "苗栗縣苑裡鎮舊社里一鄰三號",
+        "地址": "苗栗縣苑裡鎮舊社里舊社３之２號",
         "所屬工業區": "無特定工業區",
         "管制編號": "K6904138",
-        "行業別": "橡膠製品製造業",
+        "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.653180626877",
-        "latitude": "24.4397468770227",
+        "longitude": "120.688398992931",
+        "latitude": "24.4043460172105",
         "name": "鉅國龍精業"
     },
     "reports": {
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "K6904138",
+                "FACILITYNAME": "鉅國龍精業",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "34-105-030002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/02",
+                "TRANSGRESSDATE": "2015\/11\/11",
+                "TRANSGRESSLAW": "毒性化學物質管理法第10條第1項，毒性化學物質危害預防及應變計畫作業辦法第3條第1項第2款第5目",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鉅國龍精業",
+                "TRANSGRESSCONTROLID": "K6904138"
+            }
         ]
     }
 }

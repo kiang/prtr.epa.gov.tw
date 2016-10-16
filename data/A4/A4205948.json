@@ -5,7 +5,7 @@
         "管制編號": "A4205948",
         "行業別": "視聽電子產品製造業(視聽電子產品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.582033045105",
@@ -13,20 +13,94 @@
         "name": "旭儀科技有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
             {
                 "REGISTRATIONNO": "A4205948",
                 "EMIYEAR": "2016",
-                "EMIMONTH": "2",
+                "EMIMONTH": "6",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.000001",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205948",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.000001",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205948",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.000002",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205948",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.000001",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205948",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
                 "EMIITEMID": "E-0217",
                 "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.000003",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205948",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.000002",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -39,6 +113,20 @@
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.000005",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/05\/07 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205948",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "0.000003",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2016\/05\/07 09:02",
                 "RPT_TYPE": "WAS",
@@ -132,8 +220,8 @@
                 "REGISTRATIONNO": "A4205948",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "10",
-                "EMIITEMID": "D-2601",
-                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.0001",
@@ -146,8 +234,8 @@
                 "REGISTRATIONNO": "A4205948",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "10",
-                "EMIITEMID": "E-0217",
-                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.0001",
@@ -160,8 +248,8 @@
                 "REGISTRATIONNO": "A4205948",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "9",
-                "EMIITEMID": "D-2601",
-                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "EMIITEMID": "E-0217",
+                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.0010",
@@ -174,8 +262,8 @@
                 "REGISTRATIONNO": "A4205948",
                 "EMIYEAR": "2015",
                 "EMIMONTH": "9",
-                "EMIITEMID": "E-0217",
-                "EMIITEMNAME": "廢電子零組件、下腳品及不良品",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "Z06",
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.0010",
@@ -1347,9 +1435,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

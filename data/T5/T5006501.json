@@ -5,7 +5,7 @@
         "管制編號": "T5006501",
         "行業別": "砂、石及黏土採取業(砂、石及黏土採取業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "T5006501",
+                "FACILITYNAME": "吉祥砂石股份有限公司",
+                "COUNTY": "屏東縣",
+                "COUNTYCODE": "20",
+                "DOCUMENTNO": "20-105-040004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/22",
+                "TRANSGRESSDATE": "2016\/02\/25",
+                "TRANSGRESSLAW": "空氣污染防制法第24條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "吉祥砂石股份有限公司",
+                "TRANSGRESSCONTROLID": "T5006501"
+            }
         ]
     }
 }

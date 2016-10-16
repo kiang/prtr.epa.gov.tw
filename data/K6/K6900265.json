@@ -3,9 +3,9 @@
         "地址": "苗栗縣苑裡鎮西平里出水８６之３、之４號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "K6900265",
-        "行業別": "印刷及其輔助業(印刷業)",
+        "行業別": "暫無分類",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "K6900265",
+                "FACILITYNAME": "永尚實業社",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "30-105-050006",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/23",
+                "TRANSGRESSDATE": "2016\/04\/16",
+                "TRANSGRESSLAW": "水污染防治法第30條第1項第2款",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永尚實業社",
+                "TRANSGRESSCONTROLID": "K6900265"
+            }
         ]
     }
 }

@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "高雄市田寮區古亭路廟後巷一二號",
+        "地址": "高雄市田寮區古亭路廟後巷１２號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "S2700303",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.400367919747",
-        "latitude": "22.8976115066633",
-        "name": "鄭祐男養豬場"
+        "longitude": "120.400367947234",
+        "latitude": "22.8976110143722",
+        "name": "鄭祐男牧場"
     },
     "reports": {
         "AIR": [
@@ -175,7 +175,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "S2700303",
+                "FACILITYNAME": "鄭祐男牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-105-060005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/02",
+                "TRANSGRESSDATE": "2016\/03\/29",
+                "TRANSGRESSLAW": "放流水標準第2條，水污染防治法第7條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鄭祐男養豬場",
+                "TRANSGRESSCONTROLID": "S2700303"
+            }
         ]
     }
 }

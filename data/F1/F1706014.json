@@ -5,7 +5,7 @@
         "管制編號": "F1706014",
         "行業別": "塗料、染料及顏料製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.401792697839",
@@ -25,6 +25,90 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "F1706014",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05510               ",
+                "TOXICNAME": "鉻酸銨",
+                "TOXICENGNAME": "Ammonium chromate",
+                "EMIVALUE": "0.50",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1706014",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05526               ",
+                "TOXICNAME": "鉬鉻紅",
+                "TOXICENGNAME": "Lead chromate molybdate sulphate red (C.I. Pigment Red 104)",
+                "EMIVALUE": "1",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1706014",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05522               ",
+                "TOXICNAME": "鉻酸鍶",
+                "TOXICENGNAME": "Strontium chromate",
+                "EMIVALUE": "10",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1706014",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05515               ",
+                "TOXICNAME": "鉻酸鉛",
+                "TOXICENGNAME": "Lead chromate",
+                "EMIVALUE": "24",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1706014",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05526               ",
+                "TOXICNAME": "鉬鉻紅",
+                "TOXICENGNAME": "Lead chromate molybdate sulphate red (C.I. Pigment Red 104)",
+                "EMIVALUE": "0.20",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1706014",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05515               ",
+                "TOXICNAME": "鉻酸鉛",
+                "TOXICENGNAME": "Lead chromate",
+                "EMIVALUE": "12",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "F1706014",
                 "QUARTER": "4",
                 "STARTDATE": "2015\/10\/01",
                 "ENDDATE": "2015\/12\/31",
@@ -34,7 +118,7 @@
                 "TOXICENGNAME": "Strontium chromate",
                 "EMIVALUE": "10",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +132,7 @@
                 "TOXICENGNAME": "Lead chromate molybdate sulphate red (C.I. Pigment Red 104)",
                 "EMIVALUE": "1",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +146,7 @@
                 "TOXICENGNAME": "Lead chromate",
                 "EMIVALUE": "15",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +160,7 @@
                 "TOXICENGNAME": "Ammonium chromate",
                 "EMIVALUE": "2.50",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +174,7 @@
                 "TOXICENGNAME": "Strontium chromate",
                 "EMIVALUE": "9.60",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +188,7 @@
                 "TOXICENGNAME": "Ammonium chromate",
                 "EMIVALUE": "2",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -118,7 +202,7 @@
                 "TOXICENGNAME": "Ammonium chromate",
                 "EMIVALUE": "2",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +216,7 @@
                 "TOXICENGNAME": "Ammonium chromate",
                 "EMIVALUE": "1.90",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,7 +230,7 @@
                 "TOXICENGNAME": "Ammonium chromate",
                 "EMIVALUE": "1.90",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -160,7 +244,7 @@
                 "TOXICENGNAME": "Ammonium chromate",
                 "EMIVALUE": "0.30",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

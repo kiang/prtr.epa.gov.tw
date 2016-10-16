@@ -1,0 +1,100 @@
+{
+    "info": {
+        "地址": "臺中市大肚區南榮路１０１號１樓",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "B0101317",
+        "行業別": "農藥及環境用藥製造業(農藥及環境用藥製造業)",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/10\/07",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "longitude": "120.58043298258",
+        "latitude": "24.1118290166584",
+        "name": "興農股份有限公司"
+    },
+    "reports": {
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "B0101317",
+                "FACILITYNAME": "興農股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-105-090012",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/30",
+                "TRANSGRESSDATE": "2016\/06\/22",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項，空氣污染防制法第24條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興農股份有限公司王田廠",
+                "TRANSGRESSCONTROLID": "L0100629"
+            },
+            {
+                "REGISTRATIONNO": "B0101317",
+                "FACILITYNAME": "興農股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "34-105-050002",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/21",
+                "TRANSGRESSDATE": "2016\/04\/15",
+                "TRANSGRESSLAW": "毒性化學物質管理法第10條第3項，毒性化學物質危害預防及應變計畫作業辦法第6條第2項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "2016-06-27",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興農股份有限公司",
+                "TRANSGRESSCONTROLID": "B0101317"
+            },
+            {
+                "REGISTRATIONNO": "B0101317",
+                "FACILITYNAME": "興農股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "34-105-050001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/20",
+                "TRANSGRESSDATE": "2016\/03\/31",
+                "TRANSGRESSLAW": "毒性化學物質管理法第17條第2項，毒性化學物質標示及物質安全資料表管理辦法第11條",
+                "PENALTYMONEY": 66000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "2016-06-06",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興農股份有限公司",
+                "TRANSGRESSCONTROLID": "B0101317"
+            }
+        ]
+    }
+}

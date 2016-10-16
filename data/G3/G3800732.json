@@ -5,7 +5,7 @@
         "管制編號": "G3800732",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -223,6 +223,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "G3800732",
+                "FACILITYNAME": "協和牧場",
+                "COUNTY": "宜蘭縣",
+                "COUNTYCODE": "9",
+                "DOCUMENTNO": "30-105-090013",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/29",
+                "TRANSGRESSDATE": "2016\/07\/22",
+                "TRANSGRESSLAW": "水污染防治法第28條第1項",
+                "PENALTYMONEY": 21004,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "簡聰信",
+                "TRANSGRESSCONTROLID": "G3800732"
+            },
             {
                 "REGISTRATIONNO": "G3800732",
                 "FACILITYNAME": "協和牧場",

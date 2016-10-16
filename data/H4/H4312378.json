@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "桃園市中壢區山東里月眉路一段一二七號",
+        "地址": "桃園市中壢區山東里月眉路一段１２７號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "H4312378",
         "行業別": "倉儲業(普通倉儲業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.178473986922",
@@ -25,6 +25,62 @@
         "TOX": [
             {
                 "REGISTRATIONNO": "H4312378",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05502               ",
+                "TOXICNAME": "重鉻酸鉀",
+                "TOXICENGNAME": "Potassium dichromate",
+                "EMIVALUE": "0.10",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "H4312378",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "08601               ",
+                "TOXICNAME": "硫酸二甲酯",
+                "TOXICENGNAME": "Dimethyl sulfate",
+                "EMIVALUE": "100",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "H4312378",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "08601               ",
+                "TOXICNAME": "硫酸二甲酯",
+                "TOXICENGNAME": "Dimethyl sulfate",
+                "EMIVALUE": "100",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "H4312378",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05502               ",
+                "TOXICNAME": "重鉻酸鉀",
+                "TOXICENGNAME": "Potassium dichromate",
+                "EMIVALUE": "0.10",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "H4312378",
                 "QUARTER": "4",
                 "STARTDATE": "2015\/10\/01",
                 "ENDDATE": "2015\/12\/31",
@@ -34,7 +90,21 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "100",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "H4312378",
+                "QUARTER": "3",
+                "STARTDATE": "2015\/07\/01",
+                "ENDDATE": "2015\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "08601               ",
+                "TOXICNAME": "硫酸二甲酯",
+                "TOXICENGNAME": "Dimethyl sulfate",
+                "EMIVALUE": "120",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,21 +118,21 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "0.10",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "H4312378",
-                "QUARTER": "3",
-                "STARTDATE": "2015\/07\/01",
-                "ENDDATE": "2015\/09\/30",
+                "QUARTER": "2",
+                "STARTDATE": "2015\/04\/01",
+                "ENDDATE": "2015\/06\/30",
                 "TOXICTYPE": "輸入                  ",
                 "EMIITEMID": "08601               ",
                 "TOXICNAME": "硫酸二甲酯",
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "120",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,21 +146,21 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "0.06",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
                 "REGISTRATIONNO": "H4312378",
-                "QUARTER": "2",
-                "STARTDATE": "2015\/04\/01",
-                "ENDDATE": "2015\/06\/30",
+                "QUARTER": "1",
+                "STARTDATE": "2015\/01\/01",
+                "ENDDATE": "2015\/03\/31",
                 "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "08601               ",
-                "TOXICNAME": "硫酸二甲酯",
-                "TOXICENGNAME": "Dimethyl sulfate",
-                "EMIVALUE": "120",
+                "EMIITEMID": "05502               ",
+                "TOXICNAME": "重鉻酸鉀",
+                "TOXICENGNAME": "Potassium dichromate",
+                "EMIVALUE": "0.06",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,21 +174,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "60",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
-                "RPT_TYPE": "TOX"
-            },
-            {
-                "REGISTRATIONNO": "H4312378",
-                "QUARTER": "1",
-                "STARTDATE": "2015\/01\/01",
-                "ENDDATE": "2015\/03\/31",
-                "TOXICTYPE": "輸入                  ",
-                "EMIITEMID": "05502               ",
-                "TOXICNAME": "重鉻酸鉀",
-                "TOXICENGNAME": "Potassium dichromate",
-                "EMIVALUE": "0.06",
-                "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -132,7 +188,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "120",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -146,7 +202,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "80",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -160,7 +216,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "160",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -174,7 +230,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "100",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -188,7 +244,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "60",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -202,7 +258,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "80.47",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -216,7 +272,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "201.46",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -230,7 +286,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "181.43",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -244,7 +300,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "301.36",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -258,7 +314,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "240.92",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -272,7 +328,7 @@
                 "TOXICENGNAME": "Dimethyl sulfate",
                 "EMIVALUE": "160.42",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

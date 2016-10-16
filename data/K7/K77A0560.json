@@ -5,7 +5,7 @@
         "管制編號": "K77A0560",
         "行業別": "其他專門營造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.793843341314",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "K77A0560",
+                "FACILITYNAME": "國寶製煉油漆油墨股份有限公司",
+                "COUNTY": "苗栗縣",
+                "COUNTYCODE": "12",
+                "DOCUMENTNO": "34-105-030001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/02",
+                "TRANSGRESSDATE": "2015\/10\/27",
+                "TRANSGRESSLAW": "毒性化學物質管理法第10條第1項，毒性化學物質危害預防及應變計畫作業辦法第3條第1項第2款第5目",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "國寶製煉油漆油墨股份有限公司",
+                "TRANSGRESSCONTROLID": "K77A0560"
+            }
         ]
     }
 }

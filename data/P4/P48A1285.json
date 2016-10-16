@@ -5,7 +5,7 @@
         "管制編號": "P48A1285",
         "行業別": "塑膠製品製造業",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.485121082748",
@@ -16,14 +16,56 @@
         "AIR": [
             {
                 "REGISTRATIONNO": "P48A1285",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "核算確認中",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0.649,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.021,
+                "EMIITEM4": 0.263
+            },
+            {
+                "REGISTRATIONNO": "P48A1285",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0.507,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.017,
+                "EMIITEM4": 0.213
+            },
+            {
+                "REGISTRATIONNO": "P48A1285",
+                "QUARTER": "4",
+                "STARTDATE": "2015\/10\/01",
+                "ENDDATE": "2015\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0.387,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.012,
+                "EMIITEM4": 0.154
+            },
+            {
+                "REGISTRATIONNO": "P48A1285",
                 "QUARTER": "3",
                 "STARTDATE": "2015\/07\/01",
                 "ENDDATE": "2015\/09\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0.405,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.014,
                 "EMIITEM4": 0.173
@@ -36,8 +78,8 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0.851,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.026,
                 "EMIITEM4": 0.328
@@ -50,25 +92,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0.717,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.024,
                 "EMIITEM4": 0.306
-            },
-            {
-                "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "4",
-                "STARTDATE": "2014\/10\/01",
-                "ENDDATE": "2014\/12\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0.014,
-                "EMIITEM4": 0.173
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -86,17 +114,17 @@
             },
             {
                 "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "3",
-                "STARTDATE": "2014\/07\/01",
-                "ENDDATE": "2014\/09\/30",
+                "QUARTER": "4",
+                "STARTDATE": "2014\/10\/01",
+                "ENDDATE": "2014\/12\/31",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
-                "EMIITEM3": 0.02,
-                "EMIITEM4": 0.254
+                "EMIITEM3": 0.014,
+                "EMIITEM4": 0.173
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -114,13 +142,27 @@
             },
             {
                 "REGISTRATIONNO": "P48A1285",
+                "QUARTER": "3",
+                "STARTDATE": "2014\/07\/01",
+                "ENDDATE": "2014\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.02,
+                "EMIITEM4": 0.254
+            },
+            {
+                "REGISTRATIONNO": "P48A1285",
                 "QUARTER": "2",
                 "STARTDATE": "2014\/04\/01",
                 "ENDDATE": "2014\/06\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.022,
@@ -148,7 +190,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.02,
@@ -176,11 +218,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2015\/05\/02",
-                "EMIITEM1": 0.688,
-                "EMIITEM2": null,
-                "EMIITEM3": null,
-                "EMIITEM4": null
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.019,
+                "EMIITEM4": 0.243
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -190,11 +232,25 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2015\/05\/02",
+                "EMIITEM1": 0.688,
+                "EMIITEM2": null,
+                "EMIITEM3": null,
+                "EMIITEM4": null
+            },
+            {
+                "REGISTRATIONNO": "P48A1285",
+                "QUARTER": "3",
+                "STARTDATE": "2013\/07\/01",
+                "ENDDATE": "2013\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
-                "EMIITEM3": 0.019,
-                "EMIITEM4": 0.243
+                "EMIITEM3": 0.018,
+                "EMIITEM4": 0.222
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -212,17 +268,17 @@
             },
             {
                 "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "3",
-                "STARTDATE": "2013\/07\/01",
-                "ENDDATE": "2013\/09\/30",
+                "QUARTER": "2",
+                "STARTDATE": "2013\/04\/01",
+                "ENDDATE": "2013\/06\/30",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
-                "EMIITEM3": 0.018,
-                "EMIITEM4": 0.222
+                "EMIITEM3": 0.019,
+                "EMIITEM4": 0.237
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -240,17 +296,17 @@
             },
             {
                 "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "2",
-                "STARTDATE": "2013\/04\/01",
-                "ENDDATE": "2013\/06\/30",
+                "QUARTER": "1",
+                "STARTDATE": "2013\/01\/01",
+                "ENDDATE": "2013\/03\/31",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
-                "EMIITEM3": 0.019,
-                "EMIITEM4": 0.237
+                "EMIITEM3": 0.014,
+                "EMIITEM4": 0.18
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -268,17 +324,17 @@
             },
             {
                 "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "1",
-                "STARTDATE": "2013\/01\/01",
-                "ENDDATE": "2013\/03\/31",
+                "QUARTER": "4",
+                "STARTDATE": "2012\/10\/01",
+                "ENDDATE": "2012\/12\/31",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
-                "EMIITEM3": 0.014,
-                "EMIITEM4": 0.18
+                "EMIITEM3": 0.018,
+                "EMIITEM4": 0.229
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -293,20 +349,6 @@
                 "EMIITEM2": null,
                 "EMIITEM3": null,
                 "EMIITEM4": null
-            },
-            {
-                "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "4",
-                "STARTDATE": "2012\/10\/01",
-                "ENDDATE": "2012\/12\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0.018,
-                "EMIITEM4": 0.229
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -330,11 +372,11 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0
+                "EMIITEM3": 0.019,
+                "EMIITEM4": 0.241
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -358,7 +400,7 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.018,
@@ -386,11 +428,25 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.015,
                 "EMIITEM4": 0.185
+            },
+            {
+                "REGISTRATIONNO": "P48A1285",
+                "QUARTER": "4",
+                "STARTDATE": "2011\/10\/01",
+                "ENDDATE": "2011\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.017,
+                "EMIITEM4": 0.213
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -405,20 +461,6 @@
                 "EMIITEM2": null,
                 "EMIITEM3": null,
                 "EMIITEM4": null
-            },
-            {
-                "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "4",
-                "STARTDATE": "2011\/10\/01",
-                "ENDDATE": "2011\/12\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0,
-                "EMIITEM4": 0
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -442,11 +484,25 @@
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
                 "EMIITEM3": 0.016,
                 "EMIITEM4": 0.201
+            },
+            {
+                "REGISTRATIONNO": "P48A1285",
+                "QUARTER": "2",
+                "STARTDATE": "2011\/04\/01",
+                "ENDDATE": "2011\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": null,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0.018,
+                "EMIITEM4": 0.23
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -464,17 +520,17 @@
             },
             {
                 "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "2",
-                "STARTDATE": "2011\/04\/01",
-                "ENDDATE": "2011\/06\/30",
+                "QUARTER": "1",
+                "STARTDATE": "2011\/01\/01",
+                "ENDDATE": "2011\/03\/31",
                 "ITEMUNIT": "公噸",
                 "RPT_TYPE": "AIR",
                 "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
+                "UPDATETIME": "2016\/10\/06",
                 "EMIITEM1": null,
                 "EMIITEM2": 0,
-                "EMIITEM3": 0.018,
-                "EMIITEM4": 0.23
+                "EMIITEM3": 0.017,
+                "EMIITEM4": 0.22
             },
             {
                 "REGISTRATIONNO": "P48A1285",
@@ -489,20 +545,6 @@
                 "EMIITEM2": null,
                 "EMIITEM3": null,
                 "EMIITEM4": null
-            },
-            {
-                "REGISTRATIONNO": "P48A1285",
-                "QUARTER": "1",
-                "STARTDATE": "2011\/01\/01",
-                "ENDDATE": "2011\/03\/31",
-                "ITEMUNIT": "公噸",
-                "RPT_TYPE": "AIR",
-                "PERSTATUS": "完成核算",
-                "UPDATETIME": "2016\/02\/28",
-                "EMIITEM1": null,
-                "EMIITEM2": 0,
-                "EMIITEM3": 0.017,
-                "EMIITEM4": 0.22
             }
         ],
         "WAT": [
@@ -521,27 +563,7 @@
 
         ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "P48A1285",
-                "FACILITYNAME": "威熊塑膠科技股份有限公司",
-                "COUNTY": "高雄市",
-                "COUNTYCODE": "33",
-                "DOCUMENTNO": "41-100-051869",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/05\/24",
-                "TRANSGRESSDATE": "2011\/01\/23",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
-                "PENALTYMONEY": 1500,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "威熊塑膠科技股份有限公司",
-                "TRANSGRESSCONTROLID": "P48A1285"
-            }
+
         ]
     }
 }

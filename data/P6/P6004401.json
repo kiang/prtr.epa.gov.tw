@@ -5,7 +5,7 @@
         "管制編號": "P6004401",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -271,27 +271,7 @@
 
         ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "P6004401",
-                "FACILITYNAME": "三湖(二場)畜牧場",
-                "COUNTY": "雲林縣",
-                "COUNTYCODE": "16",
-                "DOCUMENTNO": "30-100-080014",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/17",
-                "TRANSGRESSDATE": "2011\/05\/25",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-09-09",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "三湖(二場)畜牧場",
-                "TRANSGRESSCONTROLID": "P6004401"
-            }
+
         ]
     }
 }

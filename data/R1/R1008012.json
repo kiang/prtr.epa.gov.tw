@@ -5,7 +5,7 @@
         "管制編號": "R1008012",
         "行業別": "公共行政業(政府機關)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.22176188485",
@@ -32,7 +32,48 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R1008012",
+                "FACILITYNAME": "空軍料配件總庫台南專業庫",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "34-105-060001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/22",
+                "TRANSGRESSDATE": "2015\/10\/23",
+                "TRANSGRESSLAW": "毒性化學物質管理法第13條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "空軍料配件總庫台南專業庫",
+                "TRANSGRESSCONTROLID": "R1008012"
+            },
+            {
+                "REGISTRATIONNO": "R1008012",
+                "FACILITYNAME": "空軍料配件總庫台南專業庫",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "41-105-030119",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/03\/23",
+                "TRANSGRESSDATE": "2015\/10\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第12條第1項，一般廢棄物回收清除處理辦法第6條第3項",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/05\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "空軍料配件總庫台南專業庫",
+                "TRANSGRESSCONTROLID": "R1008012"
+            }
         ]
     }
 }

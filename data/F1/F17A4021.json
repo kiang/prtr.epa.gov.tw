@@ -1,7 +1,15 @@
 {
     "info": {
-        "longitude": null,
-        "latitude": null,
+        "地址": "新北市林口區小南灣段下福小段九五之二地號",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "F17A4021",
+        "行業別": "畜牧業(豬飼育業)",
+        "列管類別": "水污染;",
+        "最新資料匯入日期": "2016\/10\/07",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "longitude": "0",
+        "latitude": "0",
         "name": "三郎畜牧場"
     },
     "reports": {
@@ -24,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "F17A4021",
+                "FACILITYNAME": "三郎畜牧場",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-105-040001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/19",
+                "TRANSGRESSDATE": "2015\/09\/09",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "三郎畜牧場",
+                "TRANSGRESSCONTROLID": "F17A4021"
+            },
             {
                 "REGISTRATIONNO": "F17A4021",
                 "FACILITYNAME": "三郎畜牧場",

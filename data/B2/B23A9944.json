@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "台中市西屯區西平里漢翔路一號",
+        "地址": "臺中市西屯區西平里漢翔路１號",
         "所屬工業區": "無特定工業區",
         "管制編號": "B23A9944",
         "行業別": "通用機械設備製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.64188768278",
@@ -13,12 +13,24 @@
         "name": "漢翔航空工業股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B23A9944",
@@ -35,7 +47,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願人撤回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/07\/07 01:00",
+                "UPDATETIME": "2016\/10\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "漢翔航空工業股份有限公司岡山廠",
@@ -61,27 +73,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "漢翔航空工業股份有限公司",
                 "TRANSGRESSCONTROLID": "B23A9944"
-            },
-            {
-                "REGISTRATIONNO": "B23A9944",
-                "FACILITYNAME": "漢翔航空工業股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "40-100-070001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/05",
-                "TRANSGRESSDATE": "2011\/05\/11",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "漢翔航空工業股份有限公司台中一廠區",
-                "TRANSGRESSCONTROLID": "B2302161"
             }
         ]
     }

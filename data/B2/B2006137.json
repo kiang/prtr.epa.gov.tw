@@ -5,7 +5,7 @@
         "管制編號": "B2006137",
         "行業別": "醫療器材及用品製造業(其他醫療器材及用品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.665496039481",
@@ -13,34 +13,26 @@
         "name": "善德生化科技股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
-            {
-                "REGISTRATIONNO": "B2006137",
-                "FACILITYNAME": "善德生化科技股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "34-100-070005",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/18",
-                "TRANSGRESSDATE": "2011\/06\/20",
-                "TRANSGRESSLAW": "毒性化學物質管理法第7條第4項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/04\/09 01:00",
-                "IMPROVEDEADLINE": "2011-08-15",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "善德生化科技股份有限公司",
-                "TRANSGRESSCONTROLID": "B2006137"
-            }
+
         ]
     }
 }

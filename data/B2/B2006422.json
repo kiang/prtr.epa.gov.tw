@@ -5,7 +5,7 @@
         "管制編號": "B2006422",
         "行業別": "暫無分類",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.653987349888",
@@ -13,9 +13,41 @@
         "name": "龍盛印刷有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B2006422",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.000010",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2006422",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.000010",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B2006422",
                 "EMIYEAR": "2016",
@@ -244,8 +276,8 @@
                 "REGISTRATIONNO": "B2006422",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "8",
-                "EMIITEMID": "D-0803",
-                "EMIITEMNAME": "廢布",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0001",
@@ -258,8 +290,8 @@
                 "REGISTRATIONNO": "B2006422",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "8",
-                "EMIITEMID": "D-0799",
-                "EMIITEMNAME": "廢木材混合物",
+                "EMIITEMID": "D-0803",
+                "EMIITEMNAME": "廢布",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0001",
@@ -328,8 +360,8 @@
                 "REGISTRATIONNO": "B2006422",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "4",
-                "EMIITEMID": "D-0799",
-                "EMIITEMNAME": "廢木材混合物",
+                "EMIITEMID": "D-0803",
+                "EMIITEMNAME": "廢布",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0001",
@@ -342,8 +374,8 @@
                 "REGISTRATIONNO": "B2006422",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "4",
-                "EMIITEMID": "D-0803",
-                "EMIITEMNAME": "廢布",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0001",
@@ -412,8 +444,8 @@
                 "REGISTRATIONNO": "B2006422",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "12",
-                "EMIITEMID": "D-0803",
-                "EMIITEMNAME": "廢布",
+                "EMIITEMID": "D-0799",
+                "EMIITEMNAME": "廢木材混合物",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0001",
@@ -426,8 +458,8 @@
                 "REGISTRATIONNO": "B2006422",
                 "EMIYEAR": "2013",
                 "EMIMONTH": "12",
-                "EMIITEMID": "D-0799",
-                "EMIITEMNAME": "廢木材混合物",
+                "EMIITEMID": "D-0803",
+                "EMIITEMNAME": "廢布",
                 "CLEANCODE": "Z05",
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0001",
@@ -927,9 +959,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

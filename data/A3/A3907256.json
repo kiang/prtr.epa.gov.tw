@@ -5,7 +5,7 @@
         "管制編號": "A3907256",
         "行業別": "基本化學材料製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.533383740932",
@@ -13,13 +13,46 @@
         "name": "大連化學工業股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3907256",
+                "FACILITYNAME": "大連化學工業股份有限公司",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "23-105-070003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/18",
+                "TRANSGRESSDATE": "2016\/01\/06",
+                "TRANSGRESSLAW": "空氣污染防制法第16條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "2016-07-29",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "大連化學工業股份有限公司",
+                "TRANSGRESSCONTROLID": "A3907256"
+            },
             {
                 "REGISTRATIONNO": "A3907256",
                 "FACILITYNAME": "大連化學工業股份有限公司",

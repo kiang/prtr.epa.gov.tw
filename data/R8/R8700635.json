@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺南市麻豆區安正里三六之六號",
+        "地址": "臺南市麻豆區安正里３６之６號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "R8700635",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.251272799346",
-        "latitude": "23.1416985187895",
+        "longitude": "120.251272697359",
+        "latitude": "23.1416985013054",
         "name": "昌怡畜牧場"
     },
     "reports": {
@@ -223,7 +223,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R8700635",
+                "FACILITYNAME": "昌怡畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-060003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/02",
+                "TRANSGRESSDATE": "2016\/04\/22",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "2016-07-11",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "昌怡畜牧場",
+                "TRANSGRESSCONTROLID": "R8700635"
+            }
         ]
     }
 }

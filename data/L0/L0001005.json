@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "臺中市烏日區溪南路一段四六○巷五○二弄一五八號",
+        "地址": "臺中市烏日區溪南路一段４６０巷５０２弄１５８號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "L0001005",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.635524212662",
-        "latitude": "24.0807443537822",
-        "name": "宇豐養豬場(原林學淙)"
+        "longitude": "120.63552398857",
+        "latitude": "24.0807440166602",
+        "name": "宇豐養豬場"
     },
     "reports": {
         "AIR": [
@@ -273,7 +273,28 @@
         "PENALTY": [
             {
                 "REGISTRATIONNO": "L0001005",
-                "FACILITYNAME": "宇豐養豬場(原林學淙)",
+                "FACILITYNAME": "宇豐養豬場",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-105-080054",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/31",
+                "TRANSGRESSDATE": "2016\/08\/01",
+                "TRANSGRESSLAW": "水污染防治法第181條第1項",
+                "PENALTYMONEY": 434000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宇豐養豬場",
+                "TRANSGRESSCONTROLID": "L0001005"
+            },
+            {
+                "REGISTRATIONNO": "L0001005",
+                "FACILITYNAME": "宇豐養豬場",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
                 "DOCUMENTNO": "30-104-030017",
@@ -286,7 +307,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/09\/04 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "宇豐養豬場(原林學淙)",

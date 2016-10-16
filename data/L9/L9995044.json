@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "臺中市大安區安地段五九六地號",
+        "地址": "臺中市大安區西安里東西六路１５９號",
         "所屬工業區": "無特定工業區",
         "管制編號": "L9995044",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "0",
-        "latitude": "0",
-        "name": "陳土樹畜禽飼養場"
+        "longitude": "120.598002984806",
+        "latitude": "24.376841017102",
+        "name": "禾丰畜牧場"
     },
     "reports": {
         "AIR": [
@@ -273,6 +273,27 @@
         "PENALTY": [
             {
                 "REGISTRATIONNO": "L9995044",
+                "FACILITYNAME": "禾丰畜牧場",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-105-080041",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/17",
+                "TRANSGRESSDATE": "2016\/07\/13",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-08-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "陳土樹畜禽飼養場",
+                "TRANSGRESSCONTROLID": "L9995044"
+            },
+            {
+                "REGISTRATIONNO": "L9995044",
                 "FACILITYNAME": "陳土樹畜禽飼養場",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
@@ -328,7 +349,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
+                "UPDATETIME": "2016\/04\/09 01:00",
                 "IMPROVEDEADLINE": "2014-02-27",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "陳土樹畜禽飼養場",
@@ -360,27 +381,6 @@
                 "FACILITYNAME": "陳土樹畜禽飼養場",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-102-010013",
-                "PENALTYYEAR": "2013",
-                "PENALTYDATE": "2013\/01\/12",
-                "TRANSGRESSDATE": "2012\/10\/18",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項",
-                "PENALTYMONEY": 28000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "撤銷並另立裁處書",
-                "UPDATETIME": "2015\/11\/19 09:12",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "陳土樹畜禽飼養場",
-                "TRANSGRESSCONTROLID": "L9995044"
-            },
-            {
-                "REGISTRATIONNO": "L9995044",
-                "FACILITYNAME": "陳土樹畜禽飼養場",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
                 "DOCUMENTNO": "30-102-010014",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/01\/12",
@@ -396,6 +396,27 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
                 "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "L9995044",
+                "FACILITYNAME": "陳土樹畜禽飼養場",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-102-010013",
+                "PENALTYYEAR": "2013",
+                "PENALTYDATE": "2013\/01\/12",
+                "TRANSGRESSDATE": "2012\/10\/18",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 28000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2015\/11\/19 09:12",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "陳土樹畜禽飼養場",
+                "TRANSGRESSCONTROLID": "L9995044"
             }
         ]
     }

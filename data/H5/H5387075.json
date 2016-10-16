@@ -1,0 +1,79 @@
+{
+    "info": {
+        "地址": "桃園市觀音區崙坪２８７號１樓",
+        "所屬工業區": "非屬工業區類",
+        "管制編號": "H5387075",
+        "行業別": "暫無分類",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/10\/07",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "longitude": "121.161946822851",
+        "latitude": "25.0002821030472",
+        "name": "承和交通有限公司"
+    },
+    "reports": {
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "H5387075",
+                "FACILITYNAME": "承和交通有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-104-110010",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/03",
+                "TRANSGRESSDATE": "2015\/10\/06",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/12\/05 01:01",
+                "IMPROVEDEADLINE": "2015-12-07",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "",
+                "TRANSGRESSCONTROLID": ""
+            },
+            {
+                "REGISTRATIONNO": "H5387075",
+                "FACILITYNAME": "承和交通有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "21-101-100036",
+                "PENALTYYEAR": "2012",
+                "PENALTYDATE": "2012\/10\/17",
+                "TRANSGRESSDATE": "2012\/08\/29",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:11",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "承和交通有限公司",
+                "TRANSGRESSCONTROLID": "H5387075"
+            }
+        ]
+    }
+}

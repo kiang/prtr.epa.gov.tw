@@ -5,7 +5,7 @@
         "管制編號": "A3404974",
         "行業別": "農藥及環境用藥製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.549415241361",
@@ -13,12 +13,24 @@
         "name": "台灣杜邦股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3404974",
@@ -40,27 +52,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "台灣杜邦股份有限公司桃園廠",
                 "TRANSGRESSCONTROLID": "H4295407"
-            },
-            {
-                "REGISTRATIONNO": "A3404974",
-                "FACILITYNAME": "台灣杜邦股份有限公司",
-                "COUNTY": "桃園市",
-                "COUNTYCODE": "10",
-                "DOCUMENTNO": "34-100-090012",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/09\/15",
-                "TRANSGRESSDATE": "2011\/01\/11",
-                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項，毒性化學物質運作及釋放量紀錄管理辦法第5條",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台灣杜邦股份有限公司",
-                "TRANSGRESSCONTROLID": "A3404974"
             }
         ]
     }

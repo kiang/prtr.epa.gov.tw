@@ -5,7 +5,7 @@
         "管制編號": "A42B1432",
         "行業別": "農事及畜牧服務業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.568129169357",
@@ -13,13 +13,67 @@
         "name": "光泉牧場股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A42B1432",
+                "FACILITYNAME": "光泉牧場股份有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "41-105-081682",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/12",
+                "TRANSGRESSDATE": "2016\/06\/07",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
+                "PENALTYMONEY": 3000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "光泉牧場股份有限公司",
+                "TRANSGRESSCONTROLID": "A42B1432"
+            },
+            {
+                "REGISTRATIONNO": "A42B1432",
+                "FACILITYNAME": "光泉牧場股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "41-105-070440",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/14",
+                "TRANSGRESSDATE": "2016\/04\/28",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "光泉牧場股份有限公司",
+                "TRANSGRESSCONTROLID": "A42B1432"
+            },
             {
                 "REGISTRATIONNO": "A42B1432",
                 "FACILITYNAME": "光泉牧場股份有限公司",
@@ -35,7 +89,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/07\/07 01:00",
+                "UPDATETIME": "2016\/08\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "光泉牧場股份有限公司",
@@ -128,27 +182,6 @@
             {
                 "REGISTRATIONNO": "A42B1432",
                 "FACILITYNAME": "光泉牧場股份有限公司",
-                "COUNTY": "高雄市",
-                "COUNTYCODE": "33",
-                "DOCUMENTNO": "41-100-080496",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/10",
-                "TRANSGRESSDATE": "2011\/05\/19",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
-                "PENALTYMONEY": 1500,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "光泉牧場股份有限公司",
-                "TRANSGRESSCONTROLID": "A42B1432"
-            },
-            {
-                "REGISTRATIONNO": "A42B1432",
-                "FACILITYNAME": "光泉牧場股份有限公司",
                 "COUNTY": "苗栗縣",
                 "COUNTYCODE": "12",
                 "DOCUMENTNO": "41-100-100316",
@@ -166,48 +199,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
                 "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A42B1432",
-                "FACILITYNAME": "光泉牧場股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "21-100-070165",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/19",
-                "TRANSGRESSDATE": "2011\/02\/15",
-                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "光泉牧場股份有限公司",
-                "TRANSGRESSCONTROLID": "A42B1432"
-            },
-            {
-                "REGISTRATIONNO": "A42B1432",
-                "FACILITYNAME": "光泉牧場股份有限公司",
-                "COUNTY": "桃園市",
-                "COUNTYCODE": "10",
-                "DOCUMENTNO": "41-100-080048",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/02",
-                "TRANSGRESSDATE": "2010\/11\/29",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
-                "PENALTYMONEY": 1200,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "光泉牧場股份有限公司",
-                "TRANSGRESSCONTROLID": "A42B1432"
             }
         ]
     }

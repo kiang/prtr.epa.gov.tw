@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "臺東縣卑南鄉明峰村四鄰龍過脈一號之一",
+        "地址": "臺東縣卑南鄉明峰村４鄰龍過脈１號之１",
         "所屬工業區": "非屬工業區類",
         "管制編號": "V7800334",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.102925657192",
-        "latitude": "22.8745216499603",
+        "longitude": "121.102925657458",
+        "latitude": "22.8745216341107",
         "name": "塔比拉斯牧場"
     },
     "reports": {
@@ -223,7 +223,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "V7800334",
+                "FACILITYNAME": "塔比拉斯牧場",
+                "COUNTY": "臺東縣",
+                "COUNTYCODE": "21",
+                "DOCUMENTNO": "30-105-080001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/15",
+                "TRANSGRESSDATE": "2016\/06\/02",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 23000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-09-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "塔比拉斯牧場",
+                "TRANSGRESSCONTROLID": "V7800334"
+            }
         ]
     }
 }

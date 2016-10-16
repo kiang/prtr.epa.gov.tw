@@ -5,7 +5,7 @@
         "管制編號": "B23A2879",
         "行業別": "其他電力設備製造業(其他電力設備製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.600906154272",
@@ -13,9 +13,41 @@
         "name": "紹凱動能科技股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B23A2879",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-0299",
+                "EMIITEMNAME": "廢塑膠混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.000001",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B23A2879",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-0299",
+                "EMIITEMNAME": "廢塑膠混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.000001",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/08\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B23A2879",
                 "EMIYEAR": "2015",
@@ -202,6 +234,34 @@
                 "REGISTRATIONNO": "B23A2879",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "10",
+                "EMIITEMID": "D-0299",
+                "EMIITEMNAME": "廢塑膠混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2015\/02\/23 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B23A2879",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-0299",
+                "EMIITEMNAME": "廢塑膠混合物",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.000001",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/02\/28 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B23A2879",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "10",
                 "EMIITEMID": "R-2405",
                 "EMIITEMNAME": "廢照明光源",
                 "CLEANCODE": "Y03",
@@ -272,8 +332,8 @@
                 "REGISTRATIONNO": "B23A2879",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "10",
-                "EMIITEMID": "R-0206",
-                "EMIITEMNAME": "廢塑膠容器(PS發泡)",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -300,8 +360,8 @@
                 "REGISTRATIONNO": "B23A2879",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "10",
-                "EMIITEMID": "D-2601",
-                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "EMIITEMID": "R-0206",
+                "EMIITEMNAME": "廢塑膠容器(PS發泡)",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -335,34 +395,6 @@
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
                 "UPDATETIME": "2015\/02\/23 09:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B23A2879",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "10",
-                "EMIITEMID": "D-0299",
-                "EMIITEMNAME": "廢塑膠混合物",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B23A2879",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "10",
-                "EMIITEMID": "D-0299",
-                "EMIITEMNAME": "廢塑膠混合物",
-                "CLEANCODE": "Z05",
-                "CLEANNAME": "焚化處理",
-                "EMIITEMVALUE": "0.000001",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/28 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -412,20 +444,6 @@
                 "REGISTRATIONNO": "B23A2879",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "6",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B23A2879",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "6",
                 "EMIITEMID": "R-0201",
                 "EMIITEMNAME": "廢塑膠",
                 "CLEANCODE": "Y03",
@@ -442,34 +460,6 @@
                 "EMIMONTH": "6",
                 "EMIITEMID": "R-0206",
                 "EMIITEMNAME": "廢塑膠容器(PS發泡)",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B23A2879",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "6",
-                "EMIITEMID": "R-2405",
-                "EMIITEMNAME": "廢照明光源",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "B23A2879",
-                "EMIYEAR": "2014",
-                "EMIMONTH": "6",
-                "EMIITEMID": "D-2601",
-                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -538,8 +528,50 @@
                 "REGISTRATIONNO": "B23A2879",
                 "EMIYEAR": "2014",
                 "EMIMONTH": "6",
+                "EMIITEMID": "R-2405",
+                "EMIITEMNAME": "廢照明光源",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/09\/03 01:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B23A2879",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "6",
                 "EMIITEMID": "D-0299",
                 "EMIITEMNAME": "廢塑膠混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/09\/03 01:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B23A2879",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2014\/09\/03 01:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B23A2879",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -955,9 +987,17 @@
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
-        "PENALTY": []
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+
+        ]
     }
 }

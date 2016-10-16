@@ -5,7 +5,7 @@
         "管制編號": "A42B2965",
         "行業別": "專門設計服務業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.571859510926",
@@ -13,9 +13,15 @@
         "name": "台灣默克股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
         "TOX": [
             {
                 "REGISTRATIONNO": "A42B2965",
@@ -532,7 +538,7 @@
                 "TOXICENGNAME": "Pentachloronitrobenzene",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -546,7 +552,7 @@
                 "TOXICENGNAME": "Cyanazine",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -560,7 +566,7 @@
                 "TOXICENGNAME": "Fenchlorphos",
                 "EMIVALUE": "0.00000020",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -574,7 +580,7 @@
                 "TOXICENGNAME": "Folpet",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -588,7 +594,7 @@
                 "TOXICENGNAME": "2-Naphthylamine",
                 "EMIVALUE": "0.0000000001",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -602,7 +608,7 @@
                 "TOXICENGNAME": "Benzidine",
                 "EMIVALUE": "0.00000020",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -616,7 +622,7 @@
                 "TOXICENGNAME": "Cadmium",
                 "EMIVALUE": "0.0020",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -630,7 +636,7 @@
                 "TOXICENGNAME": "Aniline",
                 "EMIVALUE": "0.002040",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -644,7 +650,7 @@
                 "TOXICENGNAME": "3,3’-Dimethoxybenzidine",
                 "EMIVALUE": "0.0000000002",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -658,7 +664,7 @@
                 "TOXICENGNAME": "3,3’-Dichlorobenzidine",
                 "EMIVALUE": "0.00000020",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -672,7 +678,7 @@
                 "TOXICENGNAME": "Copper(I) cyanide",
                 "EMIVALUE": "0.0050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -686,7 +692,7 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "0.0050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -700,7 +706,7 @@
                 "TOXICENGNAME": "Acrylonitrile",
                 "EMIVALUE": "0.000081",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -714,7 +720,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "0.0125",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -728,7 +734,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "0.00023520",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -742,7 +748,7 @@
                 "TOXICENGNAME": "Potassium chromate",
                 "EMIVALUE": "0.004750",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -756,7 +762,7 @@
                 "TOXICENGNAME": "Hexachlorobenzene",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -770,7 +776,7 @@
                 "TOXICENGNAME": "Tetrachloroethylene",
                 "EMIVALUE": "0.162810",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -784,7 +790,7 @@
                 "TOXICENGNAME": "4,4-Dichlorodiphenyl-trichloroethane(DDT)",
                 "EMIVALUE": "0.00000005",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -798,7 +804,7 @@
                 "TOXICENGNAME": "Toxaphene",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -812,7 +818,7 @@
                 "TOXICENGNAME": "Endrin",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -826,7 +832,7 @@
                 "TOXICENGNAME": "Hexachlorocyclohexane",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -840,7 +846,7 @@
                 "TOXICENGNAME": "Aldrin",
                 "EMIVALUE": "0.00000050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -854,7 +860,7 @@
                 "TOXICENGNAME": "Leptophos",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -868,7 +874,7 @@
                 "TOXICENGNAME": "Trichloroethylene",
                 "EMIVALUE": "0.005840",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -882,7 +888,7 @@
                 "TOXICENGNAME": "4,4'-Methylenebis(2-chloroaniline)",
                 "EMIVALUE": "0.0000000002",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -896,7 +902,7 @@
                 "TOXICENGNAME": "Di(2-ethylhexyl)phthalate（DEHP）",
                 "EMIVALUE": "0.00000050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -910,7 +916,7 @@
                 "TOXICENGNAME": "Di-n-octyl phthalate（DNOP）",
                 "EMIVALUE": "0.00000050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -924,7 +930,7 @@
                 "TOXICENGNAME": "Benzyl butyl phthalate（BBP）",
                 "EMIVALUE": "0.00000050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -938,7 +944,7 @@
                 "TOXICENGNAME": "Di-isononyl phthalate（DINP）",
                 "EMIVALUE": "0.00000050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -952,7 +958,7 @@
                 "TOXICENGNAME": "Di-isodecyl phthalate（DIDP）",
                 "EMIVALUE": "0.00000020",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -966,7 +972,7 @@
                 "TOXICENGNAME": "Diethyl phthalate（DEP）",
                 "EMIVALUE": "0.00000050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -980,7 +986,7 @@
                 "TOXICENGNAME": "2-Methoxyethanol (Ethylene glycol monomethyl ether)",
                 "EMIVALUE": "0.033720",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -994,7 +1000,7 @@
                 "TOXICENGNAME": "Phthalic anhydride",
                 "EMIVALUE": "0.0070",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1008,7 +1014,7 @@
                 "TOXICENGNAME": "Toluene diisocyanate (mixed isomers)",
                 "EMIVALUE": "0.0366",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1022,7 +1028,7 @@
                 "TOXICENGNAME": "Dimethyl phthalate（DMP）",
                 "EMIVALUE": "0.00000150",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1036,7 +1042,7 @@
                 "TOXICENGNAME": "Dibutyl phthalate（DBP）",
                 "EMIVALUE": "0.00000050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1050,7 +1056,7 @@
                 "TOXICENGNAME": "Methyl iodide",
                 "EMIVALUE": "0.001140",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1064,7 +1070,7 @@
                 "TOXICENGNAME": "Formamide",
                 "EMIVALUE": "0.034013",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1078,7 +1084,7 @@
                 "TOXICENGNAME": "o-Dichlorobenzene (1,2-Dichloro benzene)",
                 "EMIVALUE": "0.003275",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1092,7 +1098,7 @@
                 "TOXICENGNAME": "Phosphorus trichloride",
                 "EMIVALUE": "0.008635",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1106,7 +1112,7 @@
                 "TOXICENGNAME": "Nonylphenol polyethylene glycol ether ",
                 "EMIVALUE": "0.000053",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1120,7 +1126,7 @@
                 "TOXICENGNAME": "Mirex",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1134,7 +1140,7 @@
                 "TOXICENGNAME": "Endosulfan sulfate",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1596,7 +1602,7 @@
                 "TOXICENGNAME": "2-Ethoxyethanol (Ethylene glycol monoethyl ether)",
                 "EMIVALUE": "0.020460",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1610,7 +1616,7 @@
                 "TOXICENGNAME": "Diethyl phthalate（DEP）",
                 "EMIVALUE": "0.013440",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1624,7 +1630,7 @@
                 "TOXICENGNAME": "Phthalic anhydride",
                 "EMIVALUE": "0.0030",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1638,7 +1644,7 @@
                 "TOXICENGNAME": "Dibutyl phthalate（DBP）",
                 "EMIVALUE": "0.000105",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1652,7 +1658,7 @@
                 "TOXICENGNAME": "Methyl iodide",
                 "EMIVALUE": "0.000228",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1666,7 +1672,7 @@
                 "TOXICENGNAME": "Formamide",
                 "EMIVALUE": "0.003390",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1680,7 +1686,7 @@
                 "TOXICENGNAME": "Dibromomethane(Methylenebromide)",
                 "EMIVALUE": "0.000229",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1694,7 +1700,7 @@
                 "TOXICENGNAME": "o-Dichlorobenzene (1,2-Dichloro benzene)",
                 "EMIVALUE": "0.006550",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1708,7 +1714,7 @@
                 "TOXICENGNAME": "p-Chloro-o-toluidine",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1722,7 +1728,7 @@
                 "TOXICENGNAME": "Pentachloronitrobenzene",
                 "EMIVALUE": "0.00000050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1736,7 +1742,7 @@
                 "TOXICENGNAME": "Daminozide",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1750,7 +1756,7 @@
                 "TOXICENGNAME": "P-Aminobiphenyl",
                 "EMIVALUE": "0.0000000001",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1764,7 +1770,7 @@
                 "TOXICENGNAME": "2-Naphthylamine",
                 "EMIVALUE": "0",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1778,7 +1784,7 @@
                 "TOXICENGNAME": "Benzidine",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1792,7 +1798,7 @@
                 "TOXICENGNAME": "Cadmium",
                 "EMIVALUE": "0.000250",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1806,7 +1812,7 @@
                 "TOXICENGNAME": "o-Aminotoluene",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1820,7 +1826,7 @@
                 "TOXICENGNAME": "3,3’-Dimethoxybenzidine",
                 "EMIVALUE": "0.0000000002",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1834,7 +1840,7 @@
                 "TOXICENGNAME": "3,3’-Dichlorobenzidine",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1848,7 +1854,7 @@
                 "TOXICENGNAME": "3,3’-Dimethyl-[1,1’-biphenyl]-4,4’-diamine",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1862,7 +1868,7 @@
                 "TOXICENGNAME": "Copper(I) cyanide",
                 "EMIVALUE": "0.0430",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1876,7 +1882,7 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "0.0080",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1890,7 +1896,7 @@
                 "TOXICENGNAME": "Acrylonitrile",
                 "EMIVALUE": "0.00008505",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1904,7 +1910,7 @@
                 "TOXICENGNAME": " Chromium(VI) trioxide",
                 "EMIVALUE": "0.0259",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1918,7 +1924,7 @@
                 "TOXICENGNAME": "Potassium dichromate",
                 "EMIVALUE": "0.00011760",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1932,7 +1938,7 @@
                 "TOXICENGNAME": "Potassium chromate",
                 "EMIVALUE": "0.0015",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1946,7 +1952,7 @@
                 "TOXICENGNAME": "Hexachlorobenzene",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1960,7 +1966,7 @@
                 "TOXICENGNAME": "Tetrachloroethylene",
                 "EMIVALUE": "0.032405",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1974,7 +1980,7 @@
                 "TOXICENGNAME": "Polychlorinated biphenyls",
                 "EMIVALUE": "0.00000013",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -1988,7 +1994,7 @@
                 "TOXICENGNAME": "4,4-Dichlorodiphenyl-trichloroethane(DDT)",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2002,7 +2008,7 @@
                 "TOXICENGNAME": "Toxaphene",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2016,7 +2022,7 @@
                 "TOXICENGNAME": "Hexachlorocyclohexane",
                 "EMIVALUE": "0.00000015",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2030,7 +2036,7 @@
                 "TOXICENGNAME": "Trichloroethylene",
                 "EMIVALUE": "0.004380",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2044,7 +2050,7 @@
                 "TOXICENGNAME": "4,4'-Methylenebis(2-chloroaniline)",
                 "EMIVALUE": "0.0000000001",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2058,7 +2064,7 @@
                 "TOXICENGNAME": "Di(2-ethylhexyl)phthalate（DEHP）",
                 "EMIVALUE": "0.001078",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2072,7 +2078,7 @@
                 "TOXICENGNAME": "Di-isononyl phthalate（DINP）",
                 "EMIVALUE": "0.00000025",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2086,7 +2092,7 @@
                 "TOXICENGNAME": "Di-isodecyl phthalate（DIDP）",
                 "EMIVALUE": "0.00000010",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2100,7 +2106,7 @@
                 "TOXICENGNAME": "2-Methoxyethanol (Ethylene glycol monomethyl ether)",
                 "EMIVALUE": "0.027740",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/04\/22 01:00",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -2496,8 +2502,12 @@
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A42B2965",

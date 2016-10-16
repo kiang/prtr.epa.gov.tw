@@ -1,24 +1,36 @@
 {
     "info": {
-        "地址": "臺北市信義區忠孝東路五段二九五巷三五號一樓",
+        "地址": "臺北市信義區忠孝東路五段２９５巷３５號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "A4590013",
         "行業別": "最後修整工程業(最後修整工程業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.572538335836",
-        "latitude": "25.0431643534788",
+        "longitude": "121.572538378806",
+        "latitude": "25.043164333664",
         "name": "佳承實業有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A4590013",
@@ -35,7 +47,7 @@
                 "PETITIONAGENCY": "行政院訴願會",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/07\/07 01:00",
+                "UPDATETIME": "2016\/10\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "佳承實業有限公司",
@@ -119,7 +131,7 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願不受理",
                 "APPEALRESCIND": "撤銷並另立裁處書",
-                "UPDATETIME": "2016\/07\/07 01:00",
+                "UPDATETIME": "2016\/10\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "佳承實業有限公司",
@@ -145,27 +157,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
                 "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A4590013",
-                "FACILITYNAME": "佳承實業有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "40-100-070051",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/22",
-                "TRANSGRESSDATE": "2011\/06\/22",
-                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第6條第1項第4款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "佳承實業有限公司",
-                "TRANSGRESSCONTROLID": "A4590013"
             }
         ]
     }

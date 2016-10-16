@@ -3,9 +3,9 @@
         "地址": "高雄市岡山區壽峰里前鋒路２８６巷６號",
         "所屬工業區": "無特定工業區",
         "管制編號": "E1600390",
-        "行業別": "基本化學材料製造業",
+        "行業別": "基本化學材料製造業(基本化學材料製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.284289909051",
@@ -26,6 +26,34 @@
             {
                 "REGISTRATIONNO": "E1600390",
                 "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "製造                  ",
+                "EMIITEMID": "15701               ",
+                "TOXICNAME": "磷化氫",
+                "TOXICENGNAME": "Phosphine",
+                "EMIVALUE": "0.00060106",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:02",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E1600390",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "TOXICTYPE": "製造                  ",
+                "EMIITEMID": "15701               ",
+                "TOXICNAME": "磷化氫",
+                "TOXICENGNAME": "Phosphine",
+                "EMIVALUE": "0.00002804",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/07\/22 01:01",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "E1600390",
+                "QUARTER": "2",
                 "STARTDATE": "2015\/04\/01",
                 "ENDDATE": "2015\/06\/30",
                 "TOXICTYPE": "製造                  ",
@@ -34,7 +62,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "0.00042020",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -48,7 +76,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "0.00080050",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -62,7 +90,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "0.00002460",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/07\/22 01:02",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -76,7 +104,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "0.02",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:00",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -90,7 +118,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "0.001378",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/10\/22 01:02",
+                "UPDATETIME": "2016\/04\/22 01:00",
                 "RPT_TYPE": "TOX"
             },
             {
@@ -104,7 +132,7 @@
                 "TOXICENGNAME": "Phosphine",
                 "EMIVALUE": "0.000444",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/01\/23 01:01",
+                "UPDATETIME": "2016\/07\/22 01:01",
                 "RPT_TYPE": "TOX"
             },
             {

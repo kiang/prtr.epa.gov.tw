@@ -5,7 +5,7 @@
         "管制編號": "A3906151",
         "行業別": "紙漿、紙及紙板製造業(紙漿製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.533239407315",
@@ -13,12 +13,24 @@
         "name": "味全食品工業股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3906151",
@@ -98,7 +110,7 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/07\/07 01:00",
+                "UPDATETIME": "2016\/10\/05 01:00",
                 "IMPROVEDEADLINE": "2013-11-07",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "味全食品工業股份有限公司林鳳營牧場(與管編R9603153重複)",
@@ -439,48 +451,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "味全食品工業股份有限公司林鳳營牧場",
                 "TRANSGRESSCONTROLID": "R9603153"
-            },
-            {
-                "REGISTRATIONNO": "A3906151",
-                "FACILITYNAME": "味全食品工業股份有限公司",
-                "COUNTY": "新竹市",
-                "COUNTYCODE": "4",
-                "DOCUMENTNO": "41-100-080257",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/26",
-                "TRANSGRESSDATE": "2011\/06\/22",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第1項第1款",
-                "PENALTYMONEY": 1200,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "味全食品工業股份有限公司",
-                "TRANSGRESSCONTROLID": "A3906151"
-            },
-            {
-                "REGISTRATIONNO": "A3906151",
-                "FACILITYNAME": "味全食品工業股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "30-100-070010",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/07\/13",
-                "TRANSGRESSDATE": "2011\/05\/23",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條，水污染防治法第18條，水污染防治措施及檢測申報管理辦法第52條",
-                "PENALTYMONEY": 210000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-07-26",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "味全食品工業股份有限公司林鳳營牧場",
-                "TRANSGRESSCONTROLID": "R9600527"
             }
         ]
     }

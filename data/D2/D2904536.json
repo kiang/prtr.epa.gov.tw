@@ -1,11 +1,11 @@
 {
     "info": {
         "地址": "臺南市中西區西賢五街６２號１樓",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "安平工業區",
         "管制編號": "D2904536",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.172966861972",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "D2904536",
+                "FACILITYNAME": "一利安廁所衛生號",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "41-105-040100",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/21",
+                "TRANSGRESSDATE": "2016\/01\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "一利安廁所衛生號",
+                "TRANSGRESSCONTROLID": "D2904536"
+            }
         ]
     }
 }

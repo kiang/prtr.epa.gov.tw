@@ -1,16 +1,16 @@
 {
     "info": {
-        "地址": "高雄市路竹區竹南里中山路八二六號",
+        "地址": "高雄市路竹區路竹段６８０之７地號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "S2901177",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.260893056575",
-        "latitude": "22.854472475973",
-        "name": "連順發牧場(康振標養豬場)"
+        "longitude": "120.260892901055",
+        "latitude": "22.8544720136564",
+        "name": "連順發牧場"
     },
     "reports": {
         "AIR": [
@@ -175,6 +175,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "S2901177",
+                "FACILITYNAME": "連順發牧場",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "30-105-080012",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/22",
+                "TRANSGRESSDATE": "2016\/07\/06",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "連順發牧場",
+                "TRANSGRESSCONTROLID": "S2901177"
+            },
             {
                 "REGISTRATIONNO": "S2901177",
                 "FACILITYNAME": "連順發牧場(康振標養豬場)",

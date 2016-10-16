@@ -5,7 +5,7 @@
         "管制編號": "E46A0499",
         "行業別": "廢棄物清除業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.283615658693",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "E46A0499",
+                "FACILITYNAME": "年蓬企業有限公司",
+                "COUNTY": "高雄市",
+                "COUNTYCODE": "33",
+                "DOCUMENTNO": "41-105-051116",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/10",
+                "TRANSGRESSDATE": "2016\/03\/05",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第1款",
+                "PENALTYMONEY": 1500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "年蓬企業有限公司",
+                "TRANSGRESSCONTROLID": "E46A0499"
+            }
         ]
     }
 }

@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "彰化縣大村鄉過溝段９６之２地號",
+        "地址": "彰化縣大村鄉鎮安段４０３地號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "N21A0805",
         "行業別": "用水供應業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "N21A0805",
+                "FACILITYNAME": "台灣自來水股份有限公司第十一區管理處花壇營運所大村第二淨水場",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-105-070015",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/13",
+                "TRANSGRESSDATE": "2015\/12\/24",
+                "TRANSGRESSLAW": "水污染防治法第28條",
+                "PENALTYMONEY": 15000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣自來水股份有限公司第十一區管理處花壇營運所大村第二淨水場",
+                "TRANSGRESSCONTROLID": "N21A0805"
+            }
         ]
     }
 }

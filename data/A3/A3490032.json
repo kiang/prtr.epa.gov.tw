@@ -1,25 +1,100 @@
 {
     "info": {
-        "地址": "臺北市內湖區瑞湖街八八號四樓之一",
-        "所屬工業區": "無特定工業區",
+        "地址": "臺北市內湖區瑞湖街８８號４樓之１",
+        "所屬工業區": "其他工業區",
         "管制編號": "A3490032",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.576007673425",
-        "latitude": "25.0723004455845",
+        "longitude": "121.57600771714",
+        "latitude": "25.0723004257108",
         "name": "全日清企業有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3490032",
+                "FACILITYNAME": "全日清企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-080292",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/26",
+                "TRANSGRESSDATE": "2016\/08\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第3條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "全日清企業有限公司",
+                "TRANSGRESSCONTROLID": "A3490032"
+            },
+            {
+                "REGISTRATIONNO": "A3490032",
+                "FACILITYNAME": "全日清企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-080291",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/26",
+                "TRANSGRESSDATE": "2016\/08\/09",
+                "TRANSGRESSLAW": "事業廢棄物貯存清除處理方法及設施標準第3條，廢棄物清理法第36條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "全日清企業有限公司",
+                "TRANSGRESSCONTROLID": "A3490032"
+            },
+            {
+                "REGISTRATIONNO": "A3490032",
+                "FACILITYNAME": "全日清企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-070166",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/28",
+                "TRANSGRESSDATE": "2016\/07\/20",
+                "TRANSGRESSLAW": "事業廢棄物貯存清除處理方法及設施標準第13條，廢棄物清理法第36條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "全日清企業有限公司",
+                "TRANSGRESSCONTROLID": "A3490032"
+            },
             {
                 "REGISTRATIONNO": "A3490032",
                 "FACILITYNAME": "全日清企業有限公司",

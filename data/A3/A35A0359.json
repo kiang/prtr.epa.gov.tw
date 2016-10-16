@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "台北市大安區敦化南路二段二○七號三六樓",
+        "地址": "臺北市大安區敦化南路二段２０７號３６樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "A35A0359",
         "行業別": "農作物栽培業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.549235800301",
@@ -13,13 +13,46 @@
         "name": "遠東新世紀股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A35A0359",
+                "FACILITYNAME": "遠東新世紀股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "30-105-080011",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/08\/11",
+                "TRANSGRESSDATE": "2016\/05\/18",
+                "TRANSGRESSLAW": "水污染防治法第22條，水污染防治措施及檢測申報管理辦法第93條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "遠東新世紀股份有限公司化學纖維總廠",
+                "TRANSGRESSCONTROLID": "J5700222"
+            },
             {
                 "REGISTRATIONNO": "A35A0359",
                 "FACILITYNAME": "遠東新世紀股份有限公司",

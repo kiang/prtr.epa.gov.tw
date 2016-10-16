@@ -1,0 +1,79 @@
+{
+    "info": {
+        "地址": "南投縣南投市內興里南新路８巷３號",
+        "所屬工業區": "無特定工業區",
+        "管制編號": "M33A3583",
+        "行業別": "暫無分類",
+        "列管類別": "毒性化學物質;",
+        "最新資料匯入日期": "2016\/10\/07",
+        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "更新頻率": "每日",
+        "longitude": "120.694699070569",
+        "latitude": "23.9328493123409",
+        "name": "源廣通運有限公司"
+    },
+    "reports": {
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
+        "PENALTY": [
+            {
+                "REGISTRATIONNO": "M33A3583",
+                "FACILITYNAME": "源廣通運有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-104-110159",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/11\/19",
+                "TRANSGRESSDATE": "2015\/09\/03",
+                "TRANSGRESSLAW": "空氣污染防制法第63條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/01\/07 01:01",
+                "IMPROVEDEADLINE": "2015-12-21",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "源廣通運有限公司",
+                "TRANSGRESSCONTROLID": "M33A3583"
+            },
+            {
+                "REGISTRATIONNO": "M33A3583",
+                "FACILITYNAME": "源廣通運有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "21-104-070118",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/07\/28",
+                "TRANSGRESSDATE": "2015\/04\/10",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項，交通工具空氣污染物排放標準第5條",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "2015-08-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "源廣通運有限公司",
+                "TRANSGRESSCONTROLID": "M33A3583"
+            }
+        ]
+    }
+}

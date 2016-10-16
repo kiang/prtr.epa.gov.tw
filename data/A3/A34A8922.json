@@ -5,7 +5,7 @@
         "管制編號": "A34A8922",
         "行業別": "合成樹脂、塑膠及橡膠製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.547645723215",
@@ -13,12 +13,24 @@
         "name": "台一國際股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A34A8922",
@@ -32,10 +44,10 @@
                 "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
                 "PENALTYMONEY": 100000,
                 "ISPETITION": "否",
-                "PETITIONAGENCY": "",
+                "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/07\/07 01:00",
+                "UPDATETIME": "2016\/10\/05 01:00",
                 "IMPROVEDEADLINE": "2016-06-15",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "台一國際股份有限公司新竹廠",
@@ -205,27 +217,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台一國際股份有限公司新竹廠",
-                "TRANSGRESSCONTROLID": "J5900348"
-            },
-            {
-                "REGISTRATIONNO": "A34A8922",
-                "FACILITYNAME": "台一國際股份有限公司",
-                "COUNTY": "新竹縣",
-                "COUNTYCODE": "11",
-                "DOCUMENTNO": "20-100-090003",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/09\/14",
-                "TRANSGRESSDATE": "2011\/08\/05",
-                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
-                "PENALTYMONEY": 200000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/04\/09 01:00",
-                "IMPROVEDEADLINE": "2011-10-04",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "台一國際股份有限公司新竹廠",
                 "TRANSGRESSCONTROLID": "J5900348"

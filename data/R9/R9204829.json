@@ -5,7 +5,7 @@
         "管制編號": "R9204829",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -271,6 +271,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "R9204829",
+                "FACILITYNAME": "宜釧牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-050010",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/05",
+                "TRANSGRESSDATE": "2016\/03\/22",
+                "TRANSGRESSLAW": "放流水標準第2條，水污染防治法第7條第1項",
+                "PENALTYMONEY": 28800,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "2016-05-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宜釧牧場",
+                "TRANSGRESSCONTROLID": "R9204829"
+            },
             {
                 "REGISTRATIONNO": "R9204829",
                 "FACILITYNAME": "宜釧牧場",

@@ -5,7 +5,7 @@
         "管制編號": "P5701278",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -271,7 +271,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "P5701278",
+                "FACILITYNAME": "和順牧場",
+                "COUNTY": "雲林縣",
+                "COUNTYCODE": "16",
+                "DOCUMENTNO": "30-105-060018",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/28",
+                "TRANSGRESSDATE": "2016\/05\/25",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-08-05",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "和順牧場",
+                "TRANSGRESSCONTROLID": "P5701278"
+            }
         ]
     }
 }

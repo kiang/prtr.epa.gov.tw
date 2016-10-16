@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "桃園市大溪區瑞源里石園路五五八巷七六號",
-        "所屬工業區": "無特定工業區",
+        "地址": "桃園市大溪區瑞源里瑞福東路４６號",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "H44A3303",
-        "行業別": "玻璃及其製品製造業",
+        "行業別": "廢棄物清除業(有害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "121.317691171685",
-        "latitude": "24.9560964058261",
+        "longitude": "121.256588400456",
+        "latitude": "24.8695840565465",
         "name": "舜發玻璃資源有限公司"
     },
     "reports": {
@@ -32,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "H44A3303",
+                "FACILITYNAME": "舜發玻璃資源有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "44-105-090005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/09\/24",
+                "TRANSGRESSDATE": "2016\/07\/28",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第25條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "舜發玻璃資源有限公司",
+                "TRANSGRESSCONTROLID": "H44A3303"
+            },
             {
                 "REGISTRATIONNO": "H44A3303",
                 "FACILITYNAME": "舜發玻璃資源有限公司",

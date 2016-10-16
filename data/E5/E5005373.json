@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "高雄市三民區大福街２０９巷９號３樓之１",
-        "所屬工業區": "無特定工業區",
+        "地址": "高雄市鳳山區文仁街９６巷６號１樓",
+        "所屬工業區": "其他工業區",
         "管制編號": "E5005373",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.325800316757",
@@ -43,11 +43,11 @@
                 "TRANSGRESSDATE": "2014\/05\/10",
                 "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條",
                 "PENALTYMONEY": 12000,
-                "ISPETITION": "否",
+                "ISPETITION": "是",
                 "PETITIONAGENCY": "地方審議機關",
-                "PETITIONRESULTS": "",
+                "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/10\/05 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
@@ -94,27 +94,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
                 "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "E5005373",
-                "FACILITYNAME": "敏太企業社",
-                "COUNTY": "高雄市",
-                "COUNTYCODE": "33",
-                "DOCUMENTNO": "44-100-040007",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/04\/20",
-                "TRANSGRESSDATE": "2010\/05\/12",
-                "TRANSGRESSLAW": "廢棄物清理法第42條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "敏太企業社",
-                "TRANSGRESSCONTROLID": "E5005373"
             }
         ]
     }

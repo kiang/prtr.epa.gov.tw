@@ -1,20 +1,61 @@
 {
     "info": {
-        "地址": "臺南市官田區二鎮里富強路四五號",
+        "地址": "臺南市官田區二鎮里富強路４５號",
         "所屬工業區": "無特定工業區",
         "管制編號": "R9701421",
         "行業別": "皮革、毛皮及其製品製造業(鞋類製造業)",
-        "列管類別": "空氣污染;水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "列管類別": "空氣污染;",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "120.321855999693",
-        "latitude": "23.2061080190681",
+        "longitude": "120.321855924063",
+        "latitude": "23.2061080018755",
         "name": "立寶樹脂股份有限公司"
     },
     "reports": {
         "AIR": [
-
+            {
+                "REGISTRATIONNO": "R9701421",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "核算確認中",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.007
+            },
+            {
+                "REGISTRATIONNO": "R9701421",
+                "QUARTER": "1",
+                "STARTDATE": "2016\/01\/01",
+                "ENDDATE": "2016\/03\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.007
+            },
+            {
+                "REGISTRATIONNO": "R9701421",
+                "QUARTER": "4",
+                "STARTDATE": "2015\/10\/01",
+                "ENDDATE": "2015\/12\/31",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2016\/10\/06",
+                "EMIITEM1": 0,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": 0.007
+            }
         ],
         "WAT": [
 

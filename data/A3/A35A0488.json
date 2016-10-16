@@ -5,7 +5,7 @@
         "管制編號": "A35A0488",
         "行業別": "其他化學製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/07\/12",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.541401640012",
@@ -13,12 +13,24 @@
         "name": "中日金屬化工股份有限公司"
     },
     "reports": {
-        "AIR": [],
-        "WAT": [],
-        "WAS": [],
-        "TOX": [],
-        "METAL": [],
-        "GREENHOUSE": [],
+        "AIR": [
+
+        ],
+        "WAT": [
+
+        ],
+        "WAS": [
+
+        ],
+        "TOX": [
+
+        ],
+        "METAL": [
+
+        ],
+        "GREENHOUSE": [
+
+        ],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A35A0488",
@@ -79,27 +91,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2016\/04\/09 01:00",
                 "IMPROVEDEADLINE": "2013-03-22",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "中日金屬化工股份有限公司新竹工廠",
-                "TRANSGRESSCONTROLID": "J5900222"
-            },
-            {
-                "REGISTRATIONNO": "A35A0488",
-                "FACILITYNAME": "中日金屬化工股份有限公司",
-                "COUNTY": "新竹縣",
-                "COUNTYCODE": "11",
-                "DOCUMENTNO": "40-100-080004",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/08\/12",
-                "TRANSGRESSDATE": "2011\/07\/19",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "中日金屬化工股份有限公司新竹工廠",
                 "TRANSGRESSCONTROLID": "J5900222"

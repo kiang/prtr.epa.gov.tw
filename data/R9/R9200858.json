@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "臺南市柳營區柳營段溫厝廍小段一二○七地號",
+        "地址": "臺南市柳營區柳營段溫厝廍小段１２０７地號",
         "所屬工業區": "非屬工業區類",
         "管制編號": "R9200858",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "0",
@@ -79,7 +79,48 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R9200858",
+                "FACILITYNAME": "勝美畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-070017",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/07\/21",
+                "TRANSGRESSDATE": "2016\/05\/19",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 31200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/09\/04 01:00",
+                "IMPROVEDEADLINE": "2016-08-17",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "勝美畜牧場",
+                "TRANSGRESSCONTROLID": "R9200858"
+            },
+            {
+                "REGISTRATIONNO": "R9200858",
+                "FACILITYNAME": "勝美畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-105-040012",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/04\/20",
+                "TRANSGRESSDATE": "2016\/03\/06",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 15000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "2016-05-27",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "勝美畜牧場",
+                "TRANSGRESSCONTROLID": "R9200858"
+            }
         ]
     }
 }

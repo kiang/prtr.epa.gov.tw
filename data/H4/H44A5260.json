@@ -1,15 +1,15 @@
 {
     "info": {
-        "地址": "桃園市大溪區三層段柑坪小段一地號",
+        "地址": "桃園市大溪區復興里２層坪３號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "H44A5260",
-        "行業別": "其他餐飲業(其他餐飲業)",
+        "行業別": "飲料店業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/03\/07",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
-        "longitude": "0",
-        "latitude": "0",
+        "longitude": "121.287129005457",
+        "latitude": "24.8237530178981",
         "name": "東尼湖畔咖啡館"
     },
     "reports": {
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "H44A5260",
+                "FACILITYNAME": "東尼湖畔咖啡館",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "30-105-050008",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/03",
+                "TRANSGRESSDATE": "2016\/02\/02",
+                "TRANSGRESSLAW": "水污染防治法第22條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "東尼湖畔咖啡館",
+                "TRANSGRESSCONTROLID": "H44A5260"
+            }
         ]
     }
 }

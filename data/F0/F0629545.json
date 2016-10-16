@@ -3,9 +3,9 @@
         "地址": "新北市新莊區中正路４５７巷２１號１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "F0629545",
-        "行業別": "廢棄物清除業(有害廢棄物清除業)",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/03\/06",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "121.442522851437",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "F0629545",
+                "FACILITYNAME": "馬上辦環保服務有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-105-050009",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/05\/28",
+                "TRANSGRESSDATE": "2016\/03\/28",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/07\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "馬上辦環保服務有限公司",
+                "TRANSGRESSCONTROLID": "F0629545"
+            }
         ]
     }
 }

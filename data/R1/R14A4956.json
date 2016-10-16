@@ -5,7 +5,7 @@
         "管制編號": "R14A4956",
         "行業別": "塑膠製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.243552893581",
@@ -32,7 +32,27 @@
 
         ],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "R14A4956",
+                "FACILITYNAME": "可成科技股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "23-105-060001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/06\/06",
+                "TRANSGRESSDATE": "2016\/04\/28",
+                "TRANSGRESSLAW": "營建工程空氣污染防制設施管理辦法第7條，營建工程空氣污染防制設施管理辦法第8條，營建工程空氣污染防制設施管理辦法第10條，營建工程空氣污染防制設施管理辦法第6條，空氣污染防制法第23條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/08\/05 01:00",
+                "IMPROVEDEADLINE": "2016-06-20",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "真毅營造有限公司-可成科技永康科技園區廠房新建工程(土建工程)",
+                "TRANSGRESSCONTROLID": "D14099005473"
+            }
         ]
     }
 }

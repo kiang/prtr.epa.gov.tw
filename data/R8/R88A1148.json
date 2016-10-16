@@ -1,11 +1,11 @@
 {
     "info": {
-        "地址": "台南市佳里區海澄里萊芊寮一二之二七號",
+        "地址": "臺南市佳里區海澄里萊芊寮１２之２７號",
         "所屬工業區": "無特定工業區",
         "管制編號": "R88A1148",
         "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/03\/08",
+        "最新資料匯入日期": "2016\/10\/07",
         "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
         "更新頻率": "每日",
         "longitude": "120.161214856769",
@@ -32,6 +32,27 @@
 
         ],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "R88A1148",
+                "FACILITYNAME": "鉅橡企業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "20-103-100015",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/10\/27",
+                "TRANSGRESSDATE": "2014\/04\/24",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項，空氣污染防制法第24條第3項，固定污染源設置與操作許可證管理辦法第20條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "環保署訴願會",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/10\/05 01:00",
+                "IMPROVEDEADLINE": "2014-10-30",
+                "INSPECTIONCONDITION": "改善完成",
+                "TRANSGRESSNAME": "鉅橡企業股份有限公司佳里廠",
+                "TRANSGRESSCONTROLID": "R8804165"
+            },
             {
                 "REGISTRATIONNO": "R88A1148",
                 "FACILITYNAME": "鉅橡企業股份有限公司",
@@ -68,30 +89,9 @@
                 "PETITIONAGENCY": "環保署訴願會",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2016\/10\/05 01:00",
                 "IMPROVEDEADLINE": "2014-10-30",
                 "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "鉅橡企業股份有限公司佳里廠",
-                "TRANSGRESSCONTROLID": "R8804165"
-            },
-            {
-                "REGISTRATIONNO": "R88A1148",
-                "FACILITYNAME": "鉅橡企業股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "20-103-100015",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/10\/27",
-                "TRANSGRESSDATE": "2014\/04\/24",
-                "TRANSGRESSLAW": "空氣污染防制法第24條第2項，空氣污染防制法第24條第3項，固定污染源設置與操作許可證管理辦法第20條",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "是",
-                "PETITIONAGENCY": "環保署訴願會",
-                "PETITIONRESULTS": "訴願駁回",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
-                "IMPROVEDEADLINE": "2014-10-30",
-                "INSPECTIONCONDITION": "改善完成",
                 "TRANSGRESSNAME": "鉅橡企業股份有限公司佳里廠",
                 "TRANSGRESSCONTROLID": "R8804165"
             }
