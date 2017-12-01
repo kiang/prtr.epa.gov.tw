@@ -5,32 +5,19 @@
         "管制編號": "B2307497",
         "行業別": "公共行政業(政府機關)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.607869985805",
         "latitude": "24.1687620167778",
         "name": "經濟部工業局台中工業區服務中心"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B2307497",
@@ -43,11 +30,32 @@
                 "TRANSGRESSDATE": "2016\/06\/04",
                 "TRANSGRESSLAW": "水污染防治法第28條第1項",
                 "PENALTYMONEY": 225500,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "原處分撤銷",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/08\/05 01:00",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "經濟部工業局台中工業區服務中心(污水處理廠)",
+                "TRANSGRESSCONTROLID": "B2302705"
+            },
+            {
+                "REGISTRATIONNO": "B2307497",
+                "FACILITYNAME": "經濟部工業局台中工業區服務中心",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-105-120007",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/13",
+                "TRANSGRESSDATE": "2016\/06\/04",
+                "TRANSGRESSLAW": "水污染防治法第28條第1項",
+                "PENALTYMONEY": 143000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "經濟部工業局台中工業區服務中心(污水處理廠)",

@@ -1,37 +1,45 @@
 {
     "info": {
-        "地址": "基隆市七堵區大華一路一二七之二二號三樓",
+        "地址": "基隆市七堵區大華一路１２７之２２號３樓",
         "所屬工業區": "基隆市六堵工業區",
         "管制編號": "C11A1830",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.711881082448",
         "latitude": "25.1011230173883",
         "name": "源麒環保企業社"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "C11A1830",
+                "FACILITYNAME": "源麒環保企業社",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-105-100005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/14",
+                "TRANSGRESSDATE": "2016\/09\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第31條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/11\/05 01:00",
+                "IMPROVEDEADLINE": "2016-10-21",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "源麒環保企業社",
+                "TRANSGRESSCONTROLID": "C11A1830"
+            },
             {
                 "REGISTRATIONNO": "C11A1830",
                 "FACILITYNAME": "源麒環保企業社",

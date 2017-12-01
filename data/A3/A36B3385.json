@@ -5,21 +5,240 @@
         "管制編號": "A36B3385",
         "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.514897031251",
         "latitude": "25.0461210180155",
         "name": "台灣和民餐飲股份有限公司站前店"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "R05",
+                "CLEANNAME": "將廢棄物作為再利用之飼料",
+                "EMIITEMVALUE": "0.52",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0350",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "R05",
+                "CLEANNAME": "將廢棄物作為再利用之飼料",
+                "EMIITEMVALUE": "0.58",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0590",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0540",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "R05",
+                "CLEANNAME": "將廢棄物作為再利用之飼料",
+                "EMIITEMVALUE": "0.59",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "R05",
+                "CLEANNAME": "將廢棄物作為再利用之飼料",
+                "EMIITEMVALUE": "0.60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.07",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0590",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
+                "CLEANCODE": "R05",
+                "CLEANNAME": "將廢棄物作為再利用之飼料",
+                "EMIITEMVALUE": "0.54",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0510",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0510",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0510",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0930",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0760",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A36B3385",
                 "EMIYEAR": "2016",
@@ -30,7 +249,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.0590",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -65,6 +284,20 @@
             {
                 "REGISTRATIONNO": "A36B3385",
                 "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1530",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2016",
                 "EMIMONTH": "2",
                 "EMIITEMID": "R-1702",
                 "EMIITEMNAME": "廢食用油",
@@ -72,7 +305,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1270",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -86,7 +319,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1950",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -100,7 +333,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1950",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -114,7 +347,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.3980",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +361,21 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.3980",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1530",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -142,23 +389,9 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1530",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A36B3385",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "11",
-                "EMIITEMID": "D-1705",
-                "EMIITEMNAME": "廢食用油",
-                "CLEANCODE": "Z99",
-                "CLEANNAME": "其他中間處理方式",
-                "EMIITEMVALUE": "0.1530",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "A36B3385",
@@ -170,7 +403,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1360",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -184,9 +417,23 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1360",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0850",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
             },
             {
                 "REGISTRATIONNO": "A36B3385",
@@ -198,9 +445,9 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.0850",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "A36B3385",
@@ -212,7 +459,35 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.0850",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0680",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.0690",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -226,23 +501,9 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.0690",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:01",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A36B3385",
-                "EMIYEAR": "2015",
-                "EMIMONTH": "6",
-                "EMIITEMID": "D-1705",
-                "EMIITEMNAME": "廢食用油",
-                "CLEANCODE": "Z99",
-                "CLEANNAME": "其他中間處理方式",
-                "EMIITEMVALUE": "0.1020",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "A36B3385",
@@ -289,6 +550,48 @@
             {
                 "REGISTRATIONNO": "A36B3385",
                 "EMIYEAR": "2015",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1020",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-1705",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1020",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1530",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
                 "EMIMONTH": "5",
                 "EMIITEMID": "D-1705",
                 "EMIITEMNAME": "廢食用油",
@@ -296,9 +599,9 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1530",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "A36B3385",
@@ -310,7 +613,21 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1870",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "4",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1870",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -324,7 +641,21 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1870",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "A36B3385",
+                "EMIYEAR": "2015",
+                "EMIMONTH": "3",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "Z99",
+                "CLEANNAME": "其他中間處理方式",
+                "EMIITEMVALUE": "0.1870",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -338,9 +669,9 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.1530",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "A36B3385",
@@ -352,22 +683,14 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.17",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

@@ -5,33 +5,41 @@
         "管制編號": "A36A8051",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.508512473418",
         "latitude": "25.0413158943769",
         "name": "浩洺乙級環保股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A36A8051",
+                "FACILITYNAME": "浩洺乙級環保股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-106-050003",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/05\/08",
+                "TRANSGRESSDATE": "2017\/04\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/09\/08 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "浩洺乙級環保股份有限公司",
+                "TRANSGRESSCONTROLID": "A36A8051"
+            },
             {
                 "REGISTRATIONNO": "A36A8051",
                 "FACILITYNAME": "浩洺乙級環保股份有限公司",

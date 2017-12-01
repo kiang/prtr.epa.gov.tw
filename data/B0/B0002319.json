@@ -5,21 +5,184 @@
         "管制編號": "B0002319",
         "行業別": "餐館業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.63563398859",
         "latitude": "24.1071850167025",
         "name": "婕發股份有限公司烏日外送分公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0750",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.05",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0550",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0490",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0460",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0190",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0240",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0540",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0740",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0530",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0510",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "6",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.0350",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B0002319",
                 "EMIYEAR": "2016",
@@ -51,14 +214,14 @@
             {
                 "REGISTRATIONNO": "B0002319",
                 "EMIYEAR": "2016",
-                "EMIMONTH": "2",
-                "EMIITEMID": "R-1306",
-                "EMIITEMNAME": "廢鐵容器",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
+                "EMIMONTH": "3",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -66,13 +229,27 @@
                 "REGISTRATIONNO": "B0002319",
                 "EMIYEAR": "2016",
                 "EMIMONTH": "2",
-                "EMIITEMID": "R-0106",
-                "EMIITEMNAME": "廚餘",
+                "EMIITEMID": "R-1702",
+                "EMIITEMNAME": "廢食用油",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B0002319",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-1306",
+                "EMIITEMNAME": "廢鐵容器",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -86,7 +263,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -94,13 +271,13 @@
                 "REGISTRATIONNO": "B0002319",
                 "EMIYEAR": "2016",
                 "EMIMONTH": "2",
-                "EMIITEMID": "R-1702",
-                "EMIITEMNAME": "廢食用油",
+                "EMIITEMID": "R-0106",
+                "EMIITEMNAME": "廚餘",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -114,7 +291,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +305,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0380",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -142,7 +319,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0670",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -156,7 +333,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0420",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -170,7 +347,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0450",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -184,7 +361,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0540",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -198,7 +375,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.07",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -212,7 +389,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0880",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:01",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -226,7 +403,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0540",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -240,7 +417,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0750",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -254,7 +431,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0420",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -268,22 +445,14 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "0.0160",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

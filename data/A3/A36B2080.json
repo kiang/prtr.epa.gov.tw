@@ -5,32 +5,181 @@
         "管制編號": "A36B2080",
         "行業別": "其他專門營造業(其他專門營造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.517039631417",
         "latitude": "25.0471566322354",
         "name": "鴻基工程股份有限公司-環島鐵路整體系統安全提昇計畫-臺北車站屋頂等更新工程"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
             {
                 "REGISTRATIONNO": "A36B2080",
-                "EMIYEAR": "2016",
-                "EMIMONTH": "7",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "1",
                 "EMIITEMID": "R-0503",
                 "EMIITEMNAME": "營建混合物",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -44,7 +193,21 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -107,6 +270,34 @@
             {
                 "REGISTRATIONNO": "A36B2080",
                 "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
                 "EMIMONTH": "3",
                 "EMIITEMID": "R-0503",
                 "EMIITEMNAME": "營建混合物",
@@ -114,7 +305,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:03",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +319,21 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:03",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -142,21 +347,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A36B2080",
-                "EMIYEAR": "2016",
-                "EMIMONTH": "2",
-                "EMIITEMID": "R-0503",
-                "EMIITEMNAME": "營建混合物",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -170,7 +361,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -184,7 +375,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -198,7 +389,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -212,7 +403,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -226,7 +417,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -240,7 +431,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -254,7 +445,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -268,7 +459,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -282,7 +473,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -296,7 +487,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -310,7 +501,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -324,7 +515,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -338,7 +529,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:01",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -352,7 +543,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:01",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -366,7 +557,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -380,7 +571,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -394,7 +585,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -408,7 +599,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -422,7 +613,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -436,7 +627,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -450,7 +641,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -464,7 +655,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -478,7 +669,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -492,7 +683,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -506,7 +697,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -520,7 +711,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -534,7 +725,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/06\/02 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -548,7 +739,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/06\/02 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -590,7 +781,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -604,7 +795,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -618,7 +809,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -632,7 +823,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -646,7 +837,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -660,7 +851,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -674,7 +865,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -688,7 +879,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -702,7 +893,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -716,7 +907,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -730,7 +921,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -744,7 +935,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -758,7 +949,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -772,7 +963,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -786,7 +977,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -800,7 +991,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -814,7 +1005,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -828,7 +1019,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -842,7 +1033,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -856,7 +1047,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -870,7 +1061,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -884,7 +1075,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -898,7 +1089,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -912,7 +1103,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -926,7 +1117,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -940,7 +1131,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -954,7 +1145,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -968,7 +1159,21 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "7",
+                "EMIITEMID": "R-0503",
+                "EMIITEMNAME": "營建混合物",
+                "CLEANCODE": "R99",
+                "CLEANNAME": "作為其他再利用之用途",
+                "EMIITEMVALUE": "45.21",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -982,7 +1187,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -996,21 +1201,7 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A36B2080",
-                "EMIYEAR": "2013",
-                "EMIMONTH": "5",
-                "EMIITEMID": "D-1801",
-                "EMIITEMNAME": "生活垃圾",
-                "CLEANCODE": "Y03",
-                "CLEANNAME": "委託清除",
-                "EMIITEMVALUE": "0",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -1024,31 +1215,39 @@
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A36B2080",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "F01097007894",
                 "FACILITYNAME": "鴻基工程股份有限公司",
                 "COUNTY": "臺北市",
                 "COUNTYCODE": "1",
-                "DOCUMENTNO": "40-102-060005",
+                "DOCUMENTNO": "40-102-060004",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/06\/05",
                 "TRANSGRESSDATE": "2013\/05\/16",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -1065,11 +1264,11 @@
                 "FACILITYNAME": "鴻基工程股份有限公司",
                 "COUNTY": "臺北市",
                 "COUNTYCODE": "1",
-                "DOCUMENTNO": "40-102-060004",
+                "DOCUMENTNO": "40-102-060005",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/06\/05",
                 "TRANSGRESSDATE": "2013\/05\/16",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

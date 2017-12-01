@@ -5,23 +5,242 @@
         "管制編號": "C1104968",
         "行業別": "半導體製造業(積體電路製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.70176738629",
         "latitude": "25.0864641861429",
         "name": "品安科技股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
             {
                 "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.20",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "C-0301",
+                "EMIITEMNAME": "廢液閃火點小於60℃（不包含乙醇體積濃度小於24%之酒類廢棄物）",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.01",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.30",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.20",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:06",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.25",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "4",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "3",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.35",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "2",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/05\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "1",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.35",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/05\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.20",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.35",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.30",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.25",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.25",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:10",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
                 "EMIYEAR": "2016",
                 "EMIMONTH": "6",
                 "EMIITEMID": "E-0221",
@@ -30,7 +249,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.25",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -44,7 +263,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -58,7 +277,21 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:12",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.20",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:15",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -72,7 +305,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:15",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -86,7 +319,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -100,7 +333,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -114,7 +347,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +361,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -142,7 +375,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2017\/01\/28 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -156,7 +389,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/28 09:00",
+                "UPDATETIME": "2017\/01\/28 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -170,7 +403,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/22 09:05",
+                "UPDATETIME": "2017\/01\/28 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -184,7 +417,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/22 09:05",
+                "UPDATETIME": "2017\/01\/28 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -198,7 +431,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
+                "UPDATETIME": "2017\/01\/28 09:16",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -212,7 +445,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:05",
+                "UPDATETIME": "2017\/01\/27 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -226,7 +459,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -240,7 +473,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -254,7 +487,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:48",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -268,7 +501,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/01\/26 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -282,7 +515,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/06\/02 09:00",
+                "UPDATETIME": "2017\/01\/26 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -294,9 +527,9 @@
                 "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
                 "CLEANCODE": "Z04",
                 "CLEANNAME": "熱處理（除焚化處理外）",
-                "EMIITEMVALUE": "0.15",
+                "EMIITEMVALUE": "0.2040",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:06",
+                "UPDATETIME": "2017\/01\/26 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -310,9 +543,9 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/28 09:00",
+                "UPDATETIME": "2017\/01\/29 09:12",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "撤銷"
+                "EMISTATUS": "有效"
             },
             {
                 "REGISTRATIONNO": "C1104968",
@@ -324,7 +557,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -338,7 +571,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -352,7 +585,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -366,7 +599,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -380,7 +613,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -394,7 +627,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -408,7 +641,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/25 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -422,7 +655,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -436,7 +669,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
             },
@@ -450,7 +683,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -464,7 +697,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -478,7 +711,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:05",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -492,7 +725,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.25",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:05",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -506,7 +739,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/24 09:05",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -520,7 +753,21 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.25",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "7",
+                "EMIITEMID": "E-0221",
+                "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
+                "CLEANCODE": "Z04",
+                "CLEANNAME": "熱處理（除焚化處理外）",
+                "EMIITEMVALUE": "0.25",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -534,7 +781,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -548,7 +795,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -562,7 +809,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -576,7 +823,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -590,7 +837,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -604,7 +851,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -616,9 +863,9 @@
                 "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
                 "CLEANCODE": "Z04",
                 "CLEANNAME": "熱處理（除焚化處理外）",
-                "EMIITEMVALUE": "0.10",
+                "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -630,9 +877,9 @@
                 "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
                 "CLEANCODE": "Z04",
                 "CLEANNAME": "熱處理（除焚化處理外）",
-                "EMIITEMVALUE": "0.65",
+                "EMIITEMVALUE": "0.25",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -644,11 +891,25 @@
                 "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
                 "CLEANCODE": "Z04",
                 "CLEANNAME": "熱處理（除焚化處理外）",
-                "EMIITEMVALUE": "0.50",
+                "EMIITEMVALUE": "0.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C1104968",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.50",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/30 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "C1104968",
@@ -658,9 +919,9 @@
                 "EMIITEMNAME": "含金屬之印刷電路板廢料及其粉屑",
                 "CLEANCODE": "Z04",
                 "CLEANNAME": "熱處理（除焚化處理外）",
-                "EMIITEMVALUE": "0.30",
+                "EMIITEMVALUE": "0.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -674,7 +935,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -688,7 +949,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.35",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -702,7 +963,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -716,7 +977,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -730,7 +991,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -744,7 +1005,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.25",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -758,7 +1019,7 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -772,20 +1033,14 @@
                 "CLEANNAME": "其他中間處理方式",
                 "EMIITEMVALUE": "0.25",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "C1104968",

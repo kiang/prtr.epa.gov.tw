@@ -5,8 +5,7 @@
         "管制編號": "B2408542",
         "行業別": "其他金屬製品製造業(未分類其他金屬製品製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.613273986376",
         "latitude": "24.1498080167524",
@@ -14,12 +13,205 @@
     },
     "reports": {
         "AIR": [
-
+            {
+                "REGISTRATIONNO": "B2408542",
+                "QUARTER": "3",
+                "STARTDATE": "2016\/07\/01",
+                "ENDDATE": "2016\/09\/30",
+                "ITEMUNIT": "公噸",
+                "RPT_TYPE": "AIR",
+                "PERSTATUS": "完成核算",
+                "UPDATETIME": "2017\/06\/03",
+                "EMIITEM1": 0.638,
+                "EMIITEM2": 0,
+                "EMIITEM3": 0,
+                "EMIITEM4": null
+            }
         ],
-        "WAT": [
-
-        ],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.50",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.32",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.48",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.24",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.29",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.28",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "1",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.70",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.29",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.30",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.40",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B2408542",
                 "EMIYEAR": "2016",
@@ -30,7 +222,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -65,6 +257,20 @@
             {
                 "REGISTRATIONNO": "B2408542",
                 "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.33",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:15",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2016",
                 "EMIMONTH": "2",
                 "EMIITEMID": "D-1701",
                 "EMIITEMNAME": "廢油漆、漆渣",
@@ -72,7 +278,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:15",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -86,7 +292,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.28",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -100,7 +306,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.48",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -114,7 +320,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.29",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +334,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.63",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -142,7 +348,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:03",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -156,7 +362,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.86",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -170,7 +376,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:02",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -184,7 +390,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.35",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -198,7 +404,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.34",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -212,7 +418,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.38",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -226,7 +432,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.24",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -240,7 +446,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.19",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -254,7 +460,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.94",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -268,7 +474,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.32",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/06\/02 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -282,7 +488,21 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.35",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.71",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -296,7 +516,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -310,7 +530,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.52",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -324,7 +544,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.42",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -338,7 +558,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -352,7 +572,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -366,7 +586,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "1.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -380,7 +600,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -394,7 +614,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -408,7 +628,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0260",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -422,7 +642,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0280",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -436,7 +656,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.19",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -450,7 +670,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.16",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -464,7 +684,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0180",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -478,7 +698,21 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0140",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2408542",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-1701",
+                "EMIITEMNAME": "廢油漆、漆渣",
+                "CLEANCODE": "Z05",
+                "CLEANNAME": "焚化處理",
+                "EMIITEMVALUE": "0.0180",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -492,7 +726,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.03",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -506,7 +740,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -520,7 +754,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.03",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -534,7 +768,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.03",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -548,7 +782,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -562,7 +796,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0550",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -576,7 +810,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -590,7 +824,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0280",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -604,7 +838,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.03",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -618,7 +852,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.08",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -632,7 +866,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -646,7 +880,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -660,7 +894,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0260",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -674,7 +908,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0380",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -688,7 +922,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.0420",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -702,7 +936,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.11",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -716,7 +950,7 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.09",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -730,22 +964,14 @@
                 "CLEANNAME": "焚化處理",
                 "EMIITEMVALUE": "0.07",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

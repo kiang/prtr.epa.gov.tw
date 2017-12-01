@@ -5,33 +5,41 @@
         "管制編號": "A3995041",
         "行業別": "廢棄物清除業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.531239543724",
         "latitude": "25.0670094136474",
         "name": "守威企業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3995041",
+                "FACILITYNAME": "守威企業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-106-010011",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/09",
+                "TRANSGRESSDATE": "2017\/01\/03",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "守威企業有限公司",
+                "TRANSGRESSCONTROLID": "A3995041"
+            },
             {
                 "REGISTRATIONNO": "A3995041",
                 "FACILITYNAME": "守威企業有限公司",
@@ -52,27 +60,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
                 "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A3995041",
-                "FACILITYNAME": "守威企業有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "22-101-060052",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/06\/19",
-                "TRANSGRESSDATE": "2012\/05\/21",
-                "TRANSGRESSLAW": "噪音管制法第8條第4款",
-                "PENALTYMONEY": 3000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "合眾建築經理股份有限公司-中正區城中段集合住宅新建工程",
-                "TRANSGRESSCONTROLID": "A36A7627"
             }
         ]
     }

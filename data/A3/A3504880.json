@@ -5,8 +5,7 @@
         "管制編號": "A3504880",
         "行業別": "殯葬服務業",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.552988146185",
         "latitude": "25.0137367316974",
@@ -631,15 +630,9 @@
                 "EMIITEM4": 0.425
             }
         ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
         "METAL": [
             {
                 "REGISTRATIONNO": "A3504880",
@@ -649,7 +642,7 @@
                 "EXAMITEMVALUE": "0.018",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "稽查合格",
-                "UPDATETIME": "2015\/12\/26 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -660,7 +653,7 @@
                 "EXAMITEMVALUE": "0.021",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "稽查合格",
-                "UPDATETIME": "2015\/12\/26 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -671,7 +664,7 @@
                 "EXAMITEMVALUE": "0.007",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "稽查合格",
-                "UPDATETIME": "2015\/12\/26 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -682,7 +675,62 @@
                 "EXAMITEMVALUE": "0.227",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "核可",
-                "UPDATETIME": "2015\/09\/24 01:01",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P007",
+                "EXAMODIFYDATE": "2014\/11\/24",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.227",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P007",
+                "EXAMODIFYDATE": "2014\/11\/24",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.227",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P007",
+                "EXAMODIFYDATE": "2014\/11\/24",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.227",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P007",
+                "EXAMODIFYDATE": "2014\/11\/24",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.227",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P007",
+                "EXAMODIFYDATE": "2014\/11\/24",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.227",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -693,7 +741,62 @@
                 "EXAMITEMVALUE": "0.066",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "核可",
-                "UPDATETIME": "2015\/09\/24 01:01",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2014\/11\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.066",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2014\/11\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.066",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2014\/11\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.066",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2014\/11\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.066",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2014\/11\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.066",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -704,7 +807,95 @@
                 "EXAMITEMVALUE": "0.009",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2015\/09\/24 01:01",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/14",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.009",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/14",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.009",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/14",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.009",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/14",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.009",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/14",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.009",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/14",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.009",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/14",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.009",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/07\/14",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.009",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -715,7 +906,95 @@
                 "EXAMITEMVALUE": "0.023",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2015\/09\/24 01:01",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/07\/08",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.023",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/07\/08",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.023",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/07\/08",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.023",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/07\/08",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.023",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/07\/08",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.023",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/07\/08",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.023",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/07\/08",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.023",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2014\/07\/08",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.023",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -726,7 +1005,18 @@
                 "EXAMITEMVALUE": "0.087",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2014\/05\/29 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P002",
+                "EXAMODIFYDATE": "2013\/10\/21",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.087",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -737,7 +1027,51 @@
                 "EXAMITEMVALUE": "0.284",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2014\/05\/29 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2013\/07\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.284",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2013\/07\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.284",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2013\/07\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.284",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P006",
+                "EXAMODIFYDATE": "2013\/07\/18",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.284",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -748,7 +1082,51 @@
                 "EXAMITEMVALUE": "0.263",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2014\/05\/29 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2013\/07\/12",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.263",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2013\/07\/12",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.263",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2013\/07\/12",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.263",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2013\/07\/12",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.263",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -759,7 +1137,51 @@
                 "EXAMITEMVALUE": "0.105",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "核可",
-                "UPDATETIME": "2014\/05\/29 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2013\/01\/04",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.105",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2013\/01\/04",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.105",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2013\/01\/04",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.105",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2013\/01\/04",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.105",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -770,7 +1192,51 @@
                 "EXAMITEMVALUE": "0.037",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "核可",
-                "UPDATETIME": "2013\/12\/17 10:10",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2012\/12\/06",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.037",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2012\/12\/06",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.037",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2012\/12\/06",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.037",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P005",
+                "EXAMODIFYDATE": "2012\/12\/06",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.037",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "核可",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -781,7 +1247,51 @@
                 "EXAMITEMVALUE": "0.044",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2013\/12\/17 10:10",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2012\/09\/25",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.044",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2012\/09\/25",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.044",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2012\/09\/25",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.044",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P003",
+                "EXAMODIFYDATE": "2012\/09\/25",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.044",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -792,15 +1302,55 @@
                 "EXAMITEMVALUE": "0.02",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2013\/12\/17 10:10",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P004",
+                "EXAMODIFYDATE": "2012\/07\/19",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.02",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P004",
+                "EXAMODIFYDATE": "2012\/07\/19",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.02",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P004",
+                "EXAMODIFYDATE": "2012\/07\/19",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.02",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "A3504880",
+                "EMICHIMNEY": "P004",
+                "EXAMODIFYDATE": "2012\/07\/19",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.02",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             }
         ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

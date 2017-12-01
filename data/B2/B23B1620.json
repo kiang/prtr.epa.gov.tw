@@ -1,38 +1,45 @@
 {
     "info": {
-        "地址": "臺中市西屯區福和段００７６之００００地號",
+        "地址": "臺中市沙鹿區南勢里過洋路１５號１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "B23B1620",
         "行業別": "短期住宿服務業(短期住宿服務業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
-        "longitude": "0",
-        "latitude": "0",
+        "longitude": "120.571290981478",
+        "latitude": "24.2168120168157",
         "name": "水沐蘭精品旅館股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "B23B1620",
+                "FACILITYNAME": "水沐蘭精品旅館股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "41-106-100091",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/12",
+                "TRANSGRESSDATE": "2017\/06\/03",
+                "TRANSGRESSLAW": "臺中市環境清潔維護自治條例第5條第1項第1款，臺中市環境清潔維護自治條例第5條第1項第6款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "水沐蘭精品旅館股份有限公司",
+                "TRANSGRESSCONTROLID": "B23B1620"
+            }
         ]
     }
 }

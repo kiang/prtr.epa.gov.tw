@@ -5,32 +5,19 @@
         "管制編號": "B2005069",
         "行業別": "肥料製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.670826255816",
         "latitude": "24.1492136913033",
         "name": "興農股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B2005069",
@@ -121,27 +108,6 @@
                 "FACILITYNAME": "興農股份有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-104-060019",
-                "PENALTYYEAR": "2015",
-                "PENALTYDATE": "2015\/06\/26",
-                "TRANSGRESSDATE": "2015\/05\/19",
-                "TRANSGRESSLAW": "水污染防治法第18條(之1)第2項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:14",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "興農股份有限公司王田廠",
-                "TRANSGRESSCONTROLID": "L0100629"
-            },
-            {
-                "REGISTRATIONNO": "B2005069",
-                "FACILITYNAME": "興農股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
                 "DOCUMENTNO": "34-104-060002",
                 "PENALTYYEAR": "2015",
                 "PENALTYDATE": "2015\/06\/17",
@@ -175,6 +141,27 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:14",
                 "IMPROVEDEADLINE": "2015-07-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "興農股份有限公司王田廠",
+                "TRANSGRESSCONTROLID": "L0100629"
+            },
+            {
+                "REGISTRATIONNO": "B2005069",
+                "FACILITYNAME": "興農股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-104-060019",
+                "PENALTYYEAR": "2015",
+                "PENALTYDATE": "2015\/06\/26",
+                "TRANSGRESSDATE": "2015\/05\/19",
+                "TRANSGRESSLAW": "水污染防治法第18條(之1)第2項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:14",
+                "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "興農股份有限公司王田廠",
                 "TRANSGRESSCONTROLID": "L0100629"
@@ -304,27 +291,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "興農股份有限公司",
                 "TRANSGRESSCONTROLID": "B2005069"
-            },
-            {
-                "REGISTRATIONNO": "B2005069",
-                "FACILITYNAME": "興農股份有限公司",
-                "COUNTY": "環保署",
-                "COUNTYCODE": "0",
-                "DOCUMENTNO": "32-101-040004",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/04\/17",
-                "TRANSGRESSDATE": "2010\/11\/29",
-                "TRANSGRESSLAW": "土壤及地下水污染整治法第12條第3項",
-                "PENALTYMONEY": 150000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "資料鍵入錯誤",
-                "UPDATETIME": "2016\/02\/05 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

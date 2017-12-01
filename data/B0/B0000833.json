@@ -5,54 +5,19 @@
         "管制編號": "B0000833",
         "行業別": "基本化學材料製造業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.637476472123",
         "latitude": "24.0906094468322",
         "name": "永裕電化工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "B0000833",
-                "FACILITYNAME": "永裕電化工業股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-101-110001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/11\/06",
-                "TRANSGRESSDATE": "2012\/10\/09",
-                "TRANSGRESSLAW": "水污染防治法第28條第1項",
-                "PENALTYMONEY": 90000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "永裕電化工業股份有限公司",
-                "TRANSGRESSCONTROLID": "B0000833"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

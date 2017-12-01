@@ -5,32 +5,19 @@
         "管制編號": "A3907256",
         "行業別": "基本化學材料製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.533383740932",
         "latitude": "25.0611546763812",
         "name": "大連化學工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3907256",
@@ -47,7 +34,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/08\/05 01:00",
+                "UPDATETIME": "2016\/12\/06 01:00",
                 "IMPROVEDEADLINE": "2016-07-29",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "大連化學工業股份有限公司",
@@ -73,69 +60,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "大連化學工業股份有限公司大發廠",
                 "TRANSGRESSCONTROLID": "S2005652"
-            },
-            {
-                "REGISTRATIONNO": "A3907256",
-                "FACILITYNAME": "大連化學工業股份有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "34-101-090001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/09\/21",
-                "TRANSGRESSDATE": "2012\/08\/15",
-                "TRANSGRESSLAW": "毒性化學物質管理法第8條第2項，毒性化學物質運作及釋放量紀錄管理辦法第5條第2項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "大連化學工業股份有限公司",
-                "TRANSGRESSCONTROLID": "A3907256"
-            },
-            {
-                "REGISTRATIONNO": "A3907256",
-                "FACILITYNAME": "大連化學工業股份有限公司",
-                "COUNTY": "督察總隊",
-                "COUNTYCODE": "90",
-                "DOCUMENTNO": "10-101-040001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/04\/09",
-                "TRANSGRESSDATE": "2011\/11\/07",
-                "TRANSGRESSLAW": "環境影響評估法第17條",
-                "PENALTYMONEY": 450000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "資料鍵入錯誤",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-08-15",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A3907256",
-                "FACILITYNAME": "大連化學工業股份有限公司",
-                "COUNTY": "督察總隊",
-                "COUNTYCODE": "90",
-                "DOCUMENTNO": "10-101-040002",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/04\/27",
-                "TRANSGRESSDATE": "2011\/07\/09",
-                "TRANSGRESSLAW": "環境影響評估法第17條",
-                "PENALTYMONEY": 450000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/06\/05 01:00",
-                "IMPROVEDEADLINE": "2013-12-31",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

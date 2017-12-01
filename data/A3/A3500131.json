@@ -5,17 +5,14 @@
         "管制編號": "A3500131",
         "行業別": "畜牧業(牛飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.544349918815",
         "latitude": "25.0132518938025",
         "name": "國立臺灣大學生物資源暨農學院附設農業試驗場"
     },
     "reports": {
-        "AIR": [
-
-        ],
+        "AIR": [],
         "WAT": [
             {
                 "REGISTRATIONNO": "A3500131",
@@ -27,7 +24,39 @@
                 "EMIITEMNAME": "化學需氧量（mg\/L）",
                 "EMIITEMVALUE": "23",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/27 09:03",
+                "UPDATETIME": "2015\/03\/26 16:36",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "A3500131",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3810",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "23",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/08\/29 21:00",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "A3500131",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3810",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "23",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/09\/11 16:37",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
@@ -43,7 +72,39 @@
                 "EMIITEMNAME": "懸浮固體物（mg\/L）",
                 "EMIITEMVALUE": "7.40",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/27 09:03",
+                "UPDATETIME": "2014\/08\/29 21:00",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "A3500131",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3810",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "7.40",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/26 16:36",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "A3500131",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3810",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "7.40",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/09\/11 16:37",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
@@ -59,27 +120,49 @@
                 "EMIITEMNAME": "生化需氧量（mg\/L）",
                 "EMIITEMVALUE": "8.60",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/27 09:03",
+                "UPDATETIME": "2015\/03\/26 16:36",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "A3500131",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3810",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "8.60",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/08\/29 21:00",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "A3500131",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "3810",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "8.60",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/09\/11 16:37",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

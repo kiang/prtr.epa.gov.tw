@@ -5,34 +5,41 @@
         "管制編號": "B22A4622",
         "行業別": "居住型照顧服務業(居住型護理照顧服務業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.680769014361",
         "latitude": "24.1529197863463",
         "name": "皇家產後護理之家"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "B22A4622",
+                "FACILITYNAME": "皇家產後護理之家",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "31-106-020003",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/02\/06",
+                "TRANSGRESSDATE": "2016\/09\/13",
+                "TRANSGRESSLAW": "飲用水管理條例第12條第1項，飲用水連續供水固定設備使用及維護管理辦法第7條第1項第1款",
+                "PENALTYMONEY": 20000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "皇家產後護理之家",
+                "TRANSGRESSCONTROLID": "B22A4622"
+            }
         ]
     }
 }

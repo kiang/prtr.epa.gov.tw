@@ -1,58 +1,23 @@
 {
     "info": {
-        "地址": "臺北市中正區漢口街１１０號５樓之１２",
-        "所屬工業區": "無特定工業區",
+        "地址": "臺北市中正區漢口街一段１１０號５樓之１２",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "A3603762",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.514809931049",
         "latitude": "25.0452168513216",
         "name": "安師環保工程有限公司台北分公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "A3603762",
-                "FACILITYNAME": "安師環保工程有限公司台北分公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-101-100002",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/10\/15",
-                "TRANSGRESSDATE": "2012\/10\/05",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "安師環保工程有限公司台北分公司",
-                "TRANSGRESSCONTROLID": "A3603762"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

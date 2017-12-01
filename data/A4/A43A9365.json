@@ -5,34 +5,41 @@
         "管制編號": "A43A9365",
         "行業別": "其他化學製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.52414069735",
         "latitude": "25.1057912702976",
         "name": "中鼎化工股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A43A9365",
+                "FACILITYNAME": "中鼎化工股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "20-106-010010",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/10",
+                "TRANSGRESSDATE": "2016\/10\/27",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第1項，空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/04\/09 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中鼎化工股份有限公司",
+                "TRANSGRESSCONTROLID": "A43A9365"
+            }
         ]
     }
 }

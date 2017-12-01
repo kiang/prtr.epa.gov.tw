@@ -5,33 +5,41 @@
         "管制編號": "A3705350",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.493727675879",
         "latitude": "25.0284707805718",
         "name": "佑春交通有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3705350",
+                "FACILITYNAME": "佑春交通有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-106-060077",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/06\/16",
+                "TRANSGRESSDATE": "2017\/04\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 120000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/09\/08 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "佑春交通有限公司",
+                "TRANSGRESSCONTROLID": "A3705350"
+            },
             {
                 "REGISTRATIONNO": "A3705350",
                 "FACILITYNAME": "佑春交通有限公司",
@@ -115,27 +123,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "佑春交通有限公司",
                 "TRANSGRESSCONTROLID": "A3705350"
-            },
-            {
-                "REGISTRATIONNO": "A3705350",
-                "FACILITYNAME": "佑春交通有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "40-101-080024",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/08\/27",
-                "TRANSGRESSDATE": "2012\/05\/22",
-                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

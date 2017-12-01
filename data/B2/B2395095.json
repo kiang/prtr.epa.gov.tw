@@ -1,48 +1,35 @@
 {
     "info": {
-        "地址": "臺中市西屯區光明路１３６號１樓",
-        "所屬工業區": "非屬工業區類",
+        "地址": "臺中市西屯區西安里光明路１３６號１樓",
+        "所屬工業區": "無特定工業區",
         "管制編號": "B2395095",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.639378943877",
         "latitude": "24.1808112639681",
         "name": "大發環保清潔工程有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B2395095",
                 "FACILITYNAME": "大發環保清潔工程有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "44-103-080002",
+                "DOCUMENTNO": "44-103-080001",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/08\/07",
                 "TRANSGRESSDATE": "2014\/01\/16",
-                "TRANSGRESSLAW": "廢棄物清理法第9條",
-                "PENALTYMONEY": 60000,
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -58,12 +45,12 @@
                 "FACILITYNAME": "大發環保清潔工程有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "44-103-080001",
+                "DOCUMENTNO": "44-103-080002",
                 "PENALTYYEAR": "2014",
                 "PENALTYDATE": "2014\/08\/07",
                 "TRANSGRESSDATE": "2014\/01\/16",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 6000,
+                "TRANSGRESSLAW": "廢棄物清理法第9條",
+                "PENALTYMONEY": 60000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

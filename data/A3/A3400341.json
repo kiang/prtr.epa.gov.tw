@@ -5,8 +5,7 @@
         "管制編號": "A3400341",
         "行業別": "洗衣業(洗衣業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.553083940101",
         "latitude": "25.0567374823689",
@@ -883,23 +882,180 @@
                 "EMIITEM4": null
             }
         ],
-        "WAT": [
-
-        ],
+        "WAT": [],
         "WAS": [
-
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "4",
+                "EMIITEMID": "B-0159",
+                "EMIITEMNAME": "四氯乙烯＜毒性化學物質第一，二類＞",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/25 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "4",
+                "EMIITEMID": "R-0204",
+                "EMIITEMNAME": "廢塑膠容器(PE)",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/25 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/25 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "3",
+                "EMIITEMID": "R-0204",
+                "EMIITEMNAME": "廢塑膠容器(PE)",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "3",
+                "EMIITEMID": "B-0159",
+                "EMIITEMNAME": "四氯乙烯＜毒性化學物質第一，二類＞",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "2",
+                "EMIITEMID": "B-0159",
+                "EMIITEMNAME": "四氯乙烯＜毒性化學物質第一，二類＞",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "2",
+                "EMIITEMID": "R-0204",
+                "EMIITEMNAME": "廢塑膠容器(PE)",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "1",
+                "EMIITEMID": "B-0159",
+                "EMIITEMNAME": "四氯乙烯＜毒性化學物質第一，二類＞",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A3400341",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "1",
+                "EMIITEMID": "R-0204",
+                "EMIITEMNAME": "廢塑膠容器(PE)",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/24 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

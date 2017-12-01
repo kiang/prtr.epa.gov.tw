@@ -5,33 +5,83 @@
         "管制編號": "A3604849",
         "行業別": "藥品及醫用化學製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.515233995747",
         "latitude": "25.0434775943152",
         "name": "中國化學製藥股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3604849",
+                "FACILITYNAME": "中國化學製藥股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-106-060027",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/06\/23",
+                "TRANSGRESSDATE": "2017\/04\/12",
+                "TRANSGRESSLAW": "水污染防治措施及檢測申報管理辦法第4條，水污染防治法第18條",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "2017-07-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中國化學製藥股份有限公司台南二廠",
+                "TRANSGRESSCONTROLID": "R97A0189"
+            },
+            {
+                "REGISTRATIONNO": "A3604849",
+                "FACILITYNAME": "中國化學製藥股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "20-106-050006",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/05\/03",
+                "TRANSGRESSDATE": "2017\/03\/07",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/07\/05 01:00",
+                "IMPROVEDEADLINE": "2017-05-26",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中國化學製藥股份有限公司新豐工廠",
+                "TRANSGRESSCONTROLID": "J6101125"
+            },
+            {
+                "REGISTRATIONNO": "A3604849",
+                "FACILITYNAME": "中國化學製藥股份有限公司",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "32-106-010001",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/19",
+                "TRANSGRESSDATE": "2016\/10\/13",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第41條第3項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "中國化學製藥股份有限公司",
+                "TRANSGRESSCONTROLID": "J6101125"
+            },
             {
                 "REGISTRATIONNO": "A3604849",
                 "FACILITYNAME": "中國化學製藥股份有限公司",

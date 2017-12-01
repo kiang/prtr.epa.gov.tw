@@ -3,36 +3,43 @@
         "地址": "臺南市仁德區一甲里太乙路４７號",
         "所屬工業區": "其他工業區",
         "管制編號": "D1005552",
-        "行業別": "暫無分類",
+        "行業別": "洗衣業(洗衣業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.253671898509",
         "latitude": "22.9819960138072",
         "name": "美德耐股份有限公司仁德廠"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A35C0185",
+                "FACILITYNAME": "美德耐股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-106-080028",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/08\/30",
+                "TRANSGRESSDATE": "2017\/06\/28",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "2017-09-27",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "美德耐股份有限公司仁德廠",
+                "TRANSGRESSCONTROLID": "D1005552"
+            }
         ]
     }
 }

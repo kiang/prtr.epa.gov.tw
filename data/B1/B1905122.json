@@ -1,37 +1,45 @@
 {
     "info": {
-        "地址": "臺中市東區十甲北街６９號",
+        "地址": "臺中市東區十甲里十甲北街６９號",
         "所屬工業區": "無特定工業區",
         "管制編號": "B1905122",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.704110520351",
         "latitude": "24.1448848463026",
         "name": "永成衛生清潔行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "B1905122",
+                "FACILITYNAME": "永成衛生清潔行",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "41-106-040116",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/04\/20",
+                "TRANSGRESSDATE": "2017\/01\/15",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/06\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永成衛生清潔行",
+                "TRANSGRESSCONTROLID": "B1905122"
+            },
             {
                 "REGISTRATIONNO": "B1905122",
                 "FACILITYNAME": "永成衛生清潔行",
@@ -58,12 +66,12 @@
                 "FACILITYNAME": "永成衛生清潔行",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "40-102-070013",
+                "DOCUMENTNO": "40-102-070012",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/07\/23",
                 "TRANSGRESSDATE": "2013\/05\/01",
-                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
-                "PENALTYMONEY": 12000,
+                "TRANSGRESSLAW": "廢棄物清理法第42條，廢棄物清理法第46條，公民營廢棄物清除處理機構許可管理辦法第18條",
+                "PENALTYMONEY": 30000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
@@ -79,12 +87,12 @@
                 "FACILITYNAME": "永成衛生清潔行",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "40-102-070012",
+                "DOCUMENTNO": "40-102-070013",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/07\/23",
                 "TRANSGRESSDATE": "2013\/05\/01",
-                "TRANSGRESSLAW": "廢棄物清理法第42條，廢棄物清理法第46條，公民營廢棄物清除處理機構許可管理辦法第18條",
-                "PENALTYMONEY": 30000,
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 12000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",

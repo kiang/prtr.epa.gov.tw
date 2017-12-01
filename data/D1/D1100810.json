@@ -5,33 +5,41 @@
         "管制編號": "D1100810",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.297094914743",
         "latitude": "22.9761260015106",
         "name": "正晟環保工程有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "D1100810",
+                "FACILITYNAME": "正晟環保工程有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-105-120065",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/15",
+                "TRANSGRESSDATE": "2016\/11\/09",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "正晟環保工程有限公司-朱寶連自用農舍拆除工程",
+                "TRANSGRESSCONTROLID": "D1201376"
+            },
             {
                 "REGISTRATIONNO": "D1100810",
                 "FACILITYNAME": "正晟環保工程有限公司",
@@ -89,7 +97,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
+                "UPDATETIME": "2017\/06\/07 01:00",
                 "IMPROVEDEADLINE": "2014-12-10",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "正晟環保工程有限公司",

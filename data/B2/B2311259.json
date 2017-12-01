@@ -5,54 +5,19 @@
         "管制編號": "B2311259",
         "行業別": "其他專賣批發業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.608750495037",
         "latitude": "24.1657439696032",
         "name": "哈特佛工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "B2311259",
-                "FACILITYNAME": "哈特佛工業股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "45-100-120001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/12\/22",
-                "TRANSGRESSDATE": "2011\/11\/02",
-                "TRANSGRESSLAW": "廢棄物清理法第16條",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "哈特佛工業股份有限公司",
-                "TRANSGRESSCONTROLID": "B2311259"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

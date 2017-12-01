@@ -1,37 +1,38 @@
 {
     "info": {
-        "地址": "臺北市中正區重慶南路二段５１號１２樓",
-        "所屬工業區": "無特定工業區",
-        "管制編號": "A36A1065",
-        "行業別": "印刷及其輔助業",
-        "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "longitude": "121.514914398484",
-        "latitude": "25.0312026624264",
+        "longitude": null,
+        "latitude": null,
         "name": "永豐餘工業用紙股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A36A1065",
+                "FACILITYNAME": "永豐餘工業用紙股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-106-020020",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/02\/23",
+                "TRANSGRESSDATE": "2017\/01\/17",
+                "TRANSGRESSLAW": "空氣污染防制法第23條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/04\/09 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永豐餘工業用紙股份有限公司成功廠",
+                "TRANSGRESSCONTROLID": "L0000624"
+            },
             {
                 "REGISTRATIONNO": "A36A1065",
                 "FACILITYNAME": "永豐餘工業用紙股份有限公司",

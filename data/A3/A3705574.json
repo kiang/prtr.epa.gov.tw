@@ -5,75 +5,19 @@
         "管制編號": "A3705574",
         "行業別": "倉儲業(普通倉儲業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.498006241741",
         "latitude": "25.0312456661281",
         "name": "淳品實業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "A3705574",
-                "FACILITYNAME": "淳品實業股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "33-101-020001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/02\/08",
-                "TRANSGRESSDATE": "2011\/11\/16",
-                "TRANSGRESSLAW": "海洋污染防治法第13條第1項",
-                "PENALTYMONEY": 300000,
-                "ISPETITION": "是",
-                "PETITIONAGENCY": "地方審議機關",
-                "PETITIONRESULTS": "訴願駁回",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "淳品實業股份有限公司台北港化油品儲運中心",
-                "TRANSGRESSCONTROLID": "F2306652"
-            },
-            {
-                "REGISTRATIONNO": "A3705574",
-                "FACILITYNAME": "淳品實業股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "32-100-100001",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/10\/18",
-                "TRANSGRESSDATE": "2011\/01\/10",
-                "TRANSGRESSLAW": "土壤及地下水污染整治法第41條第3項第1款",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "淳品實業股份有限公司",
-                "TRANSGRESSCONTROLID": "A3705574"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

@@ -1,36 +1,16 @@
 {
     "info": {
-        "地址": "臺北市北投區光明路６８號６樓之１",
-        "所屬工業區": "無特定工業區",
-        "管制編號": "A37A6565",
-        "行業別": "廢棄物清除業(無害廢棄物清除業)",
-        "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "longitude": "121.493050027448",
-        "latitude": "25.0363010180425",
+        "longitude": null,
+        "latitude": null,
         "name": "力興環保有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A37A6565",
@@ -48,6 +28,27 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2016\/06\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "力興環保有限公司",
+                "TRANSGRESSCONTROLID": "A37A6565"
+            },
+            {
+                "REGISTRATIONNO": "A37A6565",
+                "FACILITYNAME": "力興環保有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "44-105-100016",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/22",
+                "TRANSGRESSDATE": "2015\/05\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第6條第1項第2款，事業廢棄物貯存清除處理方法及設施標準第6條第1項第4款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/04\/09 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "力興環保有限公司",

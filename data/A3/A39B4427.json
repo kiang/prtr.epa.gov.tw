@@ -5,32 +5,19 @@
         "管制編號": "A39B4427",
         "行業別": "暫無分類",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
-        "longitude": "121.530302777055",
-        "latitude": "25.0575284505683",
+        "longitude": "121.530321034132",
+        "latitude": "25.0575480180003",
         "name": "正隆汽車貨運股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A39B4427",
@@ -52,69 +39,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "正隆汽車貨運股份有限公司",
                 "TRANSGRESSCONTROLID": "A39B4427"
-            },
-            {
-                "REGISTRATIONNO": "A39B4427",
-                "FACILITYNAME": "正隆汽車貨運股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "21-101-090161",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/09\/14",
-                "TRANSGRESSDATE": "2012\/07\/11",
-                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "正隆汽車貨運股份有限公司",
-                "TRANSGRESSCONTROLID": "A39B4427"
-            },
-            {
-                "REGISTRATIONNO": "A39B4427",
-                "FACILITYNAME": "正隆汽車貨運股份有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "21-101-070248",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/07\/18",
-                "TRANSGRESSDATE": "2012\/06\/22",
-                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
-                "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "正隆汽車貨運股份有限公司",
-                "TRANSGRESSCONTROLID": "A39B4427"
-            },
-            {
-                "REGISTRATIONNO": "A39B4427",
-                "FACILITYNAME": "正隆汽車貨運股份有限公司",
-                "COUNTY": "桃園市",
-                "COUNTYCODE": "10",
-                "DOCUMENTNO": "21-100-110183",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/11\/07",
-                "TRANSGRESSDATE": "2011\/09\/20",
-                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
-                "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-12-12",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

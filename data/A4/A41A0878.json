@@ -5,24 +5,87 @@
         "管制編號": "A41A0878",
         "行業別": "其他食品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.611969399118",
         "latitude": "25.0584608601882",
         "name": "波仕特生物科技股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
         "TOX": [
+            {
+                "REGISTRATIONNO": "A41A0878",
+                "QUARTER": "4",
+                "STARTDATE": "2016\/10\/01",
+                "ENDDATE": "2016\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "0.0010",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A41A0878",
+                "QUARTER": "4",
+                "STARTDATE": "2016\/10\/01",
+                "ENDDATE": "2016\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "0.0010",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A41A0878",
+                "QUARTER": "3",
+                "STARTDATE": "2016\/07\/01",
+                "ENDDATE": "2016\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "0.0005",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A41A0878",
+                "QUARTER": "3",
+                "STARTDATE": "2016\/07\/01",
+                "ENDDATE": "2016\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "0.0005",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A41A0878",
+                "QUARTER": "3",
+                "STARTDATE": "2016\/07\/01",
+                "ENDDATE": "2016\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "0.0005",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
             {
                 "REGISTRATIONNO": "A41A0878",
                 "QUARTER": "2",
@@ -34,18 +97,54 @@
                 "TOXICENGNAME": "Acrylamide",
                 "EMIVALUE": "0.0440",
                 "ITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/07\/22 01:02",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A41A0878",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "0.0440",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A41A0878",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "0.0440",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A41A0878",
+                "QUARTER": "2",
+                "STARTDATE": "2016\/04\/01",
+                "ENDDATE": "2016\/06\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "05001               ",
+                "TOXICNAME": "丙烯醯胺",
+                "TOXICENGNAME": "Acrylamide",
+                "EMIVALUE": "0.0440",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
                 "RPT_TYPE": "TOX"
             }
         ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

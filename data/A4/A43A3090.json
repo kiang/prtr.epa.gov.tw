@@ -1,36 +1,23 @@
 {
     "info": {
-        "地址": "臺北市士林區至誠路二段１９號１樓",
-        "所屬工業區": "非屬工業區類",
+        "地址": "臺北市士林區至誠路二段３７號",
+        "所屬工業區": "無特定工業區",
         "管制編號": "A43A3090",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.529878185354",
         "latitude": "25.1020744434157",
         "name": "日昱實業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A43A3090",
@@ -52,27 +39,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "日昱實業有限公司",
                 "TRANSGRESSCONTROLID": "A43A3090"
-            },
-            {
-                "REGISTRATIONNO": "A43A3090",
-                "FACILITYNAME": "日昱實業有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-101-050002",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/05\/08",
-                "TRANSGRESSDATE": "2012\/05\/03",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

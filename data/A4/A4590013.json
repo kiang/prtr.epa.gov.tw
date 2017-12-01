@@ -1,36 +1,23 @@
 {
     "info": {
         "地址": "臺北市信義區忠孝東路五段２９５巷３５號１樓",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "A4590013",
-        "行業別": "最後修整工程業(最後修整工程業)",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.572538378806",
         "latitude": "25.043164333664",
         "name": "佳承實業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A4590013",
@@ -47,7 +34,7 @@
                 "PETITIONAGENCY": "行政院訴願會",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
+                "UPDATETIME": "2017\/11\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "佳承實業有限公司",
@@ -131,32 +118,11 @@
                 "PETITIONAGENCY": "地方審議機關",
                 "PETITIONRESULTS": "訴願不受理",
                 "APPEALRESCIND": "撤銷並另立裁處書",
-                "UPDATETIME": "2016\/10\/05 01:00",
+                "UPDATETIME": "2017\/11\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "佳承實業有限公司",
                 "TRANSGRESSCONTROLID": "A4590013"
-            },
-            {
-                "REGISTRATIONNO": "A4590013",
-                "FACILITYNAME": "佳承實業有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "50-101-010005",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/01\/11",
-                "TRANSGRESSDATE": "2011\/11\/25",
-                "TRANSGRESSLAW": "環境教育法第24條第3項",
-                "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

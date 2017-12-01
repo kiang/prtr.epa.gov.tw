@@ -5,8 +5,7 @@
         "管制編號": "B0402999",
         "行業別": "其他專門營造業",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.774211596342",
         "latitude": "24.106010803174",
@@ -855,21 +854,11 @@
                 "EMIITEM4": 0.024
             }
         ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B0402999",
@@ -909,27 +898,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "2014-02-26",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "佑吉機械股份有限公司",
-                "TRANSGRESSCONTROLID": "B04100001207"
-            },
-            {
-                "REGISTRATIONNO": "B0402999",
-                "FACILITYNAME": "佑吉機械股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "20-101-010014",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/02\/06",
-                "TRANSGRESSDATE": "2012\/01\/02",
-                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第1款",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-04-02",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "佑吉機械股份有限公司",
                 "TRANSGRESSCONTROLID": "B04100001207"

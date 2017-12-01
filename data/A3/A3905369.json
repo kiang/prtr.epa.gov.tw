@@ -1,37 +1,45 @@
 {
     "info": {
         "地址": "臺北市中山區民權東路二段３３號１樓",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "A3905369",
-        "行業別": "其他化學製品製造業",
+        "行業別": "汽車零件製造業(汽車零件製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.529515196626",
         "latitude": "25.0627638398775",
         "name": "五泰實業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3905369",
+                "FACILITYNAME": "五泰實業股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "34-106-050001",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/05\/11",
+                "TRANSGRESSDATE": "2016\/12\/17",
+                "TRANSGRESSLAW": "毒性化學物質管理法第7條第5項，第四類毒性化學物質核可管理辦法第2條第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/06\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "五泰實業股份有限公司",
+                "TRANSGRESSCONTROLID": "A3905369"
+            },
             {
                 "REGISTRATIONNO": "A3905369",
                 "FACILITYNAME": "五泰實業股份有限公司",

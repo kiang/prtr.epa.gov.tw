@@ -5,34 +5,41 @@
         "管制編號": "C1303078",
         "行業別": "汽車貨運業(汽車貨運業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.738512241005",
         "latitude": "25.1295728473886",
         "name": "和泰汽車貨運股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "C1303078",
+                "FACILITYNAME": "和泰汽車貨運股份有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-106-080002",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/08\/09",
+                "TRANSGRESSDATE": "2017\/07\/25",
+                "TRANSGRESSLAW": "廢棄物清理法第31條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/10\/04 01:01",
+                "IMPROVEDEADLINE": "2017-07-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "和泰汽車貨運股份有限公司",
+                "TRANSGRESSCONTROLID": "C1303078"
+            }
         ]
     }
 }

@@ -3,23 +3,382 @@
         "地址": "臺中市北屯區文心路四段９３４號１２樓之１、之２及９３６號１２樓之１",
         "所屬工業區": "非屬工業區類",
         "管制編號": "B2505573",
-        "行業別": "電信業",
+        "行業別": "電視傳播及付費節目播送業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.694330415386",
         "latitude": "24.1708763568579",
         "name": "群健有線電視股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "6.32",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "1.77",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "9.55",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "1.52",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-2603",
+                "EMIITEMNAME": "廢光纖電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "1.64",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "5.35",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "6.80",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "3.47",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "2.09",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "3",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-2603",
+                "EMIITEMNAME": "廢光纖電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "2",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "2.22",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "1.39",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-2603",
+                "EMIITEMNAME": "廢光纖電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "1.98",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-2603",
+                "EMIITEMNAME": "廢光纖電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "1.55",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "11.39",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-2603",
+                "EMIITEMNAME": "廢光纖電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "1",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "3.71",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "R-1301",
+                "EMIITEMNAME": "廢鐵",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-1801",
+                "EMIITEMNAME": "生活垃圾",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-2603",
+                "EMIITEMNAME": "廢光纖電纜",
+                "CLEANCODE": "Y03",
+                "CLEANNAME": "委託清除",
+                "EMIITEMVALUE": "0",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "8.03",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-2603",
+                "EMIITEMNAME": "廢光纖電纜",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "2.07",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-2527",
+                "EMIITEMNAME": "其他以物理處理法處理之混合五金廢料",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "0.13",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B2505573",
                 "EMIYEAR": "2016",
@@ -30,7 +389,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "5.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -44,7 +403,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "2.19",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -58,7 +417,21 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "1.39",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "8.12",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -72,7 +445,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "1.18",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -86,7 +459,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "7.94",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -100,7 +473,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "8.43",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -114,7 +487,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "9.06",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +501,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "5.09",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -142,7 +515,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "0.8325",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -212,7 +585,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "7.31",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -238,9 +611,9 @@
                 "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "X03",
                 "CLEANNAME": "境外處理",
-                "EMIITEMVALUE": "2.13",
+                "EMIITEMVALUE": "10.13",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:03",
+                "UPDATETIME": "2017\/01\/28 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -254,7 +627,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "9.14",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/28 09:00",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -268,7 +641,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "9.96",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:02",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -282,7 +655,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "6.32",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -296,7 +669,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "4.08",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -310,7 +683,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "2.32",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -324,7 +697,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.65",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -338,7 +711,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "2.17",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -352,7 +725,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "5.07",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -366,7 +739,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "4.43",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -380,7 +753,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "8.31",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -394,7 +767,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "2.37",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -446,6 +819,20 @@
                 "EMIMONTH": "10",
                 "EMIITEMID": "D-2601",
                 "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "X03",
+                "CLEANNAME": "境外處理",
+                "EMIITEMVALUE": "6.25",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/26 09:12",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "Y03",
                 "CLEANNAME": "委託清除",
                 "EMIITEMVALUE": "0",
@@ -464,7 +851,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "4.7520",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -478,7 +865,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "7",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -492,7 +879,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "5.37",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -504,9 +891,9 @@
                 "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "X03",
                 "CLEANNAME": "境外處理",
-                "EMIITEMVALUE": "1.02",
+                "EMIITEMVALUE": "6.02",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -520,7 +907,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "7.17",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -534,7 +921,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "1.04",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -548,7 +935,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "1.31",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -562,7 +949,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "1.28",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -576,7 +963,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -588,9 +975,9 @@
                 "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "X03",
                 "CLEANNAME": "境外處理",
-                "EMIITEMVALUE": "8.56",
+                "EMIITEMVALUE": "7",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -604,7 +991,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "3.23",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -616,9 +1003,9 @@
                 "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
                 "CLEANCODE": "X03",
                 "CLEANNAME": "境外處理",
-                "EMIITEMVALUE": "2.14",
+                "EMIITEMVALUE": "3.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -632,7 +1019,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "1.21",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -646,7 +1033,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "1.99",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -660,7 +1047,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "5.03",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -674,7 +1061,7 @@
                 "CLEANNAME": "境外處理",
                 "EMIITEMVALUE": "1.16",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -688,7 +1075,21 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.17",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B2505573",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-2601",
+                "EMIITEMNAME": "廢電線電纜（以物理處理法處理者）",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "1.60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -702,7 +1103,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -716,7 +1117,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -730,7 +1131,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -744,7 +1145,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.16",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -758,7 +1159,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "0.75",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -772,7 +1173,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -786,7 +1187,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.31",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -800,7 +1201,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -814,7 +1215,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -828,7 +1229,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -842,7 +1243,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -856,7 +1257,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "5.01",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -870,7 +1271,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "3.31",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -884,7 +1285,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.52",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -898,7 +1299,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -912,7 +1313,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "2",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -926,9 +1327,9 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/11\/04 09:01",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "B2505573",
@@ -940,22 +1341,14 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "1",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

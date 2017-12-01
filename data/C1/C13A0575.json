@@ -5,21 +5,226 @@
         "管制編號": "C13A0575",
         "行業別": "船務代理業(船務代理業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.742434898397",
         "latitude": "25.1297908829087",
         "name": "寶昇船務代理股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "232.11",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "331.91",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:04",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "301.15",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:06",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "262.98",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "231.97",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "4",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "289.09",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "243.81",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "2",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "247.24",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/05\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "1",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "197.68",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/05\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "254.49",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "230.60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:03",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "317.88",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "238.91",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "263.89",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:25",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "257.43",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:10",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "C13A0575",
                 "EMIYEAR": "2016",
@@ -30,7 +235,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "273.86",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -44,7 +249,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "274.97",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -58,7 +263,21 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "245.52",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "254.01",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:15",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -72,7 +291,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "212.38",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:15",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -86,7 +305,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "297.09",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -100,7 +319,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "215.04",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -114,7 +333,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "234.73",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +347,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "250.58",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -142,7 +361,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "289.95",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2017\/01\/28 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -156,7 +375,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "264.51",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/28 09:00",
+                "UPDATETIME": "2017\/01\/28 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -170,7 +389,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "271.44",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:01",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -184,7 +403,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "216.73",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -198,7 +417,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "244.56",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:05",
+                "UPDATETIME": "2017\/01\/27 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -212,7 +431,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "180.94",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -226,7 +445,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "308.42",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -240,7 +459,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "218.06",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:48",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -254,7 +473,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "245.16",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/01\/26 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -268,7 +487,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "247.83",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/06\/02 09:00",
+                "UPDATETIME": "2017\/01\/26 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -282,7 +501,21 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "212.47",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:06",
+                "UPDATETIME": "2017\/01\/26 09:12",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "10",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "239.24",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -296,7 +529,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "113.28",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -310,7 +543,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "217.37",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -324,7 +557,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "263.94",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -338,7 +571,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "247.43",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -352,7 +585,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "246.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -366,7 +599,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "293.12",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -380,7 +613,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "276.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/25 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -394,7 +627,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "227.7010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -408,7 +641,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "274.49",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -422,7 +655,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "276.18",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -436,7 +669,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "282.22",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:05",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -450,7 +683,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "297.68",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:05",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -464,7 +697,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "376.25",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/24 09:05",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -478,7 +711,21 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "222.38",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:08",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "C13A0575",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "7",
+                "EMIITEMID": "D-1799",
+                "EMIITEMNAME": "廢油混合物",
+                "CLEANCODE": "Z06",
+                "CLEANNAME": "物理處理",
+                "EMIITEMVALUE": "375.60",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -492,7 +739,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "347.20",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -506,7 +753,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "332.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -520,7 +767,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "269.50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -534,7 +781,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "373.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -548,7 +795,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "219.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -562,7 +809,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "284.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -576,7 +823,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "248.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -590,7 +837,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "245.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -604,7 +851,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "318.10",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -618,7 +865,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "324.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -632,7 +879,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "276.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -646,7 +893,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "262.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -660,7 +907,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "251.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -674,7 +921,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "254.90",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -688,7 +935,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "266.75",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -702,7 +949,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "232.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -716,7 +963,7 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "253.60",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -730,22 +977,14 @@
                 "CLEANNAME": "物理處理",
                 "EMIITEMVALUE": "264.93",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

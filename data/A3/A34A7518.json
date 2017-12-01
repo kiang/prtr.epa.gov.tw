@@ -5,33 +5,41 @@
         "管制編號": "A34A7518",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.552995579355",
         "latitude": "25.0482925534287",
         "name": "釗宏交通有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A34A7518",
+                "FACILITYNAME": "釗宏交通有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-106-080023",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/08\/04",
+                "TRANSGRESSDATE": "2017\/04\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 120000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "釗宏交通有限公司",
+                "TRANSGRESSCONTROLID": "A34A7518"
+            },
             {
                 "REGISTRATIONNO": "A34A7518",
                 "FACILITYNAME": "釗宏交通有限公司",
@@ -47,32 +55,11 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
+                "UPDATETIME": "2017\/03\/07 01:00",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "釗宏交通有限公司",
                 "TRANSGRESSCONTROLID": "A34A7518"
-            },
-            {
-                "REGISTRATIONNO": "A34A7518",
-                "FACILITYNAME": "釗宏交通有限公司",
-                "COUNTY": "宜蘭縣",
-                "COUNTYCODE": "9",
-                "DOCUMENTNO": "44-105-040002",
-                "PENALTYYEAR": "2016",
-                "PENALTYDATE": "2016\/04\/07",
-                "TRANSGRESSDATE": "2011\/06\/01",
-                "TRANSGRESSLAW": "廢棄物清理法第9條(之1)",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/05\/05 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             },
             {
                 "REGISTRATIONNO": "A34A7518",
@@ -153,48 +140,6 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:12",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "釗宏交通有限公司",
-                "TRANSGRESSCONTROLID": "A34A7518"
-            },
-            {
-                "REGISTRATIONNO": "A34A7518",
-                "FACILITYNAME": "釗宏交通有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "21-100-100016",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/10\/27",
-                "TRANSGRESSDATE": "2011\/08\/11",
-                "TRANSGRESSLAW": "空氣污染防制法第42條第2項",
-                "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "釗宏交通有限公司",
-                "TRANSGRESSCONTROLID": "A34A7518"
-            },
-            {
-                "REGISTRATIONNO": "A34A7518",
-                "FACILITYNAME": "釗宏交通有限公司",
-                "COUNTY": "苗栗縣",
-                "COUNTYCODE": "12",
-                "DOCUMENTNO": "40-100-110011",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/11\/28",
-                "TRANSGRESSDATE": "2011\/07\/26",
-                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "釗宏交通有限公司",

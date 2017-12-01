@@ -5,33 +5,104 @@
         "管制編號": "A3905501",
         "行業別": "紙漿、紙及紙板製造業(紙漿製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.536283385834",
         "latitude": "25.0503374459414",
         "name": "台灣紙業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3905501",
+                "FACILITYNAME": "台灣紙業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "23-105-100004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/27",
+                "TRANSGRESSDATE": "2016\/09\/23",
+                "TRANSGRESSLAW": "空氣污染防制法第16條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/01\/13 01:00",
+                "IMPROVEDEADLINE": "2016-12-12",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣紙業股份有限公司",
+                "TRANSGRESSCONTROLID": "A3905501"
+            },
+            {
+                "REGISTRATIONNO": "A3905501",
+                "FACILITYNAME": "台灣紙業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-105-120107",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/21",
+                "TRANSGRESSDATE": "2016\/09\/20",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "2017-02-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "臺灣紙業股份有限公司新營紙廠",
+                "TRANSGRESSCONTROLID": "R8400416"
+            },
+            {
+                "REGISTRATIONNO": "A3905501",
+                "FACILITYNAME": "台灣紙業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-105-120108",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/21",
+                "TRANSGRESSDATE": "2016\/09\/20",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "2017-02-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "臺灣紙業股份有限公司新營紙廠",
+                "TRANSGRESSCONTROLID": "R8400416"
+            },
+            {
+                "REGISTRATIONNO": "A3905501",
+                "FACILITYNAME": "台灣紙業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-105-120109",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/21",
+                "TRANSGRESSDATE": "2016\/09\/20",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "2017-02-15",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "臺灣紙業股份有限公司新營紙廠",
+                "TRANSGRESSCONTROLID": "R8400416"
+            },
             {
                 "REGISTRATIONNO": "A3905501",
                 "FACILITYNAME": "台灣紙業股份有限公司",
@@ -47,7 +118,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
+                "UPDATETIME": "2016\/11\/05 01:00",
                 "IMPROVEDEADLINE": "2016-09-25",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "臺灣紙業股份有限公司新營紙廠",

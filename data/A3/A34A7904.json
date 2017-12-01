@@ -5,33 +5,41 @@
         "管制編號": "A34A7904",
         "行業別": "塗料、染料及顏料製造業(塗料、染料及顏料製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.544139954427",
         "latitude": "25.0479497006658",
         "name": "接昌工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A34A7904",
+                "FACILITYNAME": "接昌工業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-105-120064",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/13",
+                "TRANSGRESSDATE": "2016\/11\/08",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 3000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/02\/08 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "接昌工業股份有限公司",
+                "TRANSGRESSCONTROLID": "A34A7904"
+            },
             {
                 "REGISTRATIONNO": "A34A7904",
                 "FACILITYNAME": "接昌工業股份有限公司",
@@ -69,27 +77,6 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2016\/02\/05 01:01",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "接昌工業股份有限公司",
-                "TRANSGRESSCONTROLID": "A34A7904"
-            },
-            {
-                "REGISTRATIONNO": "A34A7904",
-                "FACILITYNAME": "接昌工業股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "41-100-101069",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/10\/13",
-                "TRANSGRESSDATE": "2011\/10\/06",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第11款",
-                "PENALTYMONEY": 1200,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "接昌工業股份有限公司",

@@ -5,32 +5,19 @@
         "管制編號": "A3604518",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.519418373831",
         "latitude": "25.0477153250141",
         "name": "豐厚工程行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3604518",
@@ -47,7 +34,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/03\/06 01:00",
+                "UPDATETIME": "2017\/10\/04 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "豐厚工程行",
@@ -157,48 +144,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "豐厚工程行",
                 "TRANSGRESSCONTROLID": "A3604518"
-            },
-            {
-                "REGISTRATIONNO": "A3604518",
-                "FACILITYNAME": "豐厚工程行",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-101-090009",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/09\/28",
-                "TRANSGRESSDATE": "2012\/09\/24",
-                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第18條，廢棄物清理法第42條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A3604518",
-                "FACILITYNAME": "豐厚工程行",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-100-120005",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/12\/16",
-                "TRANSGRESSDATE": "2011\/12\/07",
-                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

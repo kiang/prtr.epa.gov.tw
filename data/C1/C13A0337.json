@@ -5,26 +5,17 @@
         "管制編號": "C13A0337",
         "行業別": "殯葬服務業",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.74076344424",
         "latitude": "25.112688286568",
         "name": "基隆市立殯葬管理所火化場"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
         "METAL": [
             {
                 "REGISTRATIONNO": "C13A0337",
@@ -34,7 +25,7 @@
                 "EXAMITEMVALUE": "0.383",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "稽查合格",
-                "UPDATETIME": "2015\/12\/26 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -45,7 +36,95 @@
                 "EXAMITEMVALUE": "0.165",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2015\/09\/24 01:01",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/09\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.165",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/09\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.165",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/09\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.165",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/09\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.165",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/09\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.165",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/09\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.165",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/09\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.165",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2014\/09\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.165",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -56,7 +135,18 @@
                 "EXAMITEMVALUE": "0.239",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2014\/05\/29 01:00",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P002",
+                "EXAMODIFYDATE": "2013\/10\/15",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.239",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             },
             {
@@ -67,14 +157,77 @@
                 "EXAMITEMVALUE": "0.247",
                 "EXAMITEMUNIT": "ng-TEQ\/Nm3",
                 "EXAMSTATUS": "符合",
-                "UPDATETIME": "2013\/12\/17 10:10",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2012\/10\/20",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.247",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2012\/10\/20",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.247",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2012\/10\/20",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.247",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
+                "RPT_TYPE": "METAL"
+            },
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "EMICHIMNEY": "P001",
+                "EXAMODIFYDATE": "2012\/10\/20",
+                "EXAMITEMNAME": "戴奧辛",
+                "EXAMITEMVALUE": "0.247",
+                "EXAMITEMUNIT": "ng-TEQ\/Nm3",
+                "EXAMSTATUS": "符合",
+                "UPDATETIME": "2017\/06\/08 16:57",
                 "RPT_TYPE": "METAL"
             }
         ],
-        "GREENHOUSE": [
-
-        ],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "C13A0337",
+                "FACILITYNAME": "基隆市立殯葬管理所火化場",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "20-106-020001",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/02\/16",
+                "TRANSGRESSDATE": "2016\/12\/10",
+                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/10\/04 01:01",
+                "IMPROVEDEADLINE": "2017-05-23",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "基隆市立殯葬管理所",
+                "TRANSGRESSCONTROLID": "C13A0337"
+            },
             {
                 "REGISTRATIONNO": "C13A0337",
                 "FACILITYNAME": "基隆市立殯葬管理所火化場",

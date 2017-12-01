@@ -5,34 +5,132 @@
         "管制編號": "B18A0963",
         "行業別": "其他住宿服務業(其他住宿服務業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.685392992663",
         "latitude": "24.1384350167826",
         "name": "中旅發展有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
+        "AIR": [],
         "WAT": [
-
+            {
+                "REGISTRATIONNO": "B18A0963",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2016\/01\/04",
+                "EMIENDDATE": "2016\/06\/30",
+                "EMIWATER": "2214.88",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "44.10",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2017\/01\/18 11:20",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B18A0963",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2016\/01\/04",
+                "EMIENDDATE": "2016\/06\/30",
+                "EMIWATER": "2214.88",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "大腸桿菌群CFU\/100ML",
+                "EMIITEMVALUE": "39000",
+                "EMIITEMUNIT": "CFU\/100ML",
+                "UPDATETIME": "2017\/01\/18 11:20",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B18A0963",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2016\/01\/04",
+                "EMIENDDATE": "2016\/06\/30",
+                "EMIWATER": "2214.88",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體（mg\/L）",
+                "EMIITEMVALUE": "21.60",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2017\/01\/18 11:20",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B18A0963",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2016\/01\/04",
+                "EMIENDDATE": "2016\/06\/30",
+                "EMIWATER": "2214.88",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "水溫(攝氏)",
+                "EMIITEMVALUE": "30.40",
+                "EMIITEMUNIT": "攝氏",
+                "UPDATETIME": "2017\/01\/18 11:20",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B18A0963",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2016\/01\/04",
+                "EMIENDDATE": "2016\/06\/30",
+                "EMIWATER": "2214.88",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "油脂",
+                "EMIITEMVALUE": "1.50",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2017\/01\/18 11:20",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B18A0963",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2016\/01\/04",
+                "EMIENDDATE": "2016\/06\/30",
+                "EMIWATER": "2214.88",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "17.10",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2017\/01\/18 11:20",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "B18A0963",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2016\/01\/04",
+                "EMIENDDATE": "2016\/06\/30",
+                "EMIWATER": "2214.88",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "ｐＨ值",
+                "EMIITEMVALUE": "7.40",
+                "EMIITEMUNIT": "",
+                "UPDATETIME": "2017\/01\/18 11:20",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            }
         ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

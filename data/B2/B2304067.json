@@ -5,8 +5,7 @@
         "管制編號": "B2304067",
         "行業別": "蔬果處理保藏及其製品製造業",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.621576335245",
         "latitude": "24.1687217480348",
@@ -883,23 +882,75 @@
                 "EMIITEM4": null
             }
         ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "B2304067",
+                "FACILITYNAME": "元隆農產食品行",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "40-106-100001",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/02",
+                "TRANSGRESSDATE": "2017\/08\/29",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第6條第1項第2款，事業廢棄物貯存清除處理方法及設施標準第6條第1項第4款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "元隆農產食品行",
+                "TRANSGRESSCONTROLID": "B2304067"
+            },
+            {
+                "REGISTRATIONNO": "B2304067",
+                "FACILITYNAME": "元隆農產食品行",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-106-100004",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/03",
+                "TRANSGRESSDATE": "2017\/08\/29",
+                "TRANSGRESSLAW": "空氣污染防制法第31條第1項第1款",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "元隆農產食品行",
+                "TRANSGRESSCONTROLID": "B2304067"
+            },
+            {
+                "REGISTRATIONNO": "B2304067",
+                "FACILITYNAME": "元隆農產食品行",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "30-106-100005",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/03",
+                "TRANSGRESSDATE": "2017\/08\/29",
+                "TRANSGRESSLAW": "水污染防治法第30條第1項第2款",
+                "PENALTYMONEY": 30000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "元隆農產食品行",
+                "TRANSGRESSCONTROLID": "B2304067"
+            }
         ]
     }
 }

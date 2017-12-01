@@ -5,33 +5,41 @@
         "管制編號": "A36A5849",
         "行業別": "半導體製造業(半導體封裝及測試業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.510739485196",
         "latitude": "25.0435422897756",
         "name": "同欣電子工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A36A5849",
+                "FACILITYNAME": "同欣電子工業股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-105-100041",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/31",
+                "TRANSGRESSDATE": "2015\/08\/19",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 170000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/12\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "同欣電子工業股份有限公司台北工廠",
+                "TRANSGRESSCONTROLID": "F0802946"
+            },
             {
                 "REGISTRATIONNO": "A36A5849",
                 "FACILITYNAME": "同欣電子工業股份有限公司",
@@ -52,48 +60,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "同欣電子工業股份有限公司台北工廠",
                 "TRANSGRESSCONTROLID": "F0802946"
-            },
-            {
-                "REGISTRATIONNO": "A36A5849",
-                "FACILITYNAME": "同欣電子工業股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "40-101-010004",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/01\/05",
-                "TRANSGRESSDATE": "2011\/11\/08",
-                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第7條第1項第2款",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "同欣電子工業股份有限公司",
-                "TRANSGRESSCONTROLID": "A36A5849"
-            },
-            {
-                "REGISTRATIONNO": "A36A5849",
-                "FACILITYNAME": "同欣電子工業股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "30-100-110033",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/11\/30",
-                "TRANSGRESSDATE": "2011\/08\/29",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條第1項",
-                "PENALTYMONEY": 110000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-08-20",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "同欣電子工業股份有限公司",
-                "TRANSGRESSCONTROLID": "A36A5849"
             }
         ]
     }

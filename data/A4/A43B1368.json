@@ -5,33 +5,41 @@
         "管制編號": "A43B1368",
         "行業別": "電池製造業(電池製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
-        "longitude": "121.523102119434",
-        "latitude": "25.0851176338298",
+        "longitude": "121.523121032731",
+        "latitude": "25.0851380180614",
         "name": "台灣神戶電池股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A43B1368",
+                "FACILITYNAME": "台灣神戶電池股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "20-103-100006",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/10\/09",
+                "TRANSGRESSDATE": "2014\/07\/16",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項，空氣污染防制法第24條第3項，固定污染源設置與操作許可證管理辦法第20條",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2015\/11\/19 09:13",
+                "IMPROVEDEADLINE": "2015-01-15",
+                "INSPECTIONCONDITION": "改善完成",
+                "TRANSGRESSNAME": "台灣神戶電池股份有限公司",
+                "TRANSGRESSCONTROLID": "R9700639"
+            },
             {
                 "REGISTRATIONNO": "A43B1368",
                 "FACILITYNAME": "台灣神戶電池股份有限公司",
@@ -71,27 +79,6 @@
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台灣神戶電池股份有限公司",
-                "TRANSGRESSCONTROLID": "R9700639"
-            },
-            {
-                "REGISTRATIONNO": "A43B1368",
-                "FACILITYNAME": "台灣神戶電池股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "20-103-100006",
-                "PENALTYYEAR": "2014",
-                "PENALTYDATE": "2014\/10\/09",
-                "TRANSGRESSDATE": "2014\/07\/16",
-                "TRANSGRESSLAW": "空氣污染防制法第24條第2項，空氣污染防制法第24條第3項，固定污染源設置與操作許可證管理辦法第20條",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:13",
-                "IMPROVEDEADLINE": "2015-01-15",
-                "INSPECTIONCONDITION": "改善完成",
                 "TRANSGRESSNAME": "台灣神戶電池股份有限公司",
                 "TRANSGRESSCONTROLID": "R9700639"
             }

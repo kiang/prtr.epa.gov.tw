@@ -5,32 +5,19 @@
         "管制編號": "B9100889",
         "行業別": "貨運承攬業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.533663696381",
         "latitude": "24.2445871605445",
         "name": "源陞交通有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B9100889",
@@ -94,27 +81,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "源陞交通有限公司",
                 "TRANSGRESSCONTROLID": "B9100889"
-            },
-            {
-                "REGISTRATIONNO": "B9100889",
-                "FACILITYNAME": "源陞交通有限公司",
-                "COUNTY": "新竹市",
-                "COUNTYCODE": "4",
-                "DOCUMENTNO": "40-101-050001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/05\/07",
-                "TRANSGRESSDATE": "2012\/03\/30",
-                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "源陞交通有限公司",
-                "TRANSGRESSCONTROLID": "B91100000627"
             }
         ]
     }

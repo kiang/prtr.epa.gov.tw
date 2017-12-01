@@ -3,36 +3,43 @@
         "地址": "臺北市萬華區青年路１０６巷３０弄２６號１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A37A5656",
-        "行業別": "暫無分類",
+        "行業別": "廢（污）水處理業(廢（污）水處理業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.502302029035",
         "latitude": "25.0231220180035",
         "name": "鴻發衛生工程行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A37A5656",
+                "FACILITYNAME": "鴻發衛生工程行",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-106-040090",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/04\/24",
+                "TRANSGRESSDATE": "2016\/06\/28",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "鴻發衛生工程行",
+                "TRANSGRESSCONTROLID": "A37A5656"
+            }
         ]
     }
 }

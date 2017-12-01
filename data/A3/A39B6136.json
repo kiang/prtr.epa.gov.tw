@@ -5,33 +5,41 @@
         "管制編號": "A39B6136",
         "行業別": "人造纖維製造業(人造纖維製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.53285186735",
         "latitude": "25.055357886514",
         "name": "力麗企業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A39B6136",
+                "FACILITYNAME": "力麗企業股份有限公司",
+                "COUNTY": "彰化縣",
+                "COUNTYCODE": "14",
+                "DOCUMENTNO": "30-106-050004",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/05\/08",
+                "TRANSGRESSDATE": "2016\/06\/17",
+                "TRANSGRESSLAW": "水污染防治法第28條",
+                "PENALTYMONEY": 24500,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/07\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "力麗企業股份有限公司彰化五廠",
+                "TRANSGRESSCONTROLID": "N2907186"
+            },
             {
                 "REGISTRATIONNO": "A39B6136",
                 "FACILITYNAME": "力麗企業股份有限公司",

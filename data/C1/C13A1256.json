@@ -1,38 +1,45 @@
 {
     "info": {
         "地址": "基隆市仁愛區愛一路８號９樓之１",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "C13A1256",
-        "行業別": "暫無分類",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.74080509283",
         "latitude": "25.128145017262",
         "name": "晟吉企業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "C13A1256",
+                "FACILITYNAME": "晟吉企業有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "40-105-110004",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/11\/08",
+                "TRANSGRESSDATE": "2016\/08\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第36條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/12\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "晟吉企業有限公司",
+                "TRANSGRESSCONTROLID": "C13A1256"
+            }
         ]
     }
 }

@@ -5,33 +5,41 @@
         "管制編號": "A34A1213",
         "行業別": "金屬加工處理業(金屬表面處理業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.550638650566",
         "latitude": "25.0602812468744",
         "name": "伍鎰工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A34A1213",
+                "FACILITYNAME": "伍鎰工業股份有限公司",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "40-106-080012",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/08\/23",
+                "TRANSGRESSDATE": "2017\/06\/26",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/10\/04 01:01",
+                "IMPROVEDEADLINE": "2017-09-30",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "伍鎰工業股份有限公司(台南二廠)",
+                "TRANSGRESSCONTROLID": "R1002118"
+            },
             {
                 "REGISTRATIONNO": "A34A1213",
                 "FACILITYNAME": "伍鎰工業股份有限公司",

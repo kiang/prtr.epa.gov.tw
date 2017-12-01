@@ -1,58 +1,23 @@
 {
     "info": {
         "地址": "臺北市中山區龍江路４７之１號４樓",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "A3905903",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.540564012014",
         "latitude": "25.0493265959372",
         "name": "日日盛有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "A3905903",
-                "FACILITYNAME": "日日盛有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "21-101-060066",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/06\/15",
-                "TRANSGRESSDATE": "2012\/03\/06",
-                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
-                "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "日日盛有限公司",
-                "TRANSGRESSCONTROLID": "A3905903"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

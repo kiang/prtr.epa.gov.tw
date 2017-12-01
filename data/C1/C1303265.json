@@ -1,37 +1,45 @@
 {
     "info": {
         "地址": "基隆市仁愛區南榮路３０９號",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "C1303265",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.743561887438",
         "latitude": "25.1197486944034",
         "name": "ㄧ平衛生工程行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "C1303265",
+                "FACILITYNAME": "ㄧ平衛生工程行",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-106-030006",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/03\/31",
+                "TRANSGRESSDATE": "2017\/02\/24",
+                "TRANSGRESSLAW": "廢棄物清理法第9條，廢棄物清理法第31條，廢棄物清理法第42條",
+                "PENALTYMONEY": 72000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/08\/04 01:01",
+                "IMPROVEDEADLINE": "2017-03-31",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "ㄧ平衛生工程行",
+                "TRANSGRESSCONTROLID": "C1303265"
+            },
             {
                 "REGISTRATIONNO": "C1303265",
                 "FACILITYNAME": "ㄧ平衛生工程行",

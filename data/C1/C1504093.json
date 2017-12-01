@@ -1,79 +1,23 @@
 {
     "info": {
-        "地址": "基隆市安樂區武訓街十二號",
+        "地址": "基隆市安樂區武訓街１２號",
         "所屬工業區": "大武崙工業區",
         "管制編號": "C1504093",
         "行業別": "玻璃及其製品製造業",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
-        "longitude": "121.698277671393",
-        "latitude": "25.1518734907372",
+        "longitude": "121.698277749075",
+        "latitude": "25.1518734702394",
         "name": "元璋玻璃股份有限公司三廠"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "C1504093",
-                "FACILITYNAME": "元璋玻璃股份有限公司三廠",
-                "COUNTY": "基隆市",
-                "COUNTYCODE": "3",
-                "DOCUMENTNO": "40-101-110001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/11\/07",
-                "TRANSGRESSDATE": "2012\/06\/29",
-                "TRANSGRESSLAW": "廢棄物清理法第36條，事業廢棄物貯存清除處理方法及設施標準第43條第1項",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "元璋玻璃股份有限公司三廠",
-                "TRANSGRESSCONTROLID": "C1504093"
-            },
-            {
-                "REGISTRATIONNO": "C1504093",
-                "FACILITYNAME": "元璋玻璃股份有限公司三廠",
-                "COUNTY": "基隆市",
-                "COUNTYCODE": "3",
-                "DOCUMENTNO": "40-101-090001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/09\/10",
-                "TRANSGRESSDATE": "2012\/06\/29",
-                "TRANSGRESSLAW": "廢棄物清理法第39條第1項",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "元璋玻璃股份有限公司三廠",
-                "TRANSGRESSCONTROLID": "C1504093"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

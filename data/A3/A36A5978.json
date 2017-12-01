@@ -5,33 +5,41 @@
         "管制編號": "A36A5978",
         "行業別": "農事及畜牧服務業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.514943745126",
         "latitude": "25.0284620849555",
         "name": "順華藥品工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A36A5978",
+                "FACILITYNAME": "順華藥品工業股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "30-105-110041",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/11\/18",
+                "TRANSGRESSDATE": "2015\/10\/29",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 63000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/01\/13 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "順華藥品工業股份有限公司",
+                "TRANSGRESSCONTROLID": "A36A5978"
+            },
             {
                 "REGISTRATIONNO": "A36A5978",
                 "FACILITYNAME": "順華藥品工業股份有限公司",
@@ -49,48 +57,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:13",
                 "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "順華藥品工業股份有限公司",
-                "TRANSGRESSCONTROLID": "A36A5978"
-            },
-            {
-                "REGISTRATIONNO": "A36A5978",
-                "FACILITYNAME": "順華藥品工業股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "30-101-030004",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/03\/07",
-                "TRANSGRESSDATE": "2011\/09\/30",
-                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2011-10-06",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "順華藥品工業股份有限公司",
-                "TRANSGRESSCONTROLID": "A36A5978"
-            },
-            {
-                "REGISTRATIONNO": "A36A5978",
-                "FACILITYNAME": "順華藥品工業股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "30-101-020013",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/02\/24",
-                "TRANSGRESSDATE": "2011\/09\/30",
-                "TRANSGRESSLAW": "水污染防治法第14條第2項",
-                "PENALTYMONEY": 10000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2011-10-06",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "順華藥品工業股份有限公司",
                 "TRANSGRESSCONTROLID": "A36A5978"

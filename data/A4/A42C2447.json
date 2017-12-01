@@ -1,38 +1,38 @@
 {
     "info": {
-        "地址": "臺北市內湖區碧山路５１之１號旁",
-        "所屬工業區": "非屬工業區類",
-        "管制編號": "A42C2447",
-        "行業別": "暫無分類",
-        "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "longitude": "121.590319047007",
-        "latitude": "25.1033020179121",
+        "longitude": null,
+        "latitude": null,
         "name": "益廣營造有限公司-105年度土石流潛勢溪流改善改善及設施維護工程-內湖區碧山路51-1號旁"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A42097014751",
+                "FACILITYNAME": "益廣營造有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-106-010028",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/06",
+                "TRANSGRESSDATE": "2016\/12\/23",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/04\/09 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "益廣營造有限公司-105年度土石流潛勢溪流改善改善及設施維護工程-內湖區碧山路51-1號旁",
+                "TRANSGRESSCONTROLID": "A42C2447"
+            }
         ]
     }
 }

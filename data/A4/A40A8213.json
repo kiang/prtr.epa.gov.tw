@@ -5,33 +5,41 @@
         "管制編號": "A40A8213",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.56457238102",
         "latitude": "24.9903430864631",
         "name": "原東石環保有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A40A8213",
+                "FACILITYNAME": "原東石環保有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "21-106-010147",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/16",
+                "TRANSGRESSDATE": "2016\/12\/07",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 12000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "原東石環保有限公司",
+                "TRANSGRESSCONTROLID": "A40A8213"
+            },
             {
                 "REGISTRATIONNO": "A40A8213",
                 "FACILITYNAME": "原東石環保有限公司",

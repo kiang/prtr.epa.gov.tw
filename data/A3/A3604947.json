@@ -5,34 +5,83 @@
         "管制編號": "A3604947",
         "行業別": "倉儲業(普通倉儲業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.521669017579",
         "latitude": "25.031037441873",
         "name": "宏恕倉儲裝卸股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "A3604947",
+                "FACILITYNAME": "宏恕倉儲裝卸股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-106-080055",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/08\/29",
+                "TRANSGRESSDATE": "2017\/06\/29",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 200000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/10\/04 01:01",
+                "IMPROVEDEADLINE": "2017-10-02",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宏恕倉儲裝卸股份有限公司台中港油庫",
+                "TRANSGRESSCONTROLID": "L9104276"
+            },
+            {
+                "REGISTRATIONNO": "A3604947",
+                "FACILITYNAME": "宏恕倉儲裝卸股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-106-090012",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/09\/13",
+                "TRANSGRESSDATE": "2017\/06\/13",
+                "TRANSGRESSLAW": "空氣污染防制法第20條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "2017-10-23",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宏恕倉儲裝卸股份有限公司台中港油庫",
+                "TRANSGRESSCONTROLID": "L9104276"
+            },
+            {
+                "REGISTRATIONNO": "A3604947",
+                "FACILITYNAME": "宏恕倉儲裝卸股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-105-100012",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/26",
+                "TRANSGRESSDATE": "2016\/08\/23",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/02\/08 01:00",
+                "IMPROVEDEADLINE": "2016-11-28",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "宏恕倉儲裝卸股份有限公司台中港油庫",
+                "TRANSGRESSCONTROLID": "L9104276"
+            }
         ]
     }
 }

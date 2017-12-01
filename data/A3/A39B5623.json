@@ -5,33 +5,41 @@
         "管制編號": "A39B5623",
         "行業別": "合成樹脂、塑膠及橡膠製造業(合成樹脂及塑膠製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.538097697693",
         "latitude": "25.0521504402488",
         "name": "地球綜合工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A39B5623",
+                "FACILITYNAME": "地球綜合工業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "21-106-100017",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/11",
+                "TRANSGRESSDATE": "2017\/09\/18",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 10000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "地球綜合工業股份有限公司",
+                "TRANSGRESSCONTROLID": "A39B5623"
+            },
             {
                 "REGISTRATIONNO": "A39B5623",
                 "FACILITYNAME": "地球綜合工業股份有限公司",

@@ -5,43 +5,30 @@
         "管制編號": "B2308341",
         "行業別": "清潔服務業",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.614078986273",
         "latitude": "24.1734480024292",
         "name": "大育衛生清潔行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B2308341",
                 "FACILITYNAME": "大育衛生清潔行",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "44-102-060002",
+                "DOCUMENTNO": "44-102-060001",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/06\/04",
                 "TRANSGRESSDATE": "2013\/04\/22",
-                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第20條",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
@@ -58,11 +45,11 @@
                 "FACILITYNAME": "大育衛生清潔行",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "44-102-060001",
+                "DOCUMENTNO": "44-102-060002",
                 "PENALTYYEAR": "2013",
                 "PENALTYDATE": "2013\/06\/04",
                 "TRANSGRESSDATE": "2013\/04\/22",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第20條",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",

@@ -3,35 +3,43 @@
         "地址": "臺北市士林區福林路１８７號１樓",
         "所屬工業區": "非屬工業區類",
         "管制編號": "A4305247",
-        "行業別": "機械設備租賃業",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.532429161653",
         "latitude": "25.0968535666181",
         "name": "福松興業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A4305247",
+                "FACILITYNAME": "福松興業有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "21-105-121100",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/28",
+                "TRANSGRESSDATE": "2016\/11\/24",
+                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/02\/08 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "福松興業有限公司",
+                "TRANSGRESSCONTROLID": "A4305247"
+            },
             {
                 "REGISTRATIONNO": "A4305247",
                 "FACILITYNAME": "福松興業有限公司",

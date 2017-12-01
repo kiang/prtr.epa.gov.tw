@@ -1,38 +1,45 @@
 {
     "info": {
-        "地址": "臺南市永康區大橋里大橋一街１４９號１樓",
+        "地址": "臺南市永康區東橋里東橋五路７２巷１６號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "D1402775",
-        "行業別": "其他專門營造業",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.229976888595",
         "latitude": "23.0181280008152",
         "name": "優立環保工程企業行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "D1402775",
+                "FACILITYNAME": "優立環保工程企業行",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "44-105-100001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/12",
+                "TRANSGRESSDATE": "2016\/08\/04",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第16條第1項第1款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/01\/13 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "優立環保工程企業行",
+                "TRANSGRESSCONTROLID": "D1402775"
+            }
         ]
     }
 }

@@ -5,33 +5,41 @@
         "管制編號": "A3705029",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.493590302687",
         "latitude": "25.0284519978701",
         "name": "優世環境有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3705029",
+                "FACILITYNAME": "優世環境有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-106-010017",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/19",
+                "TRANSGRESSDATE": "2017\/01\/12",
+                "TRANSGRESSLAW": "公民營廢棄物清除處理機構許可管理辦法第18條第3項，廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/04\/09 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "優世環境有限公司",
+                "TRANSGRESSCONTROLID": "A3705029"
+            },
             {
                 "REGISTRATIONNO": "A3705029",
                 "FACILITYNAME": "優世環境有限公司",

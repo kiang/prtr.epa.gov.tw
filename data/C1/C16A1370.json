@@ -1,38 +1,45 @@
 {
     "info": {
         "地址": "基隆市信義區崇法街１３５巷７弄５號３樓",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "C16A1370",
-        "行業別": "暫無分類",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.76675010291",
         "latitude": "25.1339280171006",
         "name": "聖恩環保有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "C16A1370",
+                "FACILITYNAME": "聖恩環保有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-106-060005",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/06\/07",
+                "TRANSGRESSDATE": "2017\/05\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第31條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/07\/05 01:00",
+                "IMPROVEDEADLINE": "2017-06-08",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "聖恩環保有限公司",
+                "TRANSGRESSCONTROLID": "C16A1370"
+            }
         ]
     }
 }

@@ -5,33 +5,62 @@
         "管制編號": "B9500521",
         "行業別": "建築工程業(建築工程業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.645853927732",
         "latitude": "24.2284312322311",
         "name": "葆昇工程有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "B9500521",
+                "FACILITYNAME": "葆昇工程有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "40-106-090004",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/09\/06",
+                "TRANSGRESSDATE": "2017\/08\/17",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第3款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "葆昇工程有限公司",
+                "TRANSGRESSCONTROLID": "B9500521"
+            },
+            {
+                "REGISTRATIONNO": "B9500521",
+                "FACILITYNAME": "葆昇工程有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "44-106-040002",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/04\/14",
+                "TRANSGRESSDATE": "2017\/03\/21",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第6條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/06\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "葆昇工程有限公司",
+                "TRANSGRESSCONTROLID": "B9500521"
+            },
             {
                 "REGISTRATIONNO": "B9500521",
                 "FACILITYNAME": "葆昇工程有限公司",
@@ -47,7 +76,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/08\/05 01:00",
+                "UPDATETIME": "2017\/08\/04 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "葆昇工程有限公司",

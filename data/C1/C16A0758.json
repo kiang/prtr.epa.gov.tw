@@ -1,37 +1,38 @@
 {
     "info": {
-        "地址": "基隆市信義區義和里義九路２號",
-        "所屬工業區": "無特定工業區",
-        "管制編號": "C16A0758",
-        "行業別": "建材批發業",
-        "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "longitude": "121.756237866465",
-        "latitude": "25.1285912692992",
+        "longitude": null,
+        "latitude": null,
         "name": "永峰建材行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "C16A0758",
+                "FACILITYNAME": "永峰建材行",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-106-040002",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/04\/19",
+                "TRANSGRESSDATE": "2017\/03\/14",
+                "TRANSGRESSLAW": "廢棄物清理法第31條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/08\/04 01:01",
+                "IMPROVEDEADLINE": "2017-04-21",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永峰建材行",
+                "TRANSGRESSCONTROLID": "C16A0758"
+            },
             {
                 "REGISTRATIONNO": "C16A0758",
                 "FACILITYNAME": "永峰建材行",

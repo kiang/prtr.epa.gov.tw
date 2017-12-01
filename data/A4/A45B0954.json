@@ -5,33 +5,62 @@
         "管制編號": "A45B0954",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.574023043312",
         "latitude": "25.0386350178561",
         "name": "來發貨運交通有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A45B0954",
+                "FACILITYNAME": "來發貨運交通有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-106-100012",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/20",
+                "TRANSGRESSDATE": "2017\/10\/13",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "來發貨運交通有限公司",
+                "TRANSGRESSCONTROLID": "A45B0954"
+            },
+            {
+                "REGISTRATIONNO": "A45B0954",
+                "FACILITYNAME": "來發貨運交通有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "40-106-040054",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/04\/13",
+                "TRANSGRESSDATE": "2016\/10\/19",
+                "TRANSGRESSLAW": "廢棄物清理法第9條第1項",
+                "PENALTYMONEY": 120000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/06\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "來發貨運交通有限公司",
+                "TRANSGRESSCONTROLID": "A45B0954"
+            },
             {
                 "REGISTRATIONNO": "A45B0954",
                 "FACILITYNAME": "來發貨運交通有限公司",
@@ -94,27 +123,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "",
                 "TRANSGRESSCONTROLID": ""
-            },
-            {
-                "REGISTRATIONNO": "A45B0954",
-                "FACILITYNAME": "來發貨運交通有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "21-101-070038",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/07\/03",
-                "TRANSGRESSDATE": "2012\/03\/19",
-                "TRANSGRESSLAW": "空氣污染防制法第34條第1項",
-                "PENALTYMONEY": 5000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "來發貨運交通有限公司",
-                "TRANSGRESSCONTROLID": "A45097002594"
             }
         ]
     }

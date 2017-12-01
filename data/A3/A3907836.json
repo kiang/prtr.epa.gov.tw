@@ -5,53 +5,40 @@
         "管制編號": "A3907836",
         "行業別": "石油化工原料製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.522797906632",
         "latitude": "25.0530031084957",
         "name": "三福氣體股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3907836",
                 "FACILITYNAME": "三福氣體股份有限公司",
-                "COUNTY": "臺南市",
-                "COUNTYCODE": "32",
-                "DOCUMENTNO": "40-101-080007",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/08\/10",
-                "TRANSGRESSDATE": "2012\/07\/02",
+                "COUNTY": "新竹縣",
+                "COUNTYCODE": "11",
+                "DOCUMENTNO": "40-106-010023",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/19",
+                "TRANSGRESSDATE": "2016\/02\/05",
                 "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
                 "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
+                "UPDATETIME": "2017\/11\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "三福氣體股份有限公司南科廠",
-                "TRANSGRESSCONTROLID": "R9001631"
+                "TRANSGRESSNAME": "三福氣體股份有限公司竹北廠",
+                "TRANSGRESSCONTROLID": "J5500642"
             }
         ]
     }

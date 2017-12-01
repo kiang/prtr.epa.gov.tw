@@ -5,34 +5,41 @@
         "管制編號": "C15A1840",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.724556086861",
         "latitude": "25.1259070173566",
         "name": "良弘實業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "C15A1840",
+                "FACILITYNAME": "良弘實業有限公司",
+                "COUNTY": "基隆市",
+                "COUNTYCODE": "3",
+                "DOCUMENTNO": "44-105-120003",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/06",
+                "TRANSGRESSDATE": "2016\/11\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第31條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/01\/13 01:00",
+                "IMPROVEDEADLINE": "2016-12-23",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "良弘實業有限公司",
+                "TRANSGRESSCONTROLID": "C15A1840"
+            }
         ]
     }
 }

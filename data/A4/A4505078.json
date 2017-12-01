@@ -5,33 +5,41 @@
         "管制編號": "A4505078",
         "行業別": "公用事業設施工程業(公用事業設施工程業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.564062503858",
         "latitude": "25.0274049266443",
         "name": "雅克環保有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A4505078",
+                "FACILITYNAME": "雅克環保有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-120028",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/05",
+                "TRANSGRESSDATE": "2016\/11\/30",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第3條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/02\/08 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "雅克環保有限公司",
+                "TRANSGRESSCONTROLID": "A4505078"
+            },
             {
                 "REGISTRATIONNO": "A4505078",
                 "FACILITYNAME": "雅克環保有限公司",

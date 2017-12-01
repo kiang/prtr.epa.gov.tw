@@ -5,33 +5,41 @@
         "管制編號": "B23A4687",
         "行業別": "飲料店業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.654927766489",
         "latitude": "24.1568381845261",
         "name": "東興振業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "B23A4687",
+                "FACILITYNAME": "東興振業股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "34-106-080002",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/09\/04",
+                "TRANSGRESSDATE": "2017\/08\/10",
+                "TRANSGRESSLAW": "毒性化學物質管理法第11條第1項",
+                "PENALTYMONEY": 66000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/10\/04 01:01",
+                "IMPROVEDEADLINE": "2017-09-30",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "東興振業股份有限公司",
+                "TRANSGRESSCONTROLID": "B23A4687"
+            },
             {
                 "REGISTRATIONNO": "B23A4687",
                 "FACILITYNAME": "東興振業股份有限公司",
@@ -49,27 +57,6 @@
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/12\/05 01:01",
                 "IMPROVEDEADLINE": "2015-11-17",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "東興振業股份有限公司",
-                "TRANSGRESSCONTROLID": "B23A4687"
-            },
-            {
-                "REGISTRATIONNO": "B23A4687",
-                "FACILITYNAME": "東興振業股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "34-101-080001",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/08\/13",
-                "TRANSGRESSDATE": "2011\/01\/01",
-                "TRANSGRESSLAW": "毒性化學物質管理法第7條第4項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-07-08",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "東興振業股份有限公司",
                 "TRANSGRESSCONTROLID": "B23A4687"

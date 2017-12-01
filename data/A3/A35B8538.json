@@ -5,33 +5,41 @@
         "管制編號": "A35B8538",
         "行業別": "暫無分類",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "0",
         "latitude": "0",
         "name": "大佑祥開發事業股份有限公司-臺灣省農會台北大樓新建工程103建字第0208號"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A39097006238",
+                "FACILITYNAME": "大佑祥開發事業股份有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "22-105-100111",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/13",
+                "TRANSGRESSDATE": "2016\/09\/13",
+                "TRANSGRESSLAW": "噪音管制法第9條第1項第4款，噪音管制標準第6條",
+                "PENALTYMONEY": 18000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/12\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "大佑祥開發事業股份有限公司-臺灣省農會台北大樓新建工程103建字第0208號",
+                "TRANSGRESSCONTROLID": "A35B8538"
+            },
             {
                 "REGISTRATIONNO": "F05097006551",
                 "FACILITYNAME": "寬成營造有限公司",

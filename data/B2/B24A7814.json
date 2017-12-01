@@ -5,8 +5,7 @@
         "管制編號": "B24A7814",
         "行業別": "機械設備租賃業",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.599472364331",
         "latitude": "24.146782825545",
@@ -743,43 +742,11 @@
                 "EMIITEM4": 0
             }
         ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "B24A7814",
-                "FACILITYNAME": "合濟工業股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "23-100-110004",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/11\/04",
-                "TRANSGRESSDATE": "2011\/10\/06",
-                "TRANSGRESSLAW": "空氣污染防制法第23條第2項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "2011-11-10",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "瑞助營造股份有限公司-合濟工業股份有限公司廠房新建工程",
-                "TRANSGRESSCONTROLID": "B24B0439"
-            }
-        ]
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

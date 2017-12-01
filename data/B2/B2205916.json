@@ -1,38 +1,45 @@
 {
     "info": {
-        "地址": "臺中市北區太原南二街１７７號",
+        "地址": "臺中市北區明德里太原南二街１７７號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "B2205916",
-        "行業別": "廢棄物清除業",
+        "行業別": "廢棄物處理業(無害廢棄物處理業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.668819417833",
         "latitude": "24.1640048720682",
         "name": "泗泰企業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "B2205916",
+                "FACILITYNAME": "泗泰企業有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "21-103-110206",
+                "PENALTYYEAR": "2014",
+                "PENALTYDATE": "2014\/11\/17",
+                "TRANSGRESSDATE": "2014\/10\/08",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "是",
+                "PETITIONAGENCY": "地方審議機關",
+                "PETITIONRESULTS": "訴願駁回",
+                "APPEALRESCIND": "自行撤銷",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "泗泰企業有限公司",
+                "TRANSGRESSCONTROLID": "B22097008887"
+            }
         ]
     }
 }

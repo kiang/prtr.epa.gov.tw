@@ -3,13 +3,12 @@
         "地址": "臺中市南屯區工業區二十三路３３號",
         "所屬工業區": "無特定工業區",
         "管制編號": "B24A8040",
-        "行業別": "橡膠製品製造業",
+        "行業別": "塑膠製品製造業(其他塑膠製品製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
-        "longitude": "120.603733354799",
-        "latitude": "24.1576933052603",
+        "longitude": "120.603732985346",
+        "latitude": "24.1576850167562",
         "name": "大業橡膠股份有限公司"
     },
     "reports": {
@@ -883,23 +882,33 @@
                 "EMIITEM4": null
             }
         ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "B24A8040",
+                "FACILITYNAME": "大業橡膠股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-106-100016",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/13",
+                "TRANSGRESSDATE": "2017\/09\/18",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第1項，空氣污染防制法第24條第2項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "大業橡膠股份有限公司",
+                "TRANSGRESSCONTROLID": "B24A8040"
+            }
         ]
     }
 }

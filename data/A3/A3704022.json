@@ -5,33 +5,41 @@
         "管制編號": "A3704022",
         "行業別": "塑膠製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.498024028292",
         "latitude": "25.031264018025",
         "name": "大洋塑膠工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A3704022",
+                "FACILITYNAME": "大洋塑膠工業股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "32-106-010003",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/09",
+                "TRANSGRESSDATE": "2016\/12\/23",
+                "TRANSGRESSLAW": "土壤及地下水污染整治法第17條第3項",
+                "PENALTYMONEY": 150000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/03\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "大洋塑膠工業股份有限公司",
+                "TRANSGRESSCONTROLID": "A3704022"
+            },
             {
                 "REGISTRATIONNO": "A3704022",
                 "FACILITYNAME": "大洋塑膠工業股份有限公司",

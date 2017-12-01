@@ -5,33 +5,62 @@
         "管制編號": "A36B0064",
         "行業別": "化學材料及其製品批發業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.532484592582",
         "latitude": "25.0427464591325",
         "name": "萊富生命科技股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A36B0064",
+                "FACILITYNAME": "萊富生命科技股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "34-106-070002",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/07\/07",
+                "TRANSGRESSDATE": "2017\/05\/31",
+                "TRANSGRESSLAW": "毒性化學物質管理法第22條第1項，毒性化學物質運送管理辦法第2條第1項第3款",
+                "PENALTYMONEY": 120000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/08\/04 01:01",
+                "IMPROVEDEADLINE": "2017-08-10",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "萊富生命科技股份有限公司",
+                "TRANSGRESSCONTROLID": "A36B0064"
+            },
+            {
+                "REGISTRATIONNO": "A36B0064",
+                "FACILITYNAME": "萊富生命科技股份有限公司",
+                "COUNTY": "桃園市",
+                "COUNTYCODE": "10",
+                "DOCUMENTNO": "34-105-110001",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/11\/09",
+                "TRANSGRESSDATE": "2016\/09\/29",
+                "TRANSGRESSLAW": "毒性化學物質管理法第22條第3項，毒性化學物質運送管理辦法第2條第1項第3款，毒性化學物質管理法第22條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/01\/13 01:00",
+                "IMPROVEDEADLINE": "2016-12-10",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "萊富生命科技股份有限公司",
+                "TRANSGRESSCONTROLID": "A36B0064"
+            },
             {
                 "REGISTRATIONNO": "A36B0064",
                 "FACILITYNAME": "萊富生命科技股份有限公司",

@@ -1,38 +1,38 @@
 {
     "info": {
-        "地址": "臺中市南屯區寶山里工業區二十三路１９號",
-        "所屬工業區": "無特定工業區",
-        "管制編號": "B2408515",
-        "行業別": "藥品及醫用化學製品製造業(西藥製造業)",
-        "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "longitude": "120.604872115335",
-        "latitude": "24.160446909237",
+        "longitude": null,
+        "latitude": null,
         "name": "富生化學製藥股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "B2408515",
+                "FACILITYNAME": "富生醫藥生技股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "34-106-090003",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/09\/18",
+                "TRANSGRESSDATE": "2017\/06\/13",
+                "TRANSGRESSLAW": "毒性化學物質管理法第13條第4項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/10\/04 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "富生化學製藥股份有限公司",
+                "TRANSGRESSCONTROLID": "B2408515"
+            }
         ]
     }
 }

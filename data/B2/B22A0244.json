@@ -5,21 +5,198 @@
         "管制編號": "B22A0244",
         "行業別": "其他專業、科學及技術服務業(攝影業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.681097901781",
         "latitude": "24.1582988168312",
         "name": "喜徠店彩色世界"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.18",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.80",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.98",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.62",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.26",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.64",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "3",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.98",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/07\/05 09:02",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.26",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.08",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.98",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.80",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.62",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.72",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "B22A0244",
                 "EMIYEAR": "2016",
@@ -28,9 +205,9 @@
                 "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "1.26",
+                "EMIITEMVALUE": "1.98",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -44,7 +221,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.62",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -58,7 +235,21 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.26",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:11",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "2.16",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -72,7 +263,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -86,7 +277,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.52",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -100,7 +291,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.80",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -114,7 +305,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.16",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +319,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.98",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -142,7 +333,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.34",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2017\/01\/28 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -156,7 +347,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.58",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/01\/28 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -170,7 +361,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.70",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:01",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -184,7 +375,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.89",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:03",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -198,7 +389,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.92",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -212,7 +403,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.98",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -226,7 +417,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.16",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -240,7 +431,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.62",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -254,7 +445,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.98",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -268,7 +459,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.44",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/06\/02 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -282,7 +473,21 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.16",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "10",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.44",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -296,7 +501,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.34",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -310,7 +515,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "3.06",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -324,7 +529,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.88",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -338,7 +543,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "3.06",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -352,7 +557,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.16",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -366,7 +571,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "3.08",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -380,7 +585,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.66",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -394,7 +599,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.50",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -408,7 +613,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "3.30",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -422,7 +627,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.6460",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -436,7 +641,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.74",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -450,7 +655,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "3.05",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -464,7 +669,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.46",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -478,7 +683,21 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "4.4830",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "7",
+                "EMIITEMID": "C-0108",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版廢顯影液以外廢液)",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "3.04",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -492,7 +711,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.53",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -506,7 +725,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "2.8060",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -520,7 +739,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.84",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -534,7 +753,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "3.0130",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -548,7 +767,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.61",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -562,7 +781,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "3.2580",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -576,7 +795,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -590,7 +809,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -604,7 +823,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "2.56",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -618,7 +837,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "2.48",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -632,7 +851,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "2.12",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -646,7 +865,7 @@
                 "CLEANNAME": "將廢棄物作為再利用之原料使用",
                 "EMIITEMVALUE": "1.4260",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -660,7 +879,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "3.1050",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -674,7 +893,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.8740",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -688,9 +907,37 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.2070",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "4",
+                "EMIITEMID": "C-0107",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版之廢顯影液)",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.23",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/29 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "B22A0244",
+                "EMIYEAR": "2012",
+                "EMIMONTH": "3",
+                "EMIITEMID": "C-0107",
+                "EMIITEMNAME": "銀及其化合物(總銀)(僅限攝影沖洗及照相製版之廢顯影液)",
+                "CLEANCODE": "R02",
+                "CLEANNAME": "將廢棄物作為再利用之原料使用",
+                "EMIITEMVALUE": "0.1360",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2016\/12\/25 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "B22A0244",
@@ -702,7 +949,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.3450",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -716,7 +963,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.3450",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -730,7 +977,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.46",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -744,7 +991,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.46",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -758,7 +1005,7 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.46",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -772,22 +1019,14 @@
                 "CLEANNAME": "熱處理（除焚化處理外）",
                 "EMIITEMVALUE": "0.46",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

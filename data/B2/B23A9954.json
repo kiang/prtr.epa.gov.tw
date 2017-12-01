@@ -1,38 +1,45 @@
 {
     "info": {
         "地址": "臺中市西屯區安林路５３之２號",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "B23A9954",
-        "行業別": "人造纖維製造業",
+        "行業別": "水泥及其製品製造業(水泥製品製造業)",
         "列管類別": "空氣污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
-        "longitude": "120.624623119344",
-        "latitude": "24.2011000866936",
+        "longitude": "120.62462298756",
+        "latitude": "24.2010920168441",
         "name": "逢甲實業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "B24097011564",
+                "FACILITYNAME": "逢甲實業有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "20-106-080027",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/08\/15",
+                "TRANSGRESSDATE": "2017\/07\/10",
+                "TRANSGRESSLAW": "空氣污染防制法第24條第2項，空氣污染防制法第24條第1項",
+                "PENALTYMONEY": 100000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/10\/04 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "逢甲實業有限公司",
+                "TRANSGRESSCONTROLID": "B23A9954"
+            }
         ]
     }
 }

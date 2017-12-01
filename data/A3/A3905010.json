@@ -5,32 +5,19 @@
         "管制編號": "A3905010",
         "行業別": "印刷及其輔助業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.533383740932",
         "latitude": "25.0611546763812",
         "name": "長春人造樹脂廠股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A3905010",
@@ -131,7 +118,7 @@
                 "PETITIONAGENCY": "行政院訴願會",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
+                "UPDATETIME": "2017\/11\/05 01:01",
                 "IMPROVEDEADLINE": "2014-05-30",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "長春人造樹脂廠股份有限公司  麥寮廠",
@@ -152,53 +139,11 @@
                 "PETITIONAGENCY": "行政院訴願會",
                 "PETITIONRESULTS": "訴願駁回",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
+                "UPDATETIME": "2017\/11\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "長春人造樹脂廠股份有限公司",
                 "TRANSGRESSCONTROLID": "A3905010"
-            },
-            {
-                "REGISTRATIONNO": "A3905010",
-                "FACILITYNAME": "長春人造樹脂廠股份有限公司",
-                "COUNTY": "雲林縣",
-                "COUNTYCODE": "16",
-                "DOCUMENTNO": "34-101-110003",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/11\/20",
-                "TRANSGRESSDATE": "2012\/07\/03",
-                "TRANSGRESSLAW": "毒性化學物質管理法第19條第2項，毒性化學物質應變器材及偵測與警報設備管理辦法第5條",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/06\/05 01:00",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "長春人造樹脂廠股份有限公司  麥寮廠",
-                "TRANSGRESSCONTROLID": "P5805271"
-            },
-            {
-                "REGISTRATIONNO": "A3905010",
-                "FACILITYNAME": "長春人造樹脂廠股份有限公司",
-                "COUNTY": "雲林縣",
-                "COUNTYCODE": "16",
-                "DOCUMENTNO": "34-101-100002",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/10\/30",
-                "TRANSGRESSDATE": "2012\/07\/03",
-                "TRANSGRESSLAW": "毒性化學物質管理法第17條第2項",
-                "PENALTYMONEY": 66000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "長春人造樹脂廠股份有限公司  麥寮廠",
-                "TRANSGRESSCONTROLID": "P5805271"
             }
         ]
     }

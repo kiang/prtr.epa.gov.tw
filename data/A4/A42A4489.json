@@ -1,37 +1,129 @@
 {
     "info": {
         "地址": "臺北市信義區松山路１３２號８樓之６",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "內湖工業區",
         "管制編號": "A42A4489",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.577588815665",
         "latitude": "25.0474956610443",
         "name": "裕勝環保科技有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A42A4489",
+                "FACILITYNAME": "裕勝環保科技有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-106-080016",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/08\/22",
+                "TRANSGRESSDATE": "2017\/08\/08",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕勝環保科技有限公司",
+                "TRANSGRESSCONTROLID": "A42A4489"
+            },
+            {
+                "REGISTRATIONNO": "A42A4489",
+                "FACILITYNAME": "裕勝環保科技有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-106-040006",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/04\/24",
+                "TRANSGRESSDATE": "2017\/04\/18",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第18條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/06\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕勝環保科技有限公司",
+                "TRANSGRESSCONTROLID": "A42A4489"
+            },
+            {
+                "REGISTRATIONNO": "A42A4489",
+                "FACILITYNAME": "裕勝環保科技有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-106-040154",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/04\/26",
+                "TRANSGRESSDATE": "2017\/04\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第3條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/06\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕勝環保科技有限公司",
+                "TRANSGRESSCONTROLID": "A42A4489"
+            },
+            {
+                "REGISTRATIONNO": "A42A4489",
+                "FACILITYNAME": "裕勝環保科技有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-106-020062",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/02\/21",
+                "TRANSGRESSDATE": "2017\/02\/17",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/04\/09 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕勝環保科技有限公司",
+                "TRANSGRESSCONTROLID": "A42A4489"
+            },
+            {
+                "REGISTRATIONNO": "A42A4489",
+                "FACILITYNAME": "裕勝環保科技有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-105-120005",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/12\/22",
+                "TRANSGRESSDATE": "2016\/12\/06",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第3款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/02\/08 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "裕勝環保科技有限公司",
+                "TRANSGRESSCONTROLID": "A42A4489"
+            },
             {
                 "REGISTRATIONNO": "A42A4489",
                 "FACILITYNAME": "裕勝環保科技有限公司",
@@ -115,27 +207,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "裕勝環保科技有限公司",
                 "TRANSGRESSCONTROLID": "A42A4489"
-            },
-            {
-                "REGISTRATIONNO": "A42A4489",
-                "FACILITYNAME": "裕勝環保科技有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-101-090002",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/09\/17",
-                "TRANSGRESSDATE": "2012\/09\/11",
-                "TRANSGRESSLAW": "廢棄物清理法第42條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
             }
         ]
     }

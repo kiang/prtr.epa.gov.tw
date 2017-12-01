@@ -1,78 +1,65 @@
 {
     "info": {
         "地址": "臺中市梧棲區頂寮里大仁路二段３５３巷６號８樓之１",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "B9101108",
-        "行業別": "其他礦業及土石採取業",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.534107576181",
         "latitude": "24.2632799109324",
         "name": "弘城營造股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "B9101108",
                 "FACILITYNAME": "弘城營造股份有限公司",
                 "COUNTY": "臺中市",
                 "COUNTYCODE": "31",
-                "DOCUMENTNO": "41-101-030243",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/03\/15",
-                "TRANSGRESSDATE": "2011\/12\/27",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-04-04",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "弘城營造股份有限公司-清水鎮15-1-2號（後段）道路工程",
-                "TRANSGRESSCONTROLID": "B89100000429"
-            },
-            {
-                "REGISTRATIONNO": "B9101108",
-                "FACILITYNAME": "弘城營造股份有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "41-101-010047",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/01\/05",
-                "TRANSGRESSDATE": "2011\/11\/22",
+                "DOCUMENTNO": "41-106-050243",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/05\/22",
+                "TRANSGRESSDATE": "2017\/04\/27",
                 "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
                 "PENALTYMONEY": 4500,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "2012-02-01",
+                "UPDATETIME": "2017\/06\/07 01:00",
+                "IMPROVEDEADLINE": "2017-04-28",
                 "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "弘城營造股份有限公司-清水鎮15-1-2號（後段）道路工程",
-                "TRANSGRESSCONTROLID": "B89100000429"
+                "TRANSGRESSNAME": "弘城營造股份有限公司",
+                "TRANSGRESSCONTROLID": "B9101108"
+            },
+            {
+                "REGISTRATIONNO": "B9101108",
+                "FACILITYNAME": "弘城營造股份有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "41-106-010089",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/09",
+                "TRANSGRESSDATE": "2016\/12\/12",
+                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
+                "PENALTYMONEY": 1200,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/02\/08 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "弘城營造股份有限公司",
+                "TRANSGRESSCONTROLID": "B9101108"
             }
         ]
     }

@@ -5,33 +5,41 @@
         "管制編號": "B22A5818",
         "行業別": "居住型照顧服務業(居住型護理照顧服務業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.666285991247",
         "latitude": "24.1538230167972",
         "name": "敦南真愛台中館產後護理之家"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "B22A5818",
+                "FACILITYNAME": "敦南真愛台中館產後護理之家",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "31-106-010001",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/01\/26",
+                "TRANSGRESSDATE": "2016\/08\/16",
+                "TRANSGRESSLAW": "飲用水管理條例第11條第1項",
+                "PENALTYMONEY": 60000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "撤銷並另立裁處書",
+                "UPDATETIME": "2017\/07\/05 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "敦南真愛台中館產後護理之家",
+                "TRANSGRESSCONTROLID": "B22A5818"
+            },
             {
                 "REGISTRATIONNO": "B22A5818",
                 "FACILITYNAME": "敦南真愛台中館產後護理之家",

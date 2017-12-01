@@ -1,79 +1,16 @@
 {
     "info": {
-        "地址": "基隆市安樂區基金一路１３１之２２號７樓",
-        "所屬工業區": "無特定工業區",
-        "管制編號": "C15A1068",
-        "行業別": "其他專門營造業",
-        "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "longitude": "121.712430355306",
-        "latitude": "25.1399363188266",
+        "longitude": null,
+        "latitude": null,
         "name": "一力衛生工程行"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "C15A1068",
-                "FACILITYNAME": "一力衛生工程行",
-                "COUNTY": "基隆市",
-                "COUNTYCODE": "3",
-                "DOCUMENTNO": "40-101-080004",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/08\/14",
-                "TRANSGRESSDATE": "2012\/07\/24",
-                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第3條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "一力衛生工程行",
-                "TRANSGRESSCONTROLID": "C15097003240"
-            },
-            {
-                "REGISTRATIONNO": "C15A1068",
-                "FACILITYNAME": "一力衛生工程行",
-                "COUNTY": "基隆市",
-                "COUNTYCODE": "3",
-                "DOCUMENTNO": "40-101-080003",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/08\/14",
-                "TRANSGRESSDATE": "2012\/07\/24",
-                "TRANSGRESSLAW": "事業廢棄物貯存清除處理方法及設施標準第6條第1項第2款，廢棄物清理法第36條",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "一力衛生工程行",
-                "TRANSGRESSCONTROLID": "C15097003240"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

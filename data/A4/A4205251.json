@@ -5,21 +5,170 @@
         "管制編號": "A4205251",
         "行業別": "資料儲存媒體製造業(資料儲存媒體製造業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.600136289733",
         "latitude": "25.060084192404",
         "name": "金卡代事業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
         "WAS": [
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "9",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.77",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "8",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.57",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/08 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "7",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.52",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/11\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "6",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.92",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2017",
+                "EMIMONTH": "5",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.56",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/10\/04 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "12",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "2",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "11",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.31",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/03\/10 09:01",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "10",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.41",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/24 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "9",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "8",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "1.65",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:24",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2016",
+                "EMIMONTH": "7",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.73",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/23 09:09",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
             {
                 "REGISTRATIONNO": "A4205251",
                 "EMIYEAR": "2016",
@@ -30,7 +179,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.21",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/08\/05 09:02",
+                "UPDATETIME": "2017\/02\/23 09:09",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -65,6 +214,20 @@
             {
                 "REGISTRATIONNO": "A4205251",
                 "EMIYEAR": "2016",
+                "EMIMONTH": "3",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.36",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/02\/22 09:13",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2016",
                 "EMIMONTH": "2",
                 "EMIITEMID": "E-0213",
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
@@ -72,7 +235,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.92",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:02",
+                "UPDATETIME": "2017\/02\/22 09:13",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -86,7 +249,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.51",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/07 09:00",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -100,7 +263,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.71",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:07",
+                "UPDATETIME": "2017\/02\/22 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -114,7 +277,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.38",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:04",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -128,7 +291,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.47",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/05\/05 09:00",
+                "UPDATETIME": "2017\/01\/29 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -142,7 +305,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.65",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/11\/23 09:02",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -156,7 +319,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/01\/28 09:14",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -170,7 +333,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.67",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:02",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -184,7 +347,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.61",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2016\/02\/27 09:00",
+                "UPDATETIME": "2017\/01\/28 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -198,7 +361,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.15",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/08\/11 09:02",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -212,7 +375,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.64",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/14 09:03",
+                "UPDATETIME": "2017\/01\/27 09:10",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -226,7 +389,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.56",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/17 09:10",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -240,7 +403,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.71",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:42",
+                "UPDATETIME": "2017\/01\/27 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -254,7 +417,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.49",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/07\/16 09:02",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -266,9 +429,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "1.0270",
+                "EMIITEMVALUE": "0.99",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/06\/02 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -280,9 +443,23 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.5780",
+                "EMIITEMVALUE": "0.48",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2015\/02\/23 09:00",
+                "UPDATETIME": "2017\/01\/26 09:12",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2014",
+                "EMIMONTH": "10",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.48",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/26 09:12",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -294,9 +471,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.7520",
+                "EMIITEMVALUE": "0.67",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -308,9 +485,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.4430",
+                "EMIITEMVALUE": "0.40",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:08",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -322,9 +499,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.9940",
+                "EMIITEMVALUE": "0.94",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/11\/28 11:47",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -338,7 +515,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.79",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/26 09:03",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -350,9 +527,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.7810",
+                "EMIITEMVALUE": "0.62",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -364,9 +541,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.5860",
+                "EMIITEMVALUE": "0.49",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/09\/03 01:00",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -378,9 +555,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "1.5910",
+                "EMIITEMVALUE": "2.07",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/25 09:02",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -392,9 +569,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.4030",
+                "EMIITEMVALUE": "0.35",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -406,9 +583,9 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.8640",
+                "EMIITEMVALUE": "0.77",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:03",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -422,7 +599,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.61",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/24 09:04",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -436,7 +613,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.7350",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -450,7 +627,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.7730",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2014\/06\/27 01:00",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -464,7 +641,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.5010",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:11",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -478,7 +655,21 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.6240",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "7",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.6550",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -492,7 +683,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.5470",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:07",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -506,7 +697,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.7470",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -520,21 +711,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.4670",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
-                "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
-            },
-            {
-                "REGISTRATIONNO": "A4205251",
-                "EMIYEAR": "2013",
-                "EMIMONTH": "3",
-                "EMIITEMID": "E-0213",
-                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
-                "CLEANCODE": "Z02",
-                "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "0.69",
-                "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -548,9 +725,23 @@
                 "CLEANNAME": "廢棄物採取基管會公告應回收管道",
                 "EMIITEMVALUE": "0.69",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/01\/23 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "撤銷"
+            },
+            {
+                "REGISTRATIONNO": "A4205251",
+                "EMIYEAR": "2013",
+                "EMIMONTH": "3",
+                "EMIITEMID": "E-0213",
+                "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
+                "CLEANCODE": "Z02",
+                "CLEANNAME": "化學處理",
+                "EMIITEMVALUE": "0.69",
+                "EMIITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/01\/23 09:00",
+                "RPT_TYPE": "WAS",
+                "EMISTATUS": "有效"
             },
             {
                 "REGISTRATIONNO": "A4205251",
@@ -562,7 +753,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.3260",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -576,7 +767,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.4710",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -590,7 +781,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.4320",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/31 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -604,7 +795,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.0260",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -618,7 +809,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.7340",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -632,7 +823,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.6410",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/30 09:01",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -646,7 +837,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.6470",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -660,7 +851,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.9060",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -674,7 +865,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.0660",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/29 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -688,7 +879,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.8560",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -702,7 +893,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "0.65",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -716,7 +907,7 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.0840",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/25 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             },
@@ -728,11 +919,11 @@
                 "EMIITEMNAME": "電鍍金屬廢塑膠（含光碟片）",
                 "CLEANCODE": "Z02",
                 "CLEANNAME": "化學處理",
-                "EMIITEMVALUE": "1.9810",
+                "EMIITEMVALUE": "1",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2017\/11\/04 09:01",
                 "RPT_TYPE": "WAS",
-                "EMISTATUS": "有效"
+                "EMISTATUS": "撤銷"
             },
             {
                 "REGISTRATIONNO": "A4205251",
@@ -744,22 +935,14 @@
                 "CLEANNAME": "化學處理",
                 "EMIITEMVALUE": "1.7820",
                 "EMIITEMUNIT": "公噸",
-                "UPDATETIME": "2013\/12\/24 15:26",
+                "UPDATETIME": "2016\/12\/24 09:00",
                 "RPT_TYPE": "WAS",
                 "EMISTATUS": "有效"
             }
         ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-
-        ]
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

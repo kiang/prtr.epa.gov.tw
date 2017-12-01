@@ -5,32 +5,90 @@
         "管制編號": "A38B2624",
         "行業別": "其他化學製品製造業(其他化學製品製造業)",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.519975255025",
         "latitude": "25.0525582833199",
         "name": "晉一化工股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
         "TOX": [
-
+            {
+                "REGISTRATIONNO": "A38B2624",
+                "QUARTER": "1",
+                "STARTDATE": "2017\/01\/01",
+                "ENDDATE": "2017\/03\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "16502               ",
+                "TOXICNAME": "壬基酚聚乙氧基醇",
+                "TOXICENGNAME": "Nonylphenol polyethylene glycol ether ",
+                "EMIVALUE": "0.54",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A38B2624",
+                "QUARTER": "4",
+                "STARTDATE": "2016\/10\/01",
+                "ENDDATE": "2016\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "16502               ",
+                "TOXICNAME": "壬基酚聚乙氧基醇",
+                "TOXICENGNAME": "Nonylphenol polyethylene glycol ether ",
+                "EMIVALUE": "0.1440",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A38B2624",
+                "QUARTER": "4",
+                "STARTDATE": "2016\/10\/01",
+                "ENDDATE": "2016\/12\/31",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "16502               ",
+                "TOXICNAME": "壬基酚聚乙氧基醇",
+                "TOXICENGNAME": "Nonylphenol polyethylene glycol ether ",
+                "EMIVALUE": "0.1440",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A38B2624",
+                "QUARTER": "3",
+                "STARTDATE": "2016\/07\/01",
+                "ENDDATE": "2016\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "16502               ",
+                "TOXICNAME": "壬基酚聚乙氧基醇",
+                "TOXICENGNAME": "Nonylphenol polyethylene glycol ether ",
+                "EMIVALUE": "1.6920",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            },
+            {
+                "REGISTRATIONNO": "A38B2624",
+                "QUARTER": "3",
+                "STARTDATE": "2016\/07\/01",
+                "ENDDATE": "2016\/09\/30",
+                "TOXICTYPE": "輸入                  ",
+                "EMIITEMID": "16502               ",
+                "TOXICNAME": "壬基酚聚乙氧基醇",
+                "TOXICENGNAME": "Nonylphenol polyethylene glycol ether ",
+                "EMIVALUE": "1.6920",
+                "ITEMUNIT": "公噸",
+                "UPDATETIME": "2017\/06\/08 17:16",
+                "RPT_TYPE": "TOX"
+            }
         ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A38B2624",

@@ -5,33 +5,41 @@
         "管制編號": "A34A8813",
         "行業別": "玻璃及其製品製造業",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.545143396479",
         "latitude": "25.0520016321427",
         "name": "台灣玻璃工業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A34A8813",
+                "FACILITYNAME": "台灣玻璃工業股份有限公司",
+                "COUNTY": "新竹市",
+                "COUNTYCODE": "4",
+                "DOCUMENTNO": "30-106-090002",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/09\/12",
+                "TRANSGRESSDATE": "2017\/05\/25",
+                "TRANSGRESSLAW": "水污染防治法第18條",
+                "PENALTYMONEY": 27000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "2017-05-25",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "台灣玻璃工業股份有限公司新竹廠",
+                "TRANSGRESSCONTROLID": "O1703351"
+            },
             {
                 "REGISTRATIONNO": "A34A8813",
                 "FACILITYNAME": "台灣玻璃工業股份有限公司",
@@ -47,7 +55,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
+                "UPDATETIME": "2016\/12\/06 01:00",
                 "IMPROVEDEADLINE": "2016-11-16",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "台灣玻璃工業股份有限公司新竹廠",
@@ -68,7 +76,7 @@
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
+                "UPDATETIME": "2016\/12\/06 01:00",
                 "IMPROVEDEADLINE": "2016-11-16",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "台灣玻璃工業股份有限公司新竹廠",
@@ -94,27 +102,6 @@
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "台灣玻璃工業股份有限公司台中廠",
                 "TRANSGRESSCONTROLID": "L9100198"
-            },
-            {
-                "REGISTRATIONNO": "A34A8813",
-                "FACILITYNAME": "台灣玻璃工業股份有限公司",
-                "COUNTY": "彰化縣",
-                "COUNTYCODE": "14",
-                "DOCUMENTNO": "40-101-030007",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/03\/22",
-                "TRANSGRESSDATE": "2012\/03\/05",
-                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
-                "PENALTYMONEY": 6000,
-                "ISPETITION": "是",
-                "PETITIONAGENCY": "地方審議機關",
-                "PETITIONRESULTS": "訴願駁回",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2016\/10\/05 01:00",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "台灣玻璃工業股份有限公司鹿港平板廠",
-                "TRANSGRESSCONTROLID": "N08A1098"
             }
         ]
     }

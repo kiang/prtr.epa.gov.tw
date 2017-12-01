@@ -1,37 +1,45 @@
 {
     "info": {
         "地址": "臺北市松山區撫遠街４３５號",
-        "所屬工業區": "無特定工業區",
+        "所屬工業區": "非屬工業區類",
         "管制編號": "A45A6292",
-        "行業別": "貨運承攬業",
+        "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.567973004361",
         "latitude": "25.0695911398963",
         "name": "旗美交通股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "A45A6292",
+                "FACILITYNAME": "旗美交通股份有限公司",
+                "COUNTY": "新北市",
+                "COUNTYCODE": "8",
+                "DOCUMENTNO": "21-106-100260",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/03",
+                "TRANSGRESSDATE": "2017\/08\/11",
+                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
+                "PENALTYMONEY": 5000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "旗美交通股份有限公司",
+                "TRANSGRESSCONTROLID": "A45A6292"
+            },
             {
                 "REGISTRATIONNO": "A45A6292",
                 "FACILITYNAME": "旗美交通股份有限公司",
@@ -195,48 +203,6 @@
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
                 "UPDATETIME": "2015\/11\/19 09:12",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "旗美交通股份有限公司",
-                "TRANSGRESSCONTROLID": "A45A6292"
-            },
-            {
-                "REGISTRATIONNO": "A45A6292",
-                "FACILITYNAME": "旗美交通股份有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "41-101-071688",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/07\/13",
-                "TRANSGRESSDATE": "2012\/07\/06",
-                "TRANSGRESSLAW": "廢棄物清理法第27條第2款",
-                "PENALTYMONEY": 1200,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "旗美交通股份有限公司",
-                "TRANSGRESSCONTROLID": "A45A6292"
-            },
-            {
-                "REGISTRATIONNO": "A45A6292",
-                "FACILITYNAME": "旗美交通股份有限公司",
-                "COUNTY": "新北市",
-                "COUNTYCODE": "8",
-                "DOCUMENTNO": "21-101-040089",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/04\/20",
-                "TRANSGRESSDATE": "2011\/11\/03",
-                "TRANSGRESSLAW": "空氣污染防制法第42條第1項",
-                "PENALTYMONEY": 60000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
                 "TRANSGRESSNAME": "旗美交通股份有限公司",

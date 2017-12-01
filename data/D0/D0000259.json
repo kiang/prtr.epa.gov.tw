@@ -5,17 +5,14 @@
         "管制編號": "D0000259",
         "行業別": "畜牧業(豬飼育業)",
         "列管類別": "水污染;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.1444958478",
         "latitude": "23.1292453131687",
         "name": "永泰畜牧場"
     },
     "reports": {
-        "AIR": [
-
-        ],
+        "AIR": [],
         "WAT": [
             {
                 "REGISTRATIONNO": "D0000259",
@@ -27,7 +24,39 @@
                 "EMIITEMNAME": "化學需氧量（mg\/L）",
                 "EMIITEMVALUE": "493",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/27 09:03",
+                "UPDATETIME": "2014\/09\/11 16:37",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "D0000259",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "1025",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "493",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/08\/29 21:00",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "D0000259",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "1025",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "化學需氧量（mg\/L）",
+                "EMIITEMVALUE": "493",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/26 16:36",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
@@ -43,7 +72,39 @@
                 "EMIITEMNAME": "懸浮固體物（mg\/L）",
                 "EMIITEMVALUE": "101",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/27 09:03",
+                "UPDATETIME": "2015\/03\/26 16:36",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "D0000259",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "1025",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "101",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/09\/11 16:37",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "D0000259",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "1025",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "懸浮固體物（mg\/L）",
+                "EMIITEMVALUE": "101",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/08\/29 21:00",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
@@ -59,7 +120,39 @@
                 "EMIITEMNAME": "生化需氧量（mg\/L）",
                 "EMIITEMVALUE": "69.80",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/27 09:03",
+                "UPDATETIME": "2014\/08\/29 21:00",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "D0000259",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "1025",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "69.80",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2015\/03\/26 16:36",
+                "RPT_TYPE": "WAT",
+                "TWD97LON": null,
+                "TWD97LAT": null,
+                "LOCQUALITY": null
+            },
+            {
+                "REGISTRATIONNO": "D0000259",
+                "DISCHARGENO": "D01  ",
+                "EMISTARTDATE": "2014\/01\/01",
+                "EMIENDDATE": "2014\/06\/30",
+                "EMIWATER": "1025",
+                "EMIWATERITEMUNIT": "立方公尺\/申報區間",
+                "EMIITEMNAME": "生化需氧量（mg\/L）",
+                "EMIITEMVALUE": "69.80",
+                "EMIITEMUNIT": "mg\/l",
+                "UPDATETIME": "2014\/09\/11 16:37",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
@@ -75,7 +168,7 @@
                 "EMIITEMNAME": "化學需氧量（mg\/L）",
                 "EMIITEMVALUE": "417",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/26 14:17",
+                "UPDATETIME": "2014\/06\/30 21:00",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
@@ -91,7 +184,7 @@
                 "EMIITEMNAME": "懸浮固體物（mg\/L）",
                 "EMIITEMVALUE": "92",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/26 14:17",
+                "UPDATETIME": "2014\/06\/30 21:00",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
@@ -107,27 +200,39 @@
                 "EMIITEMNAME": "生化需氧量（mg\/L）",
                 "EMIITEMVALUE": "64",
                 "EMIITEMUNIT": "mg\/l",
-                "UPDATETIME": "2015\/03\/26 14:17",
+                "UPDATETIME": "2014\/06\/30 21:00",
                 "RPT_TYPE": "WAT",
                 "TWD97LON": null,
                 "TWD97LAT": null,
                 "LOCQUALITY": null
             }
         ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
-
+            {
+                "REGISTRATIONNO": "D0000259",
+                "FACILITYNAME": "永泰畜牧場",
+                "COUNTY": "臺南市",
+                "COUNTYCODE": "32",
+                "DOCUMENTNO": "30-106-030017",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/03\/31",
+                "TRANSGRESSDATE": "2017\/02\/08",
+                "TRANSGRESSLAW": "水污染防治法第7條第1項，放流水標準第2條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "2017-04-28",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "永泰畜牧場",
+                "TRANSGRESSCONTROLID": "D0000259"
+            }
         ]
     }
 }

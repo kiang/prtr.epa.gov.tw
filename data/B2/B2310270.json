@@ -1,58 +1,16 @@
 {
     "info": {
-        "地址": "臺中市西屯區西林巷５號之１９",
-        "所屬工業區": "無特定工業區",
-        "管制編號": "B2310270",
-        "行業別": "其他基本金屬製造業",
-        "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
-        "更新頻率": "每日",
-        "longitude": "120.635375987954",
-        "latitude": "24.1879390027264",
+        "longitude": null,
+        "latitude": null,
         "name": "籌春實業有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "B2310270",
-                "FACILITYNAME": "籌春實業有限公司",
-                "COUNTY": "臺中市",
-                "COUNTYCODE": "31",
-                "DOCUMENTNO": "30-100-090009",
-                "PENALTYYEAR": "2011",
-                "PENALTYDATE": "2011\/10\/20",
-                "TRANSGRESSDATE": "2011\/07\/25",
-                "TRANSGRESSLAW": "水污染防治法第14條第1項",
-                "PENALTYMONEY": 160000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:09",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "籌春實業有限公司",
-                "TRANSGRESSCONTROLID": "B2310270"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

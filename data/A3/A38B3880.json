@@ -5,54 +5,19 @@
         "管制編號": "A38B3880",
         "行業別": "國際組織及外國機構",
         "列管類別": "毒性化學物質;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.513886437786",
         "latitude": "25.055435989872",
         "name": "綠霖實業股份有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
-        "PENALTY": [
-            {
-                "REGISTRATIONNO": "A38B3880",
-                "FACILITYNAME": "綠霖實業股份有限公司",
-                "COUNTY": "臺北市",
-                "COUNTYCODE": "1",
-                "DOCUMENTNO": "34-101-050003",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/05\/18",
-                "TRANSGRESSDATE": "2012\/04\/07",
-                "TRANSGRESSLAW": "毒性化學物質管理法施行細則第4條第2項，毒性化學物質管理法第7條第4項",
-                "PENALTYMONEY": 100000,
-                "ISPETITION": "否",
-                "PETITIONAGENCY": "",
-                "PETITIONRESULTS": "",
-                "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
-                "IMPROVEDEADLINE": "",
-                "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "綠霖實業股份有限公司",
-                "TRANSGRESSCONTROLID": "A38097011881"
-            }
-        ]
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
+        "PENALTY": []
     }
 }

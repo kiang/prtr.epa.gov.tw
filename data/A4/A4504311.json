@@ -5,53 +5,103 @@
         "管制編號": "A4504311",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "121.572150926582",
         "latitude": "25.0437426709902",
         "name": "喆昶工程有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
             {
                 "REGISTRATIONNO": "A4504311",
-                "FACILITYNAME": "?昶工程有限公司",
+                "FACILITYNAME": "喆昶工程有限公司",
                 "COUNTY": "臺北市",
                 "COUNTYCODE": "1",
-                "DOCUMENTNO": "44-101-040003",
-                "PENALTYYEAR": "2012",
-                "PENALTYDATE": "2012\/04\/12",
-                "TRANSGRESSDATE": "2012\/04\/03",
-                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第22條",
+                "DOCUMENTNO": "44-106-100015",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/10\/23",
+                "TRANSGRESSDATE": "2017\/09\/26",
+                "TRANSGRESSLAW": "廢棄物清理法第42條，公民營廢棄物清除處理機構許可管理辦法第16條第1項第3款",
                 "PENALTYMONEY": 6000,
                 "ISPETITION": "否",
                 "PETITIONAGENCY": "",
                 "PETITIONRESULTS": "",
                 "APPEALRESCIND": "",
-                "UPDATETIME": "2015\/11\/19 09:11",
+                "UPDATETIME": "2017\/11\/05 01:01",
                 "IMPROVEDEADLINE": "",
                 "INSPECTIONCONDITION": "",
-                "TRANSGRESSNAME": "",
-                "TRANSGRESSCONTROLID": ""
+                "TRANSGRESSNAME": "喆昶工程有限公司",
+                "TRANSGRESSCONTROLID": "A4504311"
+            },
+            {
+                "REGISTRATIONNO": "A4504311",
+                "FACILITYNAME": "喆昶工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "44-106-090010",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/09\/13",
+                "TRANSGRESSDATE": "2017\/09\/05",
+                "TRANSGRESSLAW": "廢棄物清理法第31條第1項第2款",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/11\/05 01:01",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "喆昶工程有限公司",
+                "TRANSGRESSCONTROLID": "A4504311"
+            },
+            {
+                "REGISTRATIONNO": "A4504311",
+                "FACILITYNAME": "?昶工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-100079",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/19",
+                "TRANSGRESSDATE": "2016\/10\/05",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第3條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/12\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "吉吉昶工程有限公司",
+                "TRANSGRESSCONTROLID": "A4504311"
+            },
+            {
+                "REGISTRATIONNO": "A4504311",
+                "FACILITYNAME": "?昶工程有限公司",
+                "COUNTY": "臺北市",
+                "COUNTYCODE": "1",
+                "DOCUMENTNO": "40-105-100080",
+                "PENALTYYEAR": "2016",
+                "PENALTYDATE": "2016\/10\/19",
+                "TRANSGRESSDATE": "2016\/10\/05",
+                "TRANSGRESSLAW": "廢棄物清理法第36條第1項，事業廢棄物貯存清除處理方法及設施標準第3條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2016\/12\/06 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "吉吉昶工程有限公司",
+                "TRANSGRESSCONTROLID": "A4504311"
             }
         ]
     }

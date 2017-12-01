@@ -1,37 +1,45 @@
 {
     "info": {
-        "地址": "臺中市北屯區崇德二路二段１２之８號",
+        "地址": "臺中市北屯區崇德二路二段１２之８號１樓",
         "所屬工業區": "無特定工業區",
         "管制編號": "B2506598",
         "行業別": "廢棄物清除業(無害廢棄物清除業)",
         "列管類別": "廢棄物;",
-        "最新資料匯入日期": "2016\/10\/07",
-        "資料來源": "廢棄物管理處(環境保護許可管理資訊系統)",
+        "最新資料匯入日期": "2017\/12\/01",
         "更新頻率": "每日",
         "longitude": "120.690104559818",
         "latitude": "24.1775019928408",
         "name": "日福環保有限公司"
     },
     "reports": {
-        "AIR": [
-
-        ],
-        "WAT": [
-
-        ],
-        "WAS": [
-
-        ],
-        "TOX": [
-
-        ],
-        "METAL": [
-
-        ],
-        "GREENHOUSE": [
-
-        ],
+        "AIR": [],
+        "WAT": [],
+        "WAS": [],
+        "TOX": [],
+        "METAL": [],
+        "GREENHOUSE": [],
         "PENALTY": [
+            {
+                "REGISTRATIONNO": "B2506598",
+                "FACILITYNAME": "日福環保有限公司",
+                "COUNTY": "臺中市",
+                "COUNTYCODE": "31",
+                "DOCUMENTNO": "41-106-050063",
+                "PENALTYYEAR": "2017",
+                "PENALTYDATE": "2017\/05\/04",
+                "TRANSGRESSDATE": "2017\/03\/01",
+                "TRANSGRESSLAW": "廢棄物清理法第42條",
+                "PENALTYMONEY": 6000,
+                "ISPETITION": "否",
+                "PETITIONAGENCY": "",
+                "PETITIONRESULTS": "",
+                "APPEALRESCIND": "",
+                "UPDATETIME": "2017\/06\/07 01:00",
+                "IMPROVEDEADLINE": "",
+                "INSPECTIONCONDITION": "",
+                "TRANSGRESSNAME": "日福環保有限公司",
+                "TRANSGRESSCONTROLID": "B2506598"
+            },
             {
                 "REGISTRATIONNO": "B2506598",
                 "FACILITYNAME": "日福環保有限公司",
